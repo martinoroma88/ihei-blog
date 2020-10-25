@@ -15,3 +15,12 @@ export default {
     }
 }
 </script>
+
+<style>
+.nuxt-content img {
+    @apply object-contain w-full max-h-screen bg-gray-200 rounded;
+    @screen lg {
+        @apply p-3;
+    }
+}
+</style>

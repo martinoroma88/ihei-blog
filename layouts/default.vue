@@ -1,16 +1,16 @@
 <template>
-  <div class="prose">
-    <div class="container mx-auto p-4">
-      <Nuxt />
-    </div>
+  <div class="mx-auto p-4 prose">
+    <Nuxt />
   </div>
 </template>
 
 <style>
 body, html {
-  font-size: 115%;
+  font-size: 125%;
 }
+
 .prose {
-  max-width: none;
+  @apply text-gray-800;
 }
+
 </style>

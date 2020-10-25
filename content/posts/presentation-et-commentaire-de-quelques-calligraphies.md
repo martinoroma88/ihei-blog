@@ -5,30 +5,22 @@ categories:
 auteur: "Abd-al-Wadoud Yahya Gouraud"
 ---
 
-<div class="lg:flex">
-<div class="lg:w-1/3">
-    <img alt="calligraphie arabe 01" src="https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-01_rof1zv.jpg" />
-</div>
-<div class="lg:w-2/3">
 
-## (1/1) « Dieu est la Lumière des Cieux et de la Terre » (Cor. 24 : 35)
+![calligraphie arabe 01](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-01_rof1zv.jpg)
+
+> (1/1) « Dieu est la Lumière des Cieux et de la Terre » (Cor. 24 : 35)
 
 Les hampes très allongées symbolisent la transcendance et l’unité de Dieu. Elles évoquent la descente de la parole divine des Cieux vers la Terre, sous la forme des lettres de la langue sacrée. Celles-ci font rayonner la lumière invisible de Dieu dans le monde. En même temps, on remarque la présence de flèches dirigées vers le haut, comme signes du retour à Dieu à partir de Sa parole.
 
-</div>
-</div>
-
-
-
 ![calligraphie arabe 02](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-02_eomkkm.jpg)
 
-(1/2) « Il n’y a pas de dieu si ce n’est Dieu »
+> (1/2) « Il n’y a pas de dieu si ce n’est Dieu »
 
 Il s’agit du témoignage de l’Unicité divine, que l’on voit ici combiné avec des motifs végétaux. Cette calligraphie symbolise la présence cachée de Dieu dans la création, qui la voile et la dévoile tout à la fois.
 
-![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-03_whdg1k.jpg)
+![calligraphie arabe 03](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-03_whdg1k.jpg)
 
-(1/3) « Dieu a été satisfait des croyants lorsqu’ils ont fait le pacte avec toi sous l’arbre, et Il a su ce qui était dans leurs cœurs. Il a fait descendre sur eux Sa présence de Paix (Sakîna), et les a affermis par une proche victoire » (Cor. 48 :18)
+> (1/3) « Dieu a été satisfait des croyants lorsqu’ils ont fait le pacte avec toi sous l’arbre, et Il a su ce qui était dans leurs cœurs. Il a fait descendre sur eux Sa présence de Paix (Sakîna), et les a affermis par une proche victoire » (Cor. 48 :18)
 
 À nouveau, les lettres se marient à des motifs végétaux. Cette calligraphie est particulière car le verset mentionne « l’arbre » sous lequel les croyants ont conclu le pacte avec le Prophète. Ce pacte s’appelle le « pacte de la Satisfaction divine », point de départ de la transmission initiatique dans le soufisme. La sobriété et la stabilité des lettres, mêlées à la fluidité et la légèreté des éléments végétaux, manifestent la présence apaisante de la Sakîna.
 L’ensemble de la calligraphie est comme une germination spirituelle qui évoque le déploiement de la création à partir de la Parole de Dieu.
