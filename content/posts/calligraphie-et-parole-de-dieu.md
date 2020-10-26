@@ -1,5 +1,6 @@
 ---
 titre: "Calligraphie et Parole de Dieu"
+date: "2020-09-01"
 categories: 
     - "Art et Islam"
 auteur: 

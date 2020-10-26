@@ -1,5 +1,6 @@
 ---
 titre: "Présentation et commentaire de quelques calligraphies"
+date: "2020-09-03"
 categories:
     - "Art et Islam"
 auteur: "Abd-al-Wadoud Yahya Gouraud"
@@ -8,29 +9,28 @@ auteur: "Abd-al-Wadoud Yahya Gouraud"
 
 ![calligraphie arabe 01](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-01_rof1zv.jpg)
 
-> (1/1) « Dieu est la Lumière des Cieux et de la Terre » (Cor. 24 : 35)
+>(1/1) « Dieu est la Lumière des Cieux et de la Terre » (Cor. 24 : 35)
 
 Les hampes très allongées symbolisent la transcendance et l’unité de Dieu. Elles évoquent la descente de la parole divine des Cieux vers la Terre, sous la forme des lettres de la langue sacrée. Celles-ci font rayonner la lumière invisible de Dieu dans le monde. En même temps, on remarque la présence de flèches dirigées vers le haut, comme signes du retour à Dieu à partir de Sa parole.
-
-![calligraphie arabe 02](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-02_eomkkm.jpg)
 
 > (1/2) « Il n’y a pas de dieu si ce n’est Dieu »
 
 Il s’agit du témoignage de l’Unicité divine, que l’on voit ici combiné avec des motifs végétaux. Cette calligraphie symbolise la présence cachée de Dieu dans la création, qui la voile et la dévoile tout à la fois.
-
-![calligraphie arabe 03](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-03_whdg1k.jpg)
 
 > (1/3) « Dieu a été satisfait des croyants lorsqu’ils ont fait le pacte avec toi sous l’arbre, et Il a su ce qui était dans leurs cœurs. Il a fait descendre sur eux Sa présence de Paix (Sakîna), et les a affermis par une proche victoire » (Cor. 48 :18)
 
 À nouveau, les lettres se marient à des motifs végétaux. Cette calligraphie est particulière car le verset mentionne « l’arbre » sous lequel les croyants ont conclu le pacte avec le Prophète. Ce pacte s’appelle le « pacte de la Satisfaction divine », point de départ de la transmission initiatique dans le soufisme. La sobriété et la stabilité des lettres, mêlées à la fluidité et la légèreté des éléments végétaux, manifestent la présence apaisante de la Sakîna.
 L’ensemble de la calligraphie est comme une germination spirituelle qui évoque le déploiement de la création à partir de la Parole de Dieu.
 
-(2/1-5) Différentes formes, en style kûfî « fleuri », de la formule « au nom de Dieu, le Tout-Miséricordieux, le Très-Miséricordieux », qui montrent la richesse des possibilités de représentation de la parole divine.
+> (2/1-5) Différentes formes, en style kûfî « fleuri », de la formule « au nom de Dieu, le Tout-Miséricordieux, le Très-Miséricordieux », qui montrent la richesse des possibilités de représentation de la parole divine.
 
 (3) Kûfî « géométrique »
-(3/1) Verset du Trône : « Dieu : Pas de dieu si ce n’est Lui, le Vivant, l’Immuable (Celui qui subsiste par Lui-même). Ni l’assoupissement ni le sommeil n’ont de prise sur Lui. Tout ce qui est dans les Cieux et sur la Terre Lui appartient. Qui intercèdera auprès de Lui sans Sa permission  ? Il sait ce qui se trouve derrière les hommes et ce qui est derrière eux, alors que ceux-ci n’embrassent de Sa science que ce qu’Il veut. Son Trône s’étend sur les Cieux et sur la Terre. Leur maintien dans l’existence ne lui est pas une charge. Il est le Très-Haut, l’Immense. » (Cor. 2 : 255)
+
+> (3/1) Verset du Trône : « Dieu : Pas de dieu si ce n’est Lui, le Vivant, l’Immuable (Celui qui subsiste par Lui-même). Ni l’assoupissement ni le sommeil n’ont de prise sur Lui. Tout ce qui est dans les Cieux et sur la Terre Lui appartient. Qui intercèdera auprès de Lui sans Sa permission  ? Il sait ce qui se trouve derrière les hommes et ce qui est derrière eux, alors que ceux-ci n’embrassent de Sa science que ce qu’Il veut. Son Trône s’étend sur les Cieux et sur la Terre. Leur maintien dans l’existence ne lui est pas une charge. Il est le Très-Haut, l’Immense. » (Cor. 2 : 255)
 
 Les formes statiques du style kûfî sont renforcées par la forme carrée de la composition. Celle-ci représente un labyrinthe, symbole du voyage spirituel de l’homme vers Dieu au cours de l’existence. A première vue, la calligraphie semble incohérente et discontinue. En réalité, elle a un sens de lecture, donné par la parole même de Dieu, un sens concentrique qui indique le retour de l’homme vers le Centre divin. La calligraphie allie stabilité extérieure et mouvement intérieur, manifestations des Noms divins cités dans le verset: « L’immuable » (al-Qayyûm) et le « Vivant » (al-Hayy).
+
+![calligraphie arabe 04](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-04_rpal4i.jpg)
 
 (3/2) « Dieu », en noir et en blanc
 Dans cette calligraphie, qui rappelle le symbolisme du tissage, il n’y a pas de vide, de même que rien de ce qui est ne saurait être hors de la Réalité divine absolue.

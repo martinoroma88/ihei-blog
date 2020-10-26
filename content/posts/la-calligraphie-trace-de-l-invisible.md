@@ -1,5 +1,6 @@
 ---
 titre: "La Calligraphie, trace del'Invisible"
+date: "2020-09-02"
 categories: 
     - "Art et Islam"
 ---

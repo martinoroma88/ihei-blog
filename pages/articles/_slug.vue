@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="content">
         <p><n-link to="/">Home</n-link></p>
         <h1>{{post.titre}}</h1>
         <nuxt-content :document="post" />
@@ -18,7 +18,7 @@ export default {
 
 <style>
 .nuxt-content img {
-    @apply object-contain w-full max-h-screen bg-gray-200 rounded;
+    @apply object-contain w-full h-64 bg-gray-100 rounded;
     @screen lg {
         @apply p-3;
     }
