@@ -45,7 +45,8 @@ export default {
       remarkPlugins: [
         ['remark-footnotes', { inlineNotes: true }]
       ]
-    }
+    },
+    //nestedProperties: ['categories.slug', 'categories.titre', "posts.categories"]
   },
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)

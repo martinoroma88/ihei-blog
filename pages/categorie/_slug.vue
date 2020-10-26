@@ -6,29 +6,49 @@
     <nuxt-content :document="categorie" />
 
     <!-- List of categories with three featured articles each -->
-    <!-- <section class="space-y-6">
-      <div v-for="p in posts" :key="p.slug">
-        <p v-if="p.url">
-          <span class="text-gray-600">{{$dateFns.format(new Date(p.date), 'dd/MM/yyyy')}}&nbsp;&nbsp;</span><br class="lg:hidden">
-          <a :href="p.url" target="_blank">{{p.titre}}</a>
-        </p>
+    <div class="lg:flex justify-between mt-10">
+      <!-- Categories Menu -->
+      <ul class="lg:order-last">
+        <li>
+          <n-link class="text-white hover:text-gray-600" to="/">
+            <arrow-right-icon class="inline transition duration-75" /> 
+            <span class="text-gray-900">Toutes les articles</span>
+          </n-link>
+        </li>
+        <li v-for="c in categories" :key="c.slug">
+          <div v-if="c.slug === categorie.slug" class="cursor-default font-bold">
+            <arrow-right-icon class="inline transition duration-75" />
+            <span>{{c.titre}}</span>
+          </div>
+          <n-link v-else class="text-white hover:text-gray-600" :to="'/categorie/'+c.slug">
+            <arrow-right-icon class="inline transition duration-75" /> 
+            <span class="text-gray-900">{{c.titre}}</span>
+          </n-link>
+        </li>
+      </ul>
 
-        <p v-else>
-          <span class="text-gray-600">{{$dateFns.format(new Date(p.date), 'dd/MM/yyyy')}}&nbsp;&nbsp;</span><br class="lg:hidden">
-          <n-link :to="'/articles/'+p.slug">{{p.titre}}</n-link>
-        </p>
-      </div> 
-    </section> -->
+      <!-- List of categories with three featured articles each -->
+      <section class="space-y-6 text-lg">
+        <div v-for="p in posts" :key="p.slug">
+          <div class="lg:flex">
+            <p class="text-gray-600 mr-6">{{$dateFns.format(new Date(p.date), 'dd/MM/yyyy')}}</p>
+            <p v-if="p.url"><a class="link" :href="p.url" target="_blank">{{p.titre}}</a></p>
+            <p v-else><n-link class="link" :to="'/articles/'+p.slug">{{p.titre}}</n-link></p>
+          </div>
+        </div> 
+      </section>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
     async asyncData({$content, params}) {
-        const categorie = await $content("categories").where({slug: params.slug}).fetch();
-        const posts = await $content("posts").where({categorie: {$in: [categorie.titre]}}).sortBy("date", "desc").fetch();
+        const categories = await $content("categories").fetch();
+        const categorie = categories.find(c => c.slug === params.slug);
+        const posts = await $content("posts").where({ categories: { $contains: categorie.titre } }).sortBy("date", "desc").fetch();
 
-        return { categorie: categorie[0], posts };
+        return { categories, categorie, posts };
     }
 }
 </script>

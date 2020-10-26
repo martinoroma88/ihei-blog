@@ -1,5 +1,6 @@
 <template>
-  <div class="mx-auto container p-4 text-gray-900 font-sans">
+  <div class="mx-auto container p-4 lg:px-16 text-gray-800 font-sans">
+    <Navbar />
     <Nuxt />
   </div>
 </template>
@@ -25,12 +26,12 @@ body, html {
   @apply border-t border-gray-300 w-16 block mx-auto my-4;
 }
 
-a {
+.link:hover {
   @apply underline;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  @apply font-bold leading-tight;
+  @apply font-bold leading-tight text-black;
 }
 
 h1 {
