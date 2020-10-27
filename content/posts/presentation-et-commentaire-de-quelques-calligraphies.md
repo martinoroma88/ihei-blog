@@ -6,10 +6,9 @@ categories:
 auteur: "Abd-al-Wadoud Yahya Gouraud"
 ---
 
-
 ![calligraphie arabe 01](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-01_rof1zv.jpg)
 
->(1/1) « Dieu est la Lumière des Cieux et de la Terre » (Cor. 24 : 35)
+> (1/1) « Dieu est la Lumière des Cieux et de la Terre » (Cor. 24 : 35)
 
 Les hampes très allongées symbolisent la transcendance et l’unité de Dieu. Elles évoquent la descente de la parole divine des Cieux vers la Terre, sous la forme des lettres de la langue sacrée. Celles-ci font rayonner la lumière invisible de Dieu dans le monde. En même temps, on remarque la présence de flèches dirigées vers le haut, comme signes du retour à Dieu à partir de Sa parole.
 
