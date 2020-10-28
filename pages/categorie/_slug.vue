@@ -1,55 +1,56 @@
 <template>
-  <div>
+	<div>
 
-    <h1>{{categorie.titre}}</h1>
+		<h1>{{categorie.titre}}</h1>
 
-    <nuxt-content :document="categorie" />
+		<nuxt-content :document="categorie" />
 
-    <!-- List of categories with three featured articles each -->
-    <div class="lg:flex justify-between mt-10">
-      <!-- Categories Menu -->
-      <ul class="lg:order-last">
-        <li>
-          <n-link class="text-white hover:text-gray-600" to="/">
-            <arrow-right-icon class="inline transition duration-75" /> 
-            <span class="text-gray-900">Toutes les articles</span>
-          </n-link>
-        </li>
-        <li v-for="c in categories" :key="c.slug">
-          <div v-if="c.slug === categorie.slug" class="cursor-default font-bold">
-            <arrow-right-icon class="inline transition duration-75" />
-            <span>{{c.titre}}</span>
-          </div>
-          <n-link v-else class="text-white hover:text-gray-600" :to="'/categorie/'+c.slug">
-            <arrow-right-icon class="inline transition duration-75" /> 
-            <span class="text-gray-900">{{c.titre}}</span>
-          </n-link>
-        </li>
-      </ul>
+		<!-- List of categories with three featured articles each -->
+		<div class="lg:flex justify-between mt-10">
+			<!-- Categories Menu -->
+			<ul class="lg:order-last">
+				<li>
+					<n-link class="text-white hover:text-gray-600" to="/">
+						<arrow-right-icon class="inline transition duration-75" /> 
+						<span class="text-gray-900">Toutes les articles</span>
+					</n-link>
+				</li>
+				<li v-for="c in categories" :key="c.slug">
+					<div v-if="c.slug === categorie.slug" class="cursor-default font-bold">
+						<arrow-right-icon class="inline transition duration-75" />
+						<span>{{c.titre}}</span>
+					</div>
+					<n-link v-else class="text-white hover:text-gray-600" :to="'/categorie/'+c.slug">
+						<arrow-right-icon class="inline transition duration-75" /> 
+						<span class="text-gray-900">{{c.titre}}</span>
+					</n-link>
+				</li>
+			</ul>
 
-      <!-- List of categories with three featured articles each -->
-      <section class="space-y-6 text-lg">
-        <div v-for="p in posts" :key="p.slug">
-          <div class="lg:flex">
-            <p class="text-gray-600 mr-6">{{$dateFns.format(new Date(p.date), 'dd/MM/yyyy')}}</p>
-            <p v-if="p.url"><a class="link" :href="p.url" target="_blank">{{p.titre}}</a></p>
-            <p v-else><n-link class="link" :to="'/articles/'+p.slug">{{p.titre}}</n-link></p>
-          </div>
-        </div> 
-      </section>
-    </div>
-  </div>
+			<!-- List of categories with three featured articles each -->
+			<section class="space-y-6 text-lg">
+				<div v-for="p in posts" :key="p.slug">
+					<div class="lg:flex">
+						<p class="text-gray-600 mr-6">{{$dateFns.format(new Date(p.date), 'dd/MM/yyyy')}}</p>
+						<p v-if="p.url"><a class="link" :href="p.url" target="_blank">{{p.titre}}</a></p>
+						<p v-else><n-link class="link" :to="'/articles/'+p.slug">{{p.titre}}</n-link></p>
+					</div>
+				</div> 
+			</section>
+		</div>
+		
+	</div>
 </template>
 
 <script>
 export default {
-    async asyncData({$content, params}) {
-        const categories = await $content("categories").fetch();
-        const categorie = categories.find(c => c.slug === params.slug);
-        const posts = await $content("posts").where({ categories: { $contains: categorie.titre } }).sortBy("date", "desc").fetch();
+		async asyncData({$content, params}) {
+				const categories = await $content("categories").fetch();
+				const categorie = categories.find(c => c.slug === params.slug);
+				const posts = await $content("posts").where({ categories: { $contains: categorie.titre } }).sortBy("date", "desc").fetch();
 
-        return { categories, categorie, posts };
-    }
+				return { categories, categorie, posts };
+		}
 }
 </script>
 
