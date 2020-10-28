@@ -44,13 +44,12 @@
 
 <script>
 export default {
-		async asyncData({$content, params}) {
-				const categories = await $content("categories").fetch();
-				const categorie = categories.find(c => c.slug === params.slug);
-				const posts = await $content("posts").where({ categories: { $contains: categorie.titre } }).sortBy("date", "desc").fetch();
+	async asyncData({$content, params}) {
+		const categories = await $content("categories").fetch();
+		const categorie = categories.find(c => c.slug === params.slug);
+		const posts = await $content("posts").where({ categories: { $contains: categorie.titre } }).sortBy("date", "desc").fetch();
 
-				return { categories, categorie, posts };
-		}
+		return { categories, categorie, posts };
+	}
 }
 </script>
-
