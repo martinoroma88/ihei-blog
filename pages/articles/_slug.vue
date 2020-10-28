@@ -1,8 +1,8 @@
 <template>
-	<div class="content">
+	<div>
 		<p><n-link to="/">Home</n-link></p>
 		<h1>{{post.titre}}</h1>
-		<nuxt-content :document="post" />
+		<nuxt-content class="prose" :document="post" />
 	</div>
 </template>
 
@@ -17,10 +17,7 @@
 </script>
 
 <style>
-	.nuxt-content img {
-		@apply object-contain w-full h-64 bg-gray-100 rounded;
-		@screen lg {
-			@apply p-3;
-		}
+	.prose {
+		max-width: none;
 	}
 </style>
