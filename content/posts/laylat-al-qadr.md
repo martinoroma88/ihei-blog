@@ -83,5 +83,3 @@ Il nous reste donc à prier avec espoir. Prier pour contempler la lumière du To
 *Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa‘fu ‘annâ*
  
 Mon Dieu, Tu es Indulgent, Pardonneur qui efface, Tu aimes le pardon, sois Indulgent avec nous et efface nos fautes.
-
-Abd-al-Wadoud Yahya Gouraud
