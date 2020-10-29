@@ -3,6 +3,8 @@ titre: "Bonnes fêtes de Pesach et de Pâques"
 date: "2020-09-01"
 categories: 
 	- "Dialogue interreligieux"
+souscategorie: 
+	- "dialogue-judéo-islamique"
 auteur: 
 	- "unkown"
 ---

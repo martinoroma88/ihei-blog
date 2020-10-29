@@ -1,9 +1,7 @@
 <template>
 	<div>
 
-		<h1>{{categoria.titre}}</h1>
-		<nuxt-content :document="categoria" />
-
+		<h1>{{souscategorie.titre}}</h1>
 		<!-- List of categories with three featured articles each -->
 		<div class="lg:flex justify-between mt-10">
 			<!-- Categories Menu -->
@@ -15,11 +13,15 @@
 					</n-link>
 				</li>
 				<li v-for="c in categories" :key="c.slug">
-					<div v-if="c.slug === categoria.slug" class="cursor-default font-bold">
+					<div v-if="c.slug === categorie.slug" class="cursor-default font-bold">
 						<arrow-right-icon class="inline transition duration-75" />
 						<span>{{c.titre}}</span>
-						<li v-for="(s, slug) in subcategories">
-							<n-link class="text-white hover:text-gray-600" :to="'/souscategorie/'+slug+'/'">
+						<li v-for="(s, slug) in categorie.souscategories">
+							<div v-if="s.titre === souscategorie.titre" class="cursor-default font-bold">
+								<arrow-right-icon class="inline transition duration-75" />
+								<span>{{s.titre}}</span>
+							</div>
+							<n-link v-else class="text-white hover:text-gray-600" :to="'/souscategorie/'+slug+'/'">
 								<arrow-right-icon class="inline transition duration-75" /> 
 								<span class="text-gray-900">{{s.titre}}</span>
 							</n-link>
@@ -43,7 +45,6 @@
 				</div> 
 			</section>
 		</div>
-		
 	</div>
 </template>
 
@@ -51,14 +52,10 @@
 	export default {
 		async asyncData({$content, params}) {
 			const categories = await $content("categories").fetch();
-			const categoria = categories.find(c => c.slug === params.slug);
-			var subcategories = categoria.souscategories;
-			if(typeof(subcategories) == 'undefined'){
-				subcategories = [];
-			}
-			const posts = await $content("posts").where({ categories: { $contains: categoria.titre } }).sortBy("date", "desc").fetch();
-
-			return { categories, categoria, subcategories, posts };
+			const categorie = categories.find(c => params.slug in c.souscategories);
+			const souscategorie = categorie.souscategories[params.slug];
+			const posts = await $content("posts").where({ souscategorie: { $contains: params.slug } }).sortBy("date", "desc").fetch();
+			return { categories, categorie, souscategorie, posts };
 		}
 	}
 </script>

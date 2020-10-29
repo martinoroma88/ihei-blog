@@ -3,6 +3,8 @@ titre: "Monothéisme abrahamique et fraternité spirituelle"
 date: "2020-09-01"
 categories: 
 	- "Dialogue interreligieux"
+souscategorie: 
+	- "dialogue-judéo-islamique"
 auteur: 
 	- "Abd al-Wadoud Yahya Gouraud"
 ---

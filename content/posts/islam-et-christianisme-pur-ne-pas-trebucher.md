@@ -3,6 +3,8 @@ titre: "Islam et Christianisme, pour ne pas trebucher"
 date: "2020-09-01"
 categories: 
 	- "Dialogue interreligieux"
+souscategorie: 
+	- "dialogue-islamo-chrétien"
 auteur: 
 	- "IHEI-COREIS"
 ---

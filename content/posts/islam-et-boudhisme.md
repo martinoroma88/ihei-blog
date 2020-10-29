@@ -3,6 +3,8 @@ titre: "Islam et Boudhisme"
 date: "2020-09-01"
 categories: 
 	- "Dialogue interreligieux"
+souscategorie: 
+	- "dialogue-avec-les-autres-traditions"
 auteur: 
 	- "AbdAllah Yahya Darolles"
 ---
