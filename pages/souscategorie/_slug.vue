@@ -52,7 +52,7 @@
 	export default {
 		async asyncData({$content, params}) {
 			const categories = await $content("categories").fetch();
-			const categorie = categories.find(c => params.slug in c.souscategories);
+			const categorie = categories.find(c => typeof(c.souscategories) != 'undefined' && params.slug in c.souscategories);
 			const souscategorie = categorie.souscategories[params.slug];
 			const posts = await $content("posts").where({ souscategorie: { $contains: params.slug } }).sortBy("date", "desc").fetch();
 			return { categories, categorie, souscategorie, posts };
