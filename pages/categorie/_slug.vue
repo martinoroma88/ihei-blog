@@ -1,49 +1,15 @@
 <template>
 	<div>
+		<h1>{{category.titre}}</h1>
+		<nuxt-content :document="category" />
 
-		<h1>{{categoria.titre}}</h1>
-		<nuxt-content :document="categoria" />
-
-		<!-- List of categories with three featured articles each -->
 		<div class="lg:flex justify-between mt-10">
-			<!-- Categories Menu -->
-			<ul class="lg:order-last">
-				<li>
-					<n-link class="text-white hover:text-gray-600" to="/">
-						<arrow-right-icon class="inline transition duration-75" /> 
-						<span class="text-gray-900">Toutes les articles</span>
-					</n-link>
-				</li>
-				<li v-for="c in categories" :key="c.slug">
-					<div v-if="c.slug === categoria.slug" class="cursor-default font-bold">
-						<arrow-right-icon class="inline transition duration-75" />
-						<span>{{c.titre}}</span>
-						<li v-for="(s, slug) in subcategories">
-							<n-link class="text-white hover:text-gray-600" :to="'/souscategorie/'+slug+'/'">
-								<arrow-right-icon class="inline transition duration-75" /> 
-								<span class="text-gray-900">{{s.titre}}</span>
-							</n-link>
-						</li>
-					</div>
-					<n-link v-else class="text-white hover:text-gray-600" :to="'/categorie/'+c.slug">
-						<arrow-right-icon class="inline transition duration-75" /> 
-						<span class="text-gray-900">{{c.titre}}</span>
-					</n-link>
-				</li>
-			</ul>
+			<!-- Categories -->
+			<Categories class="lg:w-1/4 lg:ml-6" :categories="categories" :category="category" />
 
-			<!-- List of categories with three featured articles each -->
-			<section class="space-y-6 text-lg">
-				<div v-for="p in posts" :key="p.slug">
-					<div class="lg:flex">
-						<p class="text-gray-600 mr-6">{{$dateFns.format(new Date(p.date), 'dd/MM/yyyy')}}</p>
-						<p v-if="p.url"><a class="link" :href="p.url" target="_blank">{{p.titre}}</a></p>
-						<p v-else><n-link class="link" :to="'/articles/'+p.slug">{{p.titre}}</n-link></p>
-					</div>
-				</div> 
-			</section>
+			<!-- Articles -->
+			<Articles class="lg:w-3/4" :posts="posts" />
 		</div>
-		
 	</div>
 </template>
 
@@ -51,14 +17,10 @@
 	export default {
 		async asyncData({$content, params}) {
 			const categories = await $content("categories").fetch();
-			const categoria = categories.find(c => c.slug === params.slug);
-			var subcategories = categoria.souscategories;
-			if(typeof(subcategories) == 'undefined'){
-				subcategories = [];
-			}
-			const posts = await $content("posts").where({ categories: { $contains: categoria.titre } }).sortBy("date", "desc").fetch();
+			const category = categories.find(c => c.slug === params.slug);
+			const posts = await $content("posts").where({ categories: { $contains: category.titre } }).sortBy("date", "desc").fetch();
 
-			return { categories, categoria, subcategories, posts };
+			return { categories, category, posts };
 		}
 	}
 </script>
