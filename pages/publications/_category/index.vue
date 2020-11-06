@@ -38,7 +38,7 @@
 <script>
 	export default {
 		async asyncData({$content, params}) {
-			const categories = await $content("publication-categories").fetch();
+			const categories = await $content("publication-categories").sortBy("ordre", "asc").fetch();
 			const category = categories.find(c => c.slug === params.category);
 			const posts = await $content("publications").where({ categories: { $contains: category.titre } }).sortBy("date", "desc").fetch();
 			

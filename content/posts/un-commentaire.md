@@ -1,6 +1,7 @@
 ---
 titre: "Un Commentaire du Hadîth de la Tradition Muhammadienne"
 date: "2020-09-01"
+couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584952/ihei/couvertures/soufisme-et-spiritualites-6_tmmwky.jpg"
 categories: 
 	- "Soufisme et Spiritualités"
 auteur: 

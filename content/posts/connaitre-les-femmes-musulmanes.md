@@ -1,6 +1,7 @@
 ---
 titre: "Connaître les femmes musulmanes"
 date: "2020-09-03"
+couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654416/ihei/couvertures/islam-en-pratique-3_ws3q2t.jpg"
 categories:
     - "Islam en pratique"
 auteur: "Ilhâm-Allâh Chiara Ferrero"

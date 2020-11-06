@@ -1,6 +1,7 @@
 ---
 titre: "Islam et Christianisme, pour ne pas trebucher"
 date: "2020-09-01"
+couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586813/ihei/couvertures/dialogue-interreligieux-3_fj6d78.jpg"
 categories: 
 	- "Dialogue interreligieux"
 souscategorie: 

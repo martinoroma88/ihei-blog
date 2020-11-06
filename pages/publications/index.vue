@@ -36,7 +36,7 @@
 <script>
 	export default {
 		async asyncData({$content, params}) {
-			const categories = await $content("publication-categories").fetch();
+			const categories = await $content("publication-categories").sortBy("ordre", "asc").fetch();
 			const posts = await $content("publications").sortBy("date", "desc").fetch();
 
 			return { categories, posts };

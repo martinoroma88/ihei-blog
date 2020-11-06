@@ -1,8 +1,8 @@
 <template>
 	<div>
 		<p><n-link to="/">Home</n-link> > <n-link to="/publications/">Publications</n-link> > <n-link :to="'/publications/'+category.slug+'/'">{{category.titre}}</n-link></p>
-		<h1>{{category.titre}}</h1>
-		<h2 v-if="category.soustitre">{{category.soustitre}}</h2>
+		<h1>{{post.titre}}</h1>
+		<h2 v-if="post.soustitre">{{post.soustitre}}</h2>
 		<nuxt-content class="prose" :document="post" />
 	</div>
 </template>

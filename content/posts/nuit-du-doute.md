@@ -1,10 +1,13 @@
 ---
 titre: "La détermination du début du mois de Ramadan"
 date: "2020-09-03"
+couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-7_v2orqf.jpg"
 categories:
     - "Islam en pratique"
 auteur: "Abd al-Haqq Ismaïl Guiderdoni"
 ---
+
+![Abd al-Haqq Ismaïl Guiderdoni](https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654777/ihei/couvertures/islam-en-pratique-10_a4ksqu.jpg "Abd al-Haqq Ismaïl Guiderdoni")
 
 ***1. Quand doit-on commencer à jeûner&#8239;? ***
 

@@ -1,6 +1,7 @@
 ---
 titre: "Notre religion est de paix, d’amour et de sincérité"
 date: "2020-09-03"
+couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-8_yj3onv.jpg"
 categories:
     - "Islam en pratique"
 auteur: "Jawad Bossa"

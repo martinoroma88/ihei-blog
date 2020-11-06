@@ -1,10 +1,13 @@
 ---
 titre: "Les secrets des cinq piliers de l’islam"
 date: "2020-09-03"
+couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654416/ihei/couvertures/islam-en-pratique-9_pzayty.jpg"
 categories:
     - "Islam en pratique"
 auteur: "Abd-al-Wadoud Yahya Gouraud"
 ---
+
+![Les secrets des cinq piliers de l’islam](https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654416/ihei/couvertures/islam-en-pratique-9_pzayty.jpg "Les secrets des cinq piliers de l’islam")
 
 *Les secrets des cinq piliers de l’islam* vient combler en partie ce vide. Dans cet opuscule à la fois concis et riche en enseignements, Sharani propose une série de méditations et de conseils autour du sens profond - les «&#8239;secrets&#8239;» - des cinq piliers de l’islam&#8239;: la double attestation de foi, la prière canonique, l’aumône purificatrice, le jeûne de Ramadan et le pèlerinage à La Mecque ainsi que l’ablution, qui sans être un pilier, tient une place fondamentale dans la pratique religieuse du croyant.
 
