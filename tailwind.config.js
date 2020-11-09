@@ -1,9 +1,7 @@
 // tailwind.config.js
 module.exports = {
-    theme: {
-      // ...
-    },
-    plugins: [
-      require('@tailwindcss/typography'),
-    ],
-  }
+  theme: {
+    fontFamily: ["IBM Plex Sans", "sans serif"]
+  },
+  plugins: [require("@tailwindcss/typography")]
+};
