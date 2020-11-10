@@ -5,5 +5,6 @@ url: "https://islam-science.net/fr/la-recherche-du-savoir-dans-la-doctrine-islam
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604579457/ihei/couvertures/1590700148_sxtnow.png"
 categories:
     - "Science et Religion"
-auteur: "Abd al-Haqq Ismaïl Guiderdoni"
+auteur: 
+	- "Abd al-Haqq Ismaïl Guiderdoni"
 ---

@@ -10,6 +10,7 @@ souscategories:
  dialogue-avec-les-autres-traditions:
   titre: "Dialogue avec les autres traditions"
   description: "« Dites : “nous croyons à Dieu et à ce qu’Il a fait descendre sur nous, à ce qu’Il a fait descendre sur Abraham, Ismaël, Isaac, Jacob et les Tribus, à ce qui a été donné à Moïse et à Jésus, à ce qui a été donné aux prophètes de la part de leur Seigneur ; nous ne faisons de différence entre aucun d’eux, et nous sommes soumis à Dieu”. »"
+ordre: 7
 ---
 
 Rencontre du Pape François et du Shaykh Ahmad al-Tayyeb, Grand imam de l’Université Al-Azhar, lors de la conférence sur la Fraternité Humaine, lundi 4 février 2019, à Abu Dhabi, capitale des

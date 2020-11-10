@@ -1,13 +1,12 @@
 <template>
 	<div>
+		<p><n-link to="/">Home</n-link> > Articles</p>
 		<div class="lg:flex justify-between mt-10">
 			<!-- Categories -->
-			<Categories class="lg:w-1/4 lg:ml-6" :categories="categories" baseurl="articles"/>
-
+			<Categories class="lg:w-1/4 lg:ml-6" :categories="categories" baseurl="articles" />
+			
 			<!-- Articles -->
-			<articles class="lg:w-3/4" :posts="posts" baseurl="articles"/>
-
-
+			<Articles class="lg:w-3/4" :posts="posts" baseurl="articles"/>
 		</div>
 	
 	</div>
@@ -15,15 +14,16 @@
 
 <script>
 	export default {
-		async asyncData({$content}) {
+		async asyncData({$content, params}) {
+			const categories = await $content("categories").sortBy("ordre", "asc").fetch();
+			
 			const posts = await $content("posts").sortBy("date", "desc").fetch();
-			const categories = await $content("categories").fetch();
-
 			posts.forEach((p, i) => {
 				let c = categories.find(c => p.categories.includes(c.titre));
 				p.category = c;
 			})
-			return { posts, categories };
+
+			return { categories, posts };
 		}
 	}
 </script>

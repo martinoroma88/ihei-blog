@@ -1,5 +1,6 @@
 ---
 titre: "Islam en pratique"
+ordre: 8
 ---
 
 Comment se fait-il que les terroristes qui prononcent Allahu akbar (« Dieu est plus grand »), prient dans les mosquées, font le Ramadan, lisent le Coran, soient si différents des musulmans qui font pourtant la même chose ? En quoi sont-ils différents ? Pourquoi sont-ils en désaccord ?

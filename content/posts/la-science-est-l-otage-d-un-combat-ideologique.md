@@ -5,5 +5,6 @@ url: "https://www.lepoint.fr/societe/la-science-est-l-otage-d-un-combat-ideologi
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604580237/ihei/couvertures/1588497955_wvcg9m.gif"
 categories:
     - "Science et Religion"
-auteur: "Abd al-Haqq Ismaïl Guiderdoni"
+auteur: 
+	- "Abd al-Haqq Ismaïl Guiderdoni"
 ---

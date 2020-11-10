@@ -4,7 +4,8 @@ date: "2020-09-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-4_wodu2w.jpg"
 categories:
     - "Islam en pratique"
-auteur: "Abd-al-Wadoud Yahya Gouraud"
+auteur: 
+	- "Abd-al-Wadoud Yahya Gouraud"
 ---
 
 Par la volonté d’Allah et Sa grâce, nous nous trouvons dans la dernière décade du mois béni de Ramadan. Après la première décade marquée par la Miséricorde, puis la deuxième marquée par le Pardon, nous voilà dans la dernière étape de l’itinéraire de transformation et de purification spirituelles, la phase de l’affranchissement du feu qui aboutit au salut de l’âme, lorsqu’on vient à Allah *bi qalbin salîm*, le cœur sain et sauf&#8239;: **Le Jour où ni biens ni enfants ne seront d’aucune utilité, sauf celui qui vient à Allah avec un coeur sain. Le Paradis sera rapproché de ceux qui se prémunissent par Allah *al-muttaqîn*.** (26&#8239;: 88-90)

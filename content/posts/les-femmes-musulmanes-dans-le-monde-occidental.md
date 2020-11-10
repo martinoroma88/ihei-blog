@@ -4,7 +4,8 @@ date: "2020-09-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-2_uigrrw.jpg"
 categories:
     - "Islam en pratique"
-auteur: "Fatiha Darolles"
+auteur: 
+	- "Fatiha Darolles"
 ---
 
 Toute représentation, et donc toute image, est à la fois expression et perception. En cela, l’image est l’instrument privilégié d’une culture et d’une civilisation. C’est ainsi que l’image, comme symbole, a une place importante dans toute civilisation traditionnelle, que ce soit à travers la figuration des icônes chrétiennes ou la calligraphie islamique. Mais le symbole n’est pas limitation, malgré celles propres à sa forme, il est, tout au contraire, support de contemplation et ouverture sur l’Infini, sur la connaissance des archétypes universels qu’il voile et révèle à tour de rôle. De ce fait, l’image est aussi l’expression de l’artiste et de l’artisan qui savent s’élever au-dessus de leur individualité pour exprimer visuellement certains des aspects de la Réalité métaphysique.

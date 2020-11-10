@@ -4,7 +4,8 @@ date: "2020-09-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654416/ihei/couvertures/islam-en-pratique-9_pzayty.jpg"
 categories:
     - "Islam en pratique"
-auteur: "Abd-al-Wadoud Yahya Gouraud"
+auteur: 
+	- "Abd-al-Wadoud Yahya Gouraud"
 ---
 
 ![Les secrets des cinq piliers de l’islam](https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654416/ihei/couvertures/islam-en-pratique-9_pzayty.jpg "Les secrets des cinq piliers de l’islam")

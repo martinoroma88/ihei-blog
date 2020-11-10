@@ -4,7 +4,8 @@ date: "2020-09-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-6_re1qcm.jpg"
 categories:
     - "Islam en pratique"
-auteur: "Abd ar-Rashîd Bossa"
+auteur: 
+	- "Abd ar-Rashîd Bossa"
 ---
 
 > Nous avons établi, pour Abraham, l’emplacement de la Maison&#8239;: «&#8239;Ne m’associe rien&#8239;; purifie Ma Maison pour ceux qui accomplissent les circuits, pour ceux qui s’y tiennentdebout, pour ceux qui s’inclinent et se prosternent.

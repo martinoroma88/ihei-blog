@@ -4,7 +4,8 @@ date: "2020-09-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654416/ihei/couvertures/islam-en-pratique-3_ws3q2t.jpg"
 categories:
     - "Islam en pratique"
-auteur: "Ilhâm-Allâh Chiara Ferrero"
+auteur: 
+	- "Ilhâm-Allâh Chiara Ferrero"
 ---
 
 Les réflexions sur la famille et sur la communauté, que nous nous efforcerons de développer dans cet appendice, n’ont pas uniquement pour but de fournir des références d’ordre social, car la famille et la communauté sont, avant toute chose, pour nous musulmans, des réalités contenues dans le cœur, indépendamment du type de société ou de pays dans lequel nous vivons. Dans l’islam, la réalité de la famille, de la communauté, et les rapports entre homme et femme sont envisagés dans une perspective différente de celle qui est communément répandue en Occident. Généralement, lorsqu’il est question de l’islam, on a l’impression que certaines personnes ne comprennent pas toujours la nécessité de dépasser leur propre mentalité, sans pour autant devoir en changer, afin de pouvoir s’ouvrir à d’autres sociétés, d’autres peuples et d’autres modes de vie, que ceux que l’on connaît habituellement. Les Européens ont malheureusement peur, à tort, que la reconnaissance des spécificités des musulmans implique le renoncement à leur identité propre. Une telle appréhension injustifiée qui risque de leur faire perdre de vue le but vers lequel devrait tendre toute société civile, alors que, en réalité, il existe des valeurs communes liées à la sacralité de la vie humaine et de la famille, pour n’en citer que quelques-unes, qui caractérisent la communauté islamique, et sur lesquelles pourrait s’ouvrir un dialogue serein avec les institutions européennes.

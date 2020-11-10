@@ -3,7 +3,8 @@ titre: "Présentation et commentaire de quelques calligraphies"
 date: "2020-09-03"
 categories:
     - "Art et Islam"
-auteur: "Abd-al-Wadoud Yahya Gouraud"
+auteur: 
+	- "Abd-al-Wadoud Yahya Gouraud"
 ---
 
 ![calligraphie arabe 01](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-01_rof1zv.jpg)

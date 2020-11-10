@@ -4,7 +4,8 @@ date: "2020-09-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-8_yj3onv.jpg"
 categories:
     - "Islam en pratique"
-auteur: "Jawad Bossa"
+auteur: 
+	- "Jawad Bossa"
 ---
 
 Comment se fait-il que les terroristes qui prononcent Allahu akbar ( «&#8239;Dieu est plus grand&#8239;» ), prient dans les mosquées, font le Ramadan, lisent le Coran, soient si différents des musulmans qui font pourtant la même chose&#8239;? En quoi sont-ils différents&#8239;? Pourquoi sont-ils en désaccord&#8239;? 
