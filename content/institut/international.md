@@ -1,6 +1,7 @@
 ---
 titre: "International"
 soustitre: "L’I.H.E.I. Agit a L’international"
+ordre: 6
 ---
 
 L’I.H.E.I. fait partie d’un réseau international d’experts et de chercheurs sur l’islam et sur le dialogue des civilisations. A ce titre, certains de ses membres sont invités régulièrement à intervenir dans des rencontres de haut niveau, auprès d’universités prestigieuses comme Harvard, Yale ou Cambridge, des grandes institutions européennes et internationales comme le Conseil de l’Europe, la Commission européenne, l’O.S.C.E. ou le Word Economic Forum.

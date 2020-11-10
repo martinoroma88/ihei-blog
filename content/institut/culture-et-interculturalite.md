@@ -1,6 +1,7 @@
 ---
 titre: "Culture et Interculturalité"
 soustitre: "L’I.H.E.I. Acteur Partenarial de la Culture et de l’Interculturalite"
+ordre: 3
 ---
 
 Des colloques et universités d’été ont connu un grand succès avec notamment des évènements interculturels d’importance, organisés en collaboration avec l’[ISESCO](http://www.isesco.org.ma/index.php?option=com_k2&amp;view=item&amp;id=10732%3Ale-directeur-g%C3%A9n%C3%A9ral-de-l%E2%80%99isesco-re%C3%A7oit-le-pr%C3%A9sident-de-l%E2%80%99institut-des-%C3%A9tudes-islamiques-sup%C3%A9rieures-en-italie&amp;lang=fr "ISESCO") (Organisation islamique pour l’éducation, les sciences et la culture) et la Fondation euro-méditerranéenne Anna Lindh pour le dialogue des cultures (créée en 2005 par les Etats membres du Partenariat euro-méditerranéen), ou encore les grandes mosquées indépendantes, mais aussi avec des musées, des collectivités territoriales ou des Ministères.

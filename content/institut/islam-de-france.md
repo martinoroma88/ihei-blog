@@ -1,6 +1,7 @@
 ---
 titre: "Islam de France"
 soustitre: "L’I.H.E.I. Promoteur d’un Islam De France"
+ordre: 2
 ---
 
 Adapter la forme du témoignage dans le contexte de l’islam en France exige un effort intellectuel de traduction des principes fondamentaux de l’islam pour pouvoir interagir avec la société laïque. Cette fonction de pont s’avère nécessaire pour instaurer non seulement un dialogue honnête et durable mais aussi une relation plus officielle entre la communauté musulmane française et les institutions.

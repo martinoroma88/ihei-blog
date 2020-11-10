@@ -1,6 +1,7 @@
 ---
 titre: "Education"
 soustitre: "L’I.H.E.I. Acteur de l’Enseignement et de l’Education"
+ordre: 5
 ---
 
 L’organisation de colloques, dès l’origine de l’I.H.E.I., avec les grandes Mosquées de France, et la participation de leurs recteurs ou directeurs, a peu à peu renforcé nos partenariats, ce qui a permis la mise en place plus pérenne de séminaires, de formations et de cours.

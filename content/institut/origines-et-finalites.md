@@ -1,6 +1,7 @@
 ---
 titre: "Origine et Finalites"
 soustitre: "Origine et Finalites"
+ordre: 1
 ---
 
 Créé en 1994 à l’initiative d’un groupe d’intellectuels français musulmans, l’Institut des Hautes Etudes Islamiques a vocation à :
