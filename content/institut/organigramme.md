@@ -1,5 +1,6 @@
 ---
 titre: "Organigramme"
+ordre: 7
 ---
 
 ### Le Conseil d’Administration
