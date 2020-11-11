@@ -26,7 +26,7 @@
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-100' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/institut/">L'Institut</n-link>
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-150' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/publications/">Publications</n-link>
 			<a :class="open ? 'translate-y-0 opacity-100 delay-200' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UC5pChIcpowCGXCTUg1exCHg/?guided_help_flow=5">IHEI TV</a>
-			<n-link :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/xxx">Nav item</n-link>
+			<n-link :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/xxx">Contact</n-link>
 		</div>
 	</nav>
 </template>
