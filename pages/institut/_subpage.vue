@@ -1,17 +1,16 @@
 <template>
 	<div>
 
-		<header class="bg-champagne pb-12 pt-6">
+		<!-- <header class="bg-champagne pb-6 pt-3">
 			<div class="container lg:flex lg:space-x-8">
 				<div class="lg:w-1/4">
-				
+		
 				</div>
 				<div class="lg:w-3/4">
-					<p class="text-sm">L'Institut</p>
 					<h1>{{page.titre}}</h1>
 				</div>
 			</div>
-		</header>
+		</header> -->
 
 		<div class="container lg:flex justify-between lg:space-x-8">
 			<!-- Sidebar -->
@@ -22,6 +21,7 @@
 			
 			<!-- Posts feed -->
 			<div class="lg:w-3/4 pt-16">
+				<h1>{{page.titre}}</h1>
 				<nuxt-content class="prose" :document="page" />
 			</div>
 		</div>

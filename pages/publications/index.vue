@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<!-- Header -->
-		<header class="bg-champagne pb-12 pt-6">
+		<!-- <header class="bg-champagne pb-12 pt-6">
 			<div class="container lg:flex lg:space-x-8">
 				<div class="lg:w-1/4">
 				
@@ -10,7 +10,7 @@
 					<h1>Publications</h1>
 				</div>
 			</div>
-		</header>
+		</header> -->
 
 		<div class="container lg:flex justify-between lg:space-x-8">
 			<!-- Sidebar -->
@@ -20,8 +20,9 @@
 			</aside>
 			
 			<!-- Posts feed -->
-			<div class="lg:w-3/4">
-				<Publications class="flex-1 pt-12" :posts="posts" baseurl="publications"/>
+			<div class="lg:w-3/4 pt-12">
+				<h1>Publications</h1>
+				<Publications class="flex-1" :posts="posts" baseurl="publications"/>
 			</div>
 		</div>
 	</div>

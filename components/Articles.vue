@@ -3,8 +3,8 @@
 		<div class="md:flex md:space-x-4 items-center" v-for="p in posts" :key="p.slug">
 			<!-- <p class="text-gray-600 mr-6">{{$dateFns.format(new Date(p.date), 'dd/MM/yyyy')}}</p> -->
 			
-			<div class="flex-shrink-0 md:w-24 w-full mb-4 md:mb-0">
-				<img v-if="p.couverture" class="md:w-24 w-full object-cover rounded shadow" :src="p.couverture" alt="">
+			<div class="flex-shrink-0 md:w-24 lg:w-32 w-full mb-4 md:mb-0">
+				<img v-if="p.couverture" class="md:w-24 lg:w-32 w-full object-cover rounded border" :src="p.couverture" alt="">
 			</div>
 			<div>
 				<!-- Title linked to page or to external url-->

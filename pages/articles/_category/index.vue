@@ -4,10 +4,10 @@
 		<header class="bg-champagne pb-12 pt-6">
 			<div class="container lg:flex lg:space-x-8">
 				<div class="lg:w-1/4">
-					<h1>{{category.titre}}</h1>
+					<h2>{{category.titre}}</h2>
 					<p v-if="category.soustitre">{{category.soustitre}}</p>
 				</div>
-				<div class="lg:w-3/4 italic text-lg text-gray-800">
+				<div class="lg:w-3/4 italic text-gray-800">
 					<nuxt-content :document="category" />
 				</div>
 			</div>
