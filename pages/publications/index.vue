@@ -33,7 +33,7 @@
 		async asyncData({$content, params}) {
 			const categories = await $content("publication-categories").sortBy("ordre", "asc").fetch();
 			
-			const posts = await $content("publications").where({"categories": {"$nin": ["Les Cahiers"]}}).sortBy("date", "desc").fetch();
+			const posts = await $content("publications").where({"categories": {"$containsNone": ["Les Cahiers", "Il Messaggio - Le Message"]}}).sortBy("date", "desc").fetch();
 			posts.forEach((p, i) => {
 				let c = categories.find(c => p.categories.includes(c.titre));
 				p.category = c;
