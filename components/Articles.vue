@@ -3,7 +3,7 @@
 		<div class="flex space-x-2" v-for="p in posts" :key="p.slug">
 			<!-- <p class="text-gray-600 mr-6">{{$dateFns.format(new Date(p.date), 'dd/MM/yyyy')}}</p> -->
 			
-			<div v-if="false" class="flex-shrink-0 w-20 h-12">
+			<div class="flex-shrink-0 w-20 h-12">
 				<img v-if="p.couverture" class="mt-2 w-20 h-12 object-cover rounded-sm" :src="p.couverture" alt="">
 			</div>
 			<div>

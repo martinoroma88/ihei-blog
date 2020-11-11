@@ -1,33 +1,30 @@
 <template>
 	<div>
-		<div class="bg-champagne">
+		<!-- Header -->
+		<header class="bg-champagne pb-12 pt-6">
 			<div class="container lg:flex lg:space-x-8">
-				<div class="lg:w-1/4">
+				<div class="lg:w-1/3">
+				
+				</div>
+				<div class="lg:w-2/3">
+					<p class="text-sm">12-03-2020</p>
 					<h1>Titre d'actualité du moment</h1>
-					<p>12-03-2020</p>
-					<p>En savoir plus</p>
-				</div>
-				<div class="lg:w-1/2">
-					
+					<p>Lorem ipsum dolor sit amet</p>
 				</div>
 			</div>
-		</div>
+		</header>
 
-		<div class="container lg:flex justify-between">
-			<!-- Menu -->
-			<div>
-				<Sidenav class="sticky top-0 pt-12" />
+		<div class="container lg:flex justify-between lg:space-x-8">
+			<!-- Sidebar -->
+			<aside class="lg:w-1/3 space-y-8">
+				<!-- <Sidenav class="" /> -->
+				<Categories class="sticky top-0 pt-16" :categories="categories" baseurl="articles"/>
+			</aside>
+			
+			<!-- Posts feed -->
+			<div class="lg:w-2/3">
+				<Articles class="flex-1 pt-12 pr-16" :posts="posts" baseurl="articles"/>
 			</div>
-
-			<!-- Categories -->
-			<div class="lg:ml-3 lg:mr-16">
-				<div class="sticky top-0 pt-12">
-					<Categories class="lg:pl-3 lg:border-l" :categories="categories" baseurl="articles"/>
-				</div>
-			</div>
-
-			<!-- Articles -->
-			<articles class="flex-1 pt-12" :posts="posts" baseurl="articles"/>
 		</div>
 	</div>
 </template>

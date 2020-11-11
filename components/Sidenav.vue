@@ -1,5 +1,5 @@
 <template>
-	<ul class="space-y-3 text-sm">
+	<ul class="space-y-3 text-sm font-bold">
 		<li v-for="(item, i) in items" :key="i">
 			<n-link class="link" :to="item.destination">{{item.title}}</n-link>
 		</li>

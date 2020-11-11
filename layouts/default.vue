@@ -1,6 +1,10 @@
 <template>
   <div class="text-gray-900 font-sans">
-    <!-- <Navbar /> -->
+    <div class="bg-champagne">
+      <div class="container">
+        <Navbar />
+      </div>
+    </div>
     <Nuxt />
   </div>
 </template>
@@ -34,7 +38,7 @@ body, html {
   @apply underline;
 }
 
-.nuxt-link-active {
+.nuxt-link-active:not(.transparent) {
   @apply font-bold bg-cyan text-white px-1;
 }
 
