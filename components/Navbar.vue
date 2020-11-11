@@ -1,6 +1,6 @@
 <template>
 	<!-- NAVBAR -->
-	<nav class="w-full flex items-center justify-between lg:space-x-8 z-20">
+	<nav class="w-full flex items-center justify-between lg:space-x-8">
 		<!-- BRAND -->
 		<div class="z-10 relative lg:w-1/3">
 			<div>
@@ -11,7 +11,7 @@
 		</div>
 
 		<!-- BG LAYER, second element because of .justify-between parent option -->
-		<div :class="open ? 'opacity-100 delay-75' : 'delay-400 opacity-0'" class="lg:hidden transition duration-200 bg-gray-500 inset-0 absolute z-0"></div>
+		<div :class="open ? 'opacity-100 delay-75 h-screen' : 'delay-400 opacity-0'" class="lg:hidden transition duration-200 bg-turquoise inset-0 absolute z-0"></div>
 
 		<!-- HAMBURGER BTN -->
 		<div @click="toggle()" class="lg:hidden w-6 h-10 py-2 flex flex-col justify-around cursor-default relative z-10">
@@ -21,11 +21,11 @@
 		</div>
 
 		<!-- NAVIGATION ITEMS -->
-		<div ref="items" :class="open ? 'scale-100' : 'scale-0 lg:scale-100'" class="transform absolute lg:static inset-0 flex items-center justify-center lg:justify-start flex-col lg:w-2/3 lg:flex-row space-y-6 lg:space-y-0 lg:space-x-6 h-screen lg:h-auto w-full lg:w-auto">
-			<n-link :class="open ? 'translate-y-0 opacity-100 delay-75' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/">Accueil</n-link>
+		<div ref="items" :class="open ? 'scale-100' : 'scale-0 lg:scale-100'" class="transform absolute  lg:static inset-0 flex items-center justify-center lg:justify-start flex-col lg:w-2/3 lg:flex-row space-y-6 lg:space-y-0 lg:space-x-6 h-screen lg:h-auto w-full lg:w-auto">
+			<n-link :class="open ? 'translate-y-0 opacity-100 delay-75' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/">News</n-link>
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-100' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/institut/">L'Institut</n-link>
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-150' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/publications/">Publications</n-link>
-			<n-link :class="open ? 'translate-y-0 opacity-100 delay-200' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/xxx">Nav item four</n-link>
+			<a :class="open ? 'translate-y-0 opacity-100 delay-200' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UC5pChIcpowCGXCTUg1exCHg/?guided_help_flow=5">IHEI TV</a>
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/xxx">Nav item</n-link>
 		</div>
 	</nav>

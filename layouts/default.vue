@@ -1,6 +1,6 @@
 <template>
   <div class="text-gray-900 font-sans">
-    <div class="bg-champagne">
+    <div class="bg-champagne relative z-30">
       <div class="container">
         <Navbar />
       </div>
@@ -11,7 +11,7 @@
 
 <style>
 body, html {
-  font-size: 18px;
+  font-size: 17px;
 }
 
 .container {

@@ -14,16 +14,17 @@
 
 <script>
 	export default {
-		async asyncData({$content, params}) {
-			const categories = await $content("categories").sortBy("ordre", "asc").fetch();
+		middleware: "redirect"
+		// async asyncData({$content, params}) {
+		// 	const categories = await $content("categories").sortBy("ordre", "asc").fetch();
 			
-			const posts = await $content("posts").sortBy("date", "desc").fetch();
-			posts.forEach((p, i) => {
-				let c = categories.find(c => p.categories.includes(c.titre));
-				p.category = c;
-			})
+		// 	const posts = await $content("posts").sortBy("date", "desc").fetch();
+		// 	posts.forEach((p, i) => {
+		// 		let c = categories.find(c => p.categories.includes(c.titre));
+		// 		p.category = c;
+		// 	})
 
-			return { categories, posts };
-		}
+		// 	return { categories, posts };
+		// }
 	}
 </script>
