@@ -1,5 +1,5 @@
 ---
-titre: "Islam Et République"
+titre: "Islam et République"
 ordre: 6
 ---
 

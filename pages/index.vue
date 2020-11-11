@@ -33,7 +33,7 @@
 	export default {
 		async asyncData({$content}) {
 			const posts = await $content("posts").sortBy("date", "desc").fetch();
-			const categories = await $content("categories").fetch();
+			const categories = await $content("categories").sortBy("ordre", "asc").fetch();
 
 			posts.forEach((p, i) => {
 				let c = categories.find(c => p.categories.includes(c.titre));

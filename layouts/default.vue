@@ -10,6 +10,13 @@
 </template>
 
 <style>
+.page-enter-active, .page-leave-active {
+  transition: opacity .5s;
+}
+.page-enter, .page-leave-active {
+  opacity: 0;
+}
+
 body, html {
   font-size: 17px;
 }
@@ -38,7 +45,7 @@ a:hover {
   @apply underline;
 }
 
-.nuxt-link-active:not(.transparent) {
+.nuxt-link-exact-active:not(.transparent) {
   @apply font-bold bg-cyan text-white px-1;
 }
 
