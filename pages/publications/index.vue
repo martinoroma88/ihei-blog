@@ -16,7 +16,7 @@
 			<!-- Sidebar -->
 			<aside class="lg:w-1/4 space-y-8">
 				<!-- <Sidenav class="" /> -->
-				<Categories class="sticky top-0 pt-16" :categories="categories" baseurl="publications"/>
+				<Categories class="sticky top-0 pt-16" :categories="categories" baseurl="publications" :main="{url: '/publications/', title: 'Tous les publications'}" />
 			</aside>
 			
 			<!-- Posts feed -->

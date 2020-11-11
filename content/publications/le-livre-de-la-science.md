@@ -8,8 +8,6 @@ auteur:
     - "traduit et annoté par Jean Abd al-Wadoud Gouraud"
 ---
 
-![Le Livre de la Science](https://res.cloudinary.com/genesi-communication-design/image/upload/v1604655254/ihei/couvertures/publications-8_znccfq.jpg "Le Livre de la Science")
-
 Force est de constater, de nos jours, qu’une large majorité d’hommes et de femmes semble avoir adopté, souvent sans même s’en rendre compte, un point de vue et un mode de vie les amenant à considérer la vie quotidienne comme séparée de la dimension spirituelle et religieuse. Dans un tel contexte, l’œuvre de l’imam Ghazali revêt, plus que jamais, un caractère d’une extraordinaire actualité. Redonnant la possibilité, pour ceux qui le désirent, de redécouvrir le sens véritable de la religion, elle est une mise en œuvre cohérente du message fondamental d’unité et d’unicité de l’islam dans toutes ses dimensions constitutives de soumission à la volonté divine (al-islam), de foi (al-îmân) et de vertu contemplative (al-ihsân).  
 
 Celui qui voudra approfondir le sens de sa propre vie religieuse et spirituelle, pourra y trouver l’expression d’une sagesse universelle et d’un équilibre indispensable que le monde semble pourtant avoir oubliés, paradoxalement.  

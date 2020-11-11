@@ -1,5 +1,5 @@
 <template>
-  <div class="text-gray-900 font-serif">
+  <div class="text-gray-900 font-serif homepage">
     <div class="bg-champagne relative z-30 font-sans">
       <div class="container">
         <Navbar />
@@ -58,21 +58,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  @apply text-2xl mb-4;
+  @apply text-3xl mb-4;
   @screen lg {
-    @apply text-3xl mb-6;
+    @apply text-4xl mb-6;
   }
 }
 h2 {
-  @apply text-xl mb-3;
+  @apply text-2xl mb-3;
   @screen lg {
-    @apply text-2xl mb-4;
+    @apply text-3xl mb-4;
   }
 }
 h3 {
-  @apply text-lg mb-1;
+  @apply text-xl mb-1;
   @screen lg {
-    @apply text-xl;
+    @apply text-2xl;
   }
 }
 </style>

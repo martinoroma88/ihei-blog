@@ -1,11 +1,12 @@
 <template>
 	<div>
-		<header class="bg-champagne pb-12 pt-6">
-			<div class="container lg:flex lg:space-x-8">
+		<header class="bg-champagne pb-6 pt-3">
+			<div class="container lg:flex items-center lg:space-x-8">
 				<div class="lg:w-1/4">
-					<p class="text-sm mt-2"><n-link class="transparent" to="/">Accueil</n-link> > <br> <n-link class="transparent" :to="'/articles/'+category.slug+'/'">{{category.titre}}</n-link></p>
+					<img v-if="post.couverture" :src="post.couverture" class="w-full h-48 mb-4 lg:mb-0 object-contain rounded overflow-hidden" alt="">
 				</div>
 				<div class="lg:w-2/4">
+					<p><n-link class="link font-sans mb-2" :to="'/articles/'+category.slug+'/'">{{category.titre}}</n-link></p>
 					<h1>{{post.titre}}</h1>
 					<p v-if="post.soustitre">{{post.soustitre}}</p>
 				</div>

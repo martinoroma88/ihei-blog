@@ -18,12 +18,12 @@
 			<!-- Sidebar -->
 			<aside class="lg:w-1/4 space-y-8">
 				<!-- <Sidenav class="" /> -->
-				<Categories class="sticky top-0 pt-16" :categories="categories" baseurl="articles"/>
+				<Categories class="sticky top-0 pt-16" :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
 			</aside>
 			
 			<!-- Posts feed -->
 			<div class="lg:w-3/4">
-				<Articles class="flex-1 pt-12" :posts="posts" baseurl="articles"/>
+				<Articles class="flex-1 pt-12" :posts="posts" baseurl="articles" />
 			</div>
 		</div>
 	</div>
@@ -40,6 +40,7 @@
 				p.category = c;
 			})
 			return { posts, categories };
-		}
+		},
+		layout: "homepage"
 	}
 </script>

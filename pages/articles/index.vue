@@ -6,7 +6,7 @@
 			<Categories class="lg:w-1/4 lg:ml-6" :categories="categories" baseurl="articles" />
 			
 			<!-- Articles -->
-			<Articles class="lg:w-3/4" :posts="posts" baseurl="articles"/>
+			<Articles class="lg:w-3/4" :posts="posts" baseurl="articles" />
 		</div>
 	
 	</div>

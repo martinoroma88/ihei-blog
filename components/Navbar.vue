@@ -21,12 +21,12 @@
 		</div>
 
 		<!-- NAVIGATION ITEMS -->
-		<div ref="items" :class="open ? 'scale-100' : 'scale-0 lg:scale-100'" class="transform absolute  lg:static inset-0 flex items-center justify-center lg:justify-end flex-col lg:w-3/4 lg:flex-row space-y-6 lg:space-y-0 lg:space-x-6 h-screen lg:h-auto w-full lg:w-auto">
-			<!-- <n-link :class="open ? 'translate-y-0 opacity-100 delay-75' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative accueil" to="/">Accueil</n-link> -->
+		<div ref="items" :class="open ? 'scale-100' : 'scale-0 lg:scale-100'" class="transform absolute  lg:static inset-0 flex items-center justify-center lg:justify-start flex-col lg:w-3/4 lg:flex-row space-y-6 lg:space-y-0 lg:space-x-6 h-screen lg:h-auto w-full lg:w-auto">
+			<n-link :class="open ? 'translate-y-0 opacity-100 delay-75' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative transparent accueil" to="/">Accueil</n-link>
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-100' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/institut/">L'Institut</n-link>
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-150' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/publications/">Publications</n-link>
 			<a :class="open ? 'translate-y-0 opacity-100 delay-200' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UC5pChIcpowCGXCTUg1exCHg/?guided_help_flow=5">IHEI TV</a>
-			<n-link :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/xxx">Contact</n-link>
+			<n-link :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/contact/">Contact</n-link>
 		</div>
 	</nav>
 </template>
@@ -41,18 +41,31 @@
 		methods: {
 			toggle() {
 				this.open = !this.open;
+				if(this.open) {
+					document.querySelector('body').style.overflow = "hidden";
+				} else {
+					document.querySelector('body').style.overflow = "auto";
+				}
 			}
 		},
 		watch: {
 			$route() {
 				this.open = false;
+				if(this.open) {
+					document.querySelector('body').style.overflow = "hidden";
+				} else {
+					document.querySelector('body').style.overflow = "auto";
+				}
 			}
 		}
 	};
 </script>
 
-<style scoped>
-	.nuxt-link-active:not(.transparent) {
+<style>
+	nav .nuxt-link-active:not(.transparent) {
+		@apply font-bold bg-cyan text-white px-1 rounded-sm;
+	}
+	.homepage nav .nuxt-link-active.accueil {
 		@apply font-bold bg-cyan text-white px-1 rounded-sm;
 	}
 </style>
