@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<p><n-link to="/">Home</n-link> > Articles</p>
+		<p><n-link to="/">Accueil</n-link> > Articles</p>
 		<div class="lg:flex justify-between mt-10">
 			<!-- Categories -->
 			<Categories class="lg:w-1/4 lg:ml-6" :categories="categories" baseurl="articles" />

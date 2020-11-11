@@ -33,11 +33,10 @@ export default {
   googleFonts: {
     /* module options */
     families: {
-      "Cormorant+Garamond": {
-        wght: [400, 700],
-        ital: [400]
+      "Merriweather+Sans": {
+        wght: [400, 700]
       },
-      "Proza+Libre": {
+      "Merriweather": {
         wght: [400, 700],
         ital: [400]
       }

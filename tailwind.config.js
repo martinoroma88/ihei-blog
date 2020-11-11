@@ -11,8 +11,8 @@ module.exports = {
       }
     },
     fontFamily: {
-      "sans": ["Proza Libre", "sans serif"],
-      "serif": ['Cormorant Garamond', 'serif'],
+      "sans": ["Merriweather Sans", "sans serif"],
+      "serif": ['Merriweather', 'serif'],
     },
     typography: (theme) => ({
       default: {

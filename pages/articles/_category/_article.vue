@@ -3,7 +3,7 @@
 		<header class="bg-champagne pb-12 pt-6">
 			<div class="container lg:flex lg:space-x-8">
 				<div class="lg:w-1/4">
-					<p class="text-sm mt-2"><n-link class="transparent" to="/">News</n-link> > <br> <n-link class="transparent" :to="'/articles/'+category.slug+'/'">{{category.titre}}</n-link></p>
+					<p class="text-sm mt-2"><n-link class="transparent" to="/">Accueil</n-link> > <br> <n-link class="transparent" :to="'/articles/'+category.slug+'/'">{{category.titre}}</n-link></p>
 				</div>
 				<div class="lg:w-2/4">
 					<h1>{{post.titre}}</h1>

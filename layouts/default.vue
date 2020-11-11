@@ -1,6 +1,6 @@
 <template>
-  <div class="text-gray-900 font-sans">
-    <div class="bg-champagne relative z-30">
+  <div class="text-gray-900 font-serif">
+    <div class="bg-champagne relative z-30 font-sans">
       <div class="container">
         <Navbar />
       </div>
@@ -50,7 +50,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  @apply font-bold leading-tight text-black font-serif;
+  @apply font-bold leading-tight text-black font-sans;
 }
 
 h1 {
