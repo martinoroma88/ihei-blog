@@ -7,7 +7,7 @@
 					<h1>{{category.titre}}</h1>
 					<p v-if="category.soustitre">{{category.soustitre}}</p>
 				</div>
-				<div class="lg:w-3/4">
+				<div class="lg:w-3/4 italic text-lg text-gray-800">
 					<nuxt-content :document="category" />
 				</div>
 			</div>
@@ -24,7 +24,7 @@
 			
 			<!-- Posts feed -->
 			<div class="lg:w-3/4">
-				<Articles class="flex-1 pt-12 pr-16" :posts="posts" baseurl="articles"/>
+				<Articles class="flex-1 pt-12" :posts="posts" baseurl="articles"/>
 			</div>
 		</div>
 	</div>

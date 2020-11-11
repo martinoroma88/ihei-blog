@@ -19,6 +19,9 @@
 
 body, html {
   font-size: 17px;
+  @screen xl {
+    font-size: 19px;
+  }
 }
 
 .container {
@@ -46,7 +49,7 @@ a:hover {
 }
 
 .nuxt-link-exact-active:not(.transparent) {
-  @apply font-bold bg-cyan text-white px-1;
+  @apply font-bold bg-cyan text-white px-1 rounded-sm;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -68,7 +71,7 @@ h2 {
 h3 {
   @apply text-xl mb-1;
   @screen lg {
-    @apply text-2xl mb-2;
+    @apply text-2xl;
   }
 }
 </style>

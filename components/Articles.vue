@@ -1,17 +1,17 @@
 <template>
-	<section class="space-y-12">
-		<div class="lg:flex lg:space-x-4 items-center" v-for="p in posts" :key="p.slug">
+	<section class="space-y-16 lg:space-y-12">
+		<div class="md:flex md:space-x-4 items-center" v-for="p in posts" :key="p.slug">
 			<!-- <p class="text-gray-600 mr-6">{{$dateFns.format(new Date(p.date), 'dd/MM/yyyy')}}</p> -->
 			
-			<div class="flex-shrink-0 lg:w-24 w-full">
-				<img v-if="p.couverture" class="mt-2 lg:w-24 w-full object-cover rounded shadow" :src="p.couverture" alt="">
+			<div class="flex-shrink-0 md:w-24 w-full mb-4 md:mb-0">
+				<img v-if="p.couverture" class="md:w-24 w-full object-cover rounded shadow" :src="p.couverture" alt="">
 			</div>
 			<div>
 				<!-- Title linked to page or to external url-->
 				<h3 v-if="p.url"><a class="link text-xl" :href="p.url" target="_blank">{{p.titre}}</a></h3>
 				<h3 v-else><n-link class="link text-xl" :to="'/'+baseurl+'/'+p.category.slug+'/'+p.slug">{{p.titre}}</n-link></h3>
 				<!-- Auteur -->
-				<p class="text-sm" v-if="p.auteur">
+				<p v-if="p.auteur" class="text-gray-800">
 					<span v-for="(a, i) in p.auteur" :key="i">
 						{{a}}
 						<span v-if="i < p.auteur.lenght">,&nbsp;</span>

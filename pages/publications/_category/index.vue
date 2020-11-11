@@ -23,7 +23,7 @@
 			
 			<!-- Posts feed -->
 			<div class="lg:w-3/4">
-				<Publications class="flex-1 pt-12 pr-16" :posts="posts" baseurl="publications"/>
+				<Publications class="flex-1 pt-12" :posts="posts" baseurl="publications"/>
 			</div>
 		</div>
 	</div>
