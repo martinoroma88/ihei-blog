@@ -1,10 +1,10 @@
 <template>
-	<section class="space-y-12">
-		<div class="lg:flex lg:space-x-4 items-center" v-for="p in posts" :key="p.slug">
+	<section class="grid lg:gap-8 grid-cols-1 lg:grid-cols-3 xl:grid-cols-4">
+		<div class="" v-for="p in posts" :key="p.slug">
 			<!-- <p class="text-gray-600 mr-6">{{$dateFns.format(new Date(p.date), 'dd/MM/yyyy')}}</p> -->
 			
-			<div class="flex-shrink-0 lg:w-24 w-full">
-				<img v-if="p.couverture" class="mt-2 lg:w-24 w-full object-cover rounded shadow" :src="p.couverture" alt="">
+			<div class="flex-shrink-0 w-full">
+				<img v-if="p.couverture" class="mt-2 w-full object-cover rounded shadow" :src="p.couverture" alt="">
 			</div>
 			<div>
 				<!-- Title linked to page or to external url-->

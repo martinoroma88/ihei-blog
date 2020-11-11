@@ -2,6 +2,7 @@
 titre: "Les Cahiers 9"
 soustitre: "L'éducation spirituelle : vers l'organisation de l'Islam en Europe"
 date: "2020-09-01"
+collection: true
 categories:
     - "Les Cahiers"
 ---

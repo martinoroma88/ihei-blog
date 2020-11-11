@@ -21,7 +21,7 @@
 			
 			<!-- Posts feed -->
 			<div class="lg:w-3/4">
-				<Articles class="flex-1 pt-12 pr-16" :posts="posts" baseurl="publications"/>
+				<Publications class="flex-1 pt-12 pr-16" :posts="posts" baseurl="publications"/>
 			</div>
 		</div>
 	</div>
@@ -33,7 +33,7 @@
 		async asyncData({$content, params}) {
 			const categories = await $content("publication-categories").sortBy("ordre", "asc").fetch();
 			
-			const posts = await $content("publications").sortBy("date", "desc").fetch();
+			const posts = await $content("publications").where({"categories": {"$nin": ["Les Cahiers"]}}).sortBy("date", "desc").fetch();
 			posts.forEach((p, i) => {
 				let c = categories.find(c => p.categories.includes(c.titre));
 				p.category = c;
