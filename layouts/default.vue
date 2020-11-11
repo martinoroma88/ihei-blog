@@ -1,13 +1,17 @@
 <template>
-  <div class="mx-auto container p-4 lg:px-16 text-gray-800 font-sans">
-    <Navbar />
+  <div class="text-gray-900 font-sans">
+    <!-- <Navbar /> -->
     <Nuxt />
   </div>
 </template>
 
 <style>
 body, html {
-  font-size: 19px;
+  font-size: 18px;
+}
+
+.container {
+  @apply mx-auto p-4;
 }
 
 .content p:not(:last-child) {
@@ -30,14 +34,30 @@ body, html {
   @apply underline;
 }
 
+.nuxt-link-active {
+  @apply font-bold bg-cyan text-white px-1;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  @apply font-bold leading-tight text-black;
+  @apply font-bold leading-tight text-black font-serif;
 }
 
 h1 {
-  @apply text-2xl mb-4;
+  @apply text-3xl mb-4;
   @screen lg {
-    @apply text-3xl mb-6;
+    @apply text-4xl mb-6;
+  }
+}
+h2 {
+  @apply text-2xl mb-3;
+  @screen lg {
+    @apply text-3xl mb-4;
+  }
+}
+h3 {
+  @apply text-xl mb-1;
+  @screen lg {
+    @apply text-2xl mb-2;
   }
 }
 </style>

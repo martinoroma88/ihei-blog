@@ -33,7 +33,11 @@ export default {
   googleFonts: {
     /* module options */
     families: {
-      "IBM+Plex+Sans": {
+      "Cormorant+Garamond": {
+        wght: [400, 700],
+        ital: [400]
+      },
+      "Proza+Libre": {
         wght: [400, 700],
         ital: [400]
       }

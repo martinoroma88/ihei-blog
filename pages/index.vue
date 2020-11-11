@@ -1,15 +1,34 @@
 <template>
 	<div>
-		<div class="lg:flex justify-between mt-10">
+		<div class="bg-champagne">
+			<div class="container lg:flex lg:space-x-8">
+				<div class="lg:w-1/4">
+					<h1>Titre d'actualité du moment</h1>
+					<p>12-03-2020</p>
+					<p>En savoir plus</p>
+				</div>
+				<div class="lg:w-1/2">
+					
+				</div>
+			</div>
+		</div>
+
+		<div class="container lg:flex justify-between">
+			<!-- Menu -->
+			<div>
+				<Sidenav class="sticky top-0 pt-12" />
+			</div>
+
 			<!-- Categories -->
-			<Categories class="lg:w-1/4 lg:ml-6" :categories="categories" baseurl="articles"/>
+			<div class="lg:ml-3 lg:mr-16">
+				<div class="sticky top-0 pt-12">
+					<Categories class="lg:pl-3 lg:border-l" :categories="categories" baseurl="articles"/>
+				</div>
+			</div>
 
 			<!-- Articles -->
-			<articles class="lg:w-3/4" :posts="posts" baseurl="articles"/>
-
-
+			<articles class="flex-1 pt-12" :posts="posts" baseurl="articles"/>
 		</div>
-	
 	</div>
 </template>
 
