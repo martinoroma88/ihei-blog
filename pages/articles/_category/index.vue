@@ -3,11 +3,11 @@
 		<!-- Header -->
 		<header class="bg-champagne pb-12 pt-6">
 			<div class="container lg:flex lg:space-x-8">
-				<div class="lg:w-1/3">
+				<div class="lg:w-1/4">
 					<h1>{{category.titre}}</h1>
 					<p v-if="category.soustitre">{{category.soustitre}}</p>
 				</div>
-				<div class="lg:w-2/3">
+				<div class="lg:w-3/4">
 					<nuxt-content :document="category" />
 				</div>
 			</div>
@@ -17,13 +17,13 @@
 
 		<div class="container lg:flex justify-between lg:space-x-8">
 			<!-- Sidebar -->
-			<aside class="lg:w-1/3">
+			<aside class="lg:w-1/4">
 				<!-- <Sidenav class="" /> -->
 				<Categories class="sticky top-0 pt-16" :categories="categories" baseurl="articles"/>
 			</aside>
 			
 			<!-- Posts feed -->
-			<div class="lg:w-2/3">
+			<div class="lg:w-3/4">
 				<Articles class="flex-1 pt-12 pr-16" :posts="posts" baseurl="articles"/>
 			</div>
 		</div>

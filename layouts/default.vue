@@ -34,7 +34,7 @@ body, html {
   @apply border-t border-gray-300 w-16 block mx-auto my-4;
 }
 
-.link:hover {
+a:hover {
   @apply underline;
 }
 
