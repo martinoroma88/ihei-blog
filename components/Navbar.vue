@@ -21,12 +21,16 @@
 		</div>
 
 		<!-- NAVIGATION ITEMS -->
-		<div ref="items" :class="open ? 'scale-100' : 'scale-0 lg:scale-100'" class="transform absolute  lg:static inset-0 flex items-center justify-center lg:justify-start flex-col lg:w-3/4 lg:flex-row space-y-6 lg:space-y-0 lg:space-x-6 h-screen lg:h-auto w-full lg:w-auto">
+		<div ref="items" :class="open ? 'scale-100' : 'scale-0 lg:scale-100'" class="transform absolute  lg:static inset-0 flex items-center justify-center lg:justify-start flex-col lg:flex-row space-y-6 lg:space-y-0 lg:space-x-6 h-screen lg:h-auto w-full lg:w-2/4">
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-75' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative transparent accueil" to="/">Accueil</n-link>
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-100' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/institut/">L'Institut</n-link>
-			<n-link :class="open ? 'translate-y-0 opacity-100 delay-150' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/publications/">Publications</n-link>
-			<a :class="open ? 'translate-y-0 opacity-100 delay-200' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UC5pChIcpowCGXCTUg1exCHg/?guided_help_flow=5">IHEI TV</a>
+			<n-link :class="open ? 'translate-y-0 opacity-100 delay-150' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/publications/">Publications</n-link>																													
+			<a :class="open ? 'translate-y-0 opacity-100 delay-200' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="lg:hidden transform transition duration-150 relative" target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UC5pChIcpowCGXCTUg1exCHg/?guided_help_flow=5">IHEI TV</a>
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 relative" to="/contact/">Contact</n-link>
+		</div>
+
+		<div class="lg:flex hidden lg:w-1/4 justify-end">
+			<a :class="open ? 'translate-y-0 opacity-100 delay-200' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="border-black border-2 rounded px-2 transform transition duration-150 relative hover:bg-black hover:text-white no-underline																																																																																																																																																																																																																																																																																															" target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UC5pChIcpowCGXCTUg1exCHg/?guided_help_flow=5">IHEI TV</a>
 		</div>
 	</nav>
 </template>

@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<!-- Header -->
-		<header class="bg-champagne pb-12 pt-6">
+		<header class="pb-12 pt-6">
 			<div class="container lg:flex lg:space-x-8">
 				<div class="lg:w-1/4">
 					<h1>{{category.titre}}</h1>
