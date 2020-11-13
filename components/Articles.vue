@@ -2,7 +2,7 @@
 	<section class="grid grid-cols-1 lg:grid-cols-2 gap-16">
 
 		<div class="lg:flex lg:space-x-4 items-center" v-for="p in posts" :key="p.slug">
-			<div class="flex-shrink-0 h-40 w-40 rounded-full mb-4 md:mb-0 bg-gray-100 ">
+			<div class="flex-shrink-0 h-40 w-40 rounded-full mb-4 md:mb-0 bg-gray-100">
 				<img v-if="p.couverture" class="h-40 w-40 rounded-full object-cover object-top border" :src="p.couverture" alt="">
 			</div>
 			<div>

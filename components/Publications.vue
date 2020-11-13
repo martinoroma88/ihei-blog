@@ -1,10 +1,8 @@
 <template>
-	<section class="grid lg:gap-12 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-		<div class="" v-for="p in posts" :key="p.slug">
-			<!-- <p class="text-gray-600 mr-6">{{$dateFns.format(new Date(p.date), 'dd/MM/yyyy')}}</p> -->
-			
+	<section class="grid gap-12 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+		<div v-for="p in posts" :key="p.slug">
 			<div class="flex-shrink-0 w-full mb-4">
-				<img v-if="p.couverture" class="mt-2 w-full object-cover rounded shadow" :src="p.couverture" alt="">
+				<img v-if="p.couverture" class="mt-2 mx-auto lg:mx-0 lg:w-32 w-auto h-48 object-cover rounded shadow" :src="p.couverture" alt="">
 			</div>
 			<div>
 				<!-- Title linked to page or to external url-->

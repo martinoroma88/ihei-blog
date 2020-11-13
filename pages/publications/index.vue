@@ -20,7 +20,7 @@
 			</aside>
 			
 			<!-- Posts feed -->
-			<div class="lg:w-3/4 pt-12">
+			<div class="lg:w-3/4 pt-12 text-center lg:text-left">
 				<h1>Publications</h1>
 				<Publications class="flex-1" :posts="posts" baseurl="publications"/>
 			</div>

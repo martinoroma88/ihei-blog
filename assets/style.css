@@ -62,3 +62,14 @@ h3 {
     @apply text-xl;
   }
 }
+
+h4 {
+  @apply text-base mb-1;
+  @screen lg {
+    @apply text-lg;
+  }
+}
+
+.shape-circle {
+  shape-outside: circle(50%);
+}
