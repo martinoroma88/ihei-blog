@@ -18,7 +18,7 @@
 			<!-- Sidebar -->
 			<aside class="lg:w-1/4 space-y-8">
 				<!-- <Sidenav class="" /> -->
-				<Categories class="sticky top-0 pt-16" :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
+				<Categories class="sticky top-0 pt-12" :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
 			</aside>
 			
 			<!-- Posts feed -->
