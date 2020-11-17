@@ -1,6 +1,6 @@
 <template>
+	<!-- TODO - set proper min-height -->
 	<section class="grid grid-cols-1 lg:grid-cols-2 gap-10 text-center md:text-left">
-
 		<div class="md:flex md:space-x-4 items-center" v-for="p in posts" :key="p.slug">
 			<div class="flex-shrink-0 h-24 w-24 mx-auto md:mx-0 rounded-lg mb-4 md:mb-0 bg-gray-100 border">
 				<img v-if="p.couverture" class="h-24 w-24 rounded-lg object-cover object-top" :src="p.couverture" alt="">

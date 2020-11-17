@@ -1,24 +1,18 @@
 <template>
 	<div>
-		<!-- <header class="bg-champagne pb-12 pt-6">
-			<div class="container lg:flex lg:space-x-8">
-				<div class="lg:w-1/4">
-					<p class="text-sm mt-2"><n-link to="/publications/">Publications</n-link> > <br> <n-link class="transparent" :to="'/articles/'+category.slug+'/'">{{category.titre}}</n-link></p>
-				</div>
-				<div class="lg:w-2/4">
-					<h1>{{post.titre}}</h1>
-					<p v-if="post.soustitre">{{post.soustitre}}</p>
-				</div>
-			</div>
-		</header> -->
-
-		<div class="container flex lg:space-x-8">
+		<div class="container lg:flex lg:space-x-8">
+			<!-- Sidebar -->
 			<aside class="lg:w-1/4">
-				<div class="sticky top-0 pt-16">
+				<div class="sticky top-0 pt-12">
 					<img v-if="post.couverture" :src="post.couverture" class="w-full rounded overflow-hidden" alt="">
 				</div>
 			</aside>
-			<div class="lg:w-2/3 pt-16">
+
+			<!-- Posts -->
+			<div class="lg:w-2/3 pt-12">
+				<p class="underline-links mb-4">
+					<n-link :to="'/publications/'+category.slug">{{category.titre}}</n-link>
+				</p>
 				<h1>{{post.titre}}</h1>
 				<p v-if="post.soustitre">{{post.soustitre}}</p>
 				<nuxt-content class="prose" :document="post" />

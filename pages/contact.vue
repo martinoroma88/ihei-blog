@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<div class="container flex lg:space-x-8">
+		<div class="container lg:flex lg:space-x-8">
 			<aside class="lg:w-1/4 pt-16">
 				<h1>Contact</h1>
         <address class="mb-4">

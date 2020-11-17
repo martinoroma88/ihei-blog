@@ -3,7 +3,6 @@ titre: "Les secrets des cinq piliers de l’islam"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654416/ihei/couvertures/islam-en-pratique-9_pzayty.jpg"
 categories: 
-    - "Actualité"
     - "Traductions"
 auteur: 
     - "traduit par Jean Abd al-Wadoud Gouraud"

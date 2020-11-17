@@ -3,14 +3,13 @@
 		<div class="container lg:flex justify-between lg:space-x-8">
 			<!-- Sidebar -->
 			<aside class="lg:w-1/4">
-				<!-- <Sidenav class="" /> -->
-				<Categories class="sticky top-0 pt-2" :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}" />
+				<Categories class="sticky top-0 pt-3" :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}" />
 			</aside>
-			
+		
 			<!-- Posts feed -->
-			<div class="lg:w-3/4">
+			<div class="lg:w-3/4 pt-3">
 				<p v-if="category.soustitre">{{category.soustitre}}</p>
-				<nuxt-content class="font-serif text-gray-800 italic mb-8" :document="category" />
+				<nuxt-content class="font-serif text-gray-800 italic mb-8 underline-links" :document="category" />
 				<Articles class="flex-1" :posts="posts" baseurl="articles"/>
 			</div>
 		</div>

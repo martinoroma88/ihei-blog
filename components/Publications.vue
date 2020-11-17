@@ -7,6 +7,7 @@
 			<div>
 				<!-- Title linked to page or to external url-->
 				<h3 v-if="p.url"><a class="link text-xl" :href="p.url" target="_blank">{{p.titre}}</a></h3>
+				<h3 v-else-if="p.collection"><n-link class="link text-xl" :to="'/'+baseurl+'/'+p.collection">{{p.titre}}</n-link></h3>
 				<h3 v-else><n-link class="link text-xl" :to="'/'+baseurl+'/'+p.category.slug+'/'+p.slug">{{p.titre}}</n-link></h3>
 				<!-- Auteur -->
 				<p v-if="p.auteur" class="text-gray-800">

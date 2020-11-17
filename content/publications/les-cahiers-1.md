@@ -2,7 +2,6 @@
 titre: "Les Cahiers 1"
 soustitre: "L'Identité du Dieu unique du Christianisme et de l'Islam"
 date: "2020-09-01"
-collection: true
 categories:
     - "Les Cahiers"
 ---

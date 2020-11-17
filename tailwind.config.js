@@ -9,7 +9,8 @@ module.exports = {
         "violet": "#6b77d1ff",
         "pink": "#d6b0c7ff",
         "azure": "#00B5E2",
-        "blue": "#172A39"
+        "blue": "#172A39",
+        "light": "#f7f7f7"
       }
     },
     fontFamily: {

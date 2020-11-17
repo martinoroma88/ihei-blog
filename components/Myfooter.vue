@@ -1,4 +1,5 @@
 <template>
+  <!-- TODO - Add liens utils, subscribe, social links, privacy policy, cookie policy -->
   <footer class="bg-gray-200 mt-12 font-sans">
     <div class="container lg:flex justify-between">
       <p>&copy; Institut des Hautes Etudes Islamiques</p>

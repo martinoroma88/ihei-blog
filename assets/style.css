@@ -36,6 +36,10 @@ a:hover:not(.no-underline) {
   @apply underline;
 }
 
+.underline-links a {
+  @apply underline;
+}
+
 .nuxt-link-exact-active:not(.transparent) {
   @apply font-bold bg-cyan text-white px-1 rounded-sm;
 }
