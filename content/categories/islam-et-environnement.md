@@ -1,5 +1,5 @@
 ---
-titre: "Environnement et écologie"
+titre: "Environnement"
 ordre: 4
 ---
 

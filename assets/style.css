@@ -41,7 +41,7 @@ a:hover:not(.no-underline) {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  @apply font-bold leading-tight text-black font-sans;
+  @apply font-bold leading-tight text-black font-sans text-blue;
 }
 
 h1 {

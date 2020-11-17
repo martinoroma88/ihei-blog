@@ -1,6 +1,6 @@
 <template>
 	<!-- NAVBAR -->
-	<nav class="w-full flex items-center justify-between lg:space-x-8">
+	<nav class="w-full flex items-center justify-between lg:space-x-8 mb-4">
 		<!-- BRAND -->
 		<div class="z-10 relative lg:w-1/4">
 			<div>

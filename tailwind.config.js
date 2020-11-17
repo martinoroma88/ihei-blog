@@ -7,7 +7,9 @@ module.exports = {
         "turquoise": "#bce3cbff",
         "cyan": "#01b5e2ff",
         "violet": "#6b77d1ff",
-        "pink": "#d6b0c7ff"
+        "pink": "#d6b0c7ff",
+        "azure": "#00B5E2",
+        "blue": "#172A39"
       }
     },
     fontFamily: {

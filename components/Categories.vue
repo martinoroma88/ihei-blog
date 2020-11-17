@@ -1,13 +1,9 @@
 <template>
 	<div class="overflow-y-hidden w-full">
-		<ul id="categories" class="lg:space-y-3 font-sans flex lg:block lg:space-x-0 space-x-6 overflow-x-auto">
-			<li class="whitespace-no-wrap p-3 lg:p-0" v-if="main">
-				<n-link class="link" :to="main.url">{{main.title}}</n-link>
-			</li>
-			<li class="whitespace-no-wrap p-3 lg:p-0" v-for="c in categories" :key="c.slug">
-				<n-link class="link" :to="'/'+baseurl+'/'+c.slug">{{c.titre}}</n-link>
-			</li>
-		</ul>
+		<nav id="categories" class="font-sans flex lg:flex-col lg:space-x-0 space-x-6 overflow-x-auto">
+			<n-link class="link transparent" v-if="main" :to="main.url">{{main.title}}</n-link>
+			<n-link class="link transparent" v-for="c in categories" :key="c.slug" :to="'/'+baseurl+'/'+c.slug">{{c.titre}}</n-link>
+		</nav>
 	</div>
 </template>
 
@@ -24,3 +20,18 @@ export default {
 	}
 }
 </script>
+
+<style scoped>
+	nav a {
+		@apply whitespace-no-wrap p-2 text-blue;
+		@screen lg {
+			@apply whitespace-normal px-0 pb-3 pt-0;
+		}
+	} 
+	.nuxt-link-exact-active {
+		@apply order-first font-bold mb-4 pt-3;
+		@screen lg {
+			@apply text-xl border-b border-t border-azure;
+		}
+	}
+</style>
