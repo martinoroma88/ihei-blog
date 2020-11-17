@@ -20,7 +20,7 @@ export default {
 		/* console.log(active);
 		const leftPos = active.offsetLeft;
 		categories.scrollLeft = leftPos; */
-		active.scrollIntoView({behavior: "smooth", inline: "center"});
+		active.scrollIntoView({behavior: "smooth"});
 	}
 }
 </script>
