@@ -1,9 +1,9 @@
 <template>
 	<!-- TODO - set proper min-height -->
-	<section class="grid grid-cols-1 lg:grid-cols-2 gap-10 text-center md:text-left">
-		<div class="md:flex md:space-x-4 items-center" v-for="p in posts" :key="p.slug">
-			<div class="flex-shrink-0 h-24 w-24 mx-auto md:mx-0 rounded-lg mb-4 md:mb-0 bg-gray-100 border">
-				<img v-if="p.couverture" class="h-24 w-24 rounded-lg object-cover object-top" :src="p.couverture" alt="">
+	<section class="grid grid-cols-1 lg:grid-cols-2 gap-10 text-left">
+		<div class="flex space-x-4 items-center" v-for="p in posts" :key="p.slug">
+			<div class="flex-shrink-0 h-20 w-20 md:h-24 md:w-24 rounded bg-gray-100 border">
+				<img v-if="p.couverture" class="h-20 w-20 md:h-24 md:w-24 rounded object-cover object-top" :src="p.couverture" alt="">
 			</div>
 			<div>
 				<!-- Title linked to page or to external url-->
