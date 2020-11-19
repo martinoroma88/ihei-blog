@@ -9,13 +9,8 @@
 				<!-- Title linked to page or to external url-->
 				<p v-if="p.url"><a class="link font-bold font-sans" :href="p.url" target="_blank">{{p.titre}}</a></p>
 				<p v-else><n-link class="link font-bold font-sans" :to="'/'+baseurl+'/'+p.category.slug+'/'+p.slug">{{p.titre}}</n-link></p>
-				<!-- Auteur -->
-				<p v-if="p.auteur" class="text-gray-800 text-sm font-sans">
-					<span v-for="(a, i) in p.auteur" :key="i">
-						{{a}}
-						<span v-if="i < p.auteur.lenght">,&nbsp;</span>
-					</span>
-				</p>
+				<!-- Auteur/s -->
+				<Auteurs class="text-sm" v-if="p.auteur" :auteurs="p.auteur" />
 			</div>
 		</div> 
 	</section>

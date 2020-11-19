@@ -1,8 +1,8 @@
 <template>
-	<section class="grid gap-12 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-		<div v-for="p in posts" :key="p.slug">
-			<div class="flex-shrink-0 w-full mb-4">
-				<img v-if="p.couverture" class="mt-2 mx-auto lg:mx-0 lg:w-32 w-auto h-48 object-cover rounded shadow" :src="p.couverture" alt="">
+	<div class="grid gap-12 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+		<div v-for="p in posts" :key="p.slug" class="flex items-center md:block">
+			<div class="md:mb-4 flex-shrink-0 w-1/3 md:w-full mr-4 md:mr-0">
+				<img v-if="p.couverture" class="mt-2 mx-auto md:mx-0 md:w-32 w-24 h-auto object-cover rounded shadow" :src="p.couverture" alt="">
 			</div>
 			<div>
 				<!-- Title linked to page or to external url-->
@@ -18,7 +18,7 @@
 				</p>
 			</div>
 		</div> 
-	</section>
+	</div>
 </template>
 
 <script>

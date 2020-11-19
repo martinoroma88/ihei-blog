@@ -1,5 +1,5 @@
 <template>
-	<div class="md:grid grid-cols-4 gap-16">
+	<div class="my-grid">
 		<aside>
 			<Sidebar :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
 		</aside>

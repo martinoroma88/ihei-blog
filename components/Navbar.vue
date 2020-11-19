@@ -1,6 +1,6 @@
 <template>
 	<!-- NAVBAR -->
-	<nav :class="accueil ? 'accueil' : ''" class="w-full grid grid-cols-4 gap-16 items-center justify-between mb-12 z-30 font-sans realtive">
+	<nav :class="accueil ? 'accueil' : ''" class="w-full grid grid-cols-4 gap-16 items-center justify-between mb-6 pb-6 border-b z-30 font-sans realtive">
 		<!-- BRAND -->
 		<div class="z-20 relative col-span-3 lg:col-span-1">
 			<div>
@@ -28,7 +28,7 @@
 		</div>
 
 		<!-- NAVIGATION ITEMS -->
-		<div ref="items" :class="open ? 'scale-100' : 'scale-0 lg:scale-100'" class="transform absolute lg:static inset-0 flex items-center justify-center lg:justify-between flex-col lg:flex-row space-y-6 lg:space-y-0 h-screen lg:h-auto w-full col-span-3 z-10" >
+		<div ref="items" :class="open ? 'scale-100' : 'scale-0 lg:scale-100'" class="font-bold transform absolute lg:static inset-0 flex items-center justify-center lg:justify-between flex-col lg:flex-row space-y-6 lg:space-y-0 h-screen lg:h-auto w-full col-span-3 z-10" >
 			<!-- Internal links -->
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-75' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 text-white lg:text-blue transparent accueil-link" to="/">Accueil</n-link>
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-100' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 text-white lg:text-blue" to="/institut/">L'Institut</n-link>

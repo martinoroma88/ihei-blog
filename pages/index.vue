@@ -1,10 +1,10 @@
 <template>
-	<div class="md:grid grid-cols-4 gap-16">
-			<aside>
-				<Sidebar :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
-			</aside>
-			
-			<Articles class="col-span-3" :posts="posts" baseurl="articles" />
+	<div class="my-grid">
+		<aside>
+			<Sidebar :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
+		</aside>
+		
+		<Articles class="md:col-span-3" :posts="posts" baseurl="articles" />
 	</div>
 </template>
 

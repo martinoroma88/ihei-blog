@@ -14,6 +14,16 @@ body, html {
 
 .container {
   @apply mx-auto p-4;
+  @screen lg {
+    @apply p-6
+  }
+}
+
+.my-grid {
+  @apply grid grid-cols-1 gap-12;
+  @screen md {
+    @apply grid-cols-4 gap-16;
+  }
 }
 
 .content p:not(:last-child) {
@@ -40,35 +50,31 @@ a:hover:not(.no-underline) {
   @apply underline;
 }
 
-.nuxt-link-exact-active:not(.transparent) {
-  @apply font-bold bg-cyan text-white px-1 rounded-sm;
-}
-
 h1, h2, h3, h4, h5, h6 {
   @apply font-bold leading-tight text-black font-sans text-blue;
 }
 
 h1 {
-  @apply text-2xl mb-4;
+  @apply text-2xl;
   @screen lg {
-    @apply text-3xl mb-6;
+    @apply text-3xl;
   }
 }
 h2 {
-  @apply text-xl mb-3;
+  @apply text-xl;
   @screen lg {
-    @apply text-2xl mb-4;
+    @apply text-2xl;
   }
 }
 h3 {
-  @apply text-lg mb-1;
+  @apply text-lg;
   @screen lg {
     @apply text-xl;
   }
 }
 
 h4 {
-  @apply text-base mb-1;
+  @apply text-base;
   @screen lg {
     @apply text-lg;
   }

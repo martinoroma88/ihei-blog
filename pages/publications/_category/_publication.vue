@@ -1,22 +1,18 @@
 <template>
-	<div>
-		<div class="container lg:flex lg:space-x-8">
-			<!-- Sidebar -->
-			<aside class="lg:w-1/4">
-				<div class="sticky top-0 pt-12">
-					<img v-if="post.couverture" :src="post.couverture" class="w-full rounded overflow-hidden" alt="">
-				</div>
-			</aside>
-
-			<!-- Posts -->
-			<div class="lg:w-2/3 pt-12">
-				<p class="underline-links mb-4">
-					<n-link :to="'/publications/'+category.slug">{{category.titre}}</n-link>
-				</p>
+	<div class="my-grid">
+		<aside>
+			<div class="lg:sticky top-0 space-y-4">
 				<h1>{{post.titre}}</h1>
 				<p v-if="post.soustitre">{{post.soustitre}}</p>
-				<nuxt-content class="prose" :document="post" />
+				<p class="text-gray-700"><n-link class="link font-sans" :to="'/publications/'+category.slug+'/'">{{category.titre}}</n-link></p>
+				<img v-if="post.couverture" :src="post.couverture" class="w-full mb-4 lg:mb-0 object-contain rounded overflow-hidden" alt="">
 			</div>
+		</aside>
+		
+		<div class="md:col-span-3 space-y-8">
+			<!-- Auteur/s -->
+			<Auteurs v-if="post.auteur" :auteurs="post.auteur" />
+			<nuxt-content class="prose" :document="post" />
 		</div>
 	</div>
 </template>
