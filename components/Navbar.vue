@@ -1,6 +1,9 @@
 <template>
 	<!-- NAVBAR -->
 	<nav :class="accueil ? 'accueil' : ''" class="w-full grid grid-cols-4 gap-16 items-center justify-between mb-6 pb-6 border-b z-30 font-sans realtive">
+		<!-- BG LAYER -->
+		<div :class="open ? 'opacity-100 delay-75 h-full' : 'delay-400 opacity-0'" class="lg:hidden transition duration-200 bg-blue w-full top-0 left-0 fixed z-10"></div>
+		
 		<!-- BRAND -->
 		<div class="z-20 relative col-span-3 lg:col-span-1">
 			<div>
@@ -10,20 +13,11 @@
 			</div>
 		</div>
 
-		<!-- BG LAYER, second element because of .justify-between parent option -->
-		<div :class="open ? 'opacity-100 delay-75 h-full' : 'delay-400 opacity-0'" class="lg:hidden transition duration-200 bg-blue w-full top-0 left-0 fixed z-10"></div>
-
-		<!-- HAMBURGER BTN -->
-		<!-- <div @click="toggle()" class="lg:hidden w-6 h-10 py-2 flex flex-col justify-around cursor-default relative z-10">
-			<div :class="open ? 'bg-azure translate-y-2' : 'translate-y-0'" class="transform transition duration-100 w-full h-1 bg-blue rounded-sm"></div>
-			<div :class="open ? 'bg-azure scale-x-0' : 'scale-x-1'" class="transform origin-right transition duration-75 w-full h-1 bg-blue rounded-sm"></div>
-			<div :class="open ? 'bg-azure scale-x-0' : 'scale-x-1'" class="transform transition duration-100 w-full h-1 bg-blue rounded-sm"></div>
-		</div> -->
-
-		<div v-if="open" @click="toggle()" class="lg:hidden text-white relative z-10">
+		<!-- Hamburger icon -->
+		<div v-if="open" @click="toggle()" class="lg:hidden text-white relative z-20">
 			<IconClose />
 		</div>
-		<div v-else @click="toggle()" class="lg:hidden text-blue relative z-10">
+		<div v-else @click="toggle()" class="lg:hidden text-blue relative z-20">
 			<IconMenu />
 		</div>
 

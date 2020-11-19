@@ -4,7 +4,7 @@
 			<Sidebar :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
 		</aside>
 		
-		<div class="col-span-3 space-y-8">
+		<div class="md:col-span-3 space-y-8">
 			<nuxt-content class="font-serif text-gray-800 underline-links leading-relaxed p-2 lg:p-4 rounded bg-gray-100" :document="category" />
 			<Articles :posts="posts" baseurl="articles" />
 		</div>
