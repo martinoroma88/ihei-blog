@@ -4,14 +4,20 @@
 			<div class="lg:sticky top-0 space-y-4">
 				<h1>{{post.titre}}</h1>
 				<p v-if="post.soustitre">{{post.soustitre}}</p>
-				<p class="text-gray-700"><n-link class="link font-sans" :to="'/articles/'+category.slug+'/'">{{category.titre}}</n-link></p>
+				<p class="text-gray-700"><n-link class="flex space-x-2 items-center link font-sans" :to="'/articles/'+category.slug+'/'">
+					<IconCollection />
+					<span>{{category.titre}}</span>
+				</n-link></p>
 				<img v-if="post.couverture" :src="post.couverture" class="w-full mb-4 lg:mb-0 object-contain rounded overflow-hidden" alt="">
 			</div>
 		</aside>
 		
 		<div class="md:col-span-3 space-y-8">
 			<!-- Auteur/s -->
-			<Auteurs v-if="post.auteur" :auteurs="post.auteur" />
+			<div class="flex items-center space-x-2 text-gray-700">
+				<IconUser />
+				<Auteurs v-if="post.auteur" :auteurs="post.auteur" />
+			</div>
 			<!-- Contenu -->
 			<nuxt-content class="prose" :document="post" />
 		</div>

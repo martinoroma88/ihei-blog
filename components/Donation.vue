@@ -1,7 +1,7 @@
 <template>
   <div>
     <button class="hover:text-gray-800 focus:text-gray-900 transition duration-75 font-sans flex items-center space-x-2" @click="isOpen = true">
-      <IconCash />
+      <IconThumb />
       <span>Donation</span>
     </button>
 
