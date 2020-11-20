@@ -1,10 +1,11 @@
 <template>
-	<div class="overflow-y-hidden w-full md:sticky top-0">
+	<div class="overflow-y-hidden w-full md:sticky top-0 space-y-4">
 		<nav id="sidebar" class="font-sans flex lg:flex-col lg:items-start items-center overflow-x-auto">
 			<n-link class="link transparent" v-if="main" :to="main.url">{{main.title}}</n-link>
 			<n-link class="link transparent" v-for="c in categories" :key="c.slug" :to="'/'+baseurl+'/'+c.slug">{{c.titre}}</n-link>
 		</nav>
-		<Donation />
+		<Newsletter class="hidden lg:block" />
+		<Donation class="hidden lg:block" />
 	</div>
 </template>
 
