@@ -51,9 +51,9 @@ export default {
 		}
 	} 
 	#sidebar .nuxt-link-exact-active {
-		@apply order-first font-bold text-xl pl-0 border-t border-b border-gray-500;
+		@apply order-first font-bold text-lg;
 		@screen lg {
-			@apply text-xl py-2 mb-2 mt-2;
+			@apply my-2;
 		}
 	}
 	#mobile-submenu .nuxt-link-exact-active {
