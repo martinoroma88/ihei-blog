@@ -17,15 +17,15 @@ export default {
 
 <style>
 	#sidebar a {
-		@apply whitespace-no-wrap px-2 py-4 text-blue;
+		@apply whitespace-no-wrap px-2 py-3;
 		@screen lg {
-			@apply whitespace-normal px-0 pb-3 pt-0;
+			@apply whitespace-normal px-0 py-1;
 		}
 	} 
 	#sidebar .nuxt-link-exact-active {
-		@apply order-first font-bold text-azure text-2xl -mt-2 pl-0 border-b border-azure;
+		@apply order-first font-bold text-xl pl-0 border-t border-b border-gray-500;
 		@screen lg {
-			@apply text-xl py-2 mb-2;
+			@apply text-xl py-2 mb-2 mt-2;
 		}
 	}
 </style>

@@ -1,6 +1,6 @@
 <template>
 	<!-- NAVBAR -->
-	<nav :class="accueil ? 'accueil' : ''" class="w-full grid grid-cols-4 gap-16 items-center justify-between mb-6 pb-6 border-b z-30 font-sans realtive">
+	<nav :class="accueil ? 'accueil' : ''" class="w-full grid grid-cols-4 gap-16 items-center justify-between mb-12 z-30 font-sans relative">
 		<!-- BG LAYER -->
 		<div :class="open ? 'opacity-100 delay-75 h-full' : 'delay-400 opacity-0'" class="lg:hidden transition duration-200 bg-blue w-full top-0 left-0 fixed z-10"></div>
 		
@@ -17,24 +17,24 @@
 		<div v-if="open" @click="toggle()" class="lg:hidden text-white relative z-20">
 			<IconClose />
 		</div>
-		<div v-else @click="toggle()" class="lg:hidden text-blue relative z-20">
+		<div v-else @click="toggle()" class="lg:hidden relative z-20">
 			<IconMenu />
 		</div>
 
 		<!-- NAVIGATION ITEMS -->
-		<div ref="items" :class="open ? 'scale-100' : 'scale-0 lg:scale-100'" class="font-bold transform absolute lg:static inset-0 flex items-center justify-center lg:justify-between flex-col lg:flex-row space-y-6 lg:space-y-0 h-screen lg:h-auto w-full col-span-3 z-10" >
+		<div ref="items" :class="open ? 'scale-100' : 'scale-0 lg:scale-100'" class="text-white lg:text-blue font-bold transform absolute lg:static inset-0 flex items-center justify-center lg:justify-between flex-col lg:flex-row space-y-6 lg:space-y-0 h-screen lg:h-auto w-full col-span-3 z-10" >
 			<!-- Internal links -->
-			<n-link :class="open ? 'translate-y-0 opacity-100 delay-75' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 text-white lg:text-blue transparent accueil-link" to="/">Accueil</n-link>
-			<n-link :class="open ? 'translate-y-0 opacity-100 delay-100' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 text-white lg:text-blue" to="/institut/">L'Institut</n-link>
-			<n-link :class="open ? 'translate-y-0 opacity-100 delay-150' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 text-white lg:text-blue" to="/publications/">Publications</n-link>								
-			<n-link :class="open ? 'translate-y-0 opacity-100 delay-200' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 text-white lg:text-blue" to="/contact/">Contact</n-link>
+			<n-link :class="open ? 'translate-y-0 opacity-100 delay-75' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 transparent accueil-link" to="/">Accueil</n-link>
+			<n-link :class="open ? 'translate-y-0 opacity-100 delay-100' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150" to="/institut/">L'Institut</n-link>
+			<n-link :class="open ? 'translate-y-0 opacity-100 delay-150' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150" to="/publications/">Publications</n-link>								
+			<n-link :class="open ? 'translate-y-0 opacity-100 delay-200' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150" to="/contact/">Contact</n-link>
 			<!-- Search input -->
 			<div :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 mb-6 lg:mb-0 order-6 lg:order-none">
-				<input class="p-1 rounded border-2 border-blue text-center lg:text-left" type="search" placeholder="Chercher" name="" id="">
+				<input class="py-1 px-2 rounded-full border-2 border-blue text-center lg:text-left" type="search" placeholder="Chercher" name="" id="">
 			</div>
 			<!-- External link -->
-			<a :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 text-white lg:text-blue" target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UC5pChIcpowCGXCTUg1exCHg/?guided_help_flow=5">IHEI TV</a>
-			<div @click="toggle()" :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 mb-6 lg:mb-0 text-white lg:text-blue lg:hidden order-7">
+			<a :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150" target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UC5pChIcpowCGXCTUg1exCHg/?guided_help_flow=5">IHEI TV</a>
+			<div @click="toggle()" :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 mb-6 lg:mb-0 lg:hidden order-7">
 				<IconUp />
 			</div>
 		</div>

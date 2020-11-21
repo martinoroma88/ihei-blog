@@ -5,7 +5,7 @@
 		</aside>
 		
 		<div class="md:col-span-3 space-y-8">
-			<nuxt-content class="static font-serif text-gray-800 underline-links leading-relaxed p-2 lg:p-4 rounded bg-gray-100" :document="category" />
+			<nuxt-content class="static font-serif text-gray-800 underline-links leading-relaxed p-2 lg:p-4 rounded bg-gray-200" :document="category" />
 			<Articles :posts="posts" baseurl="articles" />
 		</div>
 	</div>

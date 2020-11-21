@@ -1,5 +1,5 @@
 <template>
-  <div class="text-gray-900 font-serif container">
+  <div class="text-blue font-serif container">
     <Navbar />
     <Nuxt />
     <Myfooter />
