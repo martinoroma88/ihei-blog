@@ -8,7 +8,7 @@
 		<div class="z-20 relative col-span-3 lg:col-span-1">
 			<div>
 				<n-link class="transparent" to="/">
-					<img class="h-16" src="https://res.cloudinary.com/genesi-communication-design/image/upload/v1603723363/ihei/logo-ihei_qximqt.svg" alt="Logo IHEI Institut des Hautes Etudes Islamiques">
+					<img class="h-20" src="https://res.cloudinary.com/genesi-communication-design/image/upload/v1603723363/ihei/logo-ihei_qximqt.svg" alt="Logo IHEI Institut des Hautes Etudes Islamiques">
 				</n-link>
 			</div>
 		</div>
