@@ -1,11 +1,12 @@
 <template>
 	<div class="my-grid">
 		<aside>
+			<h1 class="lg:hidden mb-4">{{category.titre}}</h1>
 			<Sidebar :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
 		</aside>
 		
 		<div class="md:col-span-3 space-y-8">
-			<nuxt-content class="static font-serif text-gray-800 underline-links leading-relaxed p-2 lg:p-4 rounded bg-gray-200" :document="category" />
+			<nuxt-content class="static font-serif text-lightblue underline-links leading-relaxed p-3 lg:p-4 rounded bg-gray-200" :document="category" />
 			<Articles :posts="posts" baseurl="articles" />
 		</div>
 	</div>

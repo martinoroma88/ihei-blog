@@ -1,30 +1,13 @@
 <template>
-	<div>
-
-		<!-- <header class="bg-champagne pb-6 pt-3">
-			<div class="container lg:flex lg:space-x-8">
-				<div class="lg:w-1/4">
+	<div class="my-grid">
+		<aside>
+			<Sidebar :categories="pages" baseurl="institut" />
+		</aside>
 		
-				</div>
-				<div class="lg:w-3/4">
-					<h1>{{page.titre}}</h1>
-				</div>
-			</div>
-		</header> -->
-
-		<div class="container lg:flex justify-between lg:space-x-8">
-			<!-- Sidebar -->
-			<aside class="lg:w-1/4 space-y-8">
-				<!-- <Sidenav class="" /> -->
-				<Categories class="sticky top-0 pt-16" :categories="pages" baseurl="institut"/>
-			</aside>
-			
-			<!-- Posts feed -->
-			<div class="lg:w-3/4 pt-16">
-				<h1>{{page.titre}}</h1>
-				<nuxt-content class="prose" :document="page" />
-			</div>
+		<div class="md:col-span-3 space-y-8">
+			<nuxt-content class="prose" :document="page" />
 		</div>
+	
 	</div>
 </template>
 

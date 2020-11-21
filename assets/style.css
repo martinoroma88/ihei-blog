@@ -20,26 +20,19 @@ body, html {
 }
 
 .my-grid {
-  @apply grid grid-cols-1 gap-12;
+  @apply grid grid-cols-1 gap-10;
   @screen md {
     @apply grid-cols-4 gap-16;
   }
 }
-
-.content p:not(:last-child) {
-  @apply mb-4;
-}
-
-.content blockquote:not(:last-child) {
-  @apply py-4;
-}
-
-.content blockquote {
-  @apply text-lg text-center italic font-serif;
-}
-.content blockquote:before, .content blockquote:after {
-  content: "";
-  @apply border-t border-gray-300 w-16 block mx-auto my-4;
+.my-subgrid {
+  @apply grid gap-10 grid-cols-1;
+  @screen md {
+    @apply grid-cols-2;
+  }
+  @screen lg {
+    @apply grid-cols-3;
+  }
 }
 
 a:hover:not(.no-underline) {
@@ -51,7 +44,7 @@ a:hover:not(.no-underline) {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  @apply font-bold leading-tight text-black font-sans text-blue;
+  @apply font-bold leading-tight text-blue font-sans text-blue;
 }
 
 h1 {
@@ -78,8 +71,4 @@ h4 {
   @screen lg {
     @apply text-lg;
   }
-}
-
-.shape-circle {
-  shape-outside: circle(50%);
 }

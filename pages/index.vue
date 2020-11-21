@@ -1,9 +1,10 @@
 <template>
 	<div class="my-grid">
 		<aside>
+			<h1 class="lg:hidden mb-4">Tous les articles</h1>
 			<Sidebar :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
 		</aside>
-		
+
 		<Articles class="md:col-span-3" :posts="posts" baseurl="articles" />
 	</div>
 </template>

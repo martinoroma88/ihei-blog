@@ -1,6 +1,6 @@
 <template>
   <div>
-    <button class="hover:text-gray-800 focus:text-gray-900 transition duration-75 font-sans flex items-center space-x-2" @click="isOpen = true">
+    <button class="hover:text-lightblue focus:text-blue transition duration-75 font-sans flex items-center space-x-2" @click="isOpen = true">
       <IconMail />
       <span>Newsletter</span>
     </button>
@@ -19,7 +19,7 @@
         <p>IBAN : FR76 3000 4006 7600 0211 6486 749<br>
         BIC : BNPAFRPPAIP</p>
 
-        <button @click="isOpen = false" class="font-sans border-gray-700 border-2 font-bold text-gray-700 bg-white shadow rounded px-4 py-2 hover:border-gray-800 hover:shadow-lg hover:text-gray-800 focus:shadow-none focus:border-gray-900 focus:text-gray-900 transition duration-75">Fermer</button>
+        <button @click="isOpen = false" class="font-sans border-gray-700 border-2 font-bold text-lighterblue bg-white shadow rounded px-4 py-2 hover:border-gray-800 hover:shadow-lg hover:text-lightblue focus:shadow-none focus:border-gray-900 focus:text-blue transition duration-75">Fermer</button>
       </div>
 
     </div>

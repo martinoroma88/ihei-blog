@@ -4,7 +4,7 @@
 			<div class="lg:sticky top-0 space-y-4">
 				<h1>{{post.titre}}</h1>
 				<p v-if="post.soustitre">{{post.soustitre}}</p>
-				<p class="text-gray-700"><n-link class="flex space-x-2 link font-sans" :to="'/articles/'+category.slug+'/'">
+				<p class="text-lighterblue"><n-link class="flex space-x-2 link font-sans" :to="'/articles/'+category.slug+'/'">
 					<IconCollection />
 					<span>{{category.titre}}</span>
 				</n-link></p>

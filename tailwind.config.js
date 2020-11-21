@@ -9,7 +9,9 @@ module.exports = {
         "violet": "#6b77d1ff",
         "pink": "#d6b0c7ff",
         "azure": "#00B5E2",
-        "blue": "#172A39",
+        "blue": "#11202C",
+        "lightblue": "#1d3649",
+        "lighterblue": "#234158",
         "light": "#f7f7f7"
       }
     },
@@ -20,7 +22,7 @@ module.exports = {
     typography: (theme) => ({
       default: {
         css: {
-          color: theme('colors.gray.700'),
+          color: theme('colors.lightblue'),
         },
       },
     }),
