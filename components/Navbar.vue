@@ -30,7 +30,7 @@
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-200' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150" to="/contact/">Contact</n-link>
 			<!-- Search input -->
 			<div :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 mb-6 lg:mb-0 order-6 lg:order-none">
-				<input class="py-1 px-2 rounded-full border-2 border-blue text-center lg:text-left" type="search" placeholder="Chercher" name="" id="">
+				<input class="py-1 px-2 rounded-full border-2 border-lighterblue text-center lg:text-left" type="search" placeholder="Chercher" name="" id="">
 			</div>
 			<!-- External link -->
 			<a :class="open ? 'translate-y-0 opacity-100 delay-300' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150" target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UC5pChIcpowCGXCTUg1exCHg/?guided_help_flow=5">IHEI TV</a>

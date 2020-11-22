@@ -53,7 +53,7 @@ export default {
 	#sidebar .nuxt-link-exact-active {
 		@apply order-first font-bold text-lg;
 		@screen lg {
-			@apply my-2;
+			@apply my-2 border-t-2 border-b-2 border-lighterblue;
 		}
 	}
 	#mobile-submenu .nuxt-link-exact-active {

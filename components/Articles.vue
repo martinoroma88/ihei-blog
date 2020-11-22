@@ -1,5 +1,4 @@
 <template>
-	<!-- TODO - set proper min-height -->
 	<section class="grid grid-cols-1 lg:grid-cols-2 gap-10 text-left">
 		<div class="flex space-x-4 items-center" v-for="p in posts" :key="p.slug">
 			<div class="flex-shrink-0 h-20 w-20 md:h-24 md:w-24 rounded bg-gray-100 border">
