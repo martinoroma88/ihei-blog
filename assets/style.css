@@ -73,5 +73,14 @@ h4 {
   }
 }
 
+/* RELATED TO NUXT CONTENT PLUGIN */
 /* Without this line the modals z-50 is not enough to go on top of the element */
 .nuxt-content-container { position: static !important; }
+
+.nuxt-content .footnotes {
+  @apply text-sm text-lighterblue font-sans;
+}
+
+.nuxt-content .footnote-backref {
+  @apply no-underline px-2 py-1 bg-gray-200 text-blue rounded ml-2;
+}
