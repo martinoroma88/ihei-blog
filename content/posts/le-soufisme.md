@@ -1,6 +1,6 @@
 ---
 titre: "Le Soufisme"
-date: "2020-09-01"
+date: "2020-08-07"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584953/ihei/couvertures/soufisme-et-spiritualites-9_al8pnc.jpg"
 categories: 
 	- "Soufisme et Spiritualités"

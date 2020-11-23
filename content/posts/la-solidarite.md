@@ -1,6 +1,6 @@
 ---
 titre: "La solidarité et l’éveil de la conscience humaine"
-date: "2020-09-01"
+date: "2020-08-04"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604580596/ihei/couvertures/islam-et-environnement_1_sxikoj.jpg"
 categories: 
 	- "Environnement"

@@ -1,6 +1,6 @@
 ---
 titre: "Les femmes musulmanes dans le monde occidental"
-date: "2020-09-03"
+date: "2020-08-02"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-2_uigrrw.jpg"
 categories:
     - "Islam en pratique"
