@@ -1,6 +1,6 @@
 ---
 titre: "La connaissance de Dieu"
-date: "2020-09-01"
+date: "2020-08-08"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584955/ihei/couvertures/soufisme-et-spiritualites-8_ymfv82.jpg"
 categories: 
 	- "Soufisme et Spiritualités"

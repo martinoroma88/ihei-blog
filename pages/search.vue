@@ -1,23 +1,33 @@
 <template>
-	<div class="space-y-6">
-		<h1>Search results</h1>
-
-		<section v-if="posts">
-			<h2 v-if="posts.length">Posts</h2>
-			<n-link 
-				v-for="result in posts" :key="result.slug" 
-				:to="'/articles/' + result.slug" 
-				class="block border-t py-4"
-				v-text="result.titre"
-			/>
-		</section>
-
-		<section v-if="publications">
-			<h2 v-if="publications.length">Publications</h2>
-			<div v-for="result in publications" :key="result.slug" class="border-t py-4">
-				{{ result.titre }}
+	<div class="my-grid">
+		<aside class="space-y-4">
+			<div class="md:sticky top-0 space-y-4 py-6 px-3 bg-gray-200 w-full rounded">
+				<p class="font-bold text-lg">Résultats pour : <span class="text-azure">{{query}}</span></p>
+				<a v-if="posts && posts.length" class="flex space-x-2 font-sans link" href="#articles">
+					<IconRight />
+					<span>Articles</span>
+				</a>
+				<a v-if="publications && publications.length" class="flex space-x-2 font-sans link" href="#publications">
+					<IconRight />
+					<span>Publications</span>
+				</a>
 			</div>
-		</section>
+		</aside>
+
+		<div class="md:col-span-3 space-y-10">
+			<section v-if="posts" id="articles">
+				<h2 class="pb-4" v-if="posts.length">Articles avec : <span class="text-azure">{{query}}</span></h2>
+				<hr class="mb-6">
+				<Articles :posts="posts" baseurl="articles" />
+			</section>
+
+			<section v-if="publications" id="publications">
+				<h2 class="pb-4" v-if="publications.length">Publications avec : <span class="text-azure">{{query}}</span></h2>
+				<hr class="mb-6">
+				<Publications :posts="publications" baseurl="publications"/>
+			</section>
+		</div>
+
 	</div>
 </template>
 
@@ -27,15 +37,35 @@ export default {
 		async fetch() {
 			if (!this.query) return null
 
-			this.posts = await this.$content('posts')
+			const categories = await this.$content("categories").sortBy("ordre", "asc").fetch();
+
+			const posts = await this.$content('posts')
 				.limit(60)
 				.search(this.query)
 				.fetch()
 
-			this.publications = await this.$content('publications')
+			posts.forEach((p, i) => {
+				let c = categories.find(c => p.categories.includes(c.titre));
+				p.category = c;
+			});
+
+			this.posts = posts;
+
+			const publicationCategories = await this.$content("publication-categories").sortBy("ordre", "asc").fetch();
+
+			const publications = await this.$content('publications')
 				.limit(60)
 				.search(this.query)
 				.fetch()
+			
+			publications.forEach((p, i) => {
+				if(p.categories) {
+					let c = publicationCategories.find(c => p.categories.includes(c.titre));
+					p.category = c;
+				}
+			})
+
+			this.publications = publications;
 		}
 	},
 	computed: {

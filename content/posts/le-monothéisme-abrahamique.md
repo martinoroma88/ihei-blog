@@ -1,11 +1,9 @@
 ---
 titre: "Le Monothéisme abrahamique contre le terrorisme"
-date: "2020-09-01"
+date: "2020-08-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586812/ihei/couvertures/dialogue-interreligieux-4_jffzfa.jpg"
 categories: 
 	- "Dialogue interreligieux"
-souscategorie: 
-	- "dialogue-judéo-islamique"
 auteur: 
 	- "Shaykh Abd al-Wahid Pallavicini"
 ---
