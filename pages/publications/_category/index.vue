@@ -5,7 +5,10 @@
 			<Sidebar :categories="categories" baseurl="publications" :main="{url: '/publications/', title: 'Toutes les publications'}"/>
 		</aside>
 		
-		<Publications class="md:col-span-3" :posts="posts" baseurl="publications"/>
+		<div class="md:col-span-3 space-y-10">
+			<nuxt-content v-if="category.body.children.length > 0" class="static font-serif text-lightblue underline-links leading-relaxed p-3 lg:p-4 rounded bg-gray-200" :document="category" />
+			<Publications :posts="posts" baseurl="publications"/>
+		</div>
 	</div>
 </template>
 
