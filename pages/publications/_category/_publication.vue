@@ -13,7 +13,8 @@
 		</aside>
 		
 		<article class="md:col-span-3 space-y-8">
-			<meta property="og:title" :content="post.titre">	
+			<meta property="og:title" :content="post.titre">
+			<meta property="og:image" :content="post.couverture" v-if="post.couverture">
 			<h1>{{post.titre}}</h1>
 			<p v-if="post.soustitre">{{post.soustitre}}</p>				
 			<nuxt-content class="prose" :document="post" />
