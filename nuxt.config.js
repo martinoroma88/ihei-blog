@@ -26,6 +26,10 @@ export default {
     ],
   },
 
+  env: {
+    baseURL: 'https://ihei-asso.netlify.app'
+  },
+
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: ["@/assets/style.css"],
 
