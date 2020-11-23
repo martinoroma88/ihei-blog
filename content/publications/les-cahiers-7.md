@@ -2,6 +2,7 @@
 titre: "Les Cahiers 7"
 soustitre: "Métaphysique, Religion et Société"
 date: "2020-09-07"
+couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/c07_prfdi6.jpg"
 categories:
     - "Les Cahiers"
 ---

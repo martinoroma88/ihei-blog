@@ -2,6 +2,7 @@
 titre: "Les Cahiers 11"
 soustitre: "Dialogue islamo-chrétien et Tradition primordiale"
 date: "2020-09-11"
+couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125409/ihei/couvertures/c11_pt350d.jpg"
 categories:
     - "Les Cahiers"
 ---

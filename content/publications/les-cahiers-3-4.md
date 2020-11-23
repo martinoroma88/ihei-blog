@@ -2,6 +2,7 @@
 titre: "Les Cahiers 3-4"
 soustitre: "Connaissance et Enseignement"
 date: "2020-09-03"
+couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/c034_wdnfjo.jpg"
 categories:
     - "Les Cahiers"
 ---
