@@ -1,13 +1,14 @@
 <template>
 	<div class="my-grid">
-		<aside>
+		<aside class="text-lighterblue">
 			<div class="lg:sticky top-0 space-y-4 text-sm">
 				<img v-if="post.couverture" :src="post.couverture" class="w-full mb-4 lg:mb-0 object-contain rounded overflow-hidden" alt="">
 				<Auteurs v-if="post.auteur" :auteurs="post.auteur" icon />
-				<p class="text-lighterblue"><n-link class="flex space-x-2 link font-sans" :to="'/publications/'+category.slug+'/'">
+				<p><n-link class="flex space-x-2 link font-sans" :to="'/publications/'+category.slug+'/'">
 					<IconCollection />
 					<span>{{category.titre}}</span>
 				</n-link></p>
+				<Share />
 			</div>
 		</aside>
 		

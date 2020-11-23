@@ -27,7 +27,3 @@
 		}
 	}
 </script>
-
-<style scoped>
-.nuxt-content-container { position: static !important; }
-</style>
