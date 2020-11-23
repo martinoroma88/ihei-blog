@@ -12,16 +12,22 @@
 			</div>
 		</aside>
 		
-		<div class="md:col-span-3 space-y-8">
+		<article class="md:col-span-3 space-y-8">
+			<meta property="og:title" :content="post.titre">	
 			<h1>{{post.titre}}</h1>
 			<p v-if="post.soustitre">{{post.soustitre}}</p>				
 			<nuxt-content class="prose" :document="post" />
-		</div>
+		</article>
 	</div>
 </template>
 
 <script>
 	export default {
+		head() {
+			return {
+				title: this.post.titre
+			}
+		},
 		async asyncData({$content, params}) {
 			const post = await $content("publications", params.publication).fetch();
 			const category = await $content("publication-categories", params.category).fetch();
