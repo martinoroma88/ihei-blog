@@ -5,7 +5,10 @@
 			<Sidebar :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
 		</aside>
 
-		<Articles class="md:col-span-3" :posts="posts" baseurl="articles" />
+		<div class="md:col-span-3">
+			<Articles :posts="posts" baseurl="articles" />
+			<Pagination />
+		</div>
 	</div>
 </template>
 
