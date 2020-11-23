@@ -1,6 +1,6 @@
 <template>
 	<div class="my-grid">
-		<aside>
+		<aside class="md:sticky top-0 lg:space-y-4">
 			<h1 class="lg:hidden mb-4">Tous les articles</h1>
 			<Sidebar :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
 		</aside>
