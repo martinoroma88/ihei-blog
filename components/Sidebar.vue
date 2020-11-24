@@ -1,5 +1,5 @@
 <template>
-	<div class="w-full md:sticky top-0 lg:space-y-4">
+	<div class="w-full md:sticky top-0 lg:space-y-4 p-3 lg:p-4 rounded bg-white shadow-lg">
 		<nav id="sidebar" class="font-sans hidden lg:flex flex-col items-start" :class="{showing : institut}">
 			<n-link class="link transparent" v-if="main" :to="main.url">{{main.title}}</n-link>
 			<n-link class="link transparent" v-for="c in categories" :key="c.slug" :to="'/'+baseurl+'/'+c.slug">{{c.titre}}</n-link>
@@ -53,7 +53,7 @@ export default {
 	#sidebar .nuxt-link-exact-active {
 		@apply order-first font-bold text-lg;
 		@screen lg {
-			@apply my-2 border-t-2 border-b-2 border-lighterblue;
+			@apply mb-2 border-b-2 border-lighterblue;
 		}
 	}
 	#mobile-submenu .nuxt-link-exact-active {

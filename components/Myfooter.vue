@@ -1,7 +1,6 @@
 <template>
-  <!-- TODO - Add liens utiles, subscribe, social links, privacy policy, cookie policy -->
   <div class="mt-12">
-    <div class="px-3 py-6 lg:p-12 bg-lightblue rounded grid gap-10 lg:gap-12 grid-cols-1 md:grid-cols-2  text-white">
+    <div class="px-3 py-6 lg:p-12 bg-lightblue rounded grid gap-10 lg:gap-12 grid-cols-1 md:grid-cols-2 shadow-lg text-white">
       <div>
         <Newsletter class="md:hidden" />
         <Donation class="md:hidden my-4" />
@@ -23,7 +22,7 @@
       </div>
 
     </div>
-    <footer class="my-grid mt-6 font-sans md:text-sm bg-gray-200 rounded px-3 py-6 md:p-12">
+    <footer class="my-grid mt-6 font-sans md:text-sm">
       <div class="space-y-2 hidden md:block"> 
         <p>&copy; Institut des Hautes Etudes Islamiques, 2020</p>
         <p><a class="link underline flex space-x-2" href="https://www.facebook.com/IHEI.Jeunes" target="_blank">
