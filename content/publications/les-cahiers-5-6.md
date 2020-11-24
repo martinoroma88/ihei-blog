@@ -13,7 +13,7 @@ categories:
 *Dr Dalil Boubaker*
 **Les intellectuels musulmans européens et leur rôle de pont entre Orient et Occident**
 *Yahya Sergio Yahe Pallavicini*
-**La transmission des sciences traditionnelles du monde musulman au monde occidental : de l’alchimie à l’alchimie intérieure**
+**La transmission des sciences traditionnelles du monde musulman au monde occidental&nbsp;: de l’alchimie à l’alchimie intérieure**
 *Séverin Batfroi*
 **Le Saint Coran et son enseignement tradtionnel**
 *Kemal Abd-al-Qadir Marinelli*

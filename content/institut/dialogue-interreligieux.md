@@ -20,7 +20,7 @@ Enfin, l’Institut collabore régulièrement avec l’UNIAPAC et les Entreprene
 
 La plupart de nos manifestations ont également accueilli la participation de représentants de la religion ou de la communauté juive, comme le grand Rabbin René-Samuel Sirat, le grand rabbin de Paris Alain Goldman, David Sushana, Rabbin de Grenoble puis de Nice, Jacques Cohen, Président de l’Association culturelle israélite des Alpes, ou encore Anne Rothschild du Musée d’Art et d’Histoire du Judaïsme.
 
-Par ailleurs, l’I.H.E.I. a participé aux trois congrès mondiaux « Imams et Rabbins pour la Paix » organisés successivement à Bruxelles en 2005, sous le haut-patronage d’Albert II, Roi des Belges et de Mohammed VI, Roi du Maroc, à Séville en 2006, sous le haut-patronage de Juan Carlos I, Roi d’Espagne et de Mohammed VI, et à Paris en 2008, sous le haut-patronage et en collaboration avec l’Unesco, et avec le soutien d’Abdoulaye Wade, Président du Sénégal.
+Par ailleurs, l’I.H.E.I. a participé aux trois congrès mondiaux «&nbsp;Imams et Rabbins pour la Paix&nbsp;» organisés successivement à Bruxelles en 2005, sous le haut-patronage d’Albert II, Roi des Belges et de Mohammed VI, Roi du Maroc, à Séville en 2006, sous le haut-patronage de Juan Carlos I, Roi d’Espagne et de Mohammed VI, et à Paris en 2008, sous le haut-patronage et en collaboration avec l’Unesco, et avec le soutien d’Abdoulaye Wade, Président du Sénégal.
 
 Le Président de l’I.H.E.I. a participé activement à l’organisation du second Congrès des dirigeants musulmans et juifs, les 4 et 5 septembre 2012, avec le Recteur de la Grande Mosquée de Paris, aux côtés du Congrès Juif Européen, de l’Amitié Judéo-Musulmane de France et de la Foundation For Ethnic Understanding.
 

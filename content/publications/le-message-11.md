@@ -17,11 +17,11 @@ Europa e scisma d’Oriente
 Abd-al-Sabûr Turrini
 L’uomo occidentale tra unità e dispersione (II parte)
 Ahmad Abd-al-Waliyy Vincenzo
-Le Soufisme: voile et dévoilement
+Le Soufisme&nbsp;: voile et dévoilement
 AbdAllâh Yahyâ Darolles
 Le voyage des oiseaux
 Abd-al-Karîm Turnley
-Al-Mi‘raj: Le voyage céleste du Prohète Muhammad
+Al-Mi‘raj&nbsp;: Le voyage céleste du Prohète Muhammad
 Abd-al-Haqq Ismaïl Guiderdoni
 
 ***Appendix***
@@ -33,7 +33,7 @@ Abd-al-Haqq Ismaïl Guiderdoni
 *Shaykh Abd-al-Wâhid Pallavicini*
 **L’islam en France et la Turquie en Europe**
 *Yahyâ Sergio Yahe Pallavicini*
-**Islam en France, islam de France ou islam français ?**
+**Islam en France, islam de France ou islam français&nbsp;?**
 *Abd-al-Wadoud Yahyâ Gouraud*
 **Monotheistic religions against terrorism**
 *Shaykh Abd-al-Wâhid Pallavicini*

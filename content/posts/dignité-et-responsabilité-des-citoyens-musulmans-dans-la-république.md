@@ -31,7 +31,7 @@ Donner une importance exagérée à la raison, en cherchant à l’émanciper de
 L’adoption des paradigmes rationalistes ne saurait représenter la seule issue face à la radicalisation, ni le moyen privilégié de l’adaptation supposée des musulmans à la société française. L’écrasante majorité des musulmans de France vivent leur foi en toute sérénité et dans le respect des lois. Ils témoignent de la compatibilité de leurs principes spirituels et de leur pratique avec les valeurs démocratiques, évitant le littéralisme aveugle, le conservatisme anachronique et le réformisme rationaliste. Être d’honnêtes citoyens français résulte de leur identité spirituelle, et non d’une adaptation passive au milieu social. 
 
 Nous saluons le vœu du président Macron qui souhaite 
-? s’engager et soutenir ce qui, dans notre pays, doit nous permettre de faire émerger une meilleure compréhension de l’islam […] pour mieux nous connaître aussi les uns les autres parce que c’est un enjeu pour nous-mêmes.
+> s’engager et soutenir ce qui, dans notre pays, doit nous permettre de faire émerger une meilleure compréhension de l’islam […] pour mieux nous connaître aussi les uns les autres parce que c’est un enjeu pour nous-mêmes.
 
 Mais nous pensons que la connaissance de l’islam, pour qu’elle soit fidèle à son esprit, ne peut se passer de l’apport des intellectuels musulmans, contribuant à «&#8239;vivifier&#8239;» la compréhension et la déclinaison de ses principes, dans toute leur universalité, en phase avec notre époque. 
 

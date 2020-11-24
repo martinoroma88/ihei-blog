@@ -10,9 +10,9 @@ categories:
 **Editorial**
 ** ?Islam, cristianismo, occidente, laicità**
 *Abd-al-Sabur Turrini*
-**Verità e diversità: oltre i punti di incontro**
+**Verità e diversità&nbsp;: oltre i punti di incontro**
 *Shaykh Abd-al-Wâhid Pallavicini*
-**Vérité et diversité : au-delà des points de rencontre**
+**Vérité et diversité&nbsp;: au-delà des points de rencontre**
 *Shaykh Abd-al-Wâhid Pallavicini*
 **Il mondo islamico e l’Occidnte contemporneo**
 *Yahya Sergio Yahe Pallavicini*
@@ -20,9 +20,9 @@ categories:
 *Ahmad Abd-al-Waliyy Vincenzo*
 **Donne, ambiente, e cultura nell’islam**
 *Farida Peruzzi*
-**Quo vadis Ecclesia ? La cultura della pace e del dialogo oggi**
+**Quo vadis Ecclesia&nbsp;? La cultura della pace e del dialogo oggi**
 *Abd al-Ghafur Masotti*
-**Science et religion aujourd’hui :**
+**Science et religion aujourd’hui&nbsp;:**
 **perspectives islamiques**
 *Abd-al-Haqq Ismaïl Guiderdoni*
 **Causa Prima e cause seconde**

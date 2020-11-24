@@ -114,31 +114,31 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^1]:  C’est un disciple du ShaykhAhmad Ibn Idrîs qui parle.
 
-[^2]:  Cette ville se situe dans le sud du Yémen .&nbspLe Shaykh arriva à Zabîd en 1827-1828 pour une brève visite ,&nbsppuis s’y installa ensuite pendant neuf mois ,&nbspen 1828-1829 .&nbspVoir R.S. O’Fahey ,&nbspin *Enigmatic Saint* ,&nbspp. 83-88.
+[^2]:  Cette ville se situe dans le sud du Yémen .&nbspLe Shaykh arriva à Zabîd en 1827-1828 pour une brève visite, puis s’y installa ensuite pendant neuf mois, en 1828-1829 .&nbspVoir R.S. O’Fahey, in *Enigmatic Saint*, p. 83-88.
 
-[^3]:  La connaissance (ma’rifah) fondamentale est celle de Dieu ,&nbspPrincipe et Fin dernière .&nbspLe Shaykh prend soin de rappeler que ces «&nbspdéfinitions &nbsp» ou «&nbspdélimitations &nbsp» de Dieu qui ont été données par la Révélation coranique et la Tradition prophétique sont en fait des négations de toute limite :&nbspDieu est le Premier ,&nbspc’est-à-dire Celui avant qui il n’y a rien ,&nbspetc .&nbspLa véritable connaissance de Dieu est apophatique .&nbspNous n’y accédons pas par un savoir positif ,&nbspmais en nous séparant de la connaissance positive du créé ,&nbspqui est notre voile
+[^3]:  La connaissance (ma’rifah) fondamentale est celle de Dieu, Principe et Fin dernière .&nbspLe Shaykh prend soin de rappeler que ces «&nbspdéfinitions &nbsp» ou «&nbspdélimitations &nbsp» de Dieu qui ont été données par la Révélation coranique et la Tradition prophétique sont en fait des négations de toute limite :&nbspDieu est le Premier, c’est-à-dire Celui avant qui il n’y a rien, etc .&nbspLa véritable connaissance de Dieu est apophatique .&nbspNous n’y accédons pas par un savoir positif, mais en nous séparant de la connaissance positive du créé, qui est notre voile
 
 [^4]:  Cor. 2:115.
 
-[^5]:  L’intellect ,&nbsp «&nbsppremière des créations de Dieu &nbsp» selon un hadîth qui ne se trouve pas dans les recueils canoniques ,&nbspmesure ,&nbsppar son «&nbspmouvement vers Dieu &nbsp» ,&nbsppuis son «&nbspéloignement &nbsp» ,&nbsples possibilités de manifestation et trace ainsi l’axe métaphysique du monde selon lequel Dieu agira .&nbspPar ce double mouvement ,&nbspvers le haut puis vers le bas de la feuille ,&nbsple calame dessine la lettre alif ,&nbsppremière de l’alphabet.
+[^5]:  L’intellect,  «&nbsppremière des créations de Dieu &nbsp» selon un hadîth qui ne se trouve pas dans les recueils canoniques, mesure, par son «&nbspmouvement vers Dieu &nbsp», puis son «&nbspéloignement &nbsp», les possibilités de manifestation et trace ainsi l’axe métaphysique du monde selon lequel Dieu agira .&nbspPar ce double mouvement, vers le haut puis vers le bas de la feuille, le calame dessine la lettre alif, première de l’alphabet.
 
-[^6]:  Le Shaykh explique la signification spirituelle de l’intellect (‘aql) à partir de la racine du mot qui signifie «&nbsplier &nbsp» ou «&nbspattacher &nbsp» .&nbspIl n’y a pas de foi (îmân) sans connaissance (ma’rifah) ,&nbspet il n’y a pas de connaissance sans intellect.
+[^6]:  Le Shaykh explique la signification spirituelle de l’intellect (‘aql) à partir de la racine du mot qui signifie «&nbsplier &nbsp» ou «&nbspattacher &nbsp» .&nbspIl n’y a pas de foi (îmân) sans connaissance (ma’rifah), et il n’y a pas de connaissance sans intellect.
 
 [^7]:  Cor. 3:31.
 
-[^8]:  L’amour (mahabbah) nous amène à la connaissance de Dieu .&nbspL’imitation du Prophète Muhammad ,&nbspqui constitue métaphysiquement l’isthme (barzakh) entre Dieu (al-Haqq) et la création (al-khalq) ,&nbsppermet au croyant d’aimer Dieu et ainsi de Le connaître .&nbspC’est donc la pratique de la Loi révélée ,&nbspmise en œuvre sous le contrôle de l’intellect ,&nbspqui permet d’accéder à la connaissance.
+[^8]:  L’amour (mahabbah) nous amène à la connaissance de Dieu .&nbspL’imitation du Prophète Muhammad, qui constitue métaphysiquement l’isthme (barzakh) entre Dieu (al-Haqq) et la création (al-khalq), permet au croyant d’aimer Dieu et ainsi de Le connaître .&nbspC’est donc la pratique de la Loi révélée, mise en œuvre sous le contrôle de l’intellect, qui permet d’accéder à la connaissance.
 
-[^9]:  L’adhésion à Dieu (at-ta’alluq) est l’attitude spirituelle synthétique de l’Homme Parfait ,&nbspcréé à partir d’une «&nbspadhérence &nbsp» (‘alaq) .&nbspVoir Cor. 96:2.
+[^9]:  L’adhésion à Dieu (at-ta’alluq) est l’attitude spirituelle synthétique de l’Homme Parfait, créé à partir d’une «&nbspadhérence &nbsp» (‘alaq) .&nbspVoir Cor. 96:2.
 
-[^10]:  Le Shaykh dévoile petit à petit la logique secrète du hadîth .&nbspIl n’y a pas de connaissance sans amour ,&nbsppas d’amour sans inclination (mayl) .&nbspMais la meilleure inclination est celle qui est animée par le désir (shawq) qui consiste à «&nbspaccourir sans halte &nbsp» (wuqûf).
+[^10]:  Le Shaykh dévoile petit à petit la logique secrète du hadîth .&nbspIl n’y a pas de connaissance sans amour, pas d’amour sans inclination (mayl) .&nbspMais la meilleure inclination est celle qui est animée par le désir (shawq) qui consiste à «&nbspaccourir sans halte &nbsp» (wuqûf).
 
-[^11]:  Depuis l’instant de notre naissance ,&nbspchacun de nos souffles nous rapproche de Dieu .&nbspCe chemin de la vie doit être parcouru avec amour et désir .&nbspMais cet énoncé fait surtout référence au voyage dans les souffles (anfâs) lors de l’invocation des awrâd donnés par le Shaykh .&nbspL’invocateur se rapproche de Dieu «&nbspdans chaque regard et dans chaque souffle (fî kulli lamhatin wa nafas) &nbsp» ,&nbspen maintenant dans son cœur le compagnon de voyage du souvenir de Dieu .&nbspLe souffle est alors le vent du désir qui meut le vaisseau humain ,&nbspen le faisant tanguer d’un bord à l’autre comme dans l’invocation ,&nbspet avancer sans trêve vers Dieu .&nbspL’état spirituel de l’invocateur consiste en effet à voyager d’une théophanie à l’autre ,&nbspsans s’arrêter dans une théophanie particulière ,&nbspafin de goûter la bénédiction du renouvellement incessant des théophanies.
+[^11]:  Depuis l’instant de notre naissance, chacun de nos souffles nous rapproche de Dieu .&nbspCe chemin de la vie doit être parcouru avec amour et désir .&nbspMais cet énoncé fait surtout référence au voyage dans les souffles (anfâs) lors de l’invocation des awrâd donnés par le Shaykh .&nbspL’invocateur se rapproche de Dieu «&nbspdans chaque regard et dans chaque souffle (fî kulli lamhatin wa nafas) &nbsp», en maintenant dans son cœur le compagnon de voyage du souvenir de Dieu .&nbspLe souffle est alors le vent du désir qui meut le vaisseau humain, en le faisant tanguer d’un bord à l’autre comme dans l’invocation, et avancer sans trêve vers Dieu .&nbspL’état spirituel de l’invocateur consiste en effet à voyager d’une théophanie à l’autre, sans s’arrêter dans une théophanie particulière, afin de goûter la bénédiction du renouvellement incessant des théophanies.
 
 [^12]:   «&nbspCelui ne croit pas au Aâghût et croit en Dieu a saisi l’anse la plus solide et sans fêlure (Cor .&nbsp2 :&nbsp256) &nbsp» .&nbspCette «&nbspanse la plus solide et sans fêlure (*al-’urwat al-wuthqâ lâ-nfiçâma lahâ*) &nbsp» est l’attachement à la voie droite par la foi en Dieu .&nbsp «&nbspAccrochez-vous à la corde de Dieu et ne vous divisez pas (Cor .&nbsp3 :&nbsp103) &nbsp» .
 
 [^13]:  Les théophanies de l’invocation ne cessent de se renouveler et d’échapper à chaque souffle .&nbspLe cœur est le réceptacle spirituel dit :&nbsp «&nbspcelui qui se connaît soi-même connaît son Seigneur &nbsp» .
 
-[^18]:  La vraie pauvreté est la pauvreté envers Dieu ,&nbspnon envers la création .&nbspCelui qui n’*a* rien peut rester attaché aux choses ,&nbspalors que celui qui réalise qu’il n’*est* rien ne peut plus rien posséder et ne reste attaché qu’à Dieu.
+[^18]:  La vraie pauvreté est la pauvreté envers Dieu, non envers la création .&nbspCelui qui n’*a* rien peut rester attaché aux choses, alors que celui qui réalise qu’il n’*est* rien ne peut plus rien posséder et ne reste attaché qu’à Dieu.
 
 [^19]:  Cor. 70:33.
 
@@ -146,9 +146,9 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^21]:  Cor. 47:21.
 
-[^22]:  Sa forme extérieure manifeste alors de façon parfaite sa signification intérieure .&nbspL’on peut s’étonner de l’anecdote rapportée où Ibn ‘Arabî ,&nbsppourtant «&nbsple plus grand des maîtres &nbsp» ,&nbspsemble témoigner de son ignorance sur une question fondamentale .&nbspEn fait ,&nbspIbn ‘Arabî montre qu’il connaît effectivement ,&nbspet non simplement en théorie ,&nbspla station de la sincérité ,&nbspparce qu’en s’ouvrant à une connaissance nouvelle ,&nbspou simplement renouvelée ,&nbspil manifeste sa totale disponibilité spirituelle.
+[^22]:  Sa forme extérieure manifeste alors de façon parfaite sa signification intérieure .&nbspL’on peut s’étonner de l’anecdote rapportée où Ibn ‘Arabî, pourtant «&nbsple plus grand des maîtres &nbsp», semble témoigner de son ignorance sur une question fondamentale .&nbspEn fait, Ibn ‘Arabî montre qu’il connaît effectivement, et non simplement en théorie, la station de la sincérité, parce qu’en s’ouvrant à une connaissance nouvelle, ou simplement renouvelée, il manifeste sa totale disponibilité spirituelle.
 
-[^23]:  le jihâd n’est pas à proprement parler la «&nbspguerre sainte &nbsp» ,&nbspmais tout effort accompli sur le chemin de Dieu.
+[^23]:  le jihâd n’est pas à proprement parler la «&nbspguerre sainte &nbsp», mais tout effort accompli sur le chemin de Dieu.
 
 [^24]:  Cor. 96:6-7.
 
@@ -158,16 +158,16 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^27]:  Cor. 35:8.
 
-[^28]:  La communauté de l’appel est l’humanité dans son ensemble ,&nbspappelée à la soumission à Dieu .&nbspLa communauté de la réponse est celle des musulmans *stricto sensu* .&nbspLe Shaykh rappelle que le Prophète est une miséricorde universelle et que son souci s’adresse à l’humanité entière.
+[^28]:  La communauté de l’appel est l’humanité dans son ensemble, appelée à la soumission à Dieu .&nbspLa communauté de la réponse est celle des musulmans *stricto sensu* .&nbspLe Shaykh rappelle que le Prophète est une miséricorde universelle et que son souci s’adresse à l’humanité entière.
 
 [^29]:  Cor. 21:107.
 
 [^30]:  Cor. 50:16.
 
-[^31]:  Il s’agit du célèbre hadîth qudsî rapporté dans al-Bukhârî :&nbsp «&nbspRien ne rapproche plus Mon serviteur de Moi que ce que J’aime par dessus tout ,&nbsples actes obligatoires .&nbspMon serviteur ne cesse de s’approcher de Moi par les actes surérogatoires jusqu’à ce que Je l’aime ;&nbspet quand Je l’aime ,&nbspJe suis l’ouïe avec laquelle il entend ,&nbspla vue avec laquelle il voit ,&nbspla main avec laquelle il saisit fortement et le pied avec lequel il marche &nbsp» .
+[^31]:  Il s’agit du célèbre hadîth qudsî rapporté dans al-Bukhârî :&nbsp «&nbspRien ne rapproche plus Mon serviteur de Moi que ce que J’aime par dessus tout, les actes obligatoires .&nbspMon serviteur ne cesse de s’approcher de Moi par les actes surérogatoires jusqu’à ce que Je l’aime ;&nbspet quand Je l’aime, Je suis l’ouïe avec laquelle il entend, la vue avec laquelle il voit, la main avec laquelle il saisit fortement et le pied avec lequel il marche &nbsp» .
 
-[^32]:  Par le tanzîh ,&nbspl’affirmation de la Transcendance et de l’Incomparabilité de Dieu.
+[^32]:  Par le tanzîh, l’affirmation de la Transcendance et de l’Incomparabilité de Dieu.
 
 [^33]:  C’est-à-dire en 1902.
 
-[^34]:  Il s’agit du petit fils de Muhammad al-Qutb ,&nbspfils aîné du Shaykh Ahmad Ibn Idrîs .&nbspMuhammad al Yamanî (1876-1923) fonda ,&nbspcontre les Ottomans ,&nbspun royaume idrîside au Yémen .&nbspVoir R.S. O’Fahey, in *Enigmatic Saint*, p. 122-125.
+[^34]:  Il s’agit du petit fils de Muhammad al-Qutb, fils aîné du Shaykh Ahmad Ibn Idrîs .&nbspMuhammad al Yamanî (1876-1923) fonda, contre les Ottomans, un royaume idrîside au Yémen .&nbspVoir R.S. O’Fahey, in *Enigmatic Saint*, p. 122-125.

@@ -11,7 +11,7 @@ categories:
 *Shaykh Abd-al-Wahid Pallavicini*
 **Le Prophète Muhammad et la société tradtionnelle de Médine**
 *Yahya Sergio Yahe Pallavicini*
-**L’islam et l’Etat : la situation française**
+**L’islam et l’Etat&nbsp;: la situation française**
 *Abd-al-Haqq Ismaïl Guiderdoni*
 **L’islam en Italie**
 *Ahmad Abd-al-Waliyy Vincenzo*

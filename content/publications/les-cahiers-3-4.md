@@ -7,7 +7,7 @@ categories:
 ---
 
 Editorial
-**A la recherche du savoir : Raison et Révélation**
+**A la recherche du savoir&nbsp;: Raison et Révélation**
 *Abd-al-Haqq Ismaïl Guiderdoni*
 **La doctrine de la connaissance dans la théologie chrétienne du Moyen Age**
 *Abd-al-Hayy Mansour Baudo*
@@ -15,9 +15,9 @@ Editorial
 *Séverin Batfroi*
 **La bible lue par un musulman du XIX<sup>e</sup> siècle**
 *Benaïssa Khelfa*
-**L’éducation traditionnelle dans le monde musulman : pourquoi les universitaires musulmans ont résisté à l’introduction de l’imprimerie ?**
+**L’éducation traditionnelle dans le monde musulman&nbsp;: pourquoi les universitaires musulmans ont résisté à l’introduction de l’imprimerie&nbsp;?**
 *Abd-al-Azîm Sedgwick*
-**Débats sur l’origine du monde dans le Moyen Age islamique :**
+**Débats sur l’origine du monde dans le Moyen Age islamique&nbsp;:**
 **Al-Ghazâli, Ibn Rushd et Ibn Arabî**
 *Abd-al-Haqq Ismaïl Guiderdoni*
 **Le voyage vers la Ville Sainte, al Quds, Jérusalem**

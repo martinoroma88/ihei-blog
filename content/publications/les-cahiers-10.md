@@ -19,9 +19,9 @@ categories:
 *Abd-Allah Yahya Darolles*
 **La consultation des musulmans de France de la nécessité spirituelle du culte à l’organisation actuelle de l’islam**
 *Abd-al-Qayyoum Guerre-Genton*
-**Les droits de l’homme : réalité sacrée et point de vue profane**
+**Les droits de l’homme&nbsp;: réalité sacrée et point de vue profane**
 *Abd-Allah Blanc*
-**La Futuwwah : noblesse spirituelle**
+**La Futuwwah&nbsp;: noblesse spirituelle**
 *Ahmad Abd-al-Waliyy Vincenzo*
 **Les principes fondateurs de l’éthique en islam**
 *Abd-al-Haqq Ismaïl Guiderdoni*

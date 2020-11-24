@@ -9,11 +9,11 @@ categories:
 **Editorial**
 **Monothéisme abrahamique et fraternité spirituelle**
 *Abd al-Wadoud Yahyâ Gouraud*
-**Ismaele e Isacco: prospettive sul rapporti tra islam ed ebraismo**
+**Ismaele e Isacco&nbsp;: prospettive sul rapporti tra islam ed ebraismo**
 *Ahmad Abd-al-Waliyy Vincenzo*
 **Sull’ Idolatria**
 *Alessio Piacentini*
-**Perché l’islam dopo il Cristianismo ?**
+**Perché l’islam dopo il Cristianismo&nbsp;?**
 *Ahmad Abd al-Qouddous Panetta*
 **La Tradition orthodossa**
 *Igûmeno Andrea Wade*
@@ -41,7 +41,7 @@ categories:
 *Abd as-Sabour Turrini*
 **L’ultimo richiamo de Giovanni Paolo II**
 *Ibrâhîm Spina*
-**What is European islam ?**
+**What is European islam&nbsp;?**
 *Shaykh Abd-al-Wâhid Pallavicini*
 
 **Attualità**

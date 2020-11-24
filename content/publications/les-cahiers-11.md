@@ -20,7 +20,7 @@ categories:
 *Yahya Sergio Yahe Pallavicini*
 **Le dialogue interreligieux**
 *Abd-al-Latif Conti*
-**La mosquée en Occident : un symbolisme actuel**
+**La mosquée en Occident&nbsp;: un symbolisme actuel**
 *Abd-as-Sabour Turrini*
 **In memoriam René Guénon**
 *Shaykh Abd-al-Wahid Pallavicini*
