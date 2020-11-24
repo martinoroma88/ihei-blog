@@ -21,7 +21,7 @@
 			const page = parseInt(params.homepage || 1) || 1;
 			const totalPosts = (await $content("posts").fetch()).length;
 			const skip = PER_PAGE * (page - 1);
-			const posts = await $content("posts").only(["titre", "couverture", "date", "auteur", "categories"])
+			const posts = await $content("posts").only(["titre", "couverture", "slug", "auteur", "categories"])
 				.sortBy("date", "asc").skip(skip).limit(perPage).fetch();
 			const categories = await $content("categories")
 				.sortBy("ordre", "asc").fetch();
