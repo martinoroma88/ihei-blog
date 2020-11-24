@@ -10,23 +10,26 @@
     </aside>
 
     <div class="md:col-span-3 space-y-10">
-      <div
-        class="leading-relaxed rounded bg-white overflow-hidden shadow-lg font-sans text-lighterblue grid place-items-center md:grid-cols-3 grid-cols-1"
+      <div v-if="page === 1"
+        class="leading-relaxed rounded bg-gray-200 overflow-hidden font-sans text-lighterblue relative"
       >
         <img
-          class="object-cover h-64 w-full"
+          class="object-cover absolute inset-0"
           src="https://res.cloudinary.com/genesi-communication-design/image/upload/v1606215558/ihei/quran_os5xtg.jpg"
           alt=""
         />
-        <div class="md:col-span-2 p-3 md:p-10">
-					<p class="text-gray-500">01-12-2020</p>
-          <p class="text-2xl font-bold">
-            Lorem ipsum dolor sit amet conescit caveat illo.
+        <div
+          class="inset-0 absolute bg-gradient-to-b from-transparent to-black"
+        ></div>
+        <div class="md:col-span-2 px-4 py-8 md:px-10 md:pt-20 md:pb-8 relative text-white">
+          <p>
+            <a href="/">
+              <p class="text-2xl font-bold">
+                Lorem ipsum dolor sit amet conescit caveat illo
+              </p>
+              <p>01-12-2020 Adecco paresit utrurie elipsis</p>
+            </a>
           </p>
-          <a class="text-gray-500 link block flex space-x-2" href="/">
-            <span>En lire plus</span>
-            <IconRight />
-          </a>
         </div>
       </div>
       <Articles :posts="posts" baseurl="articles" />
@@ -45,7 +48,7 @@ export default {
     const totalPosts = (await $content("posts").fetch()).length;
     const skip = PER_PAGE * (page - 1);
     const posts = await $content("posts")
-      .only(["titre", "couverture", "slug", "auteur", "categories"])
+      .only(["titre", "couverture", "url", "slug", "auteur", "categories"])
       .sortBy("date", "asc")
       .skip(skip)
       .limit(perPage)

@@ -1,6 +1,6 @@
 <template>
   <div class="mt-12">
-    <div class="px-3 py-6 lg:p-12 bg-lightblue rounded grid gap-10 lg:gap-12 grid-cols-1 md:grid-cols-2 shadow-lg text-white">
+    <div class="px-3 py-6 lg:p-12 bg-lightblue rounded grid gap-10 lg:gap-12 grid-cols-1 md:grid-cols-2 text-white">
       <div>
         <Newsletter class="md:hidden" />
         <Donation class="md:hidden my-4" />

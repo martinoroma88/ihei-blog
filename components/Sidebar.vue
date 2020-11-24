@@ -1,7 +1,7 @@
 <template>
-	<div class="w-full md:sticky top-0 lg:space-y-4 p-3 lg:p-4 rounded bg-white shadow-lg">
+	<div class="w-full md:sticky top-0 lg:space-y-4">
 		<nav id="sidebar" class="font-sans hidden lg:flex flex-col items-start" :class="{showing : institut}">
-			<n-link class="link transparent" v-if="main" :to="main.url">{{main.title}}</n-link>
+			<n-link class="link transparent" :class="{normal : category}" v-if="main" :to="main.url">{{main.title}}</n-link>
 			<n-link class="link transparent" v-for="c in categories" :key="c.slug" :to="'/'+baseurl+'/'+c.slug">{{c.titre}}</n-link>
 		</nav>
 
@@ -13,7 +13,7 @@
       <div class="absolute inset-0" @click="isOpen = false"></div>
  
       <div class="relative shadow-2xl rounded bg-white p-3 lg:p-6 m-3 border-blue border text-center">
-        <n-link class="link transparent block p-3" v-if="main" :to="main.url">{{main.title}}</n-link>
+        <n-link class="link transparent block p-3 normal" :class="{normal : category}" v-if="main" :to="main.url">{{main.title}}</n-link>
 				<n-link class="link transparent block p-3" v-for="c in categories" :key="c.slug" :to="'/'+baseurl+'/'+c.slug">{{c.titre}}</n-link>
 
         <button @click="isOpen = false" class="font-sans font-bold text-lighterblue p-2 hover:text-lightblue focus:shadow-none focus:border-gray-900 focus:text-blue transition duration-75"><IconClose /></button>
@@ -38,6 +38,10 @@ export default {
 		institut() {
 			if(this.$route.name === "institut-subpage") return true;
 			else return false;
+		},
+		category() {
+			if(this.$route.params.category && this.$route.params.category.length) return true;
+			else return false;
 		}
 	}
 }
@@ -50,20 +54,23 @@ export default {
 			@apply whitespace-normal;
 		}
 	} 
-	#sidebar .nuxt-link-exact-active {
+	#sidebar .nuxt-link-active:not(.normal) {
 		@apply order-first font-bold text-lg;
 		@screen lg {
-			@apply mb-2 border-b-2 border-lighterblue;
+			@apply mb-2 pb-2 border-b-2 border-lighterblue;
 		}
 	}
-	#mobile-submenu .nuxt-link-exact-active {
+	#sidebar .nuxt-link-active:not(.normal):hover {
+		text-decoration: none;
+	}
+	#mobile-submenu .nuxt-link-active:not(.normal) {
 		@apply font-bold text-xl;
 	}
 
 	#sidebar.showing {
 		display: flex !important;
 	}
-	#sidebar.showing .nuxt-link-exact-active {
+	#sidebar.showing .nuxt-link-active:not(.normal) {
 		@apply order-none;
 		@screen lg {
 			@apply order-first;

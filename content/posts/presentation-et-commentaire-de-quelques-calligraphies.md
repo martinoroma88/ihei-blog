@@ -1,6 +1,7 @@
 ---
 titre: "Présentation et commentaire de quelques calligraphies"
 date: "2020-09-03"
+couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606251629/ihei/couvertures/main-image_brtbhd.jpg"
 categories:
     - "Art et Islam"
 auteur: 
