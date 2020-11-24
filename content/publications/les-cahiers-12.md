@@ -25,8 +25,9 @@ categories:
 **Universalité et interculturalisme dans la civilisation islamique**
 *Yahya Sergio Yahe Pallavicini*
 
-**A l’occasion du cinquantenaire de la mort de René Guénon :**
-**René Guénon musulman : conversion ou convergence ?**
+**A l’occasion du cinquantenaire de la mort de René Guénon&nbsp;:**
+**René Guénon musulman&nbsp;: conversion ou convergence&nbsp;?**
+
 **La vie exemplaire du Shaykh ‘Abd-al-Wâhid Yahyâ**
 *Abd-ar-Rashid Bossa*
 

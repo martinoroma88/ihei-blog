@@ -24,6 +24,6 @@ categories:
 **Les besoins rituels des musulmans dans l’espace laïque**
 *Kamel Kabtane*
 
-**Autorité spirituelle et pouvoir temporel :**
+**Autorité spirituelle et pouvoir temporel&nbsp;:**
 **le projet de l’Entente entre l’islam et l’Etat italien**
 *Shaykh Abd-al-Wahid Pallavicini*

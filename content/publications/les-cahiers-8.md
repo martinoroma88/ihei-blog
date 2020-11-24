@@ -30,7 +30,7 @@ categories:
 **Orient et Occident**
 *Centre d’Etudes Métaphysiques de Milan*
 
-**L’islam : une tradition de prêtres sans clergé**
+**L’islam&nbsp;: une tradition de prêtres sans clergé**
 *Abd-al-Karim Turnley*
 
 **Dante et l’islam**

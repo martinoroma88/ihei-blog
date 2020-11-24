@@ -23,13 +23,13 @@ categories:
 **L’uomo occidentale tra unità e dispersione (II parte)**
 *Ahmad Abd-al-Waliyy Vincenzo*
 
-**Le Soufisme: voile et dévoilement**
+**Le Soufisme&nbsp;: voile et dévoilement**
 *AbdAllâh Yahyâ Darolles*
 
 **Le voyage des oiseaux**
 *Abd-al-Karîm Turnley*
 
-**Al-Mi‘raj: Le voyage céleste du Prohète Muhammad**
+**Al-Mi‘raj&nbsp;: Le voyage céleste du Prohète Muhammad**
 *Abd-al-Haqq Ismaïl Guiderdoni*
 
 ## Appendice
@@ -46,7 +46,7 @@ categories:
 **L’islam en France et la Turquie en Europe**
 *Yahyâ Sergio Yahe Pallavicini*
 
-**Islam en France, islam de France ou islam français ?**
+**Islam en France, islam de France ou islam françaiss&nbsp;?**
 *Abd-al-Wadoud Yahyâ Gouraud*
 
 **Monotheistic religions against terrorism**

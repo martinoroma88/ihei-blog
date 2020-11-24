@@ -6,6 +6,9 @@ categories:
 	- "Dialogue interreligieux"
 souscategorie: 
 	- "dialogue-judéo-islamique"
+auteur: 
+ - "unkown"
+ - "unkown2"
 ---
 
 Libération et Résurrection sont deux termes avec des significations qui ont leurs spécificités providentielles dans la tradition juive et chrétienne&nbsp, et qui ne peuvent donc être assimilés avec les doctrines et les langages des autres communautés. 

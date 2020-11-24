@@ -13,7 +13,7 @@ categories:
 **Jésus dans l’islam**
 *Yahya Sergio Yahe Pallavicini*
 
-**Aperçus sur le Jihâd : doctrine et application**
+**Aperçus sur le Jihâd&nbsp;: doctrine et application**
 *Abd-Allah Yahya Darolles*
 
 **Les saints musulmans au Moyen Age**

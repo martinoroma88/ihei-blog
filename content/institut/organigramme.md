@@ -7,12 +7,12 @@ ordre: 7
 
 **Yahyâ Sergio Yahe PALLAVICINI, Président**
 - Président du Haut-Conseil de l’ISESCO pour l’Education et la Culture en Occident.
-- Expert aux Nations Unies, auprès de « l’Alliance des Civilisations ».
+- Expert aux Nations Unies, auprès de «&nbsp;l’Alliance des Civilisations&nbsp;».
 - Conseiller de la Conférence Islamique Européenne, chargé des relations internationales et du dialogue islamo-chrétien avec le Vatican.
 - Membre ECRL, Conseil Européen des Leaders Religieux.
-- Membre fondateur du Comité International « Imams, Rabbins et Chrétiens pour la Paix » présenté à l’UNESCO de Paris.
+- Membre fondateur du Comité International «&nbsp;Imams, Rabbins et Chrétiens pour la Paix&nbsp;» présenté à l’UNESCO de Paris.
 - Membre fondateur, CEDAR, European Muslim Professionnals Network.
-- Président de la CO.RE.IS. (Communauté Religieuse Islamique) italienne. 
+- Président de la CO.RE.IS. (Communauté Religieuse Islamique) italienne.
 
 
 **Jean Michel AbdAllâh Yahyâ DAROLLES, Vice-Président**
@@ -41,7 +41,7 @@ ordre: 7
 
 **Bruno Abd al-Haqq Ismaîl GUIDERDONI, Directeur**
 - Vice-Président de l’Institut Français de Civilisation Musulmane de Lyon.
-- Ancien animateur de « Connaître l’Islam ».
+- Ancien animateur de «&nbsp;Connaître l’Islam&nbsp;».
 - Publications, Conférences relatives à l’Islam en Europe, au dialogue des cultures et des religions.
 - Participation au débat international entre science et religion.
 - Directeur de l’Observatoire de Lyon.

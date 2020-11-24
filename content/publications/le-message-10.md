@@ -32,7 +32,7 @@ categories:
 **La réalisation spirituelle**
 *Shaykh Abd-al-Wahid Pallavicini*
 
-**Muhi-d-Dîn Ibn Arabî: héritage spirituel et interprétations modernes**
+**Muhi-d-Dîn Ibn Arabî&nbsp;: héritage spirituel et interprétations modernes**
 *Abd-al-Sabûr Turrini*
 
 **La tentazione recorrente della forma orientale**

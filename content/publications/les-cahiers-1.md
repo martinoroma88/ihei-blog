@@ -18,16 +18,16 @@ categories:
 **Allocution d’ouverture**
 *Dr Hocine Raïs*
 
-**Les relations entre l’Eglise et l’islam : difficultés et espoirs**
+**Les relations entre l’Eglise et l’islam&nbsp;: difficultés et espoirs**
 *Père Michel Lelong*
 
-**La doctrine islamique du tawhîd : la reconnaissance métaphysique de l’unité des Révélations divines**
+**La doctrine islamique du tawhîd&nbsp;: la reconnaissance métaphysique de l’unité des Révélations divines**
 *Abd-al-Latif Conti*
 
 **La recherche de Dieu dans la Tradition hésychaste**
 *Père Syméon*
 
-**L’identité eschatologique : “sine Christo nulla salus”**
+**L’identité eschatologique&nbsp;: “&nbsp;sine Christo nulla salus&nbsp;”**
 *Shaykh Abd-al-Wahid Pallavicini*
 
 **La quête de l’identité suprême en islam**
