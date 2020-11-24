@@ -21,8 +21,8 @@
 			const page = parseInt(params.homepage || 1) || 1;
 			const totalPosts = (await $content("posts").fetch()).length;
 			const skip = PER_PAGE * (page - 1);
-			const posts = await $content("posts")
-				.sortBy("date", "desc").skip(skip).limit(perPage).fetch();
+			const posts = await $content("posts").only(["titre", "couverture", "date", "auteur", "categories"])
+				.sortBy("date", "asc").skip(skip).limit(perPage).fetch();
 			const categories = await $content("categories")
 				.sortBy("ordre", "asc").fetch();
 			if (!posts.length) throw new Error('Not found')
