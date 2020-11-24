@@ -14,14 +14,14 @@
         class="leading-relaxed rounded bg-gray-200 overflow-hidden font-sans text-lighterblue relative"
       >
         <img
-          class="object-cover absolute inset-0"
+          class="object-cover absolute w-full h-full inset-0"
           src="https://res.cloudinary.com/genesi-communication-design/image/upload/v1606215558/ihei/quran_os5xtg.jpg"
           alt=""
         />
         <div
           class="inset-0 absolute bg-gradient-to-b from-transparent to-black"
         ></div>
-        <div class="md:col-span-2 px-4 py-8 md:px-10 md:pt-20 md:pb-8 relative text-white">
+        <div class="md:col-span-2 px-4 py-8 md:px-10 md:pt-24 md:pb-8 relative text-white">
           <p>
             <a href="/">
               <p class="text-2xl font-bold">
