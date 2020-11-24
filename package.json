@@ -14,7 +14,8 @@
     "@tailwindcss/typography": "^0.2.0",
     "core-js": "^3.6.5",
     "nuxt": "^2.14.6",
-    "remark-footnotes": "^2.0.0"
+    "remark-footnotes": "^2.0.0",
+    "vue-script2": "^2.1.0"
   },
   "devDependencies": {
     "@nuxtjs/date-fns": "^1.4.1",

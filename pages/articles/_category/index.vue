@@ -1,17 +1,13 @@
 <template>
-	<div>
-		<p><n-link to="/">Home</n-link> > <n-link to="/">Articles</n-link> > {{category.titre}}</p>
-		<h1>{{category.titre}}</h1>
-		<h2 v-if="category.soustitre">{{category.soustitre}}</h2>
-
-		<nuxt-content :document="category" />
-
-		<div class="lg:flex justify-between mt-10">
-			<!-- Categories -->
-			<Categories class="lg:w-1/4 lg:ml-6" :categories="categories" :category="category" baseurl="articles" />
-			
-			<!-- Articles -->
-			<Articles class="lg:w-3/4" :posts="posts" baseurl="articles"/>
+	<div class="my-grid">
+		<aside>
+			<h1 class="lg:hidden mb-4">{{category.titre}}</h1>
+			<Sidebar :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
+		</aside>
+		
+		<div class="md:col-span-3 space-y-10">
+			<nuxt-content class="static font-serif text-lightblue underline-links leading-relaxed p-3 lg:p-4 rounded bg-gray-200" :document="category" />
+			<Articles :posts="posts" baseurl="articles" />
 		</div>
 	</div>
 </template>

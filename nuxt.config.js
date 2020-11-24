@@ -10,14 +10,33 @@ export default {
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { hid: "description", name: "description", content: "" }
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }]
+    script: [
+      {
+        src: "https://cdn.usefathom.com/script.js",
+        "data-site": "JHSZNAJO",
+        defer: true
+      },
+      {
+        src: "https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@0/dist/algoliasearchNetlify.js"
+      }
+    ],
+    link: [
+      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      { rel: "stylesheet", href: "https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@0/dist/algoliasearchNetlify.css" }
+    ],
+  },
+
+  env: {
+    baseURL: 'https://ihei-asso.netlify.app'
   },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
-  css: [],
+  css: ["@/assets/style.css"],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
-  plugins: [],
+  plugins: [
+    { src: '~/plugins/gdpr-banner', mode: 'client' }
+  ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
   components: true,
@@ -33,7 +52,10 @@ export default {
   googleFonts: {
     /* module options */
     families: {
-      "IBM+Plex+Sans": {
+      "Merriweather+Sans": {
+        wght: [400, 700]
+      },
+      "Merriweather": {
         wght: [400, 700],
         ital: [400]
       }

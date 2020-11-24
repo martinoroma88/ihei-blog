@@ -1,10 +1,15 @@
 <template>
-	<section class="space-y-6 text-lg">
-		<div v-for="p in posts" :key="p.slug">
-			<div class="lg:flex">
-				<p class="text-gray-600 mr-6">{{$dateFns.format(new Date(p.date), 'dd/MM/yyyy')}}</p>
-				<p v-if="p.url"><a class="link" :href="p.url" target="_blank">{{p.titre}}</a></p>
-				<p v-else><n-link class="link" :to="'/'+baseurl+'/'+p.category.slug+'/'+p.slug">{{p.titre}}</n-link></p>
+	<section class="grid grid-cols-1 lg:grid-cols-2 gap-10 text-left">
+		<div class="flex space-x-4 items-center" v-for="p in posts" :key="p.slug">
+			<div class="flex-shrink-0 h-20 w-20 md:h-24 md:w-24 rounded bg-gray-100 border">
+				<img v-if="p.couverture" class="h-20 w-20 md:h-24 md:w-24 rounded object-cover object-top" :src="p.couverture" alt="">
+			</div>
+			<div>
+				<!-- Title linked to page or to external url-->
+				<p v-if="p.url"><a class="link font-bold font-sans" :href="p.url" target="_blank">{{p.titre}}</a></p>
+				<p v-else><n-link class="link font-bold font-sans" :to="'/'+baseurl+'/'+p.category.slug+'/'+p.slug">{{p.titre}}</n-link></p>
+				<!-- Auteur/s -->
+				<Auteurs class="text-sm" v-if="p.auteur" :auteurs="p.auteur" />
 			</div>
 		</div> 
 	</section>
