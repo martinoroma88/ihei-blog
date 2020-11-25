@@ -10,25 +10,27 @@
     </aside>
 
     <div class="md:col-span-3 space-y-10">
-      <div v-if="page === 1"
+      <div v-if="page === 1 && featured"
         class="leading-relaxed rounded bg-gray-200 overflow-hidden font-sans text-lighterblue relative"
       >
         <img
+          v-if="featured.couverture"
           class="object-cover absolute w-full h-full inset-0"
-          src="https://res.cloudinary.com/genesi-communication-design/image/upload/v1606215558/ihei/quran_os5xtg.jpg"
+          :src="featured.couverture"
           alt=""
         />
+        <div v-else class="absolute inset-0 bg-lighterblue"></div>
         <div
-          class="inset-0 absolute bg-gradient-to-b from-transparent to-black"
+          class="inset-0 absolute bg-gradient-to-b from-transparent to-black opacity-25"
         ></div>
-        <div class="md:col-span-2 px-4 py-8 md:px-10 md:pt-24 md:pb-8 relative text-white">
+        <div class="md:col-span-2 px-4 py-8 md:px-10 md:pt-40 md:pb-8 relative text-white">
           <p>
-            <a href="/">
+            <n-link :to="'/'+articles+'/'+featured.category.slug+'/'+featured.slug">
               <p class="text-2xl font-bold">
-                Lorem ipsum dolor sit amet conescit caveat illo
+                {{featured.titre}}
               </p>
-              <p>01-12-2020 Adecco paresit utrurie elipsis</p>
-            </a>
+              <Auteurs class="text-white" f-if="featured.auteur" :auteurs="featured.auteur" />
+            </n-link>
           </p>
         </div>
       </div>
@@ -47,9 +49,13 @@ export default {
     const page = parseInt(params.homepage || 1) || 1;
     const totalPosts = (await $content("posts").fetch()).length;
     const skip = PER_PAGE * (page - 1);
-    const posts = await $content("posts")
+
+
+
+    let posts = await $content("posts")
+      .where({featured: { $ne: true}})
       .only(["titre", "couverture", "url", "slug", "auteur", "categories"])
-      .sortBy("date", "asc")
+      .sortBy("date", "desc")
       .skip(skip)
       .limit(perPage)
       .fetch();
@@ -62,7 +68,17 @@ export default {
       let c = categories.find((c) => p.categories.includes(c.titre));
       p.category = c;
     });
-    return { posts, categories, page, perPage, totalPosts };
-  },
+
+    // handle featured post    
+    let featured;
+    featured = await $content("posts").where({featured : true}).fetch();
+    featured = featured.length > 0 ? featured[0] : false;
+    if(featured) {
+      const fCategory = categories.find(c => featured.categories.includes(c.titre));
+      featured.category = fCategory;
+    }
+
+    return { posts, featured, categories, page, perPage, totalPosts };
+  }
 };
 </script>

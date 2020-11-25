@@ -30,7 +30,7 @@
         v-if="post.couverture"
       />
       <p v-if="post.soustitre">{{ post.soustitre }}</p>
-      <Auteurs v-if="post.auteur" :auteurs="post.auteur" icon />
+      <Auteurs v-if="post.auteur" class="text-lighterblue" :auteurs="post.auteur" icon />
       <!-- Contenu -->
       <nuxt-content class="prose" :document="post" />
     </article>

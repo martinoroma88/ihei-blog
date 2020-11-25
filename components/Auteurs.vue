@@ -1,10 +1,10 @@
 <template>
-  <div class="flex space-x-2 text-lighterblue font-sans">
+  <div class="flex space-x-2 font-sans">
     <div v-if="icon">
       <IconUsers v-if="auteurs.length > 1 || auteurs[0] === 'IHEI'" />
       <IconUser v-else />
     </div>
-    <p class="text-lighterblue">
+    <p> 
       <span v-for="(a, i) in auteurs" :key="i">
         {{a}}
         <span v-if="i < auteurs.length - 1">,&nbsp;</span>

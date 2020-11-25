@@ -1,6 +1,6 @@
 ---
 titre: "Perspectives musulmanes contemporaines sur le dialogue avec l’Occident"
-date: "2020-08-05"
+date: "2020-10-05"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586812/ihei/couvertures/dialogue-interreligieux-1_g2vm3v.jpg"
 categories: 
 	- "Dialogue interreligieux"
