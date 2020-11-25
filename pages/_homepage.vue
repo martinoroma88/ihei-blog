@@ -25,7 +25,7 @@
         ></div>
         <div class="md:col-span-2 px-4 py-8 md:px-10 md:pt-40 md:pb-8 relative text-white">
           <p>
-            <n-link :to="'/'+articles+'/'+featured.category.slug+'/'+featured.slug">
+            <n-link :to="'/articles/'+featured.category.slug+'/'+featured.slug">
               <p class="text-2xl font-bold">
                 {{featured.titre}}
               </p>
