@@ -8,7 +8,7 @@ auteur:
 	- "Jawad Bossa"
 ---
 
-Comment se fait-il que les terroristes qui prononcent Allahu akbar ( «&nbsp;Dieu est plus grand&nbsp;» ), prient dans les mosquées, font le Ramadan, lisent le Coran, soient si différents des musulmans qui font pourtant la même chose&nbsp;? En quoi sont-ils différents&nbsp;? Pourquoi sont-ils en désaccord&nbsp;? 
+Comment se fait-il que les terroristes qui prononcent Allahu akbar («&nbsp;Dieu est plus grand&nbsp;»), prient dans les mosquées, font le Ramadan, lisent le Coran, soient si différents des musulmans qui font pourtant la même chose&nbsp;? En quoi sont-ils différents&nbsp;? Pourquoi sont-ils en désaccord&nbsp;? 
 
 Question intéressante&nbsp;! Et pas seulement pour les musulmans&nbsp;! 
 
