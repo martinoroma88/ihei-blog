@@ -1,5 +1,5 @@
 ---
-titre: "La Société-civile Et L’éducation Aux Droits De L’homme Comme Instruments De Promotion De La Tolérance Religieuse"
+titre: "La Société-civile et l’éducation aux Droits de l’Homme comme instruments de promotion de la tolérance religieuse"
 date: "2020-09-27"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-6_jhqejw.jpg"
 categories: 
