@@ -10,7 +10,7 @@ auteur:
 	- "IHEI-COREIS"
 ---
 
-Dans la langue arabe, le mot *tawhîd* dérive de *wahhada*, qui signifie affirmer, de façon intense et fréquente, l’unicité de Dieu. Le *tawhîd* indique donc le témoignage répété de Dieu à travers Son Nom*al-Wâhid*, l’Unique, et l’on peut dire que toute la religion consiste, en définitive, à reconduire chaque pensée et chaque action à la centralité de l’unicité de Dieu.
+Dans la langue arabe, le mot *tawhîd* dérive de *wahhada*, qui signifie affirmer, de façon intense et fréquente, l’unicité de Dieu. Le *tawhîd* indique donc le témoignage répété de Dieu à travers Son Nom *al-Wâhid*, l’Unique, et l’on peut dire que toute la religion consiste, en définitive, à reconduire chaque pensée et chaque action à la centralité de l’unicité de Dieu.
 
 Selon les mots du Shaykh at-Tâdilî, la science du *tawhîd* 
 >  est la plus élevée et la plus parfaite des sciences. Elle est le fondement de toutes les sciences et de toutes les compréhensions&nbsp;; elle est leur source et leur but puisque toutes les sciences en dérivent. Toutes les sciences se séparent de leur “&nbsp;compagnon&nbsp;” quand celui- ci abandonne ce bas monde. Seule la science de la doctrine de l’unicité accompagne son compagnon dans la demeure de l’au-delà.
