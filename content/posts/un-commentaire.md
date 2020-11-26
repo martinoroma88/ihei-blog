@@ -8,7 +8,7 @@ auteur:
 	- "Abd al-Haqq Ismaïl Guiderdoni"
 ---
 
-*par l’Imâm Seigneurial et le Secours Universel, le Seigneur* Ahmad Ibn Idrîs al-Hasanî al-Idrîsî, *que Dieu sanctifie son secret. Amîn*
+*par l’Imâm Seigneurial et le Secours Universel, le Seigneur *Ahmad Ibn Idrîs al-Hasanî al-Idrîsî, *que Dieu sanctifie son secret. Amîn*
 
 **Au Nom de Dieu le Tout-Miséricordieux, le Très-Miséricordieux**
 
@@ -21,7 +21,7 @@ Parmi tout cela se trouvait le discours sur cette noble et très importante trad
 On rapporte de notre seigneur ‘Alî — que Dieu recouvre de Grâce sa face — qu’il disait&nbsp;: 
 > J’ai interrogé l’Envoyé de Dieu — Que Dieu prie sur lui et le salue — à propos de sa tradition. Et il répondit&nbsp;: “&nbsp;La connaissance est mon capital&nbsp;; l’intellect est l’origine de ma religion&nbsp;; l’amour est mon assise&nbsp;; le désir est mon vaisseau&nbsp;; le souvenir de Dieu est mon compagnon intime&nbsp;; la confiance est mon trésor&nbsp;; le chagrin est mon camarade&nbsp;; la science est mon arme&nbsp;; la patience est ma provision de route&nbsp;; la satisfaction est mon trophée&nbsp;; la faiblesse est ma gloire&nbsp;; l’ascèse est ma profession&nbsp;; la certitude est ma force&nbsp;; la sincérité est mon intercesseur&nbsp;; l’obéissance me suffit&nbsp;; la guerre sainte est mon caractère&nbsp;; la fraîcheur de mon œil se trouve dans la prière canonique&nbsp;; ma préoccupation concerne ma communauté, et mon désir va vers mon Seigneur&nbsp;”.
 
-*On rapporte de notre seigneur ‘Alî — que Dieu recouvre de Grâce sa face* et qu’Il soit satisfait de lui*— qu’il disait&nbsp;: 
+*On rapporte de notre seigneur ‘Alî — que Dieu recouvre de Grâce sa face *et qu’Il soit satisfait de lui*— qu’il disait&nbsp;: 
 > J’ai interrogé l’Envoyé de Dieu — que Dieu prie sur lui et le salue — à propos de sa tradition. Et il répondit&nbsp;: La connaissance est mon capital (al-ma’rifah ra’su mâlî).* 
 
 Celui-ci consiste à connaître Dieu — qu’Il soit exalté et magnifié. Dieu est le Premier et il n’y a rien avant Lui, le Dernier et il n’y a rien après Lui, l’Extérieur et il n’y a rien au-dessus de Lui, l’Intérieur et il n’y a rien en deçà de Lui. Cette délimitation est celle par laquelle Dieu Lui-même S’est délimité, comme cela nous a été rapporté par le Prophète, dans une de ses invocations&nbsp;: 
@@ -30,11 +30,11 @@ Celui-ci consiste à connaître Dieu — qu’Il soit exalté et magnifié. Dieu
 Quant à la connaissance, elle consiste à effacer totalement l’être créé de sa contemplation, et à ne tourner sa face que vers Dieu[^3]. «&nbsp;Où que vous vous tourniez, là est la face de Dieu[^4]&nbsp;». C’est cela le capital, par lequel adviennent les dévoilements.
 
 *L’intellect est l’origine de ma religion (wa-l-‘aqlu açlu dînî)&nbsp;:* l’intellect est le principe de tout bien, et Dieu n’accorde pas à un serviteur de grâce plus grande que l’intellect. Par lui, [le serviteur] fait la séparation entre la vérité et l’erreur, entre la foi et l’infidélité&nbsp;; par lui, il distingue le licite de l’illicite&nbsp;; par lui, il saisit les choses qui plaisent à Dieu et celles qui Le courroucent. Il est la source de toute grâce. Et la connaissance qui est l’assise de la foi, est qu’il n’y a pas d’acte de connaissance sans lui.
-> Quand Dieu créa l’intellect, Il lui dit «&nbsp;approche-toi&nbsp;» et il s’approcha, puis Il lui dit «&nbsp;recule&nbsp;» et il recula [^5].
+> Quand Dieu créa l’intellect, Il lui dit «&nbsp;approche-toi&nbsp;» et il s’approcha, puis Il lui dit «&nbsp;recule&nbsp;» et il recula[^5].
 
 Et quand Il attacha l’obéissance, et l’ordre et la défense, ce qui était saisi par l’entrave du chameau fut appelé intelligence[^6]. C’est ce qui attache les hommes à ce que Dieu aime et à ce qui Le satisfait.
 
-*L’amour est mon assise (wa-l-hubbu asâsî)&nbsp;:* l’amour est l’assise de la connaissance. Il est mentionné dans le hadîth&nbsp;: «&nbsp;N’est-il pas vrai qu’il n’y a pas d’amour pour celui qui n’a pas d’amour pour Lui&nbsp;», c’est-à-dire pour Dieu&nbsp;? Et la réalité de l’amour est l’inclination. Celui qui n’a pas de penchant avec tout son être, l’amour s’en tient à distance. Le meilleur amour est que Dieu et Son Envoyé te soient plus dignes d’amour que tout le reste. «&nbsp;Dis&nbsp;: si vous aimez Dieu, suivez-moi&nbsp;; alors Dieu vous aimera [^7]&nbsp;». Il est désirable de suivre l’Envoyé de Dieu dans ses ordres et dans ses interdictions. Si le serviteur le suit et accomplit les ordres que Dieu aime, Dieu l’aime. Et si Dieu l’aime, sans aucun doute Il le rapprochera de Lui[^8]. Parmi les invocations de Dâwûd (sur lui la bénédiction et la paix), l’on trouve&nbsp;: 
+*L’amour est mon assise (wa-l-hubbu asâsî)&nbsp;:* l’amour est l’assise de la connaissance. Il est mentionné dans le hadîth&nbsp;: «&nbsp;N’est-il pas vrai qu’il n’y a pas d’amour pour celui qui n’a pas d’amour pour Lui&nbsp;», c’est-à-dire pour Dieu&nbsp;? Et la réalité de l’amour est l’inclination. Celui qui n’a pas de penchant avec tout son être, l’amour s’en tient à distance. Le meilleur amour est que Dieu et Son Envoyé te soient plus dignes d’amour que tout le reste. «&nbsp;Dis&nbsp;: si vous aimez Dieu, suivez-moi&nbsp;; alors Dieu vous aimera[^7]&nbsp;». Il est désirable de suivre l’Envoyé de Dieu dans ses ordres et dans ses interdictions. Si le serviteur le suit et accomplit les ordres que Dieu aime, Dieu l’aime. Et si Dieu l’aime, sans aucun doute Il le rapprochera de Lui[^8]. Parmi les invocations de Dâwûd (sur lui la bénédiction et la paix), l’on trouve&nbsp;: 
 > O mon Dieu, en vérité je Te demande de T’aimer, et d’aimer celui qui T’aime, je Te demande d’accomplir les actes qui me feront parvenir à l’amour de Toi. O mon Dieu, fais que l’amour que j’ai pour Toi soit pour moi plus fort que moi-même, ma famille, et l’eau fraiche.
 
 Il précisa les choses mentionnées ci-dessus parce qu’elles prennent le cœur mais détournent de Dieu. Si le serviteur ne s’occupe pas de Dieu, et s’occupe de ces choses, on peut craindre pour lui qu’il ne renie les bienfaits de Dieu — que Dieu nous en préserve&nbsp;! —
@@ -50,7 +50,7 @@ Il est mentionné dans le hadîth&nbsp;:
 > Le trésor du croyant est son Seigneur 
 
 et encore&nbsp;: 
-> O mon Dieu, personne ne peut enlever ce que Tu as donné, et personne ne peut donner ce que Tu as enlevé.
+> Ô mon Dieu, personne ne peut enlever ce que Tu as donné, et personne ne peut donner ce que Tu as enlevé.
 
 Rien ne demeure avec le serviteur que la confiance totale en Dieu. Quand Dieu ne nous donne pas ce qui est entre nos mains ni ce qui est entre les mains d’autrui, nous ne pouvons rien prendre.
 
@@ -61,10 +61,10 @@ Le chagrin est à la mesure de l’immensité de ce dont on s’attriste. Le cha
 
 *La science est mon arme (wa-l-’ilmu silâhî)&nbsp;:* la science est le fondement de la connaissance, et le fondement de tout bien. Grâce à elle l’on atteint dans le cœur l’immensité de Dieu, par la vertu de la méditation, comme le dit Dieu&nbsp;: «&nbsp;Tirez un enseignement, ô vous qui détenez les regards[^14]&nbsp;!&nbsp;» Et cela ne peut se produire que par la science.
 
-*La patience est ma provision de route (wa-ç-çabru zâdî)&nbsp;:* le serviteur voyage dans ses souffles et ses regards[^15], et sa provision de route dans son voyage consiste à suivre les ordres et les interdictions[^16]. Cela ne peut s’accomplir pour lui que par la patience. S’il ne patiente pas, il se conduit lui-même vers ce qui courrouce Dieu.
+*La patience est ma provision de route (wa-ç-çabru zâdî)&nbsp;: *le serviteur voyage dans ses souffles et ses regards[^15], et sa provision de route dans son voyage consiste à suivre les ordres et les interdictions[^16]. Cela ne peut s’accomplir pour lui que par la patience. S’il ne patiente pas, il se conduit lui-même vers ce qui courrouce Dieu.
 
 *La satisfaction est mon trophée (wa-r-ridâ ghanîmatî)&nbsp;:* le plus grand trophée consiste à se satisfaire du partage de Dieu[^17]. L’on trouve dans l’*Entretien Intime*&nbsp;: 
-> O Moïse, si tu es satisfait de Moi, certes Je suis satisfait de toi, et si tu es en colère et n’es pas satisfait de Mon décret, tu rendras inévitable Ma colère.
+> Ô Moïse, si tu es satisfait de Moi, certes Je suis satisfait de toi, et si tu es en colère et n’es pas satisfait de Mon décret, tu rendras inévitable Ma colère.
 
 *La faiblesse est ma gloire (wa-l-’ajzu fakhrî)&nbsp;:* la faiblesse est la reconnaissance qu’il n’y a de puissance et de force que par Dieu, l’Elevé, l’Immense. Le Prophète a dit&nbsp;: «&nbsp;La pauvreté est ma gloire et je m’en vante&nbsp;». La pauvreté est la disparition des choses hors du cœur et l’emplissage de son espace par l’amour envers Dieu. C’est de cette pauvreté que l’Envoyé de Dieu se vante. La pauvreté, en tant qu’elle est pauvreté envers Dieu par le cœur, est une pauvreté louable, dont on peut se vanter. Quant à la pauvreté contre laquelle on cherche refuge en Dieu, que le Prophète a accolée à l’infidélité, il a dit&nbsp;: «&nbsp;O mon Dieu, je prend refuge en Toi contre l’infidélité et la pauvreté&nbsp;». Et il a dit aussi&nbsp;: «&nbsp;Peu s’en faut que la pauvreté ne soit infidélité&nbsp;». Cette pauvreté est la disparition de la vérité hors du cœur, et l’adhésion du cœur aux choses qui le détournent de Dieu. Quand ces choses sont réduites à néant dans le cœur et le cœur se remplit de l’adhésion à Dieu, il s’agit là de la pauvreté dont se vante l’Envoyé de Dieu[^18].
 
@@ -87,7 +87,7 @@ oi au moment où j’ai essayé de la rattraper&nbsp;». Les hommes de Dieu crai
 > En vérité l’homme est rebelle, car il se voit riche[^24].
 
 Et Il a dit aussi&nbsp;: 
-> O vous les hommes, vous êtes les pauvres envers Dieu[^25].
+> Ô vous les hommes, vous êtes les pauvres envers Dieu[^25].
 
 Le Prophète s’est imposé la pauvreté que Dieu a ainsi appelée. En vérité le but de l’homme est la pauvreté parce qu’elle est son principe. Tout se trouvait [pour lui] dans la gêne qui était sa lumière jusqu’à ce qu’il rencontrât Dieu. Le Prophète n’a pas voulu partager avec son Seigneur l’attribut de la richesse.
 
@@ -114,31 +114,31 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^1]:  C’est un disciple du ShaykhAhmad Ibn Idrîs qui parle.
 
-[^2]:  Cette ville se situe dans le sud du Yémen .&nbspLe Shaykh arriva à Zabîd en 1827-1828 pour une brève visite, puis s’y installa ensuite pendant neuf mois, en 1828-1829 .&nbspVoir R.S. O’Fahey, in *Enigmatic Saint*, p. 83-88.
+[^2]:  Cette ville se situe dans le sud du Yémen. Le Shaykh arriva à Zabîd en 1827-1828 pour une brève visite, puis s’y installa ensuite pendant neuf mois, en 1828-1829. Voir R.S. O’Fahey, in *Enigmatic Saint*, p. 83-88.
 
-[^3]:  La connaissance (ma’rifah) fondamentale est celle de Dieu, Principe et Fin dernière .&nbspLe Shaykh prend soin de rappeler que ces «&nbspdéfinitions &nbsp» ou «&nbspdélimitations &nbsp» de Dieu qui ont été données par la Révélation coranique et la Tradition prophétique sont en fait des négations de toute limite :&nbspDieu est le Premier, c’est-à-dire Celui avant qui il n’y a rien, etc .&nbspLa véritable connaissance de Dieu est apophatique .&nbspNous n’y accédons pas par un savoir positif, mais en nous séparant de la connaissance positive du créé, qui est notre voile
+[^3]:  La connaissance (ma’rifah) fondamentale est celle de Dieu, Principe et Fin dernière. Le Shaykh prend soin de rappeler que ces «&nbsp;définitions&nbsp;» ou «&nbsp;délimitations&nbsp;» de Dieu qui ont été données par la Révélation coranique et la Tradition prophétique sont en fait des négations de toute limite&nbsp;: Dieu est le Premier, c’est-à-dire Celui avant qui il n’y a rien, etc. La véritable connaissance de Dieu est apophatique. Nous n’y accédons pas par un savoir positif, mais en nous séparant de la connaissance positive du créé, qui est notre voile.
 
 [^4]:  Cor. 2:115.
 
-[^5]:  L’intellect,  «&nbsppremière des créations de Dieu &nbsp» selon un hadîth qui ne se trouve pas dans les recueils canoniques, mesure, par son «&nbspmouvement vers Dieu &nbsp», puis son «&nbspéloignement &nbsp», les possibilités de manifestation et trace ainsi l’axe métaphysique du monde selon lequel Dieu agira .&nbspPar ce double mouvement, vers le haut puis vers le bas de la feuille, le calame dessine la lettre alif, première de l’alphabet.
+[^5]:  L’intellect,  «&nbsp;première des créations de Dieu &nbsp;» selon un hadîth qui ne se trouve pas dans les recueils canoniques, mesure, par son «&nbspmouvement vers Dieu &nbsp», puis son «&nbsp;éloignement&nbsp;», les possibilités de manifestation et trace ainsi l’axe métaphysique du monde selon lequel Dieu agira. Par ce double mouvement, vers le haut puis vers le bas de la feuille, le calame dessine la lettre alif, première de l’alphabet.
 
-[^6]:  Le Shaykh explique la signification spirituelle de l’intellect (‘aql) à partir de la racine du mot qui signifie «&nbsplier &nbsp» ou «&nbspattacher &nbsp» .&nbspIl n’y a pas de foi (îmân) sans connaissance (ma’rifah), et il n’y a pas de connaissance sans intellect.
+[^6]:  Le Shaykh explique la signification spirituelle de l’intellect (‘aql) à partir de la racine du mot qui signifie «&nbsp;lier&nbsp;» ou «&nbs;pattacher&nbsp;». Il n’y a pas de foi (îmân) sans connaissance (ma’rifah), et il n’y a pas de connaissance sans intellect.
 
 [^7]:  Cor. 3:31.
 
-[^8]:  L’amour (mahabbah) nous amène à la connaissance de Dieu .&nbspL’imitation du Prophète Muhammad, qui constitue métaphysiquement l’isthme (barzakh) entre Dieu (al-Haqq) et la création (al-khalq), permet au croyant d’aimer Dieu et ainsi de Le connaître .&nbspC’est donc la pratique de la Loi révélée, mise en œuvre sous le contrôle de l’intellect, qui permet d’accéder à la connaissance.
+[^8]:  L’amour (mahabbah) nous amène à la connaissance de Dieu .&nbspL’imitation du Prophète Muhammad, qui constitue métaphysiquement l’isthme (barzakh) entre Dieu (al-Haqq) et la création (al-khalq), permet au croyant d’aimer Dieu et ainsi de Le connaître. C’est donc la pratique de la Loi révélée, mise en œuvre sous le contrôle de l’intellect, qui permet d’accéder à la connaissance.
 
-[^9]:  L’adhésion à Dieu (at-ta’alluq) est l’attitude spirituelle synthétique de l’Homme Parfait, créé à partir d’une «&nbspadhérence &nbsp» (‘alaq) .&nbspVoir Cor. 96:2.
+[^9]:  L’adhésion à Dieu (at-ta’alluq) est l’attitude spirituelle synthétique de l’Homme Parfait, créé à partir d’une «&nbspadhérence &nbsp» (‘alaq). Voir Cor. 96:2.
 
-[^10]:  Le Shaykh dévoile petit à petit la logique secrète du hadîth .&nbspIl n’y a pas de connaissance sans amour, pas d’amour sans inclination (mayl) .&nbspMais la meilleure inclination est celle qui est animée par le désir (shawq) qui consiste à «&nbspaccourir sans halte &nbsp» (wuqûf).
+[^10]:  Le Shaykh dévoile petit à petit la logique secrète du hadîth .&nbspIl n’y a pas de connaissance sans amour, pas d’amour sans inclination (mayl). Mais la meilleure inclination est celle qui est animée par le désir (shawq) qui consiste à «&nbspaccourir sans halte &nbsp» (wuqûf).
 
 [^11]:  Depuis l’instant de notre naissance, chacun de nos souffles nous rapproche de Dieu .&nbspCe chemin de la vie doit être parcouru avec amour et désir .&nbspMais cet énoncé fait surtout référence au voyage dans les souffles (anfâs) lors de l’invocation des awrâd donnés par le Shaykh .&nbspL’invocateur se rapproche de Dieu «&nbspdans chaque regard et dans chaque souffle (fî kulli lamhatin wa nafas) &nbsp», en maintenant dans son cœur le compagnon de voyage du souvenir de Dieu .&nbspLe souffle est alors le vent du désir qui meut le vaisseau humain, en le faisant tanguer d’un bord à l’autre comme dans l’invocation, et avancer sans trêve vers Dieu .&nbspL’état spirituel de l’invocateur consiste en effet à voyager d’une théophanie à l’autre, sans s’arrêter dans une théophanie particulière, afin de goûter la bénédiction du renouvellement incessant des théophanies.
 
-[^12]:   «&nbspCelui ne croit pas au Aâghût et croit en Dieu a saisi l’anse la plus solide et sans fêlure (Cor .&nbsp2 :&nbsp256) &nbsp» .&nbspCette «&nbspanse la plus solide et sans fêlure (*al-’urwat al-wuthqâ lâ-nfiçâma lahâ*) &nbsp» est l’attachement à la voie droite par la foi en Dieu .&nbsp «&nbspAccrochez-vous à la corde de Dieu et ne vous divisez pas (Cor .&nbsp3 :&nbsp103) &nbsp» .
+[^12]:   «&nbsp;Celui ne croit pas au Aâghût et croit en Dieu a saisi l’anse la plus solide et sans fêlure (Cor .&nbsp;2:&nbsp;256)&nbsp;». Cette «&nbspanse la plus solide et sans fêlure (*al-’urwat al-wuthqâ lâ-nfiçâma lahâ*)&nbsp;» est l’attachement à la voie droite par la foi en Dieu .&nbsp «&nbspAccrochez-vous à la corde de Dieu et ne vous divisez pas (Cor .&nbsp;3:&nbsp;103)&nbsp;».
 
-[^13]:  Les théophanies de l’invocation ne cessent de se renouveler et d’échapper à chaque souffle .&nbspLe cœur est le réceptacle spirituel dit :&nbsp «&nbspcelui qui se connaît soi-même connaît son Seigneur &nbsp» .
+[^13]:  Les théophanies de l’invocation ne cessent de se renouveler et d’échapper à chaque souffle .&nbspLe cœur est le réceptacle spirituel dit&nbsp;: «&nbsp;celui qui se connaît soi-même connaît son Seigneur&nbsp;».
 
-[^18]:  La vraie pauvreté est la pauvreté envers Dieu, non envers la création .&nbspCelui qui n’*a* rien peut rester attaché aux choses, alors que celui qui réalise qu’il n’*est* rien ne peut plus rien posséder et ne reste attaché qu’à Dieu.
+[^18]:  La vraie pauvreté est la pauvreté envers Dieu, non envers la création. Celui qui n’*a* rien peut rester attaché aux choses, alors que celui qui réalise qu’il n’*est* rien ne peut plus rien posséder et ne reste attaché qu’à Dieu.
 
 [^19]:  Cor. 70:33.
 
@@ -146,9 +146,9 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^21]:  Cor. 47:21.
 
-[^22]:  Sa forme extérieure manifeste alors de façon parfaite sa signification intérieure .&nbspL’on peut s’étonner de l’anecdote rapportée où Ibn ‘Arabî, pourtant «&nbsple plus grand des maîtres &nbsp», semble témoigner de son ignorance sur une question fondamentale .&nbspEn fait, Ibn ‘Arabî montre qu’il connaît effectivement, et non simplement en théorie, la station de la sincérité, parce qu’en s’ouvrant à une connaissance nouvelle, ou simplement renouvelée, il manifeste sa totale disponibilité spirituelle.
+[^22]:  Sa forme extérieure manifeste alors de façon parfaite sa signification intérieure. L’on peut s’étonner de l’anecdote rapportée où Ibn ‘Arabî, pourtant «&nbsp;le plus grand des maîtres &nbsp;», semble témoigner de son ignorance sur une question fondamentale. En fait, Ibn ‘Arabî montre qu’il connaît effectivement, et non simplement en théorie, la station de la sincérité, parce qu’en s’ouvrant à une connaissance nouvelle, ou simplement renouvelée, il manifeste sa totale disponibilité spirituelle.
 
-[^23]:  le jihâd n’est pas à proprement parler la «&nbspguerre sainte &nbsp», mais tout effort accompli sur le chemin de Dieu.
+[^23]:  le jihâd n’est pas à proprement parler la «&nbsp;guerre sainte&nbsp;», mais tout effort accompli sur le chemin de Dieu.
 
 [^24]:  Cor. 96:6-7.
 
@@ -158,16 +158,16 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^27]:  Cor. 35:8.
 
-[^28]:  La communauté de l’appel est l’humanité dans son ensemble, appelée à la soumission à Dieu .&nbspLa communauté de la réponse est celle des musulmans *stricto sensu* .&nbspLe Shaykh rappelle que le Prophète est une miséricorde universelle et que son souci s’adresse à l’humanité entière.
+[^28]:  La communauté de l’appel est l’humanité dans son ensemble, appelée à la soumission à Dieu. La communauté de la réponse est celle des musulmans *stricto sensu*. Le Shaykh rappelle que le Prophète est une miséricorde universelle et que son souci s’adresse à l’humanité entière.
 
 [^29]:  Cor. 21:107.
 
 [^30]:  Cor. 50:16.
 
-[^31]:  Il s’agit du célèbre hadîth qudsî rapporté dans al-Bukhârî :&nbsp «&nbspRien ne rapproche plus Mon serviteur de Moi que ce que J’aime par dessus tout, les actes obligatoires .&nbspMon serviteur ne cesse de s’approcher de Moi par les actes surérogatoires jusqu’à ce que Je l’aime ;&nbspet quand Je l’aime, Je suis l’ouïe avec laquelle il entend, la vue avec laquelle il voit, la main avec laquelle il saisit fortement et le pied avec lequel il marche &nbsp» .
+[^31]:  Il s’agit du célèbre hadîth qudsî rapporté dans al-Bukhârî&nbsp;: «&nbsp;Rien ne rapproche plus Mon serviteur de Moi que ce que J’aime par dessus tout, les actes obligatoires. Mon serviteur ne cesse de s’approcher de Moi par les actes surérogatoires jusqu’à ce que Je l’aime&nbsp;;et quand Je l’aime, Je suis l’ouïe avec laquelle il entend, la vue avec laquelle il voit, la main avec laquelle il saisit fortement et le pied avec lequel il marche&nbsp;».
 
 [^32]:  Par le tanzîh, l’affirmation de la Transcendance et de l’Incomparabilité de Dieu.
 
 [^33]:  C’est-à-dire en 1902.
 
-[^34]:  Il s’agit du petit fils de Muhammad al-Qutb, fils aîné du Shaykh Ahmad Ibn Idrîs .&nbspMuhammad al Yamanî (1876-1923) fonda, contre les Ottomans, un royaume idrîside au Yémen .&nbspVoir R.S. O’Fahey, in *Enigmatic Saint*, p. 122-125.
+[^34]:  Il s’agit du petit fils de Muhammad al-Qutb, fils aîné du Shaykh Ahmad Ibn Idrîs. Muhammad al Yamanî (1876-1923) fonda, contre les Ottomans, un royaume idrîside au Yémen. Voir R.S. O’Fahey, in *Enigmatic Saint*, p. 122-125.
