@@ -20,12 +20,12 @@ Nous, membres de l’Institut des Hautes Études Islamiques, dénonçons et dés
 
 Nous appelons les politiques, l’opinion publique et l’ensemble de la société civile à ne pas céder aux amalgames, et à avoir le discernement nécessaire pour distinguer entre les croyants véritables et les imposteurs, entre des citoyens musulmans vivant leur foi dans la paix et la dignité, et une bande de criminels.
 
-Nous partageons la détermination de la Conférence des évêques de France qui a dénoncé une « menace traître et aveugle », en rappelant qu’il est «  urgent que cette gangrène soit stoppée comme il est urgent que nous retrouvions l’indispensable fraternité qui nous tiendra tous debout face à ces menaces  ».
+Nous partageons la détermination de la Conférence des évêques de France qui a dénoncé une «&nbsp;menace traître et aveugle&nbsp;», en rappelant qu’il est «&nbsp;urgent que cette gangrène soit stoppée comme il est urgent que nous retrouvions l’indispensable fraternité qui nous tiendra tous debout face à ces menaces&nbsp;».
 
-Cette prise de conscience partagée va nécessairement dans le sens de la récente encyclique du pape François «  Tous Frères  », qui s’inscrit elle-même dans l’esprit de la déclaration islamo-chrétienne d’Abu Dhabi de 2019 pour la paix mondiale et la coexistence commune.
+Cette prise de conscience partagée va nécessairement dans le sens de la récente encyclique du pape François «&nbsp;Tous Frères&nbsp;», qui s’inscrit elle-même dans l’esprit de la déclaration islamo-chrétienne d’Abu Dhabi de 2019 pour la paix mondiale et la coexistence commune.
 
 Il nous appartient de continuer à témoigner des liens spirituels et fraternels qui nous unissent tous. 
 
 
-*Yahya Pallavicini, président IHEI*
-*Abd al-Haqq Guiderdoni, directeur IHEI* 
+Yahya Pallavicini, président IHEI
+Abd al-Haqq Guiderdoni, directeur IHEI
