@@ -1,6 +1,6 @@
 <template>
   <div class="my-grid">
-    <aside class="md:sticky top-0">
+    <aside>
       <h1 class="lg:hidden mb-4">Tous les articles</h1>
       <Sidebar
         :categories="categories"
@@ -11,7 +11,7 @@
 
     <div class="md:col-span-3 space-y-10">
       <div v-if="page === 1 && featured"
-        class="leading-relaxed rounded bg-gray-200 overflow-hidden font-sans text-lighterblue relative"
+        class="leading-relaxed rounded bg-gray-200 overflow-hidden font-sans text-lighterblue relative z-0"
       >
         <img
           v-if="featured.couverture"

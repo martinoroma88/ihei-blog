@@ -1,7 +1,7 @@
 <template>
 	<div class="my-grid">
 		<aside class="space-y-4">
-			<div class="md:sticky top-0 space-y-4 py-6 px-3 bg-gray-200 w-full rounded">
+			<div class="space-y-4 py-6 px-3 bg-gray-200 w-full rounded">
 				<p class="font-bold text-lg">Résultats pour : <span class="text-azure">{{query}}</span></p>
 				<a v-if="posts && posts.length" class="flex space-x-2 font-sans link" href="#articles">
 					<IconRight />

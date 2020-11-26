@@ -51,7 +51,7 @@
 		},
 		computed: {
 			accueil() {
-				if(this.$route.name === "articles-category" || this.$route.name === "index") return true;
+				if(this.$route.name === "articles-category" || this.$route.name === "index" || this.$route.name === "articles-category-article") return true;
 				else return false;
 			}
 		},
