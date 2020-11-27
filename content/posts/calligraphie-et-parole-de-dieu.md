@@ -59,7 +59,7 @@ Cette pureté spirituelle du Prophète, qui le rendit capable de recevoir la «&
 > Si tu vois quelqu’un d’entre les humains, dis&nbsp;: “&nbsp;Assurément, j’ai voué un jeûne au Tout-Miséricordieux&nbsp;: je ne parlerai donc aujourd’hui à aucun être humain.&nbsp;” Cor. 19&nbsp;: 26.
 
 Quand son peuple lui reprocha sa maternité exceptionnelle, elle désigna, sans dire mot, l’enfant qu’elle portait et qui lui rendit justice en se présentant&nbsp;: 
-> En vérité, je suis le serviteur de Dieu. Il m’a donné le Livre et a fait de moi un prophète. Cor. 19&nbsp;: 30. 
+> En vérité, je suis le serviteur de Dieu. Il m’a donné le Livre et a fait de moi un prophète. Cor. 19&nbsp;: 30.
 
 Ces versets, qui, dans leur original arabe, sont imprégnés du rythme et de la mélodie propres au texte coranique, semblent, à l’instar de Marie désignant l’enfant Jésus, faire allusion à ce qui représente le caractère ineffable du Verbe de Dieu, Sa Présence dont Il est seul à pouvoir témoigner.
 
