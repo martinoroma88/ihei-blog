@@ -8,7 +8,7 @@ Il est important de souligner les liens de coopération que l’Institut des Hau
 
 ***Avec les églises et les communautés chrétiennes d’Occident et d’Orient***
 
-Le Président de l’I.H.E.I. a rencontré en audience le pape Benoît XVI lors du Forum catholique-musulman qui s’est tenu en 2008 au Vatican, entre la délégation des 138 savants musulmans internationaux et la délégation coordonnée par le Conseil pontifical pour le dialogue interreligieux. Par la suite, il a été reçu par le pape François lors de la cérémonie inaugurale de son pontificat, en 2013, et lors d’audiences interreligieuses internationales. Il a également établi une relation avec le Patriarche œcuménique de Constantinople Bartholomée I.
+Le Président de l’I.H.E.I. a rencontré en audience le pape Benoît XVI lors du Forum catholique-musulman qui s’est tenu en 2008 au Vatican, entre la délégation des 138 savants musulmans internationaux et la délégation coordonnée par le Conseil pontifical pour le dialogue interreligieux. Par la suite, il a été reçu par le pape François lors de la cérémonie inaugurale de son pontificat, en 2013, et lors d’audiences interreligieuses internationales. Il a également établi une relation avec le Patriarche &oelig;cuménique de Constantinople Bartholomée I.
 
 Des relations pérennes ont été établies avec plusieurs personnalités chrétiennes (Père Michel Lelong, alors Directeur du Secrétariat national pour les Relations avec l’Islam (SRI), le Père André Gence, prêtre et artiste de grande notoriété, le Père Delorme, …) et monastères, notamment celui orthodoxe de la Faurie et son l’higoumène le Père Victor, et celui bénédictin de Ganagobie et son Père Abbé, René-Hugues de la Chaisserie.
 

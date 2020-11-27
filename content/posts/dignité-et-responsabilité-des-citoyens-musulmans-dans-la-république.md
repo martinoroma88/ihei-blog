@@ -24,13 +24,13 @@ En effet, si la référence aux «&nbsp;Lumières&nbsp;» renvoie au courant phi
 
 Comme si, également, le rationalisme allait préserver la société française et les musulmans du terrorisme&nbsp;; comme si, surtout, les musulmans ne possédaient pas déjà dans leur patrimoine intellectuel, spirituel et culturel toutes les ressources pour vivre intelligemment leur religion en harmonie avec les valeurs républicaines. 
 
-L’islam envisage la raison à la lumière de la foi, rattachant chacune à leur source divine, dans le mystère de l’Esprit. Des maîtres musulmans comme Ghazâlî, Ibn ‘Arabî et Rûmî, ou encore l’émir Abd el-Kader et le métaphysicien René Guénon, ont enseigné comment concilier révélation, foi et raison, et comment surtout en dépasser les oppositions relatives, par en haut, dans l’illumination du cœur. 
+L’islam envisage la raison à la lumière de la foi, rattachant chacune à leur source divine, dans le mystère de l’Esprit. Des maîtres musulmans comme Ghazâlî, Ibn ‘Arabî et Rûmî, ou encore l’émir Abd el-Kader et le métaphysicien René Guénon, ont enseigné comment concilier révélation, foi et raison, et comment surtout en dépasser les oppositions relatives, par en haut, dans l’illumination du c&oelig;ur. 
 
 Donner une importance exagérée à la raison, en cherchant à l’émanciper de son principe vital, pourrait favoriser l’émergence d’un «&nbsp;séparatisme&nbsp;» dangereux&nbsp;: la parodie d’un islam coupé de ses racines, une lettre sans esprit, une coquille vide de sens, en proie à toutes les influences néfastes et à tous les courants idéologiques. 
 
 L’adoption des paradigmes rationalistes ne saurait représenter la seule issue face à la radicalisation, ni le moyen privilégié de l’adaptation supposée des musulmans à la société française. L’écrasante majorité des musulmans de France vivent leur foi en toute sérénité et dans le respect des lois. Ils témoignent de la compatibilité de leurs principes spirituels et de leur pratique avec les valeurs démocratiques, évitant le littéralisme aveugle, le conservatisme anachronique et le réformisme rationaliste. Être d’honnêtes citoyens français résulte de leur identité spirituelle, et non d’une adaptation passive au milieu social. 
 
-Nous saluons le vœu du président Macron qui souhaite 
+Nous saluons le v&oelig;u du président Macron qui souhaite 
 > s’engager et soutenir ce qui, dans notre pays, doit nous permettre de faire émerger une meilleure compréhension de l’islam […] pour mieux nous connaître aussi les uns les autres parce que c’est un enjeu pour nous-mêmes.
 
 Mais nous pensons que la connaissance de l’islam, pour qu’elle soit fidèle à son esprit, ne peut se passer de l’apport des intellectuels musulmans, contribuant à «&nbsp;vivifier&nbsp;» la compréhension et la déclinaison de ses principes, dans toute leur universalité, en phase avec notre époque. 

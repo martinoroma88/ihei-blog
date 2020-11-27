@@ -35,5 +35,5 @@ categories:
 *Shaykh Abd-al-Wahid Pallavicini*
 
 **Témoignages à l’occasion du cinquantenaire de la mort du Shaykh ‘Abd-al-Wâhid Yahyâ [René Guénon]**
-**La fonction de la communauté spirituelle à la suite de l’œuvre de René Guénon**
+**La fonction de la communauté spirituelle à la suite de l’&oelig;uvre de René Guénon**
 *Abd-al-Haqq Ismaïl Guiderdoni*

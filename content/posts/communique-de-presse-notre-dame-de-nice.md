@@ -24,8 +24,4 @@ Nous partageons la détermination de la Conférence des évêques de France qui 
 
 Cette prise de conscience partagée va nécessairement dans le sens de la récente encyclique du pape François «&nbsp;Tous Frères&nbsp;», qui s’inscrit elle-même dans l’esprit de la déclaration islamo-chrétienne d’Abu Dhabi de 2019 pour la paix mondiale et la coexistence commune.
 
-Il nous appartient de continuer à témoigner des liens spirituels et fraternels qui nous unissent tous. 
-
-
-Yahya Pallavicini, président IHEI
-Abd al-Haqq Guiderdoni, directeur IHEI
+Il nous appartient de continuer à témoigner des liens spirituels et fraternels qui nous unissent tous.

@@ -23,7 +23,7 @@ La sécularisation va même jusqu’à empêcher les citoyens européens de vivr
 > C’est le symbole de l’unité - dit-il - dans la diversité de la famille qui peut être le moyen le plus efficace pour éviter l’image de l’individualisme ou le relativisme qui semble caractériser la crise de nombreux couples en Europe.
 
 L’imam a rappelé que&nbsp;: 
-> l’égoïsme et l’indifférence par la population est seulement une maladie de l’âme que les religions chrétienne et musulmane savent guérir en ouvrant le cœur à la générosité et à l’amour, à la fraternité et au respect, à la collaboration et à l’empathie, aux pensées et aux actions inspirées qui produisent la cohésion sociale et la croissance interculturelle.
+> l’égoïsme et l’indifférence par la population est seulement une maladie de l’âme que les religions chrétienne et musulmane savent guérir en ouvrant le c&oelig;ur à la générosité et à l’amour, à la fraternité et au respect, à la collaboration et à l’empathie, aux pensées et aux actions inspirées qui produisent la cohésion sociale et la croissance interculturelle.
 
 Et il conclut&nbsp;: 
 > Le citoyen européen pourra retrouver plus clairement la dignité de son identité culturelle quand il sera capable de communiquer avec sa propre histoire, avec sa foi, avec sa famille, et qu’il interprètera tous ces éléments, comme une valeur ajoutée, intégrés de manière naturelle dans son existence lui permettant alors de vivre en harmonie avec les liens affectifs et sociaux que la vie lui offre.Ainsi, les juifs, les chrétiens et les musulmans européens continueront de contribuer à l’enrichissement d’une identité européenne qui trouvent ses racines dans la richesse de la vie ainsi que dans ses traditions familiales et spirituelles.

@@ -27,4 +27,4 @@ L’I.H.E.I. a insisté également, dans ce cadre, sur la nécessité de ne pas 
 
 Les récentes déclarations de Bernard Cazeneuve, ministre de l’Intérieur, qui visent à donner un nouveau souffle à la représentation de l’islam en France, et qui mettent l’accent sur la nécessité d’accroître le rôle de ces intellectuels, susceptibles d’assurer une meilleure médiation tant entre les différentes sensibilités musulmanes qu’avec l’Etat, vont dans le même sens que les recommandations émises alors par les membres de l’I.H.E.I.
 
-L’Institut continue d’ailleurs de proposer ses compétences et son expérience pour œuvrer, auprès du ministère de l’Intérieur et des représentants du culte musulman, à l’organisation de l’islam de France.
+L’Institut continue d’ailleurs de proposer ses compétences et son expérience pour &oelig;uvrer, auprès du ministère de l’Intérieur et des représentants du culte musulman, à l’organisation de l’islam de France.

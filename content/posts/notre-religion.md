@@ -12,15 +12,15 @@ Comment se fait-il que les terroristes qui prononcent Allahu akbar («&nbsp;Dieu
 
 Question intéressante&nbsp;! Et pas seulement pour les musulmans&nbsp;! 
 
-Le Prophète Muhammad (sur lui la paix) ne nous a-t-il pas dit&nbsp;: «&nbsp;un jour viendra où les mosquées seront pleines mais les cœurs seront vides&nbsp;»&nbsp;? Qu'en est-il de notre cœur de croyant&nbsp;? Sommes-nous sincères dans notre pratique&nbsp;? 
+Le Prophète Muhammad (sur lui la paix) ne nous a-t-il pas dit&nbsp;: «&nbsp;un jour viendra où les mosquées seront pleines mais les c&oelig;urs seront vides&nbsp;»&nbsp;? Qu'en est-il de notre c&oelig;ur de croyant&nbsp;? Sommes-nous sincères dans notre pratique&nbsp;? 
 
 Peut-être un premier élément de réponse est que la vérité ne se trouve pas dans l’apparence ou la forme.
 
 Pourquoi les représentations humaines sont-elles interdites en Islam alors que le Prophète Muhammad a lui-même protégé de ses mains une icône de la Sainte Vierge Marie et de Jésus (sur eux la paix) dans le temple de la Kaaba à la Mecque&nbsp;? Cet exemple montre qu'il ne faut pas confondre le symbole et sa signification et que la forme des choses n'a de valeur que si elle est rattachée au principe.
 
-En cela, le musulman — muslim — est celui qui se soumet librement à la volonté de Dieu. Pour l’être, il ne suffit donc pas d’aller à la mosquée pour prier, de jeuner durant le ramadan, de s’abstenir d'alcool et de porc, ou de porter la barbe ou le voile. La pratique religieuse n’est qu’un outil et cet outil est inutile s’il n’est pas utilisé par le cœur.
+En cela, le musulman — muslim — est celui qui se soumet librement à la volonté de Dieu. Pour l’être, il ne suffit donc pas d’aller à la mosquée pour prier, de jeuner durant le ramadan, de s’abstenir d'alcool et de porc, ou de porter la barbe ou le voile. La pratique religieuse n’est qu’un outil et cet outil est inutile s’il n’est pas utilisé par le c&oelig;ur.
 
-La pratique religieuse est en effet ce sur quoi le croyant prend appui&nbsp;; cependant elle peut devenir une forme stérile si elle n’est pas vivifiée par le cœur, sans lequel le ramadan devient une diète, et la prière une gymnastique.
+La pratique religieuse est en effet ce sur quoi le croyant prend appui&nbsp;; cependant elle peut devenir une forme stérile si elle n’est pas vivifiée par le c&oelig;ur, sans lequel le ramadan devient une diète, et la prière une gymnastique.
 
 Ainsi, à titre d’exemple, il ne s’agit pas, pour le musulman, de diaboliser le porc, mais de comprendre la vertu profonde de l’obéissance et de la soumission à l’ordre divin qui en a décrété l’interdiction. L’impureté n’est pas tant dans l’animal que dans l’âme qui n’est pas sacralisée par cette intention.
 
@@ -38,7 +38,7 @@ Et maintenant, pouvons nous faire la différence entre deux hommes qui disent Al
 
 Et nous&nbsp;? Qui invoquons nous alors lorsque nous disons Allâh&nbsp;? Est-ce un Dieu fait à notre seule image mentale&nbsp;? Un Dieu avec une barbe blanche dans le ciel dont nous nous servons pour nos petits arrangements égoïstes&nbsp;? Ou bien invoquons-nous réellement le Dieu d’Adam, Abraham, Moïse, Jésus et Muhammad&nbsp;? 
 
-Dieu est un mystère, un «&nbsp;trésor caché&nbsp;» que le croyant doit chercher&nbsp;: «&nbsp;Seul le cœur de Mon serviteur croyant Me contient&nbsp;», dit-Il de Lui-même. Dieu est toujours plus grand que la conception mentale que nous en avons, selon la signification des mots «&nbsp;Allahu Akbar&nbsp;». Alors, lorsque nous prions, sommes-nous réellement sincères&nbsp;? Ou bien sommes-nous comme ces hommes au cœur vide dont parle le Prophète&nbsp;? 
+Dieu est un mystère, un «&nbsp;trésor caché&nbsp;» que le croyant doit chercher&nbsp;: «&nbsp;Seul le c&oelig;ur de Mon serviteur croyant Me contient&nbsp;», dit-Il de Lui-même. Dieu est toujours plus grand que la conception mentale que nous en avons, selon la signification des mots «&nbsp;Allahu Akbar&nbsp;». Alors, lorsque nous prions, sommes-nous réellement sincères&nbsp;? Ou bien sommes-nous comme ces hommes au c&oelig;ur vide dont parle le Prophète&nbsp;? 
 
 Nous devons aimer notre prochain et adopter le bon comportement, à l’exemple de notre prophète Muhammad qui nous recommande&nbsp;: «&nbsp;Crains Dieu où que tu sois, dis la vérité, tiens tes engagements, sois loyal, respecte ton voisin… Parle avec douceur, répands la paix… N’insulte pas les sages… Ne désobéis pas au dirigeant et ne répands pas le désordre sur terre.&nbsp;» 
 
@@ -48,7 +48,7 @@ Le Jihâd est une obligation pour le musulman, mais qu'est ce que le jihâd&nbsp
 
 Le Prophète a-t-il combattu les juifs parce qu’ils étaient juifs&nbsp;? Certes non, il n’a combattu que des groupes qui avaient trahi leurs engagements, et seulement en raison de cette trahison. Le Prophète ne jugeait-il pas entre ceux qui le lui demandaient selon la Torah et non selon le Coran&nbsp;? Alors pourquoi ces actes iniques et ces mauvaises paroles sur les juifs&nbsp;? 
 
-Soyons unis entre croyants sincères, juifs, chrétiens et musulmans, tous fils d'Abraham. Dans l’attente de la seconde venue du Messie, celui que nous, musulmans, appelons l'Esprit de Dieu, ‘Issa, Jésus, espérons que croyants et non-croyants veuillent bien ouvrir leur cœur à cette perspective imminente.
+Soyons unis entre croyants sincères, juifs, chrétiens et musulmans, tous fils d'Abraham. Dans l’attente de la seconde venue du Messie, celui que nous, musulmans, appelons l'Esprit de Dieu, ‘Issa, Jésus, espérons que croyants et non-croyants veuillent bien ouvrir leur c&oelig;ur à cette perspective imminente.
 
 Notre religion est de paix, d'amour et de sincérité.
 Paix à tous.
