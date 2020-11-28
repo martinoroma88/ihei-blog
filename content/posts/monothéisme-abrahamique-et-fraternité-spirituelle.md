@@ -50,12 +50,8 @@ De même que Médine, la ville sainte du Prophète Muhammad, restera interdite �
 
 >Il nous appartient donc à tous, à partir de nos Révélations propres, mais dans la reconnaissance de leur validité respective, de nous ouvrir à ce souffle de l’Esprit qui seul donne le discernement nécessaire. Nous pourrons alors, si Dieu le veut, réaliser «&nbsp;en Esprit et Vérité&nbsp;», cette communauté bien-guidée, qui n’est autre que celle des élus de toutes les Révélations, sur laquelle descendra le Messie de la Parousie, Jésus, l’Esprit royal de Dieu, lequel y apposera le sceau de la Sainteté, sceau qui n’est autre que le symbole unique d’une circonférence bien centrée.[^5]
 
-[^1]:  Coran CIII.
-
-[^2]:  Coran VII, 172.
-
+[^1]:  Coran 103.
+[^2]:  Coran 7&nbsp;: 172.
 [^3]:  Abd al-Haqq Ismaïl Guiderdoni, «&nbsp;Monothéisme et entente inter-religieuse&nbsp;», Les Cahiers de l’IHEI, n°15, année 2002.
-
 [^4]:  Shaykh Abd al-Wahid Pallavicini, L’islam intérieur, Ed. Christian de Bartillat, Paris, 1995, p. 185.
-
 [^5]:  Abd-Allah Yahya Darolles, «&nbsp;La centralité spirituelle comme axe de vie&nbsp;», Les Cahiers de l’IHEI, n°15, année 2002.
