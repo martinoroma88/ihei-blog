@@ -17,7 +17,7 @@ Dieu Lui-même, qui est pourtant l’“&nbsp;Indépendant des mondes&nbsp;” a
 
 Le terme *al-walî* est à la fois un actif et un passif&nbsp;; comme nom divin, il est le Protecteur et, comme nom humain, le protégé. L’homme qui devient *walî Allâh* est proche de Dieu comme il est proche des hommes. Dieu lui-même n’est-Il pas proche des hommes, “&nbsp;plus près de vous que la veine de votre cou&nbsp;”[^7]. Le saint est le plus beau des signes proposés par Dieu aux hommes pour leur édification intérieure. “&nbsp;Quand de telles personnes sont vues, c’est de Dieu qu’on se souvient&nbsp;”[^8] rappelle le Coran. Certains vont même jusqu’à affirmer paradoxalement qu’il vaut mieux voir un saint que voir Dieu, car nous ne voyons Dieu que selon notre capacité de connaissance, alors qu’en voyant un saint, nous voyons Dieu selon la capacité de connaissance que Dieu lui a accordée. C’est pourquoi chacun se sent meilleur quand il se trouve en une telle compagnie.
 
-Dieu révèle, dans le Coran, le sens de la vie humaine&nbsp;: “&nbsp;J’ai seulement créé les jinns et les hommes pour qu’Ils m’adorent.&nbsp;”[^9] Certes, Dieu n’a pas besoin de notre adoration. Mais nous en avons le plus urgent besoin, car nous n’avons de consistance ontologique qu’en raison de notre rapport à Dieu, celui du serviteur *(‘abd)* envers son Seigneur *(rabb)*. Le service d’adoration *(‘ubûdiyyah)* accompli par les rites (*‘ibâdât*, mot de même racine) est connaissance, selon tous les commentateurs, depuis le plus célèbre d’entre eux, ‘Abd Allâh Ibn ‘Abbâs. Il faut en effet connaître Dieu pour L’adorer, comme il faut L’adorer pour Le connaître. Le chemin de connaissance et d’adoration a pour terme la certitude&nbsp;: “&nbsp;Adore ton Seigneur jusqu’à ce que te vienne la certitude&nbsp;”[^10] enjoint le Coran. L’ami de Dieu est justement celui qui est parvenu à ce terme. Certes, l’effort humain est important, la pratique des rites, la lecture des textes sacrés, le combat contre les passions, la patiente recherche du savoir, la méditation, la miséricorde envers toute la création. Mais l’action humaine demeure sans résultat si elle n’est pas couronnée par la grâce (*fadl*), car la sainteté est sans commune mesure avec la vie d’homme déchu que nous menons. “&nbsp;Nous élevons le rang de qui Nous voulons&nbsp;”[^11], dit Dieu dans le Coran. L’existence du saint vient susciter la question provocante des rôles respectifs de l’effort humain (*jahd*) et de la grâce divine (*fadl*) dans le cheminement spirituel. Dans ce contexte, on se rappellera combien le statut des actes humains apparemment libres accomplis sous le regard du Dieu Omniscient et Omnipotent *(al-’Alîm* *al-Qadîr)* pose problème, en islam comme dans d’autres religions. La science du droit (*‘ilm al-fiqh*), discipline religieuse fondamentale, s’intéresse au statut légal des actes humains selon la Loi révélée (*ash-sharî’ah*), mais est incapable de se prononcer sur leur valeur spirituelle. Seule compte pour elle la validité formelle de l’exécution. Quant aux “&nbsp;écoles&nbsp;” de théologie (*kalâm*), elles ont proposé des solutions divergentes à ce problème délicat[^12]. Mais on aurait tort de limiter aux silences du Droit et aux réflexions hésitantes de la théologie la doctrine islamique sur la coexistence de l’acte humain libre — ou apparemment libre — avec la toute-puissance divine. Dans le contexte de la sainteté en islam, il est impossible de parler d’effort spirituel et de grâce sans évoquer la réalité centrale de l’intellectualité islamique, après le droit qui en est le socle et la théologie qui en est la muraille défensive&nbsp;: le soufisme (*at-taçawwuf*), “&nbsp;mystique musulmane&nbsp;” dont la doctrine surmonte les apories du problème théologique des actes. Le mystère de la voie spirituelle du soufisme, de la réponse à l’appel de Dieu, est celui d’une préparation active au don de sainteté, qui pourtant n’appartient qu’à Dieu. Le paradoxe est insoluble si l’on se cantonne au monde d’ici-bas, tressé des catégories mutuellement exclusives du “&nbsp;oui&nbsp;” et du “&nbsp;non&nbsp;”. Mais il en est de la vie comme de l’oraison canonique (*çalah*)&nbsp;: Dieu n’affirme-Il pas qu’Il l’a partagée entre Lui et Son serviteur, si bien que c’est Dieu aussi qui y prie alors même que c’est le serviteur seul qui en retire un avantage&nbsp;? Pour le soufisme, le chemin vers la sainteté est la mystérieuse collaboration entre l’effort humain et le don divin. Dieu dit de Son serviteur&nbsp;: 
+Dieu révèle, dans le Coran, le sens de la vie humaine&nbsp;: “&nbsp;J’ai seulement créé les jinns et les hommes pour qu’Ils m’adorent.&nbsp;”[^9] Certes, Dieu n’a pas besoin de notre adoration. Mais nous en avons le plus urgent besoin, car nous n’avons de consistance ontologique qu’en raison de notre rapport à Dieu, celui du serviteur *(‘abd)* envers son Seigneur *(rabb)*. Le service d’adoration *(‘ubûdiyyah)* accompli par les rites (*‘ibâdât*, mot de même racine) est connaissance, selon tous les commentateurs, depuis le plus célèbre d’entre eux, ‘Abd Allâh Ibn ‘Abbâs. Il faut en effet connaître Dieu pour L’adorer, comme il faut L’adorer pour Le connaître. Le chemin de connaissance et d’adoration a pour terme la certitude&nbsp;: “&nbsp;Adore ton Seigneur jusqu’à ce que te vienne la certitude&nbsp;”[^10] enjoint le Coran. L’ami de Dieu est justement celui qui est parvenu à ce terme. Certes, l’effort humain est important, la pratique des rites, la lecture des textes sacrés, le combat contre les passions, la patiente recherche du savoir, la méditation, la miséricorde envers toute la création. Mais l’action humaine demeure sans résultat si elle n’est pas couronnée par la grâce (*fadl*), car la sainteté est sans commune mesure avec la vie d’homme déchu que nous menons. “&nbsp;Nous élevons le rang de qui Nous voulons&nbsp;”[^11], dit Dieu dans le Coran. L’existence du saint vient susciter la question provocante des rôles respectifs de l’effort humain (*jahd*) et de la grâce divine (*fadl*) dans le cheminement spirituel. Dans ce contexte, on se rappellera combien le statut des actes humains apparemment libres accomplis sous le regard du Dieu Omniscient et Omnipotent *(al-’Alîm* *al-Qadîr)* pose problème, en islam comme dans d’autres religions. La science du droit (*‘ilm al-fiqh*), discipline religieuse fondamentale, s’intéresse au statut légal des actes humains selon la Loi révélée (*ash-sharî’ah*), mais est incapable de se prononcer sur leur valeur spirituelle. Seule compte pour elle la validité formelle de l’exécution. Quant aux “&nbsp;écoles&nbsp;” de théologie (*kalâm*), elles ont proposé des solutions divergentes à ce problème délicat[^12]. Mais on aurait tort de limiter aux silences du Droit et aux réflexions hésitantes de la théologie la doctrine islamique sur la coexistence de l’acte humain libre —&nbsp;ou apparemment libre&nbsp;— avec la toute-puissance divine. Dans le contexte de la sainteté en islam, il est impossible de parler d’effort spirituel et de grâce sans évoquer la réalité centrale de l’intellectualité islamique, après le droit qui en est le socle et la théologie qui en est la muraille défensive&nbsp;: le soufisme (*at-taçawwuf*), “&nbsp;mystique musulmane&nbsp;” dont la doctrine surmonte les apories du problème théologique des actes. Le mystère de la voie spirituelle du soufisme, de la réponse à l’appel de Dieu, est celui d’une préparation active au don de sainteté, qui pourtant n’appartient qu’à Dieu. Le paradoxe est insoluble si l’on se cantonne au monde d’ici-bas, tressé des catégories mutuellement exclusives du “&nbsp;oui&nbsp;” et du “&nbsp;non&nbsp;”. Mais il en est de la vie comme de l’oraison canonique (*çalah*)&nbsp;: Dieu n’affirme-Il pas qu’Il l’a partagée entre Lui et Son serviteur, si bien que c’est Dieu aussi qui y prie alors même que c’est le serviteur seul qui en retire un avantage&nbsp;? Pour le soufisme, le chemin vers la sainteté est la mystérieuse collaboration entre l’effort humain et le don divin. Dieu dit de Son serviteur&nbsp;: 
 > S’il s’approche de Moi d’un empan, Je M’approcherai de lui d’une coudée&nbsp;; s’il s’approche de Moi d’une coudée, Je M’approcherai de lui d’une aune&nbsp;; s’il vient vers Moi en marchant, J’irai vers lui en courant.[^13] 
 
 C’est d’abord Dieu qui donne la connaissance, et cette connaissance illumine l’intelligence, purifie le c&oelig;ur, sauve l’âme. “&nbsp;Crains Dieu, conseille le Coran, Il t’enseignera.&nbsp;”[^14]
@@ -48,7 +48,7 @@ Selon la tradition,
 
 Le sens extérieur est le sens obvie auquel s’arrêtent les littéralistes&nbsp;; le sens intérieur est ce que Dieu veut signifier&nbsp;; la limite est la conséquence qui peut en être tirée pour la Loi (*ash-sharî‘ah*)&nbsp;; enfin, le lieu d’ascension est le pouvoir *anagogique* du verset, sa capacité à conduire “&nbsp;vers le haut&nbsp;” celui qui accepte de se laisser ainsi mener par la parole de Dieu. On retrouve ici la division quaternaire du sens des écritures encore rappelée par Dante dans son *Convivio*. Toute connaissance en islam est commentaire du Coran selon ces quatre axes.
 
-L’enseignement intérieur délivré par le Prophète, puis transmis de maître à disciple, constitue la doctrine du soufisme. Les soufis continuent d’avoir un rapport privilégié avec le Prophète, car ils adhèrent fermement à cette injonction coranique&nbsp;: “&nbsp;Dieu et Ses anges prient sur le Prophète. O vous les croyants, priez et appelez fréquemment la paix sur lui.&nbsp;”[^33] Or le Prophète a promis d’être présent lors de cette prière&nbsp;: “&nbsp;Chaque fois que quelqu’un m’adresse le salut, Dieu me redonne mon esprit pour que je lui rende [son salut].&nbsp;”[^34] Les soufis croient en cette promesse, parce qu’ils savent que le Prophète n’est pas seulement homme de chair, fût-ce le meilleur d’entre eux, limité à un bref parcours temporel entre sa naissance et sa mort. Il est la dernière manifestation de la lumière prophétique (*an-nûr an-nabawî*) qui brille sur le monde depuis le début de la création et ne cesse d’illuminer les c&oelig;urs des serviteurs fidèles de Dieu.
+L’enseignement intérieur délivré par le Prophète, puis transmis de maître à disciple, constitue la doctrine du soufisme. Les soufis continuent d’avoir un rapport privilégié avec le Prophète, car ils adhèrent fermement à cette injonction coranique&nbsp;: “&nbsp;Dieu et Ses anges prient sur le Prophète. Ô vous les croyants, priez et appelez fréquemment la paix sur lui.&nbsp;”[^33] Or le Prophète a promis d’être présent lors de cette prière&nbsp;: “&nbsp;Chaque fois que quelqu’un m’adresse le salut, Dieu me redonne mon esprit pour que je lui rende [son salut].&nbsp;”[^34] Les soufis croient en cette promesse, parce qu’ils savent que le Prophète n’est pas seulement homme de chair, fût-ce le meilleur d’entre eux, limité à un bref parcours temporel entre sa naissance et sa mort. Il est la dernière manifestation de la lumière prophétique (*an-nûr an-nabawî*) qui brille sur le monde depuis le début de la création et ne cesse d’illuminer les c&oelig;urs des serviteurs fidèles de Dieu.
 
 A l’enseignement exotérique des sources de la religion, Coran et Tradition prophétique, et des sciences traditionnelles qui s’y rapportent, vient s’ajouter l’enseignement ésotérique du soufisme, dont le but est le dévoilement des réalités cachées (*kashf al-haqâ’iq*) que Dieu veut bien accorder dans Sa grâce. Ce dévoilement permet la *réalisation effective* de la connaissance qui transforme l’âme et la fait participer à la lumière prophétique. En effet, le Prophète annonça à ses compagnons la clôture de la prophétie, ce qui eut pour effet de les attrister&nbsp;: 
 > Mais il vous reste les annonciatrices de bonnes nouvelles (*al-mubashshirât*), dit-il. Ce sont les visions nocturnes des musulmans (*ar-ru’yâ’*). Elles constituent l’une des parties de la prophétie.[^35]
@@ -95,96 +95,50 @@ La décolonisation s’est produite et le monde musulman est désormais rentré 
 
 Récupérer pleinement cette aspiration totale à Dieu est peut-être la dernière chance qui nous est laissée de ne pas être emportés par l’effondrement de nos constructions prométhéennes. Qui croit à la sainteté croit encore vraiment à la destinée de l’homme.
 
-[^1]:  Coran 95:4.
-
-[^2]:  Coran 2:30. La racine QDS est employée à plusieurs reprises dans le Coran. Certains lieux particuliers peuvent être sanctifiés (muqaddas)&nbsp;: la Vallée sainte de Tuwâ où Moïse reçoit sa mission (Coran 20:12, 79:16), la Terre sainte où il ramène les enfants d’Israël (Coran 5:21). Jésus est assisté de l’Esprit de sainteté (rûh al-qudus ; Coran 2:87, 2:256, 5:110). Enfin, la tradition islamique appelle Jérusalem “la Sainte (*al-Quds*)&nbsp;”.
-
-[^3]:  Coran 2:257.
-
-[^4]:  Coran 12:101.
-
-[^5]:  Coran 5:55.
-
-[^6]:  Coran 10:62.
-
-[^7]:  Coran 50:16.
-
+[^1]:  Coran 95&nbsp;: 4.
+[^2]:  Coran 2&nbsp;: 30. La racine QDS est employée à plusieurs reprises dans le Coran. Certains lieux particuliers peuvent être sanctifiés (muqaddas)&nbsp;: la Vallée sainte de Tuwâ où Moïse reçoit sa mission (Coran 20:12, 79:16), la Terre sainte où il ramène les enfants d’Israël (Coran 5:21). Jésus est assisté de l’Esprit de sainteté (rûh al-qudus ; Coran 2:87, 2:256, 5:110). Enfin, la tradition islamique appelle Jérusalem “la Sainte (*al-Quds*)&nbsp;”.
+[^3]:  Coran 2&nbsp;: 257.
+[^4]:  Coran 12&nbsp;: 101.
+[^5]:  Coran 5&nbsp;: 55.
+[^6]:  Coran 10&nbsp;: 62.
+[^7]:  Coran 50&nbsp;: 16.
 [^8]:  Ibn Mâjah, zuhd 3.
-
-[^9]:  Coran 51:56.
-
-[^10]:  Coran 15:99.
-
-[^11]:  Coran 6:83.
-
-[^12]:  Les mu’tazilites renforcent la liberté humaine, Dieu récompensant alors selon la justice. Les hanbalites abandonnent toute idée de liberté humaine, Dieu récompensant alors qui Il veut. La troisième position, celle de l’école ash’arite, consiste à poser que Dieu crée les actes des hommes, mais que ceux-ci acceptent de les “acquérir (*kasb*)&nbsp;”, justifiant ainsi la récompense ou la punition divines.
-
+[^9]:  Coran 51&nbsp;: 56.
+[^10]:  Coran 15&nbsp;: 99.
+[^11]:  Coran 6&nbsp;: 83.
+[^12]:  Les mu’tazilites renforcent la liberté humaine, Dieu récompensant alors selon la justice. Les hanbalites abandonnent toute idée de liberté humaine, Dieu récompensant alors qui Il veut. La troisième position, celle de l’école ash’arite, consiste à poser que Dieu crée les actes des hommes, mais que ceux-ci acceptent de les “&nbsp;acquérir (*kasb*)&nbsp;”, justifiant ainsi la récompense ou la punition divines.
 [^13]:  Bukhârî et Muslim. HQ p. 27.
-
-[^14]:  Coran 2:282.
-
-[^15]:  Coran 17:85.
-
-[^16]:  Coran 20:114.
-
+[^14]:  Coran 2&nbsp;: 282.
+[^15]:  Coran 17&nbsp;: 85.
+[^16]:  Coran 20&nbsp;: 114.
 [^17]:  Bukhârî, Ibn Mâjah.
-
-[^18]:  Coran 33:21.
-
+[^18]:  Coran 33&nbsp;: 21.
 [^19]:  Muslim.
-
-[^20]:  Coran 3:32.
-
+[^20]:  Coran 3&nbsp;: 32.
 [^21]:  Bukhârî, riqâq 38.
-
-[^22]:  Coran 2:255, 6:80.
-
-[^23]:  Coran 40:7.
-
+[^22]:  Coran 2&nbsp;: 255, 6&nbsp;: 80.
+[^23]:  Coran 40&nbsp;: 7.
 [^24]:  Ce hadîth souvent cité par les soufis ne se trouve pas dans les recueils canoniques.
-
 [^25]:  Muslim, fitan 14, Tirmidhî, fitan 56.
-
-[^26]:  Coran 3:185.
-
-[^27]:  Coran 42:53.
-
+[^26]:  Coran 3&nbsp;: 185.
+[^27]:  Coran 42&nbsp;: 53.
 [^28]:  Tirmîdhî, qiyâmah 25.
-
-[^29]:  Coran 89:27-28.
-
+[^29]:  Coran 89&nbsp;: 27-28.
 [^30]:  Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis.
-
 [^31]:  Cité par Henry Corbin, *Histoire de la philosophie islamique*, p. 28.
-
 [^32]:  Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis.
-
-[^33]:  Coran 33:56.
-
+[^33]:  Coran 33&nbsp;: 56.
 [^34]:  Abû Dâwûd.
-
 [^35]:  Tirmîdhî.
-
-[^36]:  Coran 48:18.
-
+[^36]:  Coran 48&nbsp;: 18.
 [^37]:  Sûyûtî, Al-Jâmi’ aç-Çaghîr II 505.
-
-[^38]:  Coran 29:45.
-
+[^38]:  Coran 29&nbsp;: 45.
 [^39]:  Tirmîdhî.
-
-[^40]:  Coran 13:28.
-
-[^41]:  Coran 2:152.
-
+[^40]:  Coran 13&nbsp;: 28.
+[^41]:  Coran 2&nbsp;: 152.
 [^42]:  Abû Dâwûd et Tirmîdhî. Le texte mentionne &nbsp;: “Il vous incombe de suivre ma sunnah et celle des califes bien guidés qui suivent la bonne voie&nbsp;; mordez-y à pleines dents&nbsp;! Et prenez garde aux choses nouvelles, car toute nouveauté est une innovation (bid’ah), toute innovation est égarement, et l’égarement conduit en Enfer.&nbsp” 
-
 [^43]:  Muslim, ‘ilm 15, zakât 69, Nasâ’î, zakât 64, etc.
-
 [^44]:  Abû Dâwûd, Tirmîdhî.
-
-[^45]:  Coran 24:37.
-
+[^45]:  Coran 24&nbsp;: 37.
 [^46]:  On se reportera à l’ouvrage de Michel Chodkiewicz, *Le Sceau des Saints*, Gallimard, 1986.
-
-[^47]:  Coran 35:12.
+[^47]:  Coran 35&nbsp;: 12.
