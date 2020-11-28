@@ -24,13 +24,13 @@ Le Bouddhisme, comme l’Islam, affirme l’impermanence du monde, changeant et 
 
 En fait, les croyants sincères des grandes religions n’ont pas à chercher en tâtonnant les chemins tortueux d’un dialogue politique ou diplomatique indigne de leur vocation spirituelle. Avec toute la discrimination intellectuelle nécessaire ils doivent seulement réaliser qu’ils s’entendent déjà “&nbsp;depuis le début&nbsp;”, c’est-à-dire sur les mêmes principes métaphysiques. Ils pourront alors se reconnaître et se respecter mutuellement, parce qu’ils sont appelés également à la connaissance de Dieu, quel que soit le Nom que la religion Lui donne, “&nbsp;car à Lui sont les plus beaux Noms[^10].&nbsp;” 
 
-[^1]:  Coran 3, 84
-[^2]:  Coran 14, 4
-[^3]:  Coran 18, 109
-[^4]:  Coran 21, 85
-[^5]:  Coran 38, 48
-[^6]:  Coran 5, 48
-[^7]:  Coran 42, 11
-[^8]:  Coran 55, 26
-[^9]:  Coran 7, 156
-[^10]:  Coran 17, 110
+[^1]:  Coran 3&nbsp;: 84.
+[^2]:  Coran 14&nbsp;: 4.
+[^3]:  Coran 18&nbsp;: 109.
+[^4]:  Coran 21&nbsp;: 85.
+[^5]:  Coran 38&nbsp;: 48.
+[^6]:  Coran 5&nbsp;: 48.
+[^7]:  Coran 42&nbsp;: 11.
+[^8]:  Coran 55&nbsp;: 26.
+[^9]:  Coran 7&nbsp;: 156.
+[^10]:  Coran 17&nbsp;: 110.
