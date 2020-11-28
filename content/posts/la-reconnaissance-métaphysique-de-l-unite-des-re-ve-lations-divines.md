@@ -16,7 +16,7 @@ Selon les mots du Shaykh at-Tâdilî, la science du *tawhîd*
 >  est la plus élevée et la plus parfaite des sciences. Elle est le fondement de toutes les sciences et de toutes les compréhensions&nbsp;; elle est leur source et leur but puisque toutes les sciences en dérivent. Toutes les sciences se séparent de leur “&nbsp;compagnon&nbsp;” quand celui- ci abandonne ce bas monde. Seule la science de la doctrine de l’unicité accompagne son compagnon dans la demeure de l’au-delà.
 
 Dans l’économie spirituelle de la Révélation islamique, le premier des cinq piliers de la tradition, la *shahâdah* ou témoignage de foi, s’énonce ainsi&nbsp;: 
->*lâ ilâha illâ-Llâh Muhammadun rasûlu-Llâh*&nbsp;; il n’y a pas de dieu si ce n’est Dieu et Muhammad est l’envoyé de Dieu. 
+> *lâ ilâha illâ-Llâh Muhammadun rasûlu-Llâh*&nbsp;; il n’y a pas de dieu si ce n’est Dieu et Muhammad est l’envoyé de Dieu. 
 
 Il traduit, sur le plan formel, la vérité du *tawhîd*. Ce témoignage représente le principe de toute affirmation doctrinale et se reflète dans les différents aspects rituels de l’islam. La répétition incessante de cette vérité pénètre toute la vie du musulman, qui n’est autre que la mise en &oelig;uvre de ce symbole à travers tout le corps rituel de la tradition, en conférant un caractère de sacralité à chaque moment de la vie. Dans une grande mesure, tout le cadre traditionnel n’est que le support pour retrouver dans chaque moment et dans chaque dimension la présence d’une telle vérité&nbsp;: 
 >  C’est à Dieu qu’appartiennent l’Orient et l’Occident. Où que vous vous tourniez, là est la Face de Dieu.[^1]
@@ -62,18 +62,15 @@ Il ressort nettement de ces considérations que l’exclusivisme intégriste n�
 
 Pour considérer les mêmes choses dans une perspective géométrique, on peut relever comment un triangle diffère d’un carré ou d’un cercle, bien que ces trois figures puissent être tracées sur le même plan et avoir le même centre. D’une manière semblable, les traditions religieuses sont caractérisées par une forme précise qui semble exclure toutes les autres, mais elles tirent pourtant leur réalité du même plan qui les manifeste, le plan de la miséricorde et de l’amour divins, comme elles ont toutes leur centre dans le Dieu unique.
 
-
 >  Votre Dieu est un Dieu unique. Il n’y a pas de dieu si ce n’est Lui, le Tout-Miséricordieux, le Très-Miséricordieux.[^14]
 
 La Révélation islamique manifeste la réalité universelle de l’amour divin à travers Ses Noms *ar-Rahmân*, le Tout-Miséricordieux, et *ar-Rahîm*, le Très-Miséricordieux, qui dérivent tous deux de la *rahmah*, la miséricorde, dont la racine évoque*ar-rahim*, la matrice maternelle. Selon une tradition prophétique&nbsp;: 
 >  Dieu a divisé la miséricorde en cent parts. Il en a conservé quatre-vingt dix-neuf auprès de Lui et en a fait descendre une sur terre. C’est grâce à cette part que les créatures se font mutuellement miséricorde et que la jument écarte son sabot de son poulain, de peur de l’atteindre.[^15]
 
-
-Aux temps du Prophète, l’adjectif rahmân n’était plus guère utilisé. Le message coranique vient en renouveler le sens. Aussi le Nom*ar-Rahmân* constitue-t-il le signe caractéristique de la révélation coranique, comme peut l’être, pour les juifs, le Nom divin ineffable, *ha-shem*, et, pour les chrétiens, le Nom du Père. 
+Aux temps du Prophète, l’adjectif rahmân n’était plus guère utilisé. Le message coranique vient en renouveler le sens. Aussi le Nom *ar-Rahmân* constitue-t-il le signe caractéristique de la révélation coranique, comme peut l’être, pour les juifs, le Nom divin ineffable, *ha-shem*, et, pour les chrétiens, le Nom du Père. 
 >  Invoquez Dieu ou invoquez le Tout-Miséricordieux. Quel que soit le Nom que vous invoquiez, à Lui sont les plus beaux Noms.[^16]
 
-
-On lit dans le Coran que «&nbsp;Sa miséricorde entoure toute chose&nbsp;». La*rahmah* est donc l’amour divin. C’est au nom de cette miséricorde et de cet amour que fut créé l’univers tout entier, et que fut révélé le Livre sacré. Le Coran commence en effet par le verset «&nbsp;*Bismi-Llâhi-r-Rahmâni-r-Rahîm*, au nom de Dieu, le Tout-Miséricordieux, le Très-Miséricordieux&nbsp;»[^17] et l’on dit que cette formule contient en elle la révélation toute entière. On lit dans un autre passage&nbsp;: «&nbsp;Le Tout-Miséricordieux, Il a enseigné le Coran, Il a créé l’homme.&nbsp;»[^18] L’homme lui aussi a été formé par cette miséricorde dont les mères qui accouchent peuvent être, ici-bas, le symbole. Selon la parole du Prophète «&nbsp;Dieu a créé Adam selon Sa forme&nbsp;», ou, selon une autre version, «&nbsp;selon la forme du *Rahmân*&nbsp;»[^19]. Ainsi, c’est à travers le «&nbsp;Souffle du Tout-Miséricordieux&nbsp;», *nafas ar-Rahmân*, que s’engendre la manifestation entière. Nous pouvons voir dans les deux Noms divins de la miséricorde les deux mouvements de la respiration divine, qui crée le monde selon *ar-Rahmân* et le réintègre par le support providentiel de la Révélation, selon *ar-Rahîm*. Pour cette raison, il n’y a que miséricorde. La réalité même du Prophète (*haqîqat ar-Rasûl*) brille de la lumière de cette qualité divine. Dieu ne dit-Il pas, à son propos, dans le Coran&nbsp;: 
+On lit dans le Coran que «&nbsp;Sa miséricorde entoure toute chose&nbsp;». La *rahmah* est donc l’amour divin. C’est au nom de cette miséricorde et de cet amour que fut créé l’univers tout entier, et que fut révélé le Livre sacré. Le Coran commence en effet par le verset «&nbsp;*Bismi-Llâhi-r-Rahmâni-r-Rahîm*, au nom de Dieu, le Tout-Miséricordieux, le Très-Miséricordieux&nbsp;»[^17] et l’on dit que cette formule contient en elle la révélation toute entière. On lit dans un autre passage&nbsp;: «&nbsp;Le Tout-Miséricordieux, Il a enseigné le Coran, Il a créé l’homme.&nbsp;»[^18] L’homme lui aussi a été formé par cette miséricorde dont les mères qui accouchent peuvent être, ici-bas, le symbole. Selon la parole du Prophète «&nbsp;Dieu a créé Adam selon Sa forme&nbsp;», ou, selon une autre version, «&nbsp;selon la forme du *Rahmân*&nbsp;»[^19]. Ainsi, c’est à travers le «&nbsp;Souffle du Tout-Miséricordieux&nbsp;», *nafas ar-Rahmân*, que s’engendre la manifestation entière. Nous pouvons voir dans les deux Noms divins de la miséricorde les deux mouvements de la respiration divine, qui crée le monde selon *ar-Rahmân* et le réintègre par le support providentiel de la Révélation, selon *ar-Rahîm*. Pour cette raison, il n’y a que miséricorde. La réalité même du Prophète (*haqîqat ar-Rasûl*) brille de la lumière de cette qualité divine. Dieu ne dit-Il pas, à son propos, dans le Coran&nbsp;: 
 > Nous ne t’avons envoyé que comme une miséricorde pour les mondes (*wa mâ arsalnâka illâ rahmatan li-l-’âlamîn*).
 
 Si le soleil du *tawhîd* dissipe les ténèbres de l’ignorance et éclaire le monde, nous voyons aussi se projeter la clarté de la lune, qui est la lumière de la prophétie. C’est donc «&nbsp;lumière sur lumière&nbsp;», selon les termes du verset coranique&nbsp;: 
@@ -92,24 +89,23 @@ Si nous ne sommes pas tous prophètes, nous sommes tous porteurs d’une vocatio
 Pour conclure, nous voudrions dire que, du point de vue de l’Islam, il ne saurait y avoir, à proprement parler, de dialogue inter-religieux, puisqu’il n’y a pas la possibilité de surmonter rationnellement les différences doctrinales entre les diverses traditions. Dans la conscience du Dieu unique qui s’est adressé à nous tous, nous sommes déjà au-delà du dialogue. En revanche c’est la réalisation spirituelle qui est possible puisqu’elle est le but même de la vie. Les hommes sont donc appelés à cette ascension vers le Dieu unique plutôt qu’à la discussion sur ce qui, ici-bas, semble les séparer du point de vue de leurs doctrines. Nous terminerons en citant, une fois encore, le Coran&nbsp;: 
 > Rivalisez entre vous dans les bonnes actions. Votre retour à tous se fera vers Dieu. C’est alors qu’Il vous informera à propos de vos désaccords.
 
-
-[^1]:  Coran II, 115.
-[^2]:  Coran XXVIII, 88.
-[^3]:  Coran L, 16.
-[^4]:  Coran VIII, 24.
-[^5]:  Coran LV, 29.
-[^6]:  Coran LIX, 24.
-[^7]:  Coran LVIII, 7.
+[^1]:  Coran 2&nbsp;: 115.
+[^2]:  Coran 28&nbsp;: 88.
+[^3]:  Coran 50&nbsp;: 16.
+[^4]:  Coran 8&nbsp;: 24.
+[^5]:  Coran 55&nbsp;: 29.
+[^6]:  Coran 59&nbsp;: 24.
+[^7]:  Coran 68&nbsp;: 7.
 [^8]:  René Guénon, *Le Symbolisme de la Croix*, p. 59.
-[^9]:  Coran II, 136.
-[^10]:  Coran XLII, 11.
+[^9]:  Coran 2&nbsp;: 136.
+[^10]:  Coran 42&nbsp;: 11.
 [^11]:  Ibn Arabî, *La Profession de Foi*, Trad. R. Deladrière, Editions Orientales, p. 98.
 [^12]:  op. cit. p. 98.
-[^13]:  Coran V, 48.
-[^14]:  Coran II, 163.
+[^13]:  Coran 5&nbsp;: 48.
+[^14]:  Coran 2&nbsp;: 163.
 [^15]:  rapporté par Bukhârî et Muslim.
-[^16]:  Coran XVII, 110.
-[^17]:  Coran VII, 156.
-[^18]:  Coran LV, 1-3.
+[^16]:  Coran 18&nbsp;: 110.
+[^17]:  Coran 7&nbsp;: 156.
+[^18]:  Coran 55&nbsp;: 1-3.
 [^19]:  rapporté par Ibn Hanbal.
-[^20]:  Coran XXIV, 35.
+[^20]:  Coran 24&nbsp;: 35.
