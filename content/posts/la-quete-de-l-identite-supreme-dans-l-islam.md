@@ -27,7 +27,7 @@ Or nous pouvons revenir vers Dieu en acceptant le retour ou être ramenés à Lu
 
 Avons-nous assez de souffle, assez de courage et de persévérance pour aller jusqu’au bout de cette phrase de quatre mots&nbsp;? Bien des hommes s’arrêtent, essoufflés, aux deux premiers et ne connaissent du Dieu Unique que la négation de toute divinité, en oubliant le illâ, le «&nbsp;si ce ce n’est&nbsp;», qui introduit à la connaissance de Dieu par l’ouverture bouleversante de l’esprit. La vie spirituelle consciente, qui place le Seigneur, ar-Rabb, au terme de la voie, est la réalisation — peut-être faudrait-il dire, simultanément, la prise de conscience et la concrétisation — de cette vérité par les actes rituels d’adoration, appelés ‘ibâdât. En effet, Dieu guide vers Lui les hommes qui manquent de souffle en accompagnant leurs efforts pour témoigner du lâ ilâha illâ-Llâh, à chaque instant de leur vie, par un autre témoignage qui s’énonce en trois mots seulement&nbsp;: «&nbsp;Muhammadun rasûlu-Llâh, Muhammad est envoyé de Dieu&nbsp;». Par l’imitation de l’exemple du Prophète, de son enseignement spirituel, de son comportement moral, de ses actes, les hommes sont providentiellement aidés à ne pas s’arrêter en chemin sur le témoignage de foi qui doit les accompagner jusqu’au terme de leur vie. Bien sûr, Moïse et Jésus ont été, eux aussi, envoyés de Dieu et chaque communauté a ainsi reçu, par la Grâce de Dieu, un message.
 
-Les actes d’adoration des ‘ibâdât nous introduisent à la ‘ubûdiyyah, la conscience de la servitude spirituelle, et nous installent, au terme de la voie, dans la ‘ubûdah, la réalisation spirituelle de la dépendance radicale de l’être envers Dieu, qui est la station des prophètes et des saints. C’est ainsi qu’il faut comprendre cet adage célèbre, souvent répété par les mystiques musulmans&nbsp;: «&nbsp;celui qui se connaît soi-même (ou connaît son âme) connaît son Seigneur&nbsp;». Il ne s’agit pas de poser que l’âme est identique au Seigneur, mais, par la discrimination intellectuelle et l’intuition spirituelle, de prendre intime conscience de ce qui revient en propre à l’une et à l’autre. La connaissance spirituelle, que les mystiques musulmans appellent aussi tahqîq, vérification ou réalisation, consiste, en dévoilant la réalité qui nous est voilée, l’identité de notre Seigneur, à la rendre réelle*pour nous*, ou, plus exactement, à nous rendre réels*par elle*, car, en nous prenant indûment pour des seigneurs sur cette terre, nous ne sommes, dans notre ignorance et notre orgueil, que des ombres fugaces emportées par le cours tumultueux du temps. Le Coran le proclame&nbsp;: 
+Les actes d’adoration des ‘ibâdât nous introduisent à la ‘ubûdiyyah, la conscience de la servitude spirituelle, et nous installent, au terme de la voie, dans la ‘ubûdah, la réalisation spirituelle de la dépendance radicale de l’être envers Dieu, qui est la station des prophètes et des saints. C’est ainsi qu’il faut comprendre cet adage célèbre, souvent répété par les mystiques musulmans&nbsp;: «&nbsp;celui qui se connaît soi-même (ou connaît son âme) connaît son Seigneur&nbsp;». Il ne s’agit pas de poser que l’âme est identique au Seigneur, mais, par la discrimination intellectuelle et l’intuition spirituelle, de prendre intime conscience de ce qui revient en propre à l’une et à l’autre. La connaissance spirituelle, que les mystiques musulmans appellent aussi tahqîq, vérification ou réalisation, consiste, en dévoilant la réalité qui nous est voilée, l’identité de notre Seigneur, à la rendre réelle *pour nous*, ou, plus exactement, à nous rendre réels *par elle*, car, en nous prenant indûment pour des seigneurs sur cette terre, nous ne sommes, dans notre ignorance et notre orgueil, que des ombres fugaces emportées par le cours tumultueux du temps. Le Coran le proclame&nbsp;: 
 > Tout ce qui est sur la terre est évanescent, et demeure la Face de ton Seigneur pleine de majesté et de générosité[^5].
 
 L’homme est donc, par sa nature même, destiné à la connaissance de l’identité de Dieu. Sa vie est la quête de cette identité, de place en place. L’homme a déjà pris connaissance de Dieu dans un ancien séjour, quelque part dans l’éternité avant le temps (al-azaliyyah), que les mystiques appellent le monde du «&nbsp;a lastu&nbsp;», du «&nbsp;Ne suis-Je pas&nbsp;?&nbsp;» Dieu y tira des reins des fils d’Adam toute leur descendance, la multitude des générations humaines qui se succéderont sur cette terre, et leur posa cette unique question&nbsp;: «&nbsp;Ne suis-Je pas votre Seigneur&nbsp;?&nbsp;» Les hommes répondirent alors, à l’unisson&nbsp;: «&nbsp;Oui, nous en témoignons&nbsp;![^6]&nbsp;» Les voilà déjà unis par un même témoignage car seul l’Unique peut unir. En nous «&nbsp;soufflant&nbsp;» la réponse à la question qu’Il nous posa, sous forme interro-négative, Dieu «&nbsp;souffla&nbsp;» en nous de son esprit. Adam est en effet créé d’argile (tîn) et du souffle de Dieu (ar-Rûh). La vie spirituelle, qui est la vie selon ce souffle témoignant, consiste à réitérer la réponse autrefois soufflée. «&nbsp;Oui nous en témoignons&nbsp;!&nbsp;». Il ne s’agit pas encore de croire, mais seulement d’attester une évidence qui est gravée en nous par notre création même, et qui nous imprime notre forme spirituelle, celle des qualités de Dieu. En effet «&nbsp;Dieu créa Adam selon Sa forme&nbsp;» et fit de l’homme le «&nbsp;représentant de Dieu sur terre[^7]&nbsp;». Dieu lui a enseigné «&nbsp;tous les noms[^8]&nbsp;» des choses, sur lesquels il possède ainsi, par son intellect, la maîtrise. Enfin, Dieu lui a confié le «&nbsp;dépôt de la foi (al-amânah)&nbsp;» dont «&nbsp;le ciel, la terre et les montagnes n’ont pas voulu se charger[^9]&nbsp;». Dieu a ainsi «&nbsp;honoré les fils d’Adam&nbsp;» et leur a donné «&nbsp;la préférence sur beaucoup de ceux qu’Il a créés[^10]&nbsp;».
@@ -46,7 +46,7 @@ Ainsi l’autre monde existe déjà. Le Prophète ne disait-il pas&nbsp;: «&nbs
 > Le ciel a gémi sous le poids de son fardeau et il a raison. Il n’y a pas au ciel la place de quatre doigts sans qu’un ange ne s’y trouve, posant le front par terre.
 
 Une tradition prophétique bien connue définit ainsi la perfection contemplative (al-ihsân)&nbsp;:
->Adore Dieu comme si tu Le voyais, car si tu ne Le vois pas, Lui, Il te voit.
+> Adore Dieu comme si tu Le voyais, car si tu ne Le vois pas, Lui, Il te voit.
 
 Le retour actif vers Dieu consiste à se préparer à l’entrée dans al-âkhirah, qui est mort à ce monde et naissance à un autre degré de connaissance, plus vaste et plus intense. «&nbsp;Nul ne voit son Seigneur avant de mourir&nbsp;», dit le Prophète, car ce monde est trop étroit pour que la connaissance de Dieu puisse y être complète. Il est, par rapport à l’autre monde, «&nbsp;comme un anneau jeté dans le désert&nbsp;». C’est pourquoi «&nbsp;toute âme goûtera la mort[^17]&nbsp;» comme un passage nécessaire vers des degrés de compréhension plus élevés. Néanmoins, il est possible, et même hautement souhaitable, d’anticiper volontairement ce passage, en suivant ce conseil pressant du Prophète&nbsp;: «&nbsp;Mourez avant de mourir et demandez-vous des comptes avant que l’on ne vous en demande.&nbsp;» Il s’agit de la mort volontaire (al-mawt al-irâdî) de «&nbsp;l’âme qui incite au mal (an-nafs al-ammârah)&nbsp;». Seule l’âme pacifiée (an-nafs al-mutma’innah) peut entrer en toute quiétude dans la lumière éblouissante de Dieu&nbsp;: «&nbsp;Ô âme apaisée, retourne auprès de ton Seigneur, agréante et agréée.[^18]&nbsp;» Alors il est dit de ces âmes qu’elles «&nbsp;ne goûteront plus la mort après leur première mort.[^19]&nbsp;» La mort volontaire aux qualités et aux défauts individuels permet à l’homme qui «&nbsp;revêt les attributs de Dieu (at-takhalluq bi akhâlqi-Llâh)&nbsp;», d’être «&nbsp;comme Dieu&nbsp;» (at-ta’alluh), selon l’expression de al-Ghazâlî.
 
@@ -56,7 +56,7 @@ Dieu a des Noms de miséricorde et des Noms de majesté. La nature spirituelle o
 Aussi la peur que l’homme éprouve envers la mort est-elle, en fait, la peur de lui-même, de son propre néant qu’il n’a pas su emplir de la présence de Dieu et qui demeure ouvert à tous les vents de passage. La purification du feu, qui est aussi la lumière de Dieu, mais insupportable, peut être nécessaire, pour un séjour plus ou moins long. Mais il convient de ne jamais désespérer de la miséricorde de Dieu. En définitive, ne resteront dans le feu que ceux qui en auront envie. Le Prophète dit en effet&nbsp;: «&nbsp;chacun entrera au Paradis, hormis celui qui s’y refusera&nbsp;», appelant tout homme à un sérieux examen de conscience (al-muhâsabah).
 
 En revanche, les joies du jardin sont la conséquence de la sincérité des actes accomplis en vue de Dieu. Il ne s’agit pas d’une sincérité psychologique, qui consisterait simplement à s’identifier à ses velléités passagères, mais d’une sincérité ontologique, dans la volonté d’accomplir ce que Dieu veut pour nous, en prenant garde d’être attentifs à ses signes et à ses injonctions. C’est pourquoi le Prophète affirme&nbsp;: «&nbsp;la vie traditionnelle, c’est la sincérité&nbsp;». Dieu dit, dans une tradition sainte&nbsp;: 
-> J’ai préparé pour Mes serviteurs ce qu’aucun &oelig;il n’a vu, ce qu’aucune oreille n’a entendu, ce qu’aucun c&oelig;ur humain n’a imaginé. Lisez, si vous en voulez la preuve, le verset suivant&nbsp;: "Aucune âme ne sait la joie que Je lui réserve comme récompense de ses actions.[^21] "
+> J’ai préparé pour Mes serviteurs ce qu’aucun &oelig;il n’a vu, ce qu’aucune oreille n’a entendu, ce qu’aucun c&oelig;ur humain n’a imaginé. Lisez, si vous en voulez la preuve, le verset suivant&nbsp;: “&nbsp;Aucune âme ne sait la joie que Je lui réserve comme récompense de ses actions.&nbsp;”[^21]
 
 Le dernier lieu de séjour où nous serons installés par la miséricorde divine, le plus élevé de la création, est celui que la tradition prophétique appelle la Dune de musc (al-kathîb), lieu inimaginable où sera accordée la vision de la Face de Dieu. Selon la tradition, en effet, Dieu vient visiter ses élus au Paradis, en un «&nbsp;jour&nbsp;» appelé le Jour de la visite (yawm az-zawr). «&nbsp;Ce jour-là, il y aura des visages brillants qui tourneront leur regard vers leur Seigneur.[^22]&nbsp;», proclame le Coran. Qu’est-ce que la vision de Dieu&nbsp;? Quand on posa la question au Prophète, après son ascension spirituelle, il répondit&nbsp;: «&nbsp;Une lumière. Comment Le verrais-je&nbsp;?&nbsp;» Pourtant, il affirmait aussi à ses compagnons&nbsp;: «&nbsp;vous verrez votre Seigneur comme la lune quand elle est pleine, ou comme le soleil à midi.&nbsp;» En effet, Dieu resplendira dans chaque reflet de notre être comme la lumière sur la pleine lune, et il apparaîtra comme la lumière du Soleil, impossible à regarder, mais faisant apparaître tout ce qui nous entoure. C’est pourquoi il est dit dans le Coran, à propos de cette vision paradoxale&nbsp;: «&nbsp;les regards ne l’atteignent pas, car c’est Lui qui atteint les regards.[^23]&nbsp;» 
 
@@ -70,52 +70,28 @@ Le renouvellement incessant de la béatitude engendrée par la vision de Dieu, c
 
 L’union contemplative à Dieu n’ajoute rien à Dieu ni ne retranche rien à la création. Qui rencontre Dieu au terme de la voie si le voyageur est mort à lui-même&nbsp;? Qui se souvient alors de Dieu si le témoin de la contemplation s’est oublié lui-même&nbsp;? Ne sommes-nous plus, alors, qu’un néant effacé&nbsp;? Non, car c’est Dieu qui se souvient alors de nous à notre place, conformément à Sa promesse&nbsp;: «&nbsp;souvenez-vous de Moi, Je me souviendrai de vous (fadhkurûnî adhkurkum).[^24]&nbsp;» En ce monde, les tentatives de connaissance rationnelle de Dieu ne nous ont menés qu’à la perplexité. En l’autre monde, la contemplation de Dieu ne nous mènera, elle aussi, qu’à la perplexité. Mais seule la contemplation étonnée et amoureuse nous donnera la vie éternelle. En réalisant que le serviteur est le voile que nous mettons nous-mêmes sur la réalité du Seigneur, nous enlevons ce voile et éteignons notre âme en Dieu (fanâ’). Alors Dieu, le Vivant, l’Immuable qui, dans son jaillissement inépuisable, sait toujours recouvrir une grâce d’une autre grâce, éteint l’extinction elle-même (fanâ’ al-fanâ’) et nous introduit pour l’éternité sans fin (al-abadiyyah) dans la permanence (baqâ’) de Sa miséricorde «&nbsp;qui entoure toute chose[^25]&nbsp;».
 
-[^1]:  Coran 2:156
-
-[^2]:  Coran 51:56
-
-[^3]:  Coran 35:15
-
-[^4]:  Coran 3:83
-
-[^5]:  Coran 55:26-27
-
-[^6]:  Coran 7:172
-
-[^7]:  Coran 2:30
-
-[^8]:  Coran 2:31
-
-[^9]:  Coran 33:72
-
-[^10]:  Coran 17:70
-
-[^11]:  Coran 33:72
-
-[^12]:  Coran 5:48
-
-[^13]:  Coran 6:38
-
-[^14]:  Coran 84:19
-
-[^15]:  Coran 23:100
-
-[^16]:  Coran 24:37
-
-[^17]:  Coran 3:185
-
-[^18]:  Coran 89:27-28
-
-[^19]:  Coran 44:56-57
-
-[^20]:  Coran 50:22
-
-[^21]:  Coran 32:17
-
-[^22]:  Coran 75:22-23
-
-[^23]:  Coran 6:103
-
-[^24]:  Coran 2:152
-
-[^25]:  Coran 7:156
+[^1]:  Coran 2&nbsp;: 156.
+[^2]:  Coran 51&nbsp;: 56.
+[^3]:  Coran 35&nbsp;: 15.
+[^4]:  Coran 3&nbsp;: 83.
+[^5]:  Coran 55&nbsp;: 26-27.
+[^6]:  Coran 7&nbsp;: 172.
+[^7]:  Coran 2&nbsp;: 30.
+[^8]:  Coran 2&nbsp;: 31.
+[^9]:  Coran 33&nbsp;: 72.
+[^10]:  Coran 17&nbsp;: 70.
+[^11]:  Coran 33&nbsp;: 72.
+[^12]:  Coran 5&nbsp;: 48.
+[^13]:  Coran 6&nbsp;: 38.
+[^14]:  Coran 84&nbsp;: 19.
+[^15]:  Coran 23&nbsp;: 100.
+[^16]:  Coran 24&nbsp;: 37.
+[^17]:  Coran 3&nbsp;: 185.
+[^18]:  Coran 89&nbsp;: 27-28.
+[^19]:  Coran 44&nbsp;: 56-57.
+[^20]:  Coran 50&nbsp;: 22.
+[^21]:  Coran 32&nbsp;: 17.
+[^22]:  Coran 75&nbsp;: 22-23.
+[^23]:  Coran 6&nbsp;: 103.
+[^24]:  Coran 2&nbsp;: 152.
+[^25]:  Coran 7&nbsp;: 156.
