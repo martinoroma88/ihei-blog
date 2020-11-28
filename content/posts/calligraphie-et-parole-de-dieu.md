@@ -67,6 +67,8 @@ Un art plastique comme la calligraphie peut servir à suggérer cette vérité q
 
 > Quand bien même tous les arbres de la terre se changeraient en calames, quand bien même l’océan serait un océan d’encre où conflueraient sept autres océans, les Paroles de Dieu ne tariraient pas. En vérité, Dieu est Puissant et Sage.[^6]
 
+Lire aussi : [Présentation et commentaire de quelques calligraphies](/articles/art-et-islam/presentation-et-commentaire-de-quelques-calligraphies)
+
 [^1]: Cor. 10&nbsp;: 64.
 [^2]: Cor. 18&nbsp;: 109.
 [^3]: Cor. 96&nbsp;: 1-5.
