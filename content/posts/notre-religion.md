@@ -8,7 +8,7 @@ auteur:
 	- "Jawad Bossa"
 ---
 
-Comment se fait-il que les terroristes qui prononcent Allahu akbar («&nbsp;Dieu est plus grand&nbsp;»), prient dans les mosquées, font le Ramadan, lisent le Coran, soient si différents des musulmans qui font pourtant la même chose&nbsp;? En quoi sont-ils différents&nbsp;? Pourquoi sont-ils en désaccord&nbsp;? 
+Comment se fait-il que les terroristes qui prononcent Allahu akbar «&nbsp;Dieu est plus grand&nbsp;», prient dans les mosquées, font le Ramadan, lisent le Coran, soient si différents des musulmans qui font pourtant la même chose&nbsp;? En quoi sont-ils différents&nbsp;? Pourquoi sont-ils en désaccord&nbsp;? 
 
 Question intéressante&nbsp;! Et pas seulement pour les musulmans&nbsp;! 
 
@@ -24,13 +24,13 @@ La pratique religieuse est en effet ce sur quoi le croyant prend appui&nbsp;; ce
 
 Ainsi, à titre d’exemple, il ne s’agit pas, pour le musulman, de diaboliser le porc, mais de comprendre la vertu profonde de l’obéissance et de la soumission à l’ordre divin qui en a décrété l’interdiction. L’impureté n’est pas tant dans l’animal que dans l’âme qui n’est pas sacralisée par cette intention.
 
-De même, la finalité du jeûne du Ramadan n’est pas tant de tester notre endurance à la faim – et encore moins de faire la fête toute la nuit&nbsp;! – que de goûter à l’amour de Dieu à travers un effort de purification et d’abstention.
+De même, la finalité du jeûne du Ramadan n’est pas tant de tester notre endurance à la faim –&nbsp;et encore moins de faire la fête toute la nuit&nbsp;!&nbsp;— que de goûter à l’amour de Dieu à travers un effort de purification et d’abstention.
 
 Je vous demande alors&nbsp;: que valent les formes religieuses&nbsp;? Qui est le plus légitime entre le juif, le chrétien ou le musulman&nbsp;? Ne serait-ce pas, tout simplement, le croyant sincère&nbsp;? 
 
-Oublions les mots, rappelons-nous leur sens. En réalité le Juif sincère et fidèle à la religion de Moïse est musulman (celui qui se soumet librement à la volonté de Dieu), le Chrétien sincère et fidèle à la religion de Jésus est musulman (celui qui se soumet librement à la volonté de Dieu) et le Musulman sincère et fidèle à la religion de Muhammad est musulman (celui qui se soumet librement à la volonté de Dieu).
+Oublions les mots, rappelons-nous leur sens. En réalité le Juif sincère et fidèle à la religion de Moïse est musulman —&nbsp;celui qui se soumet librement à la volonté de Dieu—&nbsp;, le Chrétien sincère et fidèle à la religion de Jésus est musulman —&nbsp;celui qui se soumet librement à la volonté de Dieu—&nbsp; et le Musulman sincère et fidèle à la religion de Muhammad est musulman —&nbsp;celui qui se soumet librement à la volonté de Dieu—&nbsp;.
 
-Rappelons-nous qui nous sommes véritablement au lieu de nous laisser distraire par les formes ou les mots. Islâm vient de salâm - la Paix - et la Paix est la religion d’Adam, Abraham, Moïse, Jésus et Muhammad. Le prophète Muhammad ne nous a-t-il pas appris à ne faire aucune différence entre les prophètes&nbsp;? 
+Rappelons-nous qui nous sommes véritablement au lieu de nous laisser distraire par les formes ou les mots. Islâm vient de salâm —&nbsp;la Paix&nbsp;— et la Paix est la religion d’Adam, Abraham, Moïse, Jésus et Muhammad. Le prophète Muhammad ne nous a-t-il pas appris à ne faire aucune différence entre les prophètes&nbsp;? 
 
 Avons-nous oublié qu’il a conclu une alliance avec les moines de l’abbaye Sainte Catherine du Mont Sinaï, avec la délégation chrétienne de Najrân, avec les juifs de Médine, promettant sa protection à l’ensemble des fidèles de ces religions jusqu’à la fin des temps&nbsp;? Les premiers musulmans n’ont-ils pas été accueillis et protégés par le roi chrétien d’Abyssinie contre les Arabes païens de La Mecque&nbsp;? 
 
