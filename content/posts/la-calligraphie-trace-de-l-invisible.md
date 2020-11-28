@@ -37,8 +37,9 @@ L’&oelig;&nbsp;uvre d’art sacré fait apparaître la fonction essentielle du
 La calligraphie arabe connaît différents styles, qui sont nés à diverses époques et se sont développés avec l’expansion géographique de l’islam. La calligraphie islamique a été et continue d’être un art cultivé par le monde musulman, qu’il soit arabe ou non-arabe. Cette dernière précision montre notamment que l’importance et la valeur que les musulmans accordent à cet art, ne sont pas déterminées par leur attachement à la beauté formelle de la langue arabe, mais tiennent avant tout à l’adhésion au Verbe de Dieu dont la véritable beauté est informelle. Le talent d’un calligraphe réside dans sa capacité à transcrire les qualités spirituelles qui sont propres à la Parole révélée, et non dans la connaissance extérieure et grammaticale de la langue arabe. Le charme de la calligraphie arabe réside dans la manière dont elle sait combiner la distinction des caractères avec la fluidité de l’ensemble. Les principaux styles calligraphiques, dont les formes sont établies, peuvent s’enrichirent de modes, de contrastes et de types nouveaux qui mettent en lumière les modalités diverses du langage symbolique. La calligraphie arabe sait allier la plus grande rigueur géométrique au rythme le plus mélodieux. Le rythme et la géométrie s’expriment par l’harmonie et l’équilibre, qui sont le reflet de l’Unité divine dans l’ordre cosmique, temporel et spatial.
 
 Lire aussi : [Présentation et commentaire de quelques calligraphies](/articles/art-et-islam/presentation-et-commentaire-de-quelques-calligraphies)
-[^1] : Cor. 10&nbsp;: 64.
-[^2] : Cor. 18&nbsp;: 109.
-[^3] : Titus Burckhardt, *Principes et méthodes de l’art sacré*, Dervy, Paris.
-[^4] : *Ibid*.
-[^5] : Abd el-Kader, *Ecrits spirituels*, trad. Michel Chodkiewicz, Editions du Seuil, 1982, p. 104.
+
+[^1]: Cor. 10&nbsp;: 64.
+[^2]: Cor. 18&nbsp;: 109.
+[^3]: Titus Burckhardt, *Principes et méthodes de l’art sacré*, Dervy, Paris.
+[^4]: *Ibid*.
+[^5]: Abd el-Kader, *Ecrits spirituels*, trad. Michel Chodkiewicz, Editions du Seuil, 1982, p. 104.
