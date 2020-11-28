@@ -28,8 +28,6 @@ En ces temps où l’on voudrait imposer une intégration inconsidérée, nous d
 
 Il sera important, en effet, de pouvoir maintenir, comme cela a toujours été le cas dans l’histoire de l’humanité, la présence de ces hommes qui savent poursuivre la recherche de la vérité jusqu’à la fin, celle qui ne sera pas «&nbsp;la fin du monde&nbsp;», mais, comme quelqu’un l’a déjà dit, seulement «&nbsp;la fin d’un monde&nbsp;». Ce sont ces hommes qui constitueront les «&nbsp;semences de l’Arche&nbsp;» et non les «&nbsp;semences du Verbe&nbsp;» comme nous, musulmans, sommes taxés de l’être, semences de l’Arche qui pourront nous faire passer d’un cycle de l’existence du monde à un autre, et quelques-uns d’entre eux pourront également réaliser la possibilité d’une Connaissance, source de Justice et de Paix véritables. Cette Paix est celle que le Christ nous a promise, à la différence de la paix que «&nbsp;donne le monde&nbsp;», et nous ne nous étonnons donc pas si l’on ne trouve pas à Jérusalem une véritable Paix&nbsp;; Jérusalem, lieu où les événements liés à l’eschatologie devront se manifester dans la reconnaissance de la figure christique que, ensemble, juifs, chrétiens et musulmans, nous attendons.
 
-[^1]: Coran, 5&nbsp;: 48.
-
-[^2]: Coran, 2&nbsp;: 256.
-
-[^3]: Coran, 109&nbsp;: 6.
+[^1]: Coran 5&nbsp;: 48.
+[^2]: Coran 2&nbsp;: 256.
+[^3]: Coran 109&nbsp;: 6.
