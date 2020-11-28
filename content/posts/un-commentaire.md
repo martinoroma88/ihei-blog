@@ -8,7 +8,7 @@ auteur:
 	- "Abd al-Haqq Ismaïl Guiderdoni"
 ---
 
-*par l’Imâm Seigneurial et le Secours Universel, le Seigneur *Ahmad Ibn Idrîs al-Hasanî al-Idrîsî, *que Dieu sanctifie son secret. Amîn*
+Par l’Imâm Seigneurial et le Secours Universel, le Seigneur *Ahmad Ibn Idrîs al-Hasanî al-Idrîsî, *que Dieu sanctifie son secret. Amîn*
 
 **Au Nom de Dieu le Tout-Miséricordieux, le Très-Miséricordieux**
 
@@ -21,30 +21,30 @@ Parmi tout cela se trouvait le discours sur cette noble et très importante trad
 On rapporte de notre seigneur ‘Alî —&nbsp;que Dieu recouvre de Grâce sa face&nbsp;— qu’il disait&nbsp;: 
 > J’ai interrogé l’Envoyé de Dieu —&nbsp;Que Dieu prie sur lui et le salue&nbsp;— à propos de sa tradition. Et il répondit&nbsp;: “&nbsp;La connaissance est mon capital&nbsp;; l’intellect est l’origine de ma religion&nbsp;; l’amour est mon assise&nbsp;; le désir est mon vaisseau&nbsp;; le souvenir de Dieu est mon compagnon intime&nbsp;; la confiance est mon trésor&nbsp;; le chagrin est mon camarade&nbsp;; la science est mon arme&nbsp;; la patience est ma provision de route&nbsp;; la satisfaction est mon trophée&nbsp;; la faiblesse est ma gloire&nbsp;; l’ascèse est ma profession&nbsp;; la certitude est ma force&nbsp;; la sincérité est mon intercesseur&nbsp;; l’obéissance me suffit&nbsp;; la guerre sainte est mon caractère&nbsp;; la fraîcheur de mon &oelig;il se trouve dans la prière canonique&nbsp;; ma préoccupation concerne ma communauté, et mon désir va vers mon Seigneur&nbsp;”.
 
-*On rapporte de notre seigneur ‘Alî —&nbsp;que Dieu recouvre de Grâce sa face *et qu’Il soit satisfait de lui*&nbsp;— qu’il disait&nbsp;: 
-> J’ai interrogé l’Envoyé de Dieu —&nbsp;que Dieu prie sur lui et le salue&nbsp;— à propos de sa tradition. Et il répondit&nbsp;: La connaissance est mon capital* al-ma’rifah ra’su mâlî;
+On rapporte de notre seigneur ‘Alî —&nbsp;que Dieu recouvre de Grâce sa face et qu’Il soit satisfait de lui&nbsp;— qu’il disait&nbsp;: 
+> J’ai interrogé l’Envoyé de Dieu —&nbsp;que Dieu prie sur lui et le salue&nbsp;— à propos de sa tradition. Et il répondit&nbsp;: La connaissance est mon capital *al-ma’rifah ra’su mâlî*
 
 Celui-ci consiste à connaître Dieu —&nbsp;qu’Il soit exalté et magnifié. Dieu est le Premier et il n’y a rien avant Lui, le Dernier et il n’y a rien après Lui, l’Extérieur et il n’y a rien au-dessus de Lui, l’Intérieur et il n’y a rien en deçà de Lui. Cette délimitation est celle par laquelle Dieu Lui-même S’est délimité, comme cela nous a été rapporté par le Prophète, dans une de ses invocations&nbsp;: 
 > Tu es le Premier et il n’y a rien avant Toi, le Dernier et il n’y a rien après Toi, etc.
 
 Quant à la connaissance, elle consiste à effacer totalement l’être créé de sa contemplation, et à ne tourner sa face que vers Dieu[^3]. «&nbsp;Où que vous vous tourniez, là est la face de Dieu[^4]&nbsp;». C’est cela le capital, par lequel adviennent les dévoilements.
 
-*L’intellect est l’origine de ma religion (wa-l-‘aqlu açlu dînî)&nbsp;:* l’intellect est le principe de tout bien, et Dieu n’accorde pas à un serviteur de grâce plus grande que l’intellect. Par lui, [le serviteur] fait la séparation entre la vérité et l’erreur, entre la foi et l’infidélité&nbsp;; par lui, il distingue le licite de l’illicite&nbsp;; par lui, il saisit les choses qui plaisent à Dieu et celles qui Le courroucent. Il est la source de toute grâce. Et la connaissance qui est l’assise de la foi, est qu’il n’y a pas d’acte de connaissance sans lui.
+*L’intellect est l’origine de ma religion* wa-l-‘aqlu açlu dînî*&nbsp;: *l’intellect est le principe de tout bien, et Dieu n’accorde pas à un serviteur de grâce plus grande que l’intellect. Par lui, [le serviteur] fait la séparation entre la vérité et l’erreur, entre la foi et l’infidélité&nbsp;; par lui, il distingue le licite de l’illicite&nbsp;; par lui, il saisit les choses qui plaisent à Dieu et celles qui Le courroucent. Il est la source de toute grâce. Et la connaissance qui est l’assise de la foi, est qu’il n’y a pas d’acte de connaissance sans lui.
 > Quand Dieu créa l’intellect, Il lui dit «&nbsp;approche-toi&nbsp;» et il s’approcha, puis Il lui dit «&nbsp;recule&nbsp;» et il recula[^5].
 
 Et quand Il attacha l’obéissance, et l’ordre et la défense, ce qui était saisi par l’entrave du chameau fut appelé intelligence[^6]. C’est ce qui attache les hommes à ce que Dieu aime et à ce qui Le satisfait.
 
-*L’amour est mon assise (wa-l-hubbu asâsî)&nbsp;:* l’amour est l’assise de la connaissance. Il est mentionné dans le hadîth&nbsp;: «&nbsp;N’est-il pas vrai qu’il n’y a pas d’amour pour celui qui n’a pas d’amour pour Lui&nbsp;», c’est-à-dire pour Dieu&nbsp;? Et la réalité de l’amour est l’inclination. Celui qui n’a pas de penchant avec tout son être, l’amour s’en tient à distance. Le meilleur amour est que Dieu et Son Envoyé te soient plus dignes d’amour que tout le reste. «&nbsp;Dis&nbsp;: si vous aimez Dieu, suivez-moi&nbsp;; alors Dieu vous aimera[^7]&nbsp;». Il est désirable de suivre l’Envoyé de Dieu dans ses ordres et dans ses interdictions. Si le serviteur le suit et accomplit les ordres que Dieu aime, Dieu l’aime. Et si Dieu l’aime, sans aucun doute Il le rapprochera de Lui[^8]. Parmi les invocations de Dâwûd (sur lui la bénédiction et la paix), l’on trouve&nbsp;: 
+*L’amour est mon assise* wa-l-hubbu asâsî&nbsp;: *l’amour est l’assise de la connaissance. Il est mentionné dans le hadîth&nbsp;: «&nbsp;N’est-il pas vrai qu’il n’y a pas d’amour pour celui qui n’a pas d’amour pour Lui&nbsp;», c’est-à-dire pour Dieu&nbsp;? Et la réalité de l’amour est l’inclination. Celui qui n’a pas de penchant avec tout son être, l’amour s’en tient à distance. Le meilleur amour est que Dieu et Son Envoyé te soient plus dignes d’amour que tout le reste. «&nbsp;Dis&nbsp;: si vous aimez Dieu, suivez-moi&nbsp;; alors Dieu vous aimera[^7]&nbsp;». Il est désirable de suivre l’Envoyé de Dieu dans ses ordres et dans ses interdictions. Si le serviteur le suit et accomplit les ordres que Dieu aime, Dieu l’aime. Et si Dieu l’aime, sans aucun doute Il le rapprochera de Lui[^8]. Parmi les invocations de Dâwûd (sur lui la bénédiction et la paix), l’on trouve&nbsp;: 
 > O mon Dieu, en vérité je Te demande de T’aimer, et d’aimer celui qui T’aime, je Te demande d’accomplir les actes qui me feront parvenir à l’amour de Toi. O mon Dieu, fais que l’amour que j’ai pour Toi soit pour moi plus fort que moi-même, ma famille, et l’eau fraiche.
 
 Il précisa les choses mentionnées ci-dessus parce qu’elles prennent le c&oelig;ur mais détournent de Dieu. Si le serviteur ne s’occupe pas de Dieu, et s’occupe de ces choses, on peut craindre pour lui qu’il ne renie les bienfaits de Dieu —&nbsp;que Dieu nous en préserve&nbsp;!&nbsp;—
 
-*Le désir est mon vaisseaU* wa-sh-shawqu markabî&nbsp;: *l’homme est, dans son essence, le vaisseau de l’esprit, et le désir est le vent [qui souffle sur] ce vaisseau. Tant que dure l’adhésion à Dieu, le vaisseau avance et le désir est sur l’amour[^9]. L’amour est l’inclination vers Dieu, et le désir consiste à accourir sans faire de halte. Certes l’inclination peut exister sans qu’existe le désir. C’est seulement quand le désir existe que l’on trouve nécessairement l’inclination[^10].
+*Le désir est mon vaisseau* wa-sh-shawqu markabî&nbsp;: *l’homme est, dans son essence, le vaisseau de l’esprit, et le désir est le vent [qui souffle sur] ce vaisseau. Tant que dure l’adhésion à Dieu, le vaisseau avance et le désir est sur l’amour[^9]. L’amour est l’inclination vers Dieu, et le désir consiste à accourir sans faire de halte. Certes l’inclination peut exister sans qu’existe le désir. C’est seulement quand le désir existe que l’on trouve nécessairement l’inclination[^10].
 
 *Le souvenir de Dieu est mon compagnon intime* wa dhikru-Llâhi anîsî&nbsp;: *il est mentionné dans le hadîth&nbsp;: «&nbsp;O mon Dieu, Tu es le Compagnon de voyage et le Successeur dans la famille&nbsp;». Le voyageur n’a pas de compagnie familière dans son voyage, sinon celle du Compagnon. Il est mentionné dans le hadîth&nbsp;: «&nbsp;Il n’y a pas de souffle par lequel soupire l’homme sans qu’il ne progresse d’un pas vers la Vie Dernière&nbsp;». Les souffles sont le voyage, et quand le souvenir de Dieu se trouve présent, il est le compagnon familier dans ce voyage[^11]. Quel excellent compagnon de voyage&nbsp;! Combien excellent est ce souvenir de Dieu qui lui est devenu familier dans son voyage&nbsp;! 
 
 *La confiance est mon trésor* wa-th-thiqatu kanzî&nbsp;: *il est mentionné dans le hadîth&nbsp;: 
-> Nul d’entre vous ne croit tant que ce qui est dans la Main de Dieu n’est pas pour lui plus solide que ce qui est dans sa main [^12].
+> Nul d’entre vous ne croit tant que ce qui est dans la Main de Dieu n’est pas pour lui plus solide que ce qui est dans sa main[^12].
 
 Il est mentionné dans le hadîth&nbsp;: 
 > Le trésor du croyant est son Seigneur 
