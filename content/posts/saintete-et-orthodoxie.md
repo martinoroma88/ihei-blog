@@ -40,14 +40,9 @@ Il enseignait à ses disciples la valeur de l’ascèse et de la retraite spirit
 
 L’approche du Shaykh Abû Madyan se caractérisait par la sobriété et la simplicité, qui n’ont rien à voir avec l’austérité dévotionnelle ou la vulgarisation doctrinale, mais qui manifestent plutôt la force apaisante du souffle de l’Esprit et l’évidence de la Vérité. Cette essentialité de la vie et de la voie spirituelles correspond à l’adoration de Dieu “&nbsp;en esprit et vérité&nbsp;” à laquelle Jésus (*‘alayhi-s-salâm*) appelait ses disciples, et dont les saints de tout temps et tout lieu n’ont cessé de témoigner. A la fois témoins de leur temps et témoins de la présence éternelle de Dieu en ce monde, les saints ne sont pas seulement les garants de la vitalité spirituelle et intellectuelle de la Tradition. Ils sont aussi les gardiens des chemins de la Vérité que Dieu continue de rendre accessibles jusqu’à nos jours. Il est dit que s’il subsiste encore, dans la Volonté de Dieu, une raison pour que le monde existe, c’est seulement à cause de la présence effective, ici-bas, de quelque saint. L’oubli par l’homme de sa vocation à acquérir la sainteté représente l’un des signes de l’approche de la fin des temps. C’est précisément à cette sainteté qu’il faut aspirer pour bénéficier de la miséricorde divine toujours présente, et se préparer de la meilleure façon au Jour du Jugement, ce jour qui verra redescendre le Christ de la seconde venue, comme annonce de l’Heure dernière et Sceau des saints.
 
-[^1]:  Coran, 2 : 257.
-
-[^2]:  Coran, 12 : 101.
-
-[^3]:  Coran, 50 : 16.
-
+[^1]:  Coran 2&nbsp;: 257.
+[^2]:  Coran 12&nbsp;: 101.
+[^3]:  Coran 50&nbsp;: 16.
 [^4]:  Ibn Mâjah.
-
-[^5]:  Coran, 6 : 83.
-
-[^6]:  Coran, 18 : 44.
+[^5]:  Coran 6&nbsp;: 83.
+[^6]:  Coran 18&nbsp,;: 44.
