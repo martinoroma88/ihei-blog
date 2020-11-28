@@ -12,7 +12,7 @@ Le crime barbare qui a coûté la vie à Samuel Paty, le 16 octobre dernier, ill
 
 Les terroristes qui tuent prétendument pour la cause de l’islam profanent et le nom de Dieu et le caractère sacré de la personne humaine. 
 
-> L’être humain est l’édification de Dieu, maudit soit celui qui la détruit&nbsp;!&nbsp;, dit le Prophète Muhammad. 
+> L’être humain est l’édification de Dieu, maudit soit celui qui la détruit&nbsp;!, dit le Prophète Muhammad. 
 
 L’émotion qui a saisi notre pays est légitime, mais, au-delà de cette émotion, tout doit être fait pour que de tels crimes ne se reproduisent plus. Cela suppose de réfléchir pour préparer l’avenir. 
 
