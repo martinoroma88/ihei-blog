@@ -37,8 +37,10 @@ Mais nous pensons que la connaissance de l’islam, pour qu’elle soit fidèle 
 
 Cette orientation traditionnelle guide le travail d’approfondissement et les activités publiques conduits en particulier par l’Institut Français de Civilisation Musulmane (IFCM) à Lyon, et par l’Institut des Hautes Études Islamiques (IHEI), constitué d’intellectuels musulmans, d’origine et de culture françaises pour la plupart, qui témoignent de la complémentarité entre religion et citoyenneté, sans opposition ni confusion. C’est ce qui leur permet de promouvoir avec d’autres la réalité d’un islam universel, spirituel et citoyen, engagé dans le dialogue interreligieux, et respectueux des valeurs et des lois de la République. 
 
-Comme les générations antérieures dans d’autres régions du monde, les musulmans de France sont appelés à poursuivre leur cheminement intérieur et à assumer leurs engagements en société, dans les lieux et dans les temps où la Providence les a placés, suivant l’exemple du Prophète Muhammad, «&nbsp;envoyé comme miséricorde pour les mondes&nbsp;» (Coran XXI, 107). 
+Comme les générations antérieures dans d’autres régions du monde, les musulmans de France sont appelés à poursuivre leur cheminement intérieur et à assumer leurs engagements en société, dans les lieux et dans les temps où la Providence les a placés, suivant l’exemple du Prophète Muhammad, «&nbsp;envoyé comme miséricorde pour les mondes&nbsp;»[^1]. 
 
 Servitude spirituelle, sagesse de la foi, conscience du sacré et sens des responsabilités, devant Dieu et à l’égard de toutes les créatures&nbsp;: ce sont les traits essentiels du modèle prophétique auquel les musulmans sincères essaient de se conformer. 
 
 Ce modèle et cette méthode prophétiques sont un gage de droiture et de fiabilité, mais aussi de fraternité et de solidarité envers tous les êtres humains, quelles que soient leur appartenance ou leur origine&nbsp;; une valeur ajoutée, au service du développement et de la préservation du bien commun.
+
+[^1]: Coran 21&nbsp;: 107.
