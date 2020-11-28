@@ -333,99 +333,51 @@ L’alternance des phases cycliques de grâce et de renoncement coïncide avec l
 
 Il est donc important de comprendre la signification profonde de l’acceptation et de la soumission à la Volonté divine, qui s’explique toujours par ce mouvement cyclique dans lequel le don et la privation constituent deux aspects d’un unique bienfait divin. Telle est, en définitive, l’essence la plus authentique de l’islam, qui signifie littéralement «&nbsp;soumission à Dieu&nbsp;». Ainsi, Agar et Sarah peuvent représenter un exemple lumineux pour tous les croyants et pour tous ceux qui acceptent et pratiquent la volonté de Dieu, appelés en arabe, *muslimûn*, musulmans.
 
-
-[^1]:  Coran XXVIII, 88.
-    
+[^1]:  Coran 28&nbsp;: 88.
 [^2]:  Al-Ghazâlî, *Des vertus du mariage*, traduction de A. Demazières, Alif éditions, Lyon, 1997, p. 51.
-    
 [^3]:  Parole d’Abû Sulaymân ad-Darânî.
-    
-[^4]:  Coran XXXIII, 59.
-    
-[^5]:  Tradition prophétique rapportée par Ibn Hanbal.
-    
-[^6]:  Coran III, 37.
-    
-[^7]:  Mulayka Enriello, *Femme, islam et sainteté. La sacralité de la dimension féminine*.
-    
-[^8]:  Fâtiha Darolles, «&nbsp;L’image de la femme musulmane&nbsp;», *Le Message*, revue du Centre d’Etudes Métaphysiques et de l’Institut des Hautes Etudes Islamiques, n°11, 2004, p. 58-67.
-    
-[^9]:  Tradition prophétique rapportée par Muslim et al-Bukhârî.
-    
-[^10]:  Coran II, 115.
-    
-[^11]:  Coran IV, 1.
-    
-[^12]:  Ibn Hanbal.
-    
-[^13]:  Tradition prophétique rapportée par Ibn Hanbal, Muslim.
-    
-[^14]:  Coran II, 256.
-    
-[^15]:  Tradition prophétique rapportée par Ibn al-Jawzî.
-    
+[^4]:  Coran 33&nbsp;: 59.  
+[^5]:  Tradition prophétique rapportée par Ibn Hanbal.  
+[^6]:  Coran 3&nbsp;: 37.  
+[^7]:  Mulayka Enriello, *Femme, islam et sainteté. La sacralité de la dimension féminine*. 
+[^8]:  Fâtiha Darolles, «&nbsp;L’image de la femme musulmane&nbsp;», *Le Message*, revue du Centre d’Etudes Métaphysiques et de l’Institut des Hautes Etudes Islamiques, n°11, 2004, p. 58-67. 
+[^9]:  Tradition prophétique rapportée par Muslim et al-Bukhârî. 
+[^10]:  Coran 2&nbsp;: 115.  
+[^11]:  Coran 4&nbsp;: 1.  
+[^12]:  Ibn Hanbal. 
+[^13]:  Tradition prophétique rapportée par Ibn Hanbal, Muslim. 
+[^14]:  Coran 2&nbsp;: 256. 
+[^15]:  Tradition prophétique rapportée par Ibn al-Jawzî.  
 [^16]:  Al-Ghazâlî, *Le perle del Corano*, edizione Rizzoli, Milano, 2000.
-    
-[^17]:  Al-Ghazâlî, *Des vertus du mariage*, traduction de A. Demazières, Alif éditions, Lyon, 1997, pp. 56-57.
-    
-[^18]:  Ce symbole de forme circulaire représente un poisson blanc avec un &oelig;il noir et un poisson noir avec un &oelig;il blanc.
-    
+[^17]:  Al-Ghazâlî, *Des vertus du mariage*, traduction de A. Demazières, Alif éditions, Lyon, 1997, pp. 56-57.  
+[^18]:  Ce symbole de forme circulaire représente un poisson blanc avec un &oelig;il noir et un poisson noir avec un &oelig;il blanc
 [^19]:  A-Ghazâlî, *Des vertus du mariage*, traduction de A. Demazières, Alif éditions, Lyon, 1997, p. 26.
-    
 [^20]:  *Ibid, p. 26.*
-    
 [^21]:  *Ibid, p. 26.*
-    
 [^22]:  *Ibid, p. 102.*
-    
-[^23]:  Coran II, 231.
-    
-[^24]:  Coran IV, 19.
-    
+[^23]:  Coran 2&nbsp;: 231.
+[^24]:  Coran 4&nbsp;: 19.
 [^25]:  Al-Ghazâlî, *Des vertus du mariage*, traduction de A. Demazières, Alif éditions, Lyon, 1997, p. 61.
-    
 [^26]:  Tradition prophétique rapportée par Ibn Mâjah.
-    
 [^27]:  Tradition prophétique rapportée par At-Tirmidhî.
-    
 [^28]:  Mulayka Enriello, *Femme et travail dans l’islam*, conférence tenue à Alessandria, le 10 avril 2003, auprès de l’Union industrielle.
-    
 [^29]:  Une tradition prophétique, transmise par Abû Sa‘îd, affirme que «&nbsp;personne se présente à Dieu avec un péché plus grand que celui de laisser les siens dans l’ignorance.&nbsp;»
-    
 [^30]:  Tradition prophétique rapportée par An-Nasâ’î.
-    
 [^31]:  Al-Ghazâlî, *Des vertus du mariage*, traduction de A. Demazières, Alif éditions, Lyon, 1997, p. 108.
-    
 [^32]:  *Ibid, p.* 84.
-    
 [^33]:  *Ibid, p. 25.*
-    
-[^34]:  Coran XXX, 20-23.
-    
+[^34]:  Coran 30&nbsp;: 20-23.
 [^35]:  Farîda Perruzzi Vincenzo, «&nbps;La famille et la communauté dans l’islam&nbps;», in *L’Islam e l’Italia*, a cura de l’Associazione Italiana Internazionale per l’Informazione sull’Islâm, La Sintesi editrice, Milano, 1996.
-    
 [^36]:  Ahmad Fazl, *La vie de Aicha, épouse du Prophète*, IQRA, Paris, 2000, pp. 13-14.
-    
-[^37]:  Coran XXX, 6.
-    
+[^37]:  Coran 30&nbsp;: 6.
 [^38]:  Tradition prophétique rapportée par Al-Bukhârî.
-    
-[^39]:  Coran III, 37-40.
-    
-[^40]:  Coran XIX, 16-36.
-    
+[^39]:  Coran 3&nbsp;: 37-40.
+[^40]:  Coran 29&nbsp;: 16-36.
 [^41]:  Maryam Tabaglio, *La figure de Marie dans le Saint Coran*, intervention donnée à l’occasion du colloque «&nbps;Connaître les femmes musulmanes&nbps;», sous le patronage de la région de la Ligurie, tenu à Ventimille, Italie, le 11 mai 2002.
-    
 [^42]:  A’isha Lazzerini, *Marie dans l’islam*, conférence tenue à Sestriere, Italie, le 10 août 2003.
-    
-[^43]:  Coran LXVI, 10.
-    
+[^43]:  Coran 66&nbsp;: 10.
 [^44]:  Ibn Kathîr, *Stories of the Prophets*, El Nour, Le Caire, 1996, pp. 88-89.
-    
-[^45]:  Coran XIV, 37.
-    
+[^45]:  Coran 14&nbsp;: 37.
 [^46]:  Le lieu sur lequel fut édifié le temple en pierre par Abraham et Ismaël était destiné au pèlerinage depuis l’origine de l’humanité, signe de la miséricorde de Dieu à Abraham. Après la chute du Paradis, Adam y plaça une tente autour de laquelle il accomplissait le rite de la circumambulation (*tawâf*).
-    
 [^47]:  Ibn Kathîr, *op. cit.*, p. 91.
-    
-[^48]:  Coran XI, 69-73.
+[^48]:  Coran 11&nbsp;: 69-73.
