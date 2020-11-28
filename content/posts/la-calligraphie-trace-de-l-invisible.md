@@ -30,7 +30,7 @@ Dans la Tradition islamique, la calligraphie arabe est considérée comme le plu
 
 > Pour qu’un art puisse être appelé “&nbsp;sacré&nbsp;”, il ne suffit pas que ses sujets dérivent d’une vérité spirituelle, il faut aussi que son langage formel témoigne de la même source. […] Seul un art dont les formes mêmes reflètent la vision spirituelle propre à une religion donnée, mérite cette épithète.[^4]
 
-L’&oelig;&nbsp;uvre d’art sacré fait apparaître la fonction essentielle du symbole&nbsp;: rétablir l’unité entre la Terre et le Ciel, le visible et l’invisible, l’extérieur et l’intérieur. Les notions de langue et d’art sacrés sont indispensables pour comprendre le caractère symbolique qui se rattache aux lettres arabes, notamment sous leur aspect graphique. Dans le *Livre des Haltes*, l’Emir ‘Abd-al-Qâdir écrit&nbsp;: 
+L’&oelig;uvre d’art sacré fait apparaître la fonction essentielle du symbole&nbsp;: rétablir l’unité entre la Terre et le Ciel, le visible et l’invisible, l’extérieur et l’intérieur. Les notions de langue et d’art sacrés sont indispensables pour comprendre le caractère symbolique qui se rattache aux lettres arabes, notamment sous leur aspect graphique. Dans le *Livre des Haltes*, l’Emir ‘Abd-al-Qâdir écrit&nbsp;: 
 
 > Sache que Dieu propose des symboles par Ses actes comme par Ses paroles, car la raison d’être du symbole est de conduire à la compréhension, de telle sorte que l’objet intelligible devienne aussi évident que l’objet sensible [qui le symbolise]. Parmi les symboles qu’Il propose par Ses actes figure la création des lettres de l’alphabet&nbsp;: leur tracé enferme, en effet, des secrets que seul peut saisir celui qui est doué de science et de sagesse.[^5]
 
