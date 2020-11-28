@@ -33,7 +33,7 @@ Par ailleurs, il convient de dénoncer, sinon de déplorer, certaines tendances 
 
 Nul doute qu’il est indispensable de délégitimer toute violence commise au nom de Dieu ou d’un principe religieux, en rappelant pour ce faire les valeurs de paix, de respect et de fraternité qui sont au c&oelig;ur des religions juive, chrétienne et musulmane, comme de toutes les grandes traditions spirituelles de l’humanité. Toutefois, si la religion ne peut être instrumentalisée à des fins autres que spirituelles, pour servir à légitimer la violence du terrorisme et la guerre, l’on ne peut non plus accepter qu’elle soit transformée en un simple instrument de paix terrestre, entendue de manière exclusivement humaine. Dans cette confusion entre paix et simple non-belligérance, le contenu réel du message religieux est appauvri et réduit aux niveaux mental et sentimental, pour s’accorder avec les nécessités temporelles et les préoccupations mondaines du moment. On oublie que la Paix véritable n’est pas «&nbsp;celle que donne le monde&nbsp;», selon la parole du Christ, mais plutôt celle des c&oelig;urs apaisés dans le Royaume des Cieux, lequel n’a rien à voir avec le paradis artificiel que certains s’illusionnent de pouvoir recréer sur terre.
 
-Tout ce que nous avons dit jusqu’ici montre combien sont non-fondées et injustifiables, du point de vue islamique orthodoxe, les actes de terreur et les meurtres gratuits qui continuent malheureusement d’être perpétrés contre des vies sacrées et innocentes par des franges extrémistes prétendant se réclamer de l’islam. Les massacres qui ont touché récemment la communauté chrétienne d’Irak sont, faut-il encore le rappeler, totalement contraires à l’esprit de l’islam comme à ses principes et ses lois. Les extrémistes de tout bord, qui manipulent la religion à des fins d’hégémonie politique ou de revendications ethnique, nationale ou territoriale, en cherchant à instrumentaliser les masses par l’idéologisation du sentiment religieux, ne font qu’accroître la confusion et l’incompréhension, qui empêchent toute Paix véritable entre les hommes, et freinent de ce fait la résolution pacifique, juste et durable du conflit au Moyen-Orient. A cet égard, il est tout à fait incongru de vouloir présenter certains conflits comme «&nbsp;religieux&nbsp;», et notamment le conflit israélo-palestinien, qui est avant tout d’ordre politique et territorial. En effet, ce conflit n’est ni racial – arabes et hébreux sont sémites –, ni culturel – tous les musulmans ne sont pas arabes et tous les juifs ne sont pas israéliens, et inversement –, ni encore moins religieux – juifs, musulmans et chrétiens adorent le même Dieu d’Abraham.
+Tout ce que nous avons dit jusqu’ici montre combien sont non-fondées et injustifiables, du point de vue islamique orthodoxe, les actes de terreur et les meurtres gratuits qui continuent malheureusement d’être perpétrés contre des vies sacrées et innocentes par des franges extrémistes prétendant se réclamer de l’islam. Les massacres qui ont touché récemment la communauté chrétienne d’Irak sont, faut-il encore le rappeler, totalement contraires à l’esprit de l’islam comme à ses principes et ses lois. Les extrémistes de tout bord, qui manipulent la religion à des fins d’hégémonie politique ou de revendications ethnique, nationale ou territoriale, en cherchant à instrumentaliser les masses par l’idéologisation du sentiment religieux, ne font qu’accroître la confusion et l’incompréhension, qui empêchent toute Paix véritable entre les hommes, et freinent de ce fait la résolution pacifique, juste et durable du conflit au Moyen-Orient. A cet égard, il est tout à fait incongru de vouloir présenter certains conflits comme «&nbsp;religieux&nbsp;», et notamment le conflit israélo-palestinien, qui est avant tout d’ordre politique et territorial. En effet, ce conflit n’est ni racial – arabes et hébreux sont sémites –, ni culturel —&nbsp;tous les musulmans ne sont pas arabes et tous les juifs ne sont pas israéliens, et inversement&nbsp;—, ni encore moins religieux —&nbsp;juifs, musulmans et chrétiens adorent le même Dieu d’Abraham.
 
 > Les religions sont instrumentalisées à des fins qui ne sont pas spirituelles, et l’on en arrive à déclarer des “&nbsp;guerres saintes&nbsp;” entre des croyants de la même religion, ce qui fait dire que ce sont les religions qui apportent la guerre. Or, si les hommes se battent, ce n’est pas parce qu’ils sont juifs, chrétiens ou musulmans, mais parce qu’ils ne le sont pas, ou plus assez, ou qu’ils ne le sont plus en pratique.[^7]
 
@@ -51,19 +51,11 @@ Si la Jérusalem terrestre symbolise bien la rencontre au sommet, en Dieu Lui-m�
 Mais Jérusalem est sainte d’abord parce qu’elle est la ville du Très-Saint, *al-Quddûs*, autre Nom divin qui nous rappelle que la sainteté des lieux consacrés par la sagesse divine réside en ce qu’ils sont les lieux dans lesquels l’homme s’efforce d’être saint. La sainteté de Jérusalem constitue, pour tous les croyants du monothéisme abrahamique, un appel à se mettre en route pour ce «&nbsp;voyage du c&oelig;ur&nbsp;» qui est le pèlerinage intérieur de la Jérusalem terrestre à la Jérusalem céleste. C’est dans cet esprit d’unité et d’universalité que la commémoration du sacrifice d’Abraham peut être vécue par les musulmans, par tous les croyants et les hommes de bonne volonté qui sauront, par le témoignage exemplaire d’une vie terrestre semblable à celle du Ciel, élever leur esprit au-dessus d’eux-mêmes et incarner une dimension prophétique, pour être portés de l’aspect transitoire des choses humaines à la profondeur de la Cité de Dieu. *«&nbsp;Et que la Paix soit sur Abraham&nbsp;!&nbsp;»*
 
 [^1]:  Le récit du sacrifice est rapporté dans la sourate 37, versets 99 à 111.
-
-[^2]:  Coran V, 48.
-
-[^3]:  Coran VII, 172.
-
+[^2]:  Coran 5&nbsp;: 48.
+[^3]:  Coran 7&nbsp;: 172.
 [^4]:  Hadith rapporté par Ahmad ibn Hanbal.
-
 [^5]:  Rapporté par al-Bukhari.
-
-[^6]:  Coran XIV: 4.
-
+[^6]:  Coran 14&nbsp;: 4.
 [^7]:  Shaykh Abd al-Wahid Pallavicini, *L’islam intérieur*, Ed. Christian de Bartillat, Paris, 1995, p. 185.
-
-[^8]:  Coran II, 62.
-
-[^9]:  Coran XVII, 1.
+[^8]:  Coran 2&nbsp;: 62.
+[^9]:  Coran 17&nbsp;: 1.
