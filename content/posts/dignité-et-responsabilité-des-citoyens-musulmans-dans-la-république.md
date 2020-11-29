@@ -20,7 +20,7 @@ Dans son discours du 2 octobre 2020 sur la lutte contre les séparatismes, le pr
 
 Cependant, certaines de ses déclarations ont pu heurter la sensibilité de nombreux musulmans, en France et ailleurs, lesquels ont perçu la volonté de «&nbsp;bâtir enfin un islam en France qui puisse être un islam des Lumières&nbsp;» comme une atteinte à leur dignité religieuse et civique, avec le risque d’une désacralisation de l’islam. 
 
-En effet, si la référence aux «&nbsp;Lumières&nbsp;» renvoie au courant philosophique né au XVIIIe siècle en Europe, qui faisait de la raison humaine le critère absolu de la vérité, de tels propos risquent d’être interprétés de façon négative, comme si l’islam en soi était synonyme d’obscurantisme et d’ignorance. 
+En effet, si la référence aux «&nbsp;Lumières&nbsp;» renvoie au courant philosophique né au XVIII<sup>e</sup> siècle en Europe, qui faisait de la raison humaine le critère absolu de la vérité, de tels propos risquent d’être interprétés de façon négative, comme si l’islam en soi était synonyme d’obscurantisme et d’ignorance. 
 
 Comme si, également, le rationalisme allait préserver la société française et les musulmans du terrorisme&nbsp;; comme si, surtout, les musulmans ne possédaient pas déjà dans leur patrimoine intellectuel, spirituel et culturel toutes les ressources pour vivre intelligemment leur religion en harmonie avec les valeurs républicaines. 
 
