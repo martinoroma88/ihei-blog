@@ -16,7 +16,7 @@ categories:
 **Aperçus sur le Jihâd&nbsp;: doctrine et application**
 *Abd-Allah Yahya Darolles*
 
-**Les saints musulmans au Moyen Age**
+**Les saints musulmans au Moyen-Âge**
 *Abd-al-Haqq Ismaïl Guiderdoni*
 
 **Vers la Terre Sainte**

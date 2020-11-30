@@ -12,7 +12,7 @@ categories:
 **A la recherche du savoir&nbsp;: Raison et Révélation**
 *Abd-al-Haqq Ismaïl Guiderdoni*
 
-**La doctrine de la connaissance dans la théologie chrétienne du Moyen Age**
+**La doctrine de la connaissance dans la théologie chrétienne du Moyen-Âge**
 *Abd-al-Hayy Mansour Baudo*
 
 **Reflets et miroirs**
@@ -24,7 +24,7 @@ categories:
 **L’éducation traditionnelle dans le monde musulman&nbsp;: pourquoi les universitaires musulmans ont résisté à l’introduction de l’imprimerie&nbsp;?**
 *Abd-al-Azîm Sedgwick*
 
-**Débats sur l’origine du monde dans le Moyen Age islamique&nbsp;:**
+**Débats sur l’origine du monde dans le Moyen-Âge islamique&nbsp;:**
 **Al-Ghazâli, Ibn Rushd et Ibn Arabî**
 *Abd-al-Haqq Ismaïl Guiderdoni*
 

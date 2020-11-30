@@ -9,7 +9,7 @@ auteur:
 ---
 
 ![Calligraphie 1](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-01_rof1zv.jpg "Calligraphie 1")
-(1/1) «&nbsp;Dieu est la Lumière des Cieux et de la Terre&nbsp;» (Cor. 24&nbsp;: 35)
+(1/1) «&nbsp;Dieu est la Lumière des Cieux et de la Terre&nbsp;» (Coran 24&nbsp;: 35)
 
 Les hampes très allongées symbolisent la transcendance et l’unité de Dieu. Elles évoquent la descente de la parole divine des Cieux vers la Terre, sous la forme des lettres de la langue sacrée. Celles-ci font rayonner la lumière invisible de Dieu dans le monde. En même temps, on remarque la présence de flèches dirigées vers le haut, comme signes du retour à Dieu à partir de Sa parole.
 
@@ -17,7 +17,7 @@ Les hampes très allongées symbolisent la transcendance et l’unité de Dieu. 
 
 Il s’agit du témoignage de l’Unicité divine, que l’on voit ici combiné avec des motifs végétaux. Cette calligraphie symbolise la présence cachée de Dieu dans la création, qui la voile et la dévoile tout à la fois.
 
-(1/3) «&nbsp;Dieu a été satisfait des croyants lorsqu’ils ont fait le pacte avec toi sous l’arbre, et Il a su ce qui était dans leurs c&oelig;urs. Il a fait descendre sur eux Sa présence de Paix (Sakîna), et les a affermis par une proche victoire&nbsp;» (Cor. 48&nbsp;: 18)
+(1/3) «&nbsp;Dieu a été satisfait des croyants lorsqu’ils ont fait le pacte avec toi sous l’arbre, et Il a su ce qui était dans leurs c&oelig;urs. Il a fait descendre sur eux Sa présence de Paix (Sakîna), et les a affermis par une proche victoire&nbsp;» (Coran 48&nbsp;: 18)
 
 À nouveau, les lettres se marient à des motifs végétaux. Cette calligraphie est particulière car le verset mentionne «&nbsp;l’arbre&nbsp;» sous lequel les croyants ont conclu le pacte avec le Prophète. Ce pacte s’appelle le «&nbsp;pacte de la Satisfaction divine&nbsp;», point de départ de la transmission initiatique dans le soufisme. La sobriété et la stabilité des lettres, mêlées à la fluidité et la légèreté des éléments végétaux, manifestent la présence apaisante de la Sakîna. L’ensemble de la calligraphie est comme une germination spirituelle qui évoque le déploiement de la création à partir de la Parole de Dieu.
 
@@ -28,7 +28,7 @@ Il s’agit du témoignage de l’Unicité divine, que l’on voit ici combiné 
 ![Calligraphie 3](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-03_whdg1k.jpg "Calligraphie 3")
 
 (3) Kûfî «&nbsp;géométrique&nbsp;» 
-(3/1) Verset du Trône&nbsp;: «&nbsp;Dieu&nbsp;: Pas de dieu si ce n’est Lui, le Vivant, l’Immuable (Celui qui subsiste par Lui-même). Ni l’assoupissement ni le sommeil n’ont de prise sur Lui. Tout ce qui est dans les Cieux et sur la Terre Lui appartient. Qui intercèdera auprès de Lui sans Sa permission&nbsp;? Il sait ce qui se trouve derrière les hommes et ce qui est derrière eux, alors que ceux-ci n’embrassent de Sa science que ce qu’Il veut. Son Trône s’étend sur les Cieux et sur la Terre. Leur maintien dans l’existence ne lui est pas une charge. Il est le Très-Haut, l’Immense.&nbsp;» (Cor. 2&nbsp;: 255)
+(3/1) Verset du Trône&nbsp;: «&nbsp;Dieu&nbsp;: Pas de dieu si ce n’est Lui, le Vivant, l’Immuable (Celui qui subsiste par Lui-même). Ni l’assoupissement ni le sommeil n’ont de prise sur Lui. Tout ce qui est dans les Cieux et sur la Terre Lui appartient. Qui intercèdera auprès de Lui sans Sa permission&nbsp;? Il sait ce qui se trouve derrière les hommes et ce qui est derrière eux, alors que ceux-ci n’embrassent de Sa science que ce qu’Il veut. Son Trône s’étend sur les Cieux et sur la Terre. Leur maintien dans l’existence ne lui est pas une charge. Il est le Très-Haut, l’Immense.&nbsp;» (Coran 2&nbsp;: 255)
     
 Les formes statiques du style kûfî sont renforcées par la forme carrée de la composition. Celle-ci représente un labyrinthe, symbole du voyage spirituel de l’homme vers Dieu au cours de l’existence. A première vue, la calligraphie semble incohérente et discontinue. En réalité, elle a un sens de lecture, donné par la parole même de Dieu, un sens concentrique qui indique le retour de l’homme vers le Centre divin. La calligraphie allie stabilité extérieure et mouvement intérieur, manifestations des Noms divins cités dans le verset&nbsp;: «&nbsp;L’immuable&nbsp;» (al-Qayyûm) et le «&nbsp;Vivant&nbsp;» (al-Hayy).
 
@@ -38,7 +38,7 @@ Les formes statiques du style kûfî sont renforcées par la forme carrée de la
 
 ![Calligraphie 4](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-04_rpal4i.jpg "Calligraphie 4")
 
-(4/1) «&nbsp;Dieu possède les clefs de l’Invisible que Lui seul connaît parfaitement. Il connaît ce qui est sur la terre et dans la mer. Nulle feuille ne tombe sans qu’Il le sache. Il n’y a pas un grain dans les ténèbres de la terre, ni rien de vert ou de desséché, qui ne soit consigné dans un Livre explicite.&nbsp;» (Cor. 6&nbsp;: 59)
+(4/1) «&nbsp;Dieu possède les clefs de l’Invisible que Lui seul connaît parfaitement. Il connaît ce qui est sur la terre et dans la mer. Nulle feuille ne tombe sans qu’Il le sache. Il n’y a pas un grain dans les ténèbres de la terre, ni rien de vert ou de desséché, qui ne soit consigné dans un Livre explicite.&nbsp;» (Coran 6&nbsp;: 59)
 
 Cette composition fait apparaître le nom de Dieu comme un élément qui n’entre pas dans le mouvement du verset calligraphié. Cette indépendance du nom divin affirme la transcendance et l’immutabilité de Dieu, tandis que la Parole divine renvoie à Son immanence dans le temps et l’espace, soulignée par le style naskhî.
 
@@ -48,7 +48,7 @@ Cette composition fait apparaître le nom de Dieu comme un élément qui n’ent
 
 (5/1) Basmala avec des hampes entrelacées. Toutes les lettres apparaissent ainsi liées entre elles, ne laissant aucun vide dans la parole de Dieu.
 
-(5/2) «&nbsp;Quant aux bienfaits que vous avez, ils viennent de Dieu.&nbsp;» (Cor. 16&nbsp;: 53)
+(5/2) «&nbsp;Quant aux bienfaits que vous avez, ils viennent de Dieu.&nbsp;» (Coran 16&nbsp;: 53)
 
 L’ampleur et la courbure des lettres semblent ici manifester l‘expansion de l’âme, dans la satisfaction et la reconnaissance à l’égard des bienfaits de Dieu.
 
@@ -56,15 +56,15 @@ L’ampleur et la courbure des lettres semblent ici manifester l‘expansion de 
 
 (6) Le style dîwânî Moins impersonnel, il se différencie des styles précédents par sa souplesse, les grandes envolées à la fin des mots, la multiplicité des éléments entrant dans la composition calligraphique. Cette écriture évoque l’amour divin et les élans spirituels du croyant.
 
-(6/1) «&nbsp;Dis&nbsp;: Seigneur, fais-moi entrer par une entrée de sincérité et fais-moi sortir par une sortie de sincérité, et accorde-moi de Ta part une autorité victorieuse.&nbsp;» (Cor. 17&nbsp;: 80)
+(6/1) «&nbsp;Dis&nbsp;: Seigneur, fais-moi entrer par une entrée de sincérité et fais-moi sortir par une sortie de sincérité, et accorde-moi de Ta part une autorité victorieuse.&nbsp;» (Coran 17&nbsp;: 80)
 
 Cette calligraphie représente un bateau qui vogue sur les flots. Elle symbolise le mouvement de l’âme portée par la parole de Dieu, dans l’entière sincérité, au-dessus de l’agitation du monde.
 
-(6/2) «&nbsp;N’est-ce pas au souvenir de Dieu que s’apaisent les c&oelig;urs&nbsp;?&nbsp;» (Cor. 13&nbsp;: 28)
+(6/2) «&nbsp;N’est-ce pas au souvenir de Dieu que s’apaisent les c&oelig;urs&nbsp;?&nbsp;» (Coran 13&nbsp;: 28)
 
 Par son rythme saccadé, cette calligraphie rappelle la contraction et l’expansion de l’âme qui ne peut trouver son apaisement que dans le souvenir de Dieu qui vivifie le c&oelig;ur, réceptacle de la Présence divine.
 
-(6/3) «&nbsp;La récompense de la perfection n’est-elle pas la perfection&nbsp;?&nbsp;» (Cor. 55&nbsp;: 60)
+(6/3) «&nbsp;La récompense de la perfection n’est-elle pas la perfection&nbsp;?&nbsp;» (Coran 55&nbsp;: 60)
 
 Selon une tradition prophétique, la «&nbsp;perfection&nbsp;» contemplative consiste «&nbsp;à adorer Dieu comme si tu le voyais, car si tu ne le vois pas, Lui te voit.&nbsp;» La répétition de boucles identiques fait écho à la signification symétrique du verset&nbsp;: promesse de la contemplation de Dieu.
 
@@ -75,7 +75,7 @@ Selon une tradition prophétique, la «&nbsp;perfection&nbsp;» contemplative co
 
 (8) Représentations circulaires&nbsp;: Le cercle est le symbole de la perfection.
 
-(8/1) «&nbsp;Tout ce qui est sur la terre est évanescent. Seul subsiste la Face de ton Seigneur, pleine de Majesté et de Générosité.&nbsp;» (Cor. 55&nbsp;: 26-27)
+(8/1) «&nbsp;Tout ce qui est sur la terre est évanescent. Seul subsiste la Face de ton Seigneur, pleine de Majesté et de Générosité.&nbsp;» (Coran 55&nbsp;: 26-27)
 
 (8/2) «&nbsp;Au nom de Dieu, le Tout-Miséricordieux, le Très-Miséricordieux&nbsp;» 
 
@@ -95,7 +95,7 @@ Les différentes calligraphies représentent la répétition d’un même mot se
 
 (10) Technique du «&nbsp;miroir&nbsp;» Ces calligraphies utilisent la symétrie axiale. Ce dédoublement des lettres arabes rappelle la réflexion d’un objet dans un miroir. Le miroir est le symbole le plus direct de la vision spirituelle, la contemplation dans l’Identité suprême, dans laquelle Dieu est le Témoin unique (ash-Shahîd). Selon une tradition prophétique&nbsp;: «&nbsp;Il y a pour chaque chose un moyen pour la polir et la débarrasser de sa rouille. Ce qui sert à polir le c&oelig;ur, c’est le souvenir de Dieu.&nbsp;» Le c&oelig;ur, véritable centre de l’être humain, est comme un miroir qui doit être pur pour pouvoir recevoir et refléter la lumière divine.
 
-(10/1) «&nbsp;Dieu élève en degré ceux qui croient parmi vous et ceux à qui a été donné le savoir.&nbsp;» (Cor. 58&nbsp;: 11)
+(10/1) «&nbsp;Dieu élève en degré ceux qui croient parmi vous et ceux à qui a été donné le savoir.&nbsp;» (Coran 58&nbsp;: 11)
 
 Dans cette calligraphie, la première lettre du Nom divin trace l’axe vertical de symétrie. Dieu n’entre pas dans la symétrie, comme pour signifier qu’Il est Un et Unique, l’Axe métaphysique qui relie et soutient les mondes. En même temps, la composition manifeste «&nbsp;l’élévation en degrés&nbsp;» vers la Source unique de la Connaissance.
 
@@ -129,12 +129,12 @@ Cette pureté spirituelle du Prophète, qui le rendit capable de recevoir la «&
 
 Un art plastique comme la calligraphie peut servir à suggérer cette vérité que le Coran, dans toutes les dimensions de sa langue, porte en lui, de même que le signe muet de Marie provoque la manifestation du Verbe de Dieu. «&nbsp;La plume arrivée ici se brise&nbsp;», écrit le saint Jalâl-ad-dîn Rûmî. A l’image de Marie qui se tut en présence du Verbe divin, c’est à Dieu que reviennent les derniers mots&nbsp;: «&nbsp;Quand bien même tous les arbres de la terre se changeraient en calames, quand bien même l’océan serait un océan d’encre où conflueraient sept autres océans, les Paroles de Dieu ne tariraient pas. En vérité, Dieu est Puissant et Sage.&nbsp;»[^14]
 
-[^6]: Cor. 96&nbsp;: 1-5.
-[^7]: Cor. 56&nbsp;: 77-80.
+[^6]: Coran 96&nbsp;: 1-5.
+[^7]: Coran 56&nbsp;: 77-80.
 [^8]: Shaykh Abd-al-Wahid Pallavicini, L’Islam intérieur, Ed. Christian de Bartillat, 1995, p. 175.
 [^9]: Abd el-Kader, Lettre aux Français, chap. «&nbsp;Du mérite de l’écriture&nbsp;», Phébus, Paris, 1977, pp. 176-177.
-[^10]: Cor. 9&nbsp;: 40.
-[^11]: Cor. 4&nbsp;: 171.
-[^12]: Cor. 19&nbsp;: 26.
-[^13]: Cor. 19&nbsp;: 30.
-[^14]: Cor. 31&nbsp;: 27. 
+[^10]: Coran 9&nbsp;: 40.
+[^11]: Coran 4&nbsp;: 171.
+[^12]: Coran 19&nbsp;: 26.
+[^13]: Coran 19&nbsp;: 30.
+[^14]: Coran 31&nbsp;: 27. 
