@@ -1,5 +1,5 @@
 ---
-titre: "Quelle voie sans compagnons?"
+titre: "Quelle voie sans compagnons&nbsp;?"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586812/ihei/couvertures/dialogue-interreligieux-2_sbkqyd.jpg"
 categories: 
@@ -29,7 +29,7 @@ Au contraire, lorsqu’un dialogue de cet ordre entre un chrétien et un musulma
 
 **Une communauté jeune et complexe**
 
-Ce modèle de dialogue, amitié, respect et collaboration pourrait également favoriser la maturation interne de la communauté islamique italienne, une communauté jeune et complexe, mais uniedans un pluralisme d’immigrés et d’autochtones, de convertis et de secondes générations, de diplomates et de théologiens, de fidèles et d’autodidactes. L’aide de nos frères et s&oelig;urs chrétiens permettrait de redécouvrir le sens véritable de la fraternité en islam, sans courir le risque d’être contaminés par les vagues d’un radicalisme panarabe ou islamiste importé de l’étranger. C’est en travaillant à partir de ce lien concret que l’on bâtira une société italienne rassemblée autour de la sauvegarde de valeurs anciennes, de nouveaux échanges interculturels, pour un présent pacifié.
+Ce modèle de dialogue, d'amitié, de respect et de collaboration pourrait également favoriser la maturation interne de la communauté islamique italienne, une communauté jeune et complexe, mais uniedans un pluralisme d’immigrés et d’autochtones, de convertis et de secondes générations, de diplomates et de théologiens, de fidèles et d’autodidactes. L’aide de nos frères et s&oelig;urs chrétiens permettrait de redécouvrir le sens véritable de la fraternité en islam, sans courir le risque d’être contaminés par les vagues d’un radicalisme panarabe ou islamiste importé de l’étranger. C’est en travaillant à partir de ce lien concret que l’on bâtira une société italienne rassemblée autour de la sauvegarde de valeurs anciennes, de nouveaux échanges interculturels, pour un présent pacifié.
 
 Pour nous représentants religieux, la cohésion sociale est la manifestation d’une universalité du genre humain qui respecte l’unité et la diversité des caractéristiques spécifiques et providentielles d’ordre spirituel, juridique et culturel. Une cohésion dans l’empathie et la collaboration, une cohésion dans la pratique des vertus et dans la recherche du secret et de la Vérité dans cette vie, «&nbsp;en ce monde et avant l’Autre&nbsp;». Une cohésion grâce à laquelle tout homme et toute femme redécouvrent, avec l’aide fraternelle de son prochain, les racines spirituelles communes avec le Créateur des cieux et de la terre, en partageant simultanément, sur un autre plan, une fonction de gestion et de transmission de la science sacrée.
 
