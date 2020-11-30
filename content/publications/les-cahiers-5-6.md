@@ -5,6 +5,9 @@ date: "2020-09-05"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/c056_a3ax3d.jpg"
 categories:
     - "Les Cahiers"
+annexes:
+  - titre: "Les intellectuels musulmans européens et leur rôle de pont entre Orient et Occident"
+    url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736141/ihei/PDF/Les%20Cahiers/Les%20Cahiers%205-6/Les-intellectuels-musulmans_iypvxh.pdf"
 ---
 
 **Editorial**

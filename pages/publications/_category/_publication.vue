@@ -24,13 +24,10 @@
     <article class="md:col-span-3 space-y-8">
       <h1>{{ post.titre }}</h1>
       <meta property="og:title" :content="post.titre" />
-      <meta
-        property="og:image"
-        :content="post.couverture"
-        v-if="post.couverture"
-      />
+      <meta property="og:image" :content="post.couverture" v-if="post.couverture" />
       <p v-if="post.soustitre">{{ post.soustitre }}</p>
       <Auteurs v-if="post.auteur" class="text-lighterblue" :auteurs="post.auteur" icon />
+      <Attachments v-if="post.annexes" :attachments="post.annexes" />
       <nuxt-content class="prose" :document="post" />
     </article>
   </div>
@@ -59,3 +56,4 @@ export default {
   max-width: none;
 }
 </style>
+

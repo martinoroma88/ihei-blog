@@ -36,4 +36,4 @@ européens&nbsp;; les droits de l’homme&nbsp;; Orient et Occident&nbsp;; l’a
 
 La diversité des thématiques abordées a d’ailleurs permis de publier, outre les travaux des membres de l’Institut eux-mêmes, de nombreuses contributions écrites par des universitaires, des responsables de l’Etat ou de collectivités territoriales, et des représentants d’autres religions.
 
-Les membres de l’Institut ont participé par ailleurs à la ligne éditoriale et à la production d’articles dans une revue trilingue (français, italien, anglais),  [Le Message-Il Messagio](/publications/il-messaggio-le-message/ "Le Message-Il Messagio"), publié conjointement par l’I.H.E.I. et le Centre d’Etudes Métaphysiques de Milan.
+Les membres de l’Institut ont participé par ailleurs à la ligne éditoriale et à la production d’articles dans une revue trilingue (français, italien, anglais),  [Le Message-Il Messagio](/publications/le-message/ "Le Message-Il Messagio"), publié conjointement par l’I.H.E.I. et le Centre d’Etudes Métaphysiques de Milan.
