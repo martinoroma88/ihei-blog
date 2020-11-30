@@ -3,8 +3,7 @@ titre: "Les Cahiers 12"
 soustitre: "La recherche de la Connaissance et la Servitude spirituelle"
 date: "2020-09-12"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125409/ihei/couvertures/c12_qznsaw.jpg"
-categories:
-    - "Les Cahiers"
+category: "Les Cahiers"
 ---
 
 

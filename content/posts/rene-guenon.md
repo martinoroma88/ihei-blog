@@ -2,10 +2,8 @@
 titre: "René guénon et le retour au spirituel"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584952/ihei/couvertures/soufisme-et-spiritualites-5_brktv0.jpg"
-categories: 
-	- "Soufisme et Spiritualités"
-auteur: 
-	- "Abd al-Haqq Ismaïl Guiderdoni"
+category: "Soufisme et Spiritualités"
+auteur: "Abd al-Haqq Ismaïl Guiderdoni"
 ---
 
 René Guénon naquit à Blois le 15 novembre 1886 et mourut au Caire le 7 janvier 1951. Sa vie fut simple et transparente, et s’effaça en fait devant son &oelig;uvre, une &oelig;uvre considérable qui occupe vingt-sept volumes et qui fut consacrée tout entière à la restauration de l’étude de la Tradition en Occident. Car René Guénon s’est toujours défendu de faire &oelig;uvre originale. Il s’est voulu simplement l’interprète fidèle de la connaissance traditionnelle, celle des civilisations orientales, celle du Moyen-Âge chrétien. Guénon est une mémoire, qui nous rappelle le patrimoine spirituel de l’humanité, contre l’oubli des origines qui a recouvert petit à petit de sa torpeur ténébreuse notre société repue, mais inquiète.

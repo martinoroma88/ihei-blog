@@ -2,8 +2,7 @@
 titre: "Il Messaggio - Le Message N°10"
 date: "2020-09-10"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/messaggio-10_l5lsma.jpg"
-categories:
-    - "Il Messaggio - Le Message"
+category: "Il Messaggio - Le Message"
 ---
 
 ## Editoriale, Editorial

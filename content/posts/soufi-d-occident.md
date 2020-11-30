@@ -2,10 +2,8 @@
 titre: "Un soufi d’Occident"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584952/ihei/couvertures/soufisme-et-spiritualites-1_d2hocs.jpg"
-categories: 
-	- "Soufisme et Spiritualités"
-auteur: 
-	- "Abd al-Wadoud Yahya Gouraud"
+category: "Soufisme et Spiritualités"
+auteur: "Abd al-Wadoud Yahya Gouraud"
 ---
 
 Les éditions Albouraq offre à l’attention du grand public un nouvelle publication sur l’héritage intellectuel de l’islam et de la spiritualité musulmane à l’époque contemporaine, sous le titre évocateur&nbsp;: Un soufi d’Occident, René Guénon –&nbsp;Shaykh Abd al-Wâhid Yahyâ, une &oelig;uvre du Dr.‘Abd-al-Halîm Mahmûd, introduite, traduite et annotée par Jean Abd-al-Wadoud Gouraud. Après les innombrables &oelig;uvres sur René Guénon qui ont été écrites par des auteurs occidentaux, la figure du grand métaphysicien français est ici présentée à travers le regard d’un savant oriental, lui aussi musulman. Cette vision est finalement en mesure de montrer le Shaykh Abd al-Wâhid Yahyâ dans l’unité entre religion et intellectualité, entre extérieur et intérieur, qui est propre aux saints véritables. «&nbsp;Autorité savante de l’Islam largement reconnue à l’époque contemporaine&nbsp;», l’auteur de cet ouvrage n’est autre que le Dr.‘Abd-al-Halîm Mahmûd, Shaykh al-Azhar, recteur de la prestigieuse Université islamique du Caire de 1973 à 1978, et ami du Shaykh Abd al-Wâhid Yahyâ, qui s’inscrit avec ce dernier au sein du courant spirituel de la Shâdhiliyya, l’une des plus importantes confréries du Tasawwuf, la Voie intérieure de l’Islam, appelée «&nbsp;soufisme&nbsp;» en Occident.

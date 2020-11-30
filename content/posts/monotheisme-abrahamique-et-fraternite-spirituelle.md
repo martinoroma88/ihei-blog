@@ -3,12 +3,9 @@ titre: "Monothéisme abrahamique
 et fraternité spirituelle"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586813/ihei/couvertures/dialogue-interreligieux-5_nucwbr.jpg"
-categories: 
-	- "Dialogue interreligieux"
-souscategorie: 
-	- "dialogue-judéo-islamique"
-auteur: 
-	- "Abd al-Wadoud Yahya Gouraud"
+category: "Dialogue interreligieux"
+subcategory: "dialogue-judéo-islamique"
+auteur: "Abd al-Wadoud Yahya Gouraud"
 ---
 
 > Par l’époque&nbsp;! En vérité, l’homme est en perdition, à l’exception de ceux qui ont la foi, qui pratiquent les &oelig;uvres vertueuses, qui se conseillent mutuellement la Vérité et qui s’exhortent mutuellement à la patience.[^1]

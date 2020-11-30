@@ -2,10 +2,8 @@
 titre: "Perspectives musulmanes contemporaines sur le dialogue avec l’Occident"
 date: "2020-10-05"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586812/ihei/couvertures/dialogue-interreligieux-1_g2vm3v.jpg"
-categories: 
-	- "Dialogue interreligieux"
-auteur: 
-	- "Yahya Pallavicini"
+category: "Dialogue interreligieux"
+auteur: "Yahya Pallavicini"
 ---
 
 Dans le contexte international actuel, marqué par la diversité culturelle et la pluralité religieuse, le risque est grand de voir se transformer progressivement, au point de se confondre, la mondialisation en standardisation, le pluralisme en division, l’unité en uniformisation. Une telle confusion représenterait non seulement un appauvrissement évident du patrimoine spirituel, intellectuel, culturel et humain qui constitue la richesse réelle de l’humanité, mais également une dégradation préoccupante des échanges entre les peuples et entre les religions, jusqu’à conditionner négativement, par l’opposition de leurs différences exacerbées, les possibilités de reconnaissance mutuelle qui fonde toute coexistence pacifique.

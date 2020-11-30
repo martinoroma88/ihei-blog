@@ -2,12 +2,9 @@
 titre: "Islam et Christianisme, pour ne pas trebucher"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586813/ihei/couvertures/dialogue-interreligieux-3_fj6d78.jpg"
-categories: 
-	- "Dialogue interreligieux"
-souscategorie: 
-	- "dialogue-islamo-chrétien"
-auteur: 
-	- "IHEI-COREIS"
+category: "Dialogue interreligieux"
+subcategory: "dialogue-islamo-chrétien"
+auteur: "IHEI-COREIS"
 ---
 
 Dans l’exhortation évangélique apostolique *Evangelii gaudium*, parue en novembre 2013, le Pape François a souligné l’importance du dialogue religieux avec l’islam, rappelant, comme principe commun au Monothéisme abrahamique, la foi dans le Dieu unique et miséricordieux et la foi dans le Jugement dernier.

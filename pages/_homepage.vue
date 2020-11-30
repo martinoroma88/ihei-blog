@@ -25,7 +25,7 @@
         ></div>
         <div class="md:col-span-2 px-4 py-8 md:px-10 md:pt-40 md:pb-8 relative text-white">
           <p>
-            <n-link :to="'/articles/'+featured.category.slug+'/'+featured.slug">
+            <n-link :to="'/articles/'+featured.categoryPopulated.slug+'/'+featured.slug">
               <p class="text-2xl font-bold">
                 {{featured.titre}}
               </p>
@@ -54,7 +54,7 @@ export default {
 
     let posts = await $content("posts")
       .where({featured: { $ne: true}})
-      .only(["titre", "couverture", "url", "slug", "auteur", "categories"])
+      .only(["titre", "couverture", "url", "slug", "auteur", "category"])
       .sortBy("date", "desc")
       .skip(skip)
       .limit(perPage)
@@ -65,17 +65,17 @@ export default {
     if (!posts.length) throw new Error("Not found");
 
     posts.forEach((p, i) => {
-      let c = categories.find((c) => p.categories.includes(c.titre));
-      p.category = c;
+      let c = categories.find((c) => p.category === c.titre);
+      p.categoryPopulated = c;
     });
 
     // handle featured post    
     let featured;
     featured = await $content("posts").where({featured : true}).fetch();
     featured = featured.length > 0 ? featured[0] : false;
-    if(featured) {
-      const fCategory = categories.find(c => featured.categories.includes(c.titre));
-      featured.category = fCategory;
+    if (featured) {
+      const fCategory = categories.find(c => featured.category === c.titre);
+      featured.categoryPopulated = fCategory;
     }
 
     return { posts, featured, categories, page, perPage, totalPosts };

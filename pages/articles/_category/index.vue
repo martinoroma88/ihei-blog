@@ -20,7 +20,7 @@
 			
 			const posts = await $content("posts").where({ categories: { $contains: category.titre } }).sortBy("date", "desc").fetch();
 			posts.forEach((p, i) => {
-				p.category = category;
+				p.categoryPopulated = category;
 			})
 			
 			return { categories, category, posts };

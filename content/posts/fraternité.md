@@ -2,10 +2,8 @@
 titre: "Fraternité, développement économique et société civile"
 date: "2020-10-06"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-5_ynokno.jpg"
-categories: 
-	- "Islam et République"
-auteur: 
-	- "IHEI"
+category: "Islam et République"
+auteur:
 ---
 
 Alors qu’en France se manifeste un intérêt sans cesse croissant à l’égard de l’économie islamique de la part des autorités politiques, des organismes bancaires, du monde universitaire, et d’importants médias, il est intéressant de constater à quel point la dernière encyclique “&nbsp;Caritas in Veritate&nbsp;” du Pape Benoît XVI rappelle certains principes fondamentaux de l’Islam en matière d’économie. Le Souverain Pontife y souligne ainsi qu’il est impossible de fonder une société du bien-être sur les seules lois du marché, en-dehors de toute «&nbsp;transcendance&nbsp;» et de toute perspective «&nbsp;métaphysique&nbsp;» et religieuse, et qu’il est nécessaire de fournir un cadre éthique à l’économie. Le troisième chapitre de cette encyclique, intitulé «&nbsp;Fraternité, Développement Economique et Société Civile&nbsp;», rappelle encore la dignité humaine, sa dimension de foi et de connaissance, qui permet de dépasser les limites d’une «&nbsp;vision seulement productiviste et utilitariste de l’existence&nbsp;».

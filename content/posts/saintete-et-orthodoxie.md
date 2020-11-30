@@ -2,10 +2,8 @@
 titre: "Sainteté et orthodoxie"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584952/ihei/couvertures/soufisme-et-spiritualites-3_poqeq0.jpg"
-categories: 
-	- "Soufisme et Spiritualités"
-auteur: 
-	- "Abd al-Wadoud Yahya Gouraud"
+category: "Soufisme et Spiritualités"
+auteur: "Abd al-Wadoud Yahya Gouraud"
 ---
 
 Parler de “&nbsp;mouvement intellectuel et chemins de la vérité&nbsp;”, en ces lieux où vécut et enseigna le Shaykh Abû Madyan Shu‘ayb (*radiyAllâhu ‘anhu*), nous permet d’aborder certains aspects de ce qui constitue la réalité centrale de l’intellectualité islamique&nbsp;: la voie spirituelle du *taçawwuf*, l’ésotérisme islamique. L’exemple de cette figure éminente de sainteté représente pour les croyants un signe évident de la grâce sanctifiante de Dieu qui partage l’intimité de Sa présence avec ceux qu’Il choisit comme Ses proches. Il rappelle également la vocation essentielle de l’homme et le but de son existence&nbsp;: la connaissance de Dieu, à laquelle il est possible de parvenir, à des degrés divers, selon la seule volonté divine. Le mystère de la voie spirituelle du soufisme, de la réponse à l’appel de Dieu, est celui d’une préparation active au don de sainteté, qui pourtant n’appartient qu’à Dieu. En effet, Dieu seul est *al-Quddûs*, le Très-Saint, dont les anges ne cessent de proclamer la louange et la sainteté. La Tradition islamique, depuis le texte coranique lui-même, fait usage d’un autre terme, qui est aussi un attribut de Dieu&nbsp;: *al-Walî*, épithète qui évoque les notions d’amitié, de proximité et de protection. Selon le Coran, “&nbsp;Dieu est l’Ami de ceux qui croient. Il les fait sortir des ténèbres vers la lumière.&nbsp;”[^1] Il est Ami “&nbsp;dans ce monde-ci et dans l’autre&nbsp;”[^2]. Dieu Lui-même a Ses amis (*al-awliyâ’*) qui ont assumé cet attribut de proximité divine et en ont été sanctifiés. Le terme *al-walî* est à la fois un actif et un passif&nbsp;; comme nom divin, il est le Protecteur et, comme nom humain, le protégé. L’homme qui devient *walî Allâh* est proche de Dieu comme il est proche des hommes. Dieu Lui-même n’est-Il pas proche de l’homme, “&nbsp;plus près de lui que la veine de son cou&nbsp;”[^3]&nbsp;? Le saint est le plus beau des signes proposés par Dieu aux hommes pour leur édification intérieure. “&nbsp;Quand de telles personnes sont vues, c’est de Dieu dont on se souvient&nbsp;”[^4], rappelle la tradition prophétique.

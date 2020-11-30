@@ -15,11 +15,11 @@
 		async asyncData({$content, params}) {
 			const categories = await $content("publication-categories").sortBy("ordre", "asc").fetch();
 			
-			const posts = await $content("publications").where({"categories": {"$containsNone": ["Les Cahiers", "Il Messaggio - Le Message"]}}).sortBy("date", "desc").fetch();
+			const posts = await $content("publications").where({"category": {"$containsNone": ["Les Cahiers", "Il Messaggio - Le Message"]}}).sortBy("date", "desc").fetch();
 			posts.forEach((p, i) => {
 				if(p.categories) {
-					let c = categories.find(c => p.categories.includes(c.titre));
-					p.category = c;
+					let c = categories.find(c => p.category === c.titre);
+					p.categoryPopulated = c;
 				}
 			})
 

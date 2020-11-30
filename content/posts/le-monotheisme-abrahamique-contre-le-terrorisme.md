@@ -3,10 +3,8 @@ titre: "Le Monothéisme abrahamique contre le terrorisme"
 date: "2020-10-01"
 featured: true
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606300338/ihei/couvertures/auditorium-83_hz27q3.jpg"
-categories: 
-	- "Dialogue interreligieux"
-auteur: 
-	- "Shaykh Abd al-Wahid Pallavicini"
+category: "Dialogue interreligieux"
+auteur: "Shaykh Abd al-Wahid Pallavicini"
 ---
 
 Les demandes de réciprocité, qui constituent la toile de fond de tout discours sur l’islam, tentent d’opposer et de revendiquer des thèmes et situations qui se situent sur des plans tout à fait différents, ce qui a pour conséquence de remettre en cause le principe même de la liberté de religion. Mais si certaines questions restent sans réponses, pour citer René Guénon, «&nbsp;c’est parce que les questions sont mal posées&nbsp;». Aujourd’hui, nous ne voudrions pas que l’absence de réponses ou de solutions à des questions qui ne sont pas d’ordre religieux puisse également compromettre le dialogue et la connaissance réciproque entre les fidèles appartenant aux diverses communautés de croyants, en Occident comme en Orient. Ce ne sont certainement pas les trois Révélations du Dieu d’Abraham qui peuvent conduire au terrorisme, mais c’est leur instrumentalisation par ceux qui veulent en ignorer le message religieux et spirituel commun pour chercher à les mettre l’une contre l’autre, ou l’une au-dessus de l’autre, à des fins d’hégémonie politique ou de revendications ethnique, nationale ou territoriale.

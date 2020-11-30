@@ -3,8 +3,7 @@ titre: "Les Cahiers 15"
 soustitre: "Jérusalem terrestre, Jérusalem céleste : rencontre dans le Dieu Unique"
 date: "2020-09-15"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125409/ihei/couvertures/c15_svuk9x.jpg"
-categories:
-    - "Les Cahiers"
+category: "Les Cahiers"
 ---
 
 

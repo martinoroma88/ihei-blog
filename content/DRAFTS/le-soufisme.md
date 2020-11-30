@@ -2,10 +2,8 @@
 titre: "Le Soufisme"
 date: "2020-10-07"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584953/ihei/couvertures/soufisme-et-spiritualites-9_al8pnc.jpg"
-categories: 
-	- "Soufisme et Spiritualités"
-auteur: 
-	- "AbdAllah Yahya Darolles"
+category: "Soufisme et Spiritualités"
+auteur: "AbdAllah Yahya Darolles"
 ---
 
 «&nbsp;Au nom de Dieu, le Tout-Miséricordieux, le Très-Miséricordieux&nbsp;» C’est par cette dédicace qui est une formule coranique que l’Emir Abd el-Kader, comme tout musulman, commençait tout exposé, ou initiait tout acte. Celui qui est appelé l’Emir Abd el-Kader ne fut pas seulement un émir, c’est-à-dire un détenteur du pouvoir temporel, reconnu d’ailleurs à ce titre pour sa justice, sa clémence et sa noblesse, même par ses adversaires, comme l’a évoqué, dernièrement en ces lieux, dans une conférence précédente, Bruno Etienne, il fut aussi et surtout le Shaykh ‘Abd el-Kader, c’est-à-dire un maître de la voie spirituelle en islam, un shaykh du Taçawwuf, du soufisme, comme nous disons en Occident.

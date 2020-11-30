@@ -2,10 +2,8 @@
 titre: "Un Commentaire du Hadîth de la Tradition Muhammadienne"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584952/ihei/couvertures/soufisme-et-spiritualites-6_tmmwky.jpg"
-categories: 
-	- "Soufisme et Spiritualités"
-auteur: 
-	- "Abd al-Haqq Ismaïl Guiderdoni"
+category: "Soufisme et Spiritualités"
+auteur: "Abd al-Haqq Ismaïl Guiderdoni"
 ---
 
 Par l’Imâm Seigneurial et le Secours Universel, le Seigneur Ahmad Ibn Idrîs al-Hasanî al-Idrîsî, que Dieu sanctifie son secret. Amîn

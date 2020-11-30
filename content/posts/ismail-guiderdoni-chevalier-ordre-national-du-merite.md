@@ -2,10 +2,8 @@
 titre: "Cérémonie de remise des insignes de Chevalier de l’Ordre National du Mérite"
 date: "2020-08-18"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/w_900,h_600,c_fill/v1606410296/ihei/articles/ismail-guiderdoni-chevalier/DSC_0248_bldysh.jpg"
-categories:
-    - "Islam et République"
-auteur: 
-	- "IHEI"
+category: "Islam et République"
+auteur:
 ---
 
 Ce samedi 9 novembre 2013, à 10 heures, dans le salon de la Grande Mosquée de Lyon, Bruno Abd-al-Haqq Ismaïl Guiderdoni, Directeur de  l’Institut des Hautes Etudes Islamiques, a reçu les insignes de  Chevalier de l’Ordre National du Mérite pour son investissement dans le  dialogue interculturel depuis 30 ans. Cette distinction, récompensant  les citoyens qui «&nbsp;excellent dans leur dévouement pour l’intérêt général&nbsp;», lui a été remise par Kamel Kabtane, Recteur de la Grande  Mosquée de Lyon, Officier de l’Ordre National du Mérite et Chevalier de  la Légion d’Honneur.
