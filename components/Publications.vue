@@ -10,7 +10,7 @@
 				<p v-else-if="p.collection"><n-link class="link text-lg text-lightblue font-sans font-bold" :to="'/'+baseurl+'/'+p.collection">{{p.titre}}</n-link></p>
 				<p v-else><n-link class="link text-lg text-lightblue font-sans font-bold" :to="'/'+baseurl+'/'+p.categoryPopulated.slug+'/'+p.slug">{{p.titre}}</n-link></p>
 				<!-- Auteur/s -->
-				<Auteurs class="text-sm text-lighterblue" v-if="p.auteur" :auteurs="p.auteur" />
+				<Auteurs class="text-sm text-lighterblue" v-if="p.auteur" :author="p.auteur" />
 			</div>
 		</div> 
 	</div>

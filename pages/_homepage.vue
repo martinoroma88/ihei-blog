@@ -29,7 +29,7 @@
               <p class="text-2xl font-bold">
                 {{featured.titre}}
               </p>
-              <Auteurs class="text-white" f-if="featured.auteur" :auteurs="featured.auteur" />
+              <Auteurs class="text-white" f-if="featured.auteur" :author="featured.auteur" />
             </n-link>
           </p>
         </div>

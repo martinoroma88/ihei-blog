@@ -9,7 +9,7 @@
 				<p v-if="p.url"><a class="link font-bold font-sans" :href="p.url" target="_blank">{{p.titre}}</a></p>
 				<p v-else><n-link class="link font-bold font-sans" :to="'/'+baseurl+'/'+p.categoryPopulated.slug+'/'+p.slug">{{p.titre}}</n-link></p>
 				<!-- Auteur/s -->
-				<Auteurs class="text-sm text-lighterblue" v-if="p.auteur" :auteurs="p.auteur" />
+				<Auteurs class="text-sm text-lighterblue" v-if="p.auteur" :author="p.auteur" />
 			</div>
 		</div> 
 	</section>

@@ -17,7 +17,7 @@
 			
 			const posts = await $content("publications").where({"category": {"$containsNone": ["Les Cahiers", "Il Messaggio - Le Message"]}}).sortBy("date", "desc").fetch();
 			posts.forEach((p, i) => {
-				if(p.categories) {
+				if(p.category) {
 					let c = categories.find(c => p.category === c.titre);
 					p.categoryPopulated = c;
 				}
