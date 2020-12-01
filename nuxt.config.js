@@ -4,30 +4,26 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: "ihei-blog",
+    htmlAttrs: {
+      lang: 'fr'
+    },
+    title: "IHEI Institut des Hautes Etudes Islamiques",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "" }
+      { hid: "description", name: "description", content: "L'Islam en France" }
     ],
     script: [
       {
         src: "https://cdn.usefathom.com/script.js",
         "data-site": "JHSZNAJO",
         defer: true
-      },
-      {
-        src: "https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@0/dist/algoliasearchNetlify.js"
       }
-    ],
-    link: [
-      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
-      { rel: "stylesheet", href: "https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@0/dist/algoliasearchNetlify.css" }
-    ],
+    ]
   },
 
   env: {
-    baseURL: 'https://ihei-asso.netlify.app'
+    baseURL: 'https://ihei-asso.org'
   },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
@@ -45,7 +41,6 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     "@nuxtjs/tailwindcss",
-    "@nuxtjs/date-fns",
     "@nuxtjs/google-fonts"
   ],
 
@@ -59,7 +54,8 @@ export default {
         wght: [400, 700],
         ital: [400]
       }
-    }
+    },
+    display: "swap"
   },
 
   // Modules (https://go.nuxtjs.dev/config-modules)

@@ -47,7 +47,7 @@ export default {
   async asyncData({ $content, params }) {
     const perPage = PER_PAGE;
     const page = parseInt(params.homepage || 1) || 1;
-    const totalPosts = (await $content("posts").fetch()).length;
+    let totalPosts = (await $content("posts").where({featured: { $ne: true}}).fetch()).length;
     const skip = PER_PAGE * (page - 1);
 
 
