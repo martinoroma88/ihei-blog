@@ -5,6 +5,11 @@ date: "2020-09-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/c034_wdnfjo.jpg"
 categories:
     - "Les Cahiers"
+annexes:
+  - titre: "A la recherche du savoir : Raison et Révélation"
+    url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736141/ihei/PDF/Les%20Cahiers/Les%20Cahiers%203-4/A-la-recherche-du-savoir_ajesuz.pdf"
+  - titre: "La Voie, la Vérité, la Vie"
+    url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736142/ihei/PDF/Les%20Cahiers/Les%20Cahiers%203-4/La-Voie_zrrdpk.pdf"
 ---
 
 **Editorial**

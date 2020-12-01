@@ -5,6 +5,11 @@ date: "2020-09-09"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/c09_kfbvke.jpg"
 categories:
     - "Les Cahiers"
+annexes:
+  - titre: "Les exigences éducatives de la communauté islamique en Europe"
+    url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736142/ihei/PDF/Les%20Cahiers/Les%20Cahiers%209/Les-exigences_qvsa4e.pdf"
+  - titre: "Révélation et orthodoxie"
+    url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736143/ihei/PDF/Les%20Cahiers/Les%20Cahiers%209/Revelation-et-orthodoxie_lmkgwr.pdf"
 ---
 
 **Editorial**

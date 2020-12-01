@@ -5,6 +5,11 @@ date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/c01_tlacdg.jpg"
 categories:
     - "Les Cahiers"
+annexes:
+  - titre: "La doctrine islamique du tawhîd : la reconnaissance métaphysique de l’unité des Révélations divines"
+    url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736137/ihei/PDF/Les%20Cahiers/Les%20Cahiers%201/La-doctrine-islamique_zdf0iw.pdf"
+  - titre: "La connaissance de Dieu comme but de l’existence humaine"
+    url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736137/ihei/PDF/Les%20Cahiers/Les%20Cahiers%201/La-connaissance-de-Dieu_ok94ov.pdf"
 ---
 
 **Editorial**

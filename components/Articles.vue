@@ -2,7 +2,7 @@
 	<section class="grid grid-cols-1 lg:grid-cols-2 gap-10 text-left">
 		<div class="flex space-x-4 items-center" v-for="p in posts" :key="p.slug">
 			<div class="flex-shrink-0 h-20 w-20 md:h-24 md:w-24 rounded bg-gray-100 border">
-				<img v-if="p.couverture" class="h-20 w-20 md:h-24 md:w-24 rounded object-cover object-top" :src="p.couverture" alt="">
+				<img v-if="p.couverture" class="h-20 w-20 md:h-24 md:w-24 rounded object-cover object-top" :src="p.couverture.replace('upload','upload/w_300,c_scale')" alt="">
 			</div>
 			<div>
 				<!-- Title linked to page or to external url-->

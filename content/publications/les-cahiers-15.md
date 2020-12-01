@@ -5,8 +5,12 @@ date: "2020-09-15"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125409/ihei/couvertures/c15_svuk9x.jpg"
 categories:
     - "Les Cahiers"
+annexes:
+  - titre: "Monothéisme et entente inter-religieuse"
+    url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736139/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2015/Monotheisme-et-entente_msowjp.pdf"
+  - titre: "Du Christ, du christianisme, du corpus christi et de l’Antéchrist"
+    url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736139/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2015/Du-Christ_g1romr.pdf"
 ---
-
 
 **Editorial**
 

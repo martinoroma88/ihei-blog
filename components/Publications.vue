@@ -2,7 +2,7 @@
 	<div class="my-subgrid">
 		<div v-for="p in posts" :key="p.slug" class="flex items-center md:block">
 			<div class="md:mb-4 flex-shrink-0 w-1/3 md:w-full mr-4 md:mr-0">
-				<img v-if="p.couverture" class="mt-2 mx-auto md:mx-0 md:w-32 w-24 h-auto object-cover rounded shadow" :src="p.couverture" alt="">
+				<img v-if="p.couverture" class="mt-2 mx-auto md:mx-0 md:w-32 w-24 h-auto object-cover rounded shadow" :src="p.couverture.replace('upload','upload/w_300,c_scale')" alt="">
 			</div>
 			<div>
 				<!-- Title linked to page or to external url-->

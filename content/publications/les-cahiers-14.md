@@ -5,8 +5,12 @@ date: "2020-09-14"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125409/ihei/couvertures/c14_xjdd7z.jpg"
 categories:
     - "Les Cahiers"
+annexes:
+  - titre: "La responsabilité des musulmans européens dans le monde contemporain"
+    url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736139/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2014/La-responsabilite_opbmwj.pdf"
+  - titre: "Imaginations akbariennes"
+    url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736138/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2014/Imaginations-Akbariennes_cdfawx.pdf"
 ---
-
 
 **Editorial**
 
