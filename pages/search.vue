@@ -59,7 +59,7 @@ export default {
 				.fetch()
 			
 			publications.forEach((p, i) => {
-				if(p.categories) {
+				if(p.category) {
 					let c = publicationCategories.find(c => p.category === c.titre);
 					p.categoryPopulated = c;
 				}
