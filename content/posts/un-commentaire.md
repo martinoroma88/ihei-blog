@@ -1,5 +1,5 @@
 ---
-titre: "Un Commentaire du Hadîth de la Tradition Muhammadienne"
+titre: "Un Commentaire du hadîth de la Tradition Muhammadienne"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584952/ihei/couvertures/soufisme-et-spiritualites-6_tmmwky.jpg"
 categories: 
@@ -92,7 +92,7 @@ Le Prophète s’est imposé la pauvreté que Dieu a ainsi appelée. En vérité
 **La fraîcheur de mon &oelig;il se trouve dans la prière canonique** *wa qurratu ’aynî fî-ç-çalâh*&nbsp;: il n’a pas dit&nbsp;: *par la prière canonique* parce qu’il disparaît de ses actes par la fraîcheur de ses yeux.[^26] Ce qui est visé par la fraîcheur de ses yeux est la contemplation de Celui qu’il aime dans sa prière. Le Prophète a dit à Bilâl&nbsp;: «&nbsp;Repose-nous par elle, ô Bilâl&nbsp;». Il désirait la prière parce qu’en elle se trouve la contemplation de la Vérité.
 
 **Ma proccupation concerne ma communauté** *wa hammî li-ajli ummatî*&nbsp;: la préoccupation au sujet des affaires des musulmans fait partie des droits assurés, et l’on trouve dans le hadîth&nbsp;: «&nbsp;Celui qui ne se préoccupe pas au sujet des affaires des musulmans ne fait pas partie de ceux-ci&nbsp;». Dieu a dit&nbsp;: «&nbsp;Que ton âme ne se laisse pas aller à l’amertume sur eux&nbsp;»,[^27] c’est-à-dire à la multiplication des chagrins et des afflictions. Il est mentionné dans le hadîth&nbsp;: 
-> En vérité, j’essaie de vous retenir d’aller dans le feu et vous vous y précipitez comme les papillons se précipitent dans une lampe et les hommes y réussissent, c’est-à-dire qu’ils contredisent le Prophète et se jettent dans le feu. Ce qui est visé par le mot «&nbsp;communauté&nbsp;» est la communauté de l’appel et la communauté de la réponse[^28], parce que le Prophète est une miséricorde pour les mondes, selon ce que Dieu a dit&nbsp;: 
+> En vérité, j’essaie de vous retenir d’aller dans le feu et vous vous y précipitez comme les papillons se précipitent dans une lampe et les hommes y réussissent, c’est-à-dire qu’ils contredisent le Prophète et se jettent dans le feu. Ce qui est visé par le mot «&nbsp;communauté&nbsp;» est la communauté de l’appel et la communauté de la réponse,[^28] parce que le Prophète est une miséricorde pour les mondes, selon ce que Dieu a dit&nbsp;: 
 > Nous ne t’avons envoyé que comme une miséricorde pour les mondes.[^29]
 
 **Et mon désir va vers mon Seigneur** *wa shawqî ilâ Rabbî*&nbsp;: Dieu a dit&nbsp;: «&nbsp;Nous sommes plus proche de lui que la veine de son cou&nbsp;».[^30] S’il en est ainsi, comment y aurait-il le désir&nbsp;? Il en est de même dans le texte de celui qui dit&nbsp;: 
