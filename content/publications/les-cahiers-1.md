@@ -32,8 +32,8 @@ annexes:
 **La recherche de Dieu dans la Tradition hésychaste**
 *Père Syméon*
 
-**L’identité eschatologique&nbsp;: “&nbsp;sine Christo nulla salus&nbsp;”**
-*Shaykh Abd-al-Wahid Pallavicini*
+**L’identité eschatologique&nbsp;: “sine Christo nulla salus”**
+*Shaykh Abd al-Wahid Pallavicini*
 
 **La quête de l’identité suprême en islam**
 *Abd-al-Haqq Ismaïl Guiderdoni*
@@ -44,4 +44,4 @@ annexes:
 **Allocution finale**
 
 **La connaissance de Dieu comme but de l’existence humaine**
-*Shaykh Abd-al-Wahid Pallavicini*
+*Shaykh Abd al-Wahid Pallavicini*
