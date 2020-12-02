@@ -10,28 +10,20 @@ annexes:
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736141/ihei/PDF/Les%20Cahiers/Les%20Cahiers%205-6/Les-intellectuels-musulmans_iypvxh.pdf"
 ---
 
-**Editorial**
-
-**L’apport de la Tradition islamique à l’Europe et aux européens**
-*Shaykh Abd-al-Wahid Pallavicini*
-
-**L’enseignement de l’islam dans les mosquées**
-*Dr Dalil Boubaker*
-
-**Les intellectuels musulmans européens et leur rôle de pont entre Orient et Occident**
-*Yahya Sergio Yahe Pallavicini*
-
-**La transmission des sciences traditionnelles du monde musulman au monde occidental&nbsp;: de l’alchimie à l’alchimie intérieure**
-*Séverin Batfroi*
-
-**Le Saint Coran et son enseignement tradtionnel**
-*Kemal Abd-al-Qadir Marinelli*
-
-**L’enseignement spirituel dans la vie familiale**
-*Abd-Allah Yahya Darolles*
-
-**L’islam et les origines des universités**
-*Ahmad Abd-al-Waliyy Vincenzo*
-
-**Le bien commun dans la Tradition islamique**
-*Abd-al-Haqq Ismaïl Guiderdoni*
+**Editorial**</br>
+**L’apport de la Tradition islamique à l’Europe et aux européens**</br>
+*Shaykh Abd-al-Wahid Pallavicini*</br>
+**L’enseignement de l’islam dans les mosquées**</br>
+*Dr Dalil Boubaker*</br>
+**Les intellectuels musulmans européens et leur rôle de pont entre Orient et Occident**</br>
+*Yahya Sergio Yahe Pallavicini*</br>
+**La transmission des sciences traditionnelles du monde musulman au monde occidental&nbsp;: de l’alchimie à l’alchimie intérieure**</br>
+*Séverin Batfroi*</br>
+**Le Saint Coran et son enseignement tradtionnel**</br>
+*Kemal Abd-al-Qadir Marinelli*</br>
+**L’enseignement spirituel dans la vie familiale**</br>
+*Abd-Allah Yahya Darolles*</br>
+**L’islam et les origines des universités**</br>
+*Ahmad Abd-al-Waliyy Vincenzo*</br>
+**Le bien commun dans la Tradition islamique**</br>
+*Abd-al-Haqq Ismaïl Guiderdoni*</br>
