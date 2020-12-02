@@ -6,9 +6,9 @@ couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload
 categories:
     - "Les Cahiers"
 annexes:
-  - titre: "La consultation des musulmans de France de la nécessité spirituelle du culte à l’organisation actuelle de l’islam"
+  - titre: "**La consultation des musulmans de France de la nécessité spirituelle du culte à l’organisation actuelle de l’islam**"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736137/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2010/La-consultation_sdxs3f.pdf"
-  - titre: "De l’Unité en Dieu"
+  - titre: "**De l’Unité en Dieu**"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736137/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2010/De-l-Unite-en-Dieu_hvldsn.pdf"
 ---
 
