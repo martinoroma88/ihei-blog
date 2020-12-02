@@ -6,38 +6,29 @@ couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload
 categories:
     - "Les Cahiers"
 annexes:
-  - titre: "Le Dialogue interreligieux"
+  - titre: "**Le Dialogue interreligieux**"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736137/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2011/Le-dialogue-interreligieux_xwitys.pdf"
-  - titre: "La mosquée en Occident : un symbolisme actuel"
+  - titre: "**La mosquée en Occident&nbsp;: un symbolisme actuel**"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736138/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2011/La-mosquee-en-Occident_ogilfb.pdf"
 ---
 
-**Editorial**
-
-**La quête de la Paix véritable**
-*Abd-al-Karim Turnley*
-
-**Vie bénédictine et contemplation**
-*Père René Hugues de Lacheisserie*
-
-**Le symbolisme du combat spirituel à travers les mosaïques de Ganagobie**
-*Frère Régis*
-
-**Aperçus sur la christologie coranique**
-*Abd-al-Haqq Ismaïl Guiderdoni*
-
-**Le Verbe de Dieu à travers le Saint Coran et la figure de Jésus**
-*Yahya Sergio Yahe Pallavicini*
-
-**Le dialogue interreligieux**
-*Abd-al-Latif Conti*
-
-**La mosquée en Occident&nbsp;: un symbolisme actuel**
-*Abd-as-Sabour Turrini*
-
-**In memoriam René Guénon**
-*Shaykh Abd-al-Wahid Pallavicini*
-
-**Témoignages à l’occasion du cinquantenaire de la mort du Shaykh ‘Abd-al-Wâhid Yahyâ [René Guénon]**
-**La fonction de la communauté spirituelle à la suite de l’&oelig;uvre de René Guénon**
-*Abd-al-Haqq Ismaïl Guiderdoni*
+**Editorial**</br>
+**La quête de la Paix véritable**</br>
+*Abd-al-Karim Turnley*</br>
+**Vie bénédictine et contemplation**</br>
+*Père René Hugues de Lacheisserie*</br>
+**Le symbolisme du combat spirituel à travers les mosaïques de Ganagobie**</br>
+*Frère Régis*</br>
+**Aperçus sur la christologie coranique**</br>
+*Abd-al-Haqq Ismaïl Guiderdoni*</br>
+**Le Verbe de Dieu à travers le Saint Coran et la figure de Jésus**</br>
+*Yahya Sergio Yahe Pallavicini*</br>
+**Le dialogue interreligieux**</br>
+*Abd-al-Latif Conti*</br>
+**La mosquée en Occident&nbsp;: un symbolisme actuel**</br>
+*Abd-as-Sabour Turrini*</br>
+**In memoriam René Guénon**</br>
+*Shaykh Abd-al-Wahid Pallavicini*</br>
+**Témoignages à l’occasion du cinquantenaire de la mort du Shaykh ‘Abd-al-Wâhid Yahyâ [René Guénon]**</br>
+**La fonction de la communauté spirituelle à la suite de l’&oelig;uvre de René Guénon**</br>
+*Abd-al-Haqq Ismaïl Guiderdoni*</br>
