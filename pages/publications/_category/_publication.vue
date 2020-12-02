@@ -40,13 +40,18 @@ export default {
       title: this.post.titre,
     };
   },
-  async asyncData({ $content, params }) {
-    const post = await $content("publications", params.publication).fetch();
-    const category = await $content(
-      "publication-categories",
-      params.category
-    ).fetch();
-    return { post, category };
+  async asyncData({ $content, error, params }) {
+    try {
+      const post = await $content("publications", params.publication).fetch();
+      const category = await $content(
+        "publication-categories",
+        params.category
+      ).fetch();
+      return { post, category };
+    } catch (err) {
+      console.error(err)
+      error({ statusCode: 404 })
+    }
   },
 };
 </script>

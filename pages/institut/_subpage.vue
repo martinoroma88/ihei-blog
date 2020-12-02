@@ -13,10 +13,10 @@
 
 <script>
 	export default {
-		async asyncData({$content, params}) {
+		async asyncData({$content, params, error}) {
 			const pages = await $content("institut").sortBy("ordre", "asc").fetch();
 			const page = pages.find(p => p.slug === params.subpage);
-			
+			if (!page) return error({ statusCode: 404 })
 			return { pages, page};
 		}
 	}

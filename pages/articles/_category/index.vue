@@ -14,16 +14,21 @@
 
 <script>
 	export default {
-		async asyncData({$content, params}) {
-			const categories = await $content("categories").sortBy("ordre", "asc").fetch();
-			const category = categories.find(c => c.slug === params.category);
-			
-			const posts = await $content("posts").where({ categories: { $contains: category.titre } }).sortBy("date", "desc").fetch();
-			posts.forEach((p, i) => {
-				p.category = category;
-			})
-			
-			return { categories, category, posts };
+		async asyncData({$content, params, error}) {
+			try {
+				const categories = await $content("categories").sortBy("ordre", "asc").fetch();
+				const category = categories.find(c => c.slug === params.category);
+				
+				const posts = await $content("posts").where({ categories: { $contains: category.titre } }).sortBy("date", "desc").fetch();
+				posts.forEach((p, i) => {
+					p.category = category;
+				})
+				
+				return { categories, category, posts };
+			} catch (err) {
+				console.error(err)
+				error({statusCode: 404})
+			}
 		}
 	}
 </script>

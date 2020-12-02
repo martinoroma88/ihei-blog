@@ -42,13 +42,18 @@
 export default {
   head() {
     return {
-      title: this.post.titre,
+      title: this.post.titre
     };
   },
-  async asyncData({ $content, params }) {
-    const post = await $content("posts", params.article).fetch();
-    const category = await $content("categories", params.category).fetch();
-    return { post, category };
+  async asyncData({ $content, params, error }) {
+    try {
+      const post = await $content("posts", params.article).fetch();
+      const category = await $content("categories", params.category).fetch();
+      return { post, category };
+    } catch(err) {
+      console.error(err)
+      error({statusCode: 404})
+    }
   },
 };
 </script>
