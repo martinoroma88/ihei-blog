@@ -5,58 +5,42 @@ couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload
 categories:
     - "Il Messaggio - Le Message"
 annexes:
-  - titre: "Insights into the Islamic Eschatology"
+  - titre: "**Insights into the Islamic Eschatology**"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736221/ihei/PDF/Le%20Message/Le%20Message%2010/Insights-into-the-Islamic_nojkgu.pdf"
-  - titre: "Le Monothéisme Abrahamique contre le terrorisme"
+  - titre: "**Le Monothéisme Abrahamique contre le terrorisme**"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736221/ihei/PDF/Le%20Message/Le%20Message%2010/Le-Monotheisme-abrahamique-contre-le-terrorisme_mlklph.pdf"
 ---
 
-## Editoriale, Editorial
-
-**L’uomo occidentale tra unità e dispersione**
-*Ahmad Abd-al-Waliyy Vincenzo*
-
-**Le Shaykh Ahmad Ibn Idris face aux juristes wahhabites**
-*Abd-al-Wadoud Yahya Gouraud*
-
-**La Madrasa Shâdhiliyya**
-*Yahya Sergio Yahe Pallavicini*
-
-**Aperçus sur l’eschatologie islamique**
-*Abd-al-Haqq Ismaïl Guiderdoni*
-
-**Il significato dell’Assunzione di Maria nella vita di una cristiana**
-*Magda Nevone*
-
-**La figura di Maria nel Sacro Corano**
-*Aisha Lazzerini*
-
-**La realizzazione spirituale**
-*Shaykh Abd-al-Wahid Pallavicini*
-
-**La réalisation spirituelle**
-*Shaykh Abd-al-Wahid Pallavicini*
-
-**Muhi-d-Dîn Ibn Arabî&nbsp;: héritage spirituel et interprétations modernes**
-*Abd-al-Sabûr Turrini*
-
-**La tentazione recorrente della forma orientale**
-*Abd-Allâh Yahya Darolles*
-
-**La tentation récurrente de la forme orientale**
-*Abd-Allâh Yahya Darolles*
-
-**Le monothéisme abrahamique contre le terrorisme**
-*Shaykh Abd-al-Wahid Pallavicini*
-
-## Appendice
-
-**Il Papa e l’Islam**
-*Ahmad Abd-al-Waliyy Vincenzo*
-
-**Il pianto di Maria nella tradizione islamica**
-*Shaykh Abd-al-Wahid Pallavicini*
-*Chiara Ilhâm-Allâh Ferrero*
-
-**Insights into the Islamic Eschatology**
+## Editoriale, Editorial</br>
+**L’uomo occidentale tra unità e dispersione**</br>
+*Ahmad Abd-al-Waliyy Vincenzo*</br>
+**Le Shaykh Ahmad Ibn Idris face aux juristes wahhabites**</br>
+*Abd-al-Wadoud Yahya Gouraud*</br>
+**La Madrasa Shâdhiliyya**</br>
+*Yahya Sergio Yahe Pallavicini*</br>
+**Aperçus sur l’eschatologie islamique**</br>
+*Abd-al-Haqq Ismaïl Guiderdoni*</br>
+**Il significato dell’Assunzione di Maria nella vita di una cristiana**</br>
+*Magda Nevone*</br>
+**La figura di Maria nel Sacro Corano**</br>
+*Aisha Lazzerini*</br>
+**La realizzazione spirituale**</br>
+*Shaykh Abd-al-Wahid Pallavicini*</br>
+**La réalisation spirituelle**</br>
+*Shaykh Abd-al-Wahid Pallavicini*</br>
+**Muhi-d-Dîn Ibn Arabî&nbsp;: héritage spirituel et interprétations modernes**</br>
+*Abd-al-Sabûr Turrini*</br>
+**La tentazione recorrente della forma orientale**</br>
+*Abd-Allâh Yahya Darolles*</br>
+**La tentation récurrente de la forme orientale**</br>
+*Abd-Allâh Yahya Darolles*</br>
+**Le monothéisme abrahamique contre le terrorisme**</br>
+*Shaykh Abd-al-Wahid Pallavicini*</br>
+## Appendice</br>
+**Il Papa e l’Islam**</br>
+*Ahmad Abd-al-Waliyy Vincenzo*</br>
+**Il pianto di Maria nella tradizione islamica**</br>
+*Shaykh Abd-al-Wahid Pallavicini*</br>
+*Chiara Ilhâm-Allâh Ferrero*</br>
+**Insights into the Islamic Eschatology**</br>
 *Abd-al-Haqq Ismaïl Guiderdoni*
