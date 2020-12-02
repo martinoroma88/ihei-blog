@@ -6,43 +6,32 @@ couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload
 categories:
     - "Les Cahiers"
 annexes:
-  - titre: "La responsabilité des musulmans européens dans le monde contemporain"
+  - titre: "La responsabilité des musulmans européens dans le monde contemporain**"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736139/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2014/La-responsabilite_opbmwj.pdf"
   - titre: "Imaginations akbariennes"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736138/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2014/Imaginations-Akbariennes_cdfawx.pdf"
 ---
 
-**Editorial**
-
-**Métaphysique et symbolisme**
-*Shaykh Abd-al-Wahid Pallavicini*
-
-**Les signes de Dieu dans la nature**
-*Abd-al-Qayyoum Guerre-Genton*
-
-**L’homme et la nature dans la Tradition judaïque**
-*Jacques Cohen*
-
-**La Création et le rapport à la nature dans l’islam**
-*Abd-al-Rashid Bossa*
-
-**L’universalité des symboles dans l’art religieux**
-*Abd-al-Karim Turnley*
-
-**Le symbolisme dans l’art des cathédrales**
-*Jacques Paris*
-
-**L’effort spirituel à travers l’édification d’une mosquée**
-*Abd-al-Latif Conti*
-
-**L’art comme expression de la foi dans le christianisme**
-*Père André Gence*
-
-**Calligraphie et Parole de Dieu**
-*Abd-al-Wadoud Yahya Gouraud*
-
-**La responsabilité des musulmans européens dans le monde contemporain**
-*Yahya Sergio Yahe Pallavicini*
-
-**Imaginations akbariennes**
-*Institut des Hautes Études Islamiques*
+**Editorial**</br>
+**Métaphysique et symbolisme**</br>
+*Shaykh Abd-al-Wahid Pallavicini*</br>
+**Les signes de Dieu dans la nature**</br>
+*Abd-al-Qayyoum Guerre-Genton*</br>
+**L’homme et la nature dans la Tradition judaïque**</br>
+*Jacques Cohen*</br>
+**La Création et le rapport à la nature dans l’islam**</br>
+*Abd-al-Rashid Bossa*</br>
+**L’universalité des symboles dans l’art religieux**</br>
+*Abd-al-Karim Turnley*</br>
+**Le symbolisme dans l’art des cathédrales**</br>
+*Jacques Paris*</br>
+**L’effort spirituel à travers l’édification d’une mosquée**</br>
+*Abd-al-Latif Conti*</br>
+**L’art comme expression de la foi dans le christianisme**</br>
+*Père André Gence*</br>
+**Calligraphie et Parole de Dieu**</br>
+*Abd-al-Wadoud Yahya Gouraud*</br>
+**La responsabilité des musulmans européens dans le monde contemporain**</br>
+*Yahya Sergio Yahe Pallavicini*</br>
+**Imaginations akbariennes**</br>
+*Institut des Hautes Études Islamiques*</br>
