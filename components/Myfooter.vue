@@ -64,7 +64,7 @@
           />
           <label
             class="block mt-2 w-full checkbox font-sans"
-            :class="error === 'policy' ? 'border-b border-red' : ''"
+            :class="'error' === 'policy' ? 'border-b border-red' : ''"
           >
             <input
               value="J'ai lu et accepte la Politique de confidentialité."
