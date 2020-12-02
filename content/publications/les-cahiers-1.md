@@ -12,36 +12,25 @@ annexes:
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736137/ihei/PDF/Les%20Cahiers/Les%20Cahiers%201/La-connaissance-de-Dieu_ok94ov.pdf"
 ---
 
-**Editorial**
-
-**Allocution d’ouverture**
-*Mgr Stephanos*
-
-**Message au colloque**
-*Mgr Guy Deroubaix*
-
-**Allocution d’ouverture**
-*Dr Hocine Raïs*
-
-**Les relations entre l’Eglise et l’islam&nbsp;: difficultés et espoirs**
-*Père Michel Lelong*
-
-**La doctrine islamique du tawhîd&nbsp;: la reconnaissance métaphysique de l’unité des Révélations divines**
-*Abd-al-Latif Conti*
-
-**La recherche de Dieu dans la Tradition hésychaste**
-*Père Syméon*
-
-**L’identité eschatologique&nbsp;: “sine Christo nulla salus”**
-*Shaykh Abd al-Wahid Pallavicini*
-
-**La quête de l’identité suprême en islam**
-*Abd-al-Haqq Ismaïl Guiderdoni*
-
-**Quelques réflexions sur les rapports entre le christianisme et l’islam**
-*Père Franco Cardini*
-
-**Allocution finale**
-
-**La connaissance de Dieu comme but de l’existence humaine**
-*Shaykh Abd al-Wahid Pallavicini*
+**Editorial**</br>
+**Allocution d’ouverture**</br>
+*Mgr Stephanos*</br>
+**Message au colloque**</br>
+*Mgr Guy Deroubaix*</br>
+**Allocution d’ouverture**</br>
+*Dr Hocine Raïs*</br>
+**Les relations entre l’Eglise et l’islam&nbsp;: difficultés et espoirs**</br>
+*Père Michel Lelong*</br>
+**La doctrine islamique du tawhîd&nbsp;: la reconnaissance métaphysique de l’unité des Révélations divines**</br>
+*Abd-al-Latif Conti*</br>
+**La recherche de Dieu dans la Tradition hésychaste**</br>
+*Père Syméon*</br>
+**L’identité eschatologique&nbsp;: “sine Christo nulla salus”**</br>
+*Shaykh Abd al-Wahid Pallavicini*</br>
+**La quête de l’identité suprême en islam**</br>
+*Abd-al-Haqq Ismaïl Guiderdoni*</br>
+**Quelques réflexions sur les rapports entre le christianisme et l’islam**</br>
+*Père Franco Cardini*</br>
+**Allocution finale**</br>
+**La connaissance de Dieu comme but de l’existence humaine**</br>
+*Shaykh Abd al-Wahid Pallavicini*</br>
