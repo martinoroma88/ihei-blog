@@ -6,9 +6,9 @@ couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload
 categories:
     - "Les Cahiers"
 annexes:
-  - titre: "**René Guénon, témoin de la Tradition primordiale**"
+  - titre: "René Guénon, témoin de la Tradition primordiale"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736139/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2013/Rene-Guenon-temoin_hqf70w.pdf"
-  - titre: "**Orient et Occident à 50 ans de la mort de René Guénon**"
+  - titre: "Orient et Occident à 50 ans de la mort de René Guénon"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736138/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2013/Orient-et-Occident_kvmevm.pdf"
 ---
 
