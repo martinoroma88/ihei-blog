@@ -7,57 +7,40 @@ categories:
 ---
 
 
-## Editoriale, Editorial
-** ?Islam, cristianismo, occidente, laicità**
-*Abd-al-Sabur Turrini*
-
-**Verità e diversità&nbsp;: oltre i punti di incontro**
-*Shaykh Abd-al-Wâhid Pallavicini*
-
-**Vérité et diversité&nbsp;: au-delà des points de rencontre**
-*Shaykh Abd-al-Wâhid Pallavicini*
-
-**Il mondo islamico e l’Occidnte contemporneo**
-*Yahya Sergio Yahe Pallavicini*
-
-**La comunità islamica**
-*Ahmad Abd-al-Waliyy Vincenzo*
-
-**Donne, ambiente, e cultura nell’islam**
-*Farida Peruzzi*
-
-**Quo vadis Ecclesia&nbsp;? La cultura della pace e del dialogo oggi**
-*Abd al-Ghafur Masotti*
-
-**Science et religion aujourd’hui&nbsp;:**
-**perspectives islamiques**
-*Abd-al-Haqq Ismaïl Guiderdoni*
-
-**Causa Prima e cause seconde**
-*Yunus Abd al-Nur Distefano*
-
-**Le confutazioni islamiche dell’atomismo**
-*Abd al-Hayy Mansûr Baudo*
-
-**From the heritage of mankind to metaphysics**
-*Shaykh Abd-al-Wâhid Pallavicini*
-
-## Appendice
-
-**Confronto fra Ebraismo, Cristianismo e Islam**
-*Shaykh Abd-al-Wâhid Pallavicini*
-
-**Alcune considerazioni sul documento CEI relativo al matrimonio islamo-cristiano**
-*Abd al-Haqq Isa Croce*
-
-**Le courage de la Paix**
-*Yahya Sergio Yahe Pallavicini*
-
-**La scuola e l’islam**
-*Ahmad Abd-al-Waliyy Vincenzo*
-
-**Les relations entre islam et christianisme en Occident**
-*Abd-al-Sabur Turrini*
-
-**La testimonianza islamica e il proselitismo islamista**
-*Yahya Sergio Yahe Pallavicini*
+## Editoriale, Editorial</br>
+**?Islam, cristianismo, occidente, laicità**</br>
+*Abd-al-Sabur Turrini*</br>
+**Verità e diversità: oltre i punti di incontro**</br>
+*Shaykh Abd-al-Wâhid Pallavicini*</br>
+**Vérité et diversité&nbsp;: au-delà des points de rencontre**</br>
+*Shaykh Abd-al-Wâhid Pallavicini*</br>
+**Il mondo islamico e l’Occidnte contemporneo**</br>
+*Yahya Sergio Yahe Pallavicini*</br>
+**La comunità islamica**</br>
+*Ahmad Abd-al-Waliyy Vincenzo*</br>
+**Donne, ambiente, e cultura nell’islam**</br>
+*Farida Peruzzi*</br>
+**Quo vadis Ecclesia&nbsp;? La cultura della pace e del dialogo oggi**</br>
+*Abd al-Ghafur Masotti*</br>
+**Science et religion aujourd’hui&nbsp;:**</br>
+**perspectives islamiques**</br>
+*Abd-al-Haqq Ismaïl Guiderdoni*</br>
+**Causa Prima e cause seconde**</br>
+*Yunus Abd al-Nur Distefano*</br>
+**Le confutazioni islamiche dell’atomismo**</br>
+*Abd al-Hayy Mansûr Baudo*</br>
+**From the heritage of mankind to metaphysics**</br>
+*Shaykh Abd-al-Wâhid Pallavicini*</br>
+## Appendice</br>
+**Confronto fra Ebraismo, Cristianismo e Islam**</br>
+*Shaykh Abd-al-Wâhid Pallavicini*</br>
+**Alcune considerazioni sul documento CEI relativo al matrimonio islamo-cristiano**</br>
+*Abd al-Haqq Isa Croce*</br>
+**Le courage de la Paix**</br>
+*Yahya Sergio Yahe Pallavicini*</br>
+**La scuola e l’islam**</br>
+*Ahmad Abd-al-Waliyy Vincenzo*</br>
+**Les relations entre islam et christianisme en Occident**</br>
+*Abd-al-Sabur Turrini*</br>
+**La testimonianza islamica e il proselitismo islamista**</br>
+*Yahya Sergio Yahe Pallavicini*</br>
