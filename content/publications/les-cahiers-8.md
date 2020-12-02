@@ -16,7 +16,7 @@ annexes:
 **La religion immuable**</br>
 *Shaykh Abd-al-Wahid Pallavicini*</br>
 **Unicité et universalité dans l’islam**</br>
-*Abd-al-Latif Conti</br>
+*Abd-al-Latif Conti*</br>
 **La présence des Noms divins dans la spiritualité de l’islam**</br>
 *Abd-al-Haqq Ismaïl Guiderdoni*</br>
 **Réflexions sur le Tawakkul, l’abandon confiant en Dieu**</br>
