@@ -195,24 +195,24 @@
 export default {
   data() {
     return {
-      categories: undefined,
-      pages: undefined,
-      publications: undefined,
+      pages: null,
+      categories: null,
+      publications: null,
     };
   },
-  async mounted() {
-    const categories = await this.$content("categories")
+  async fetch() {
+    const pages = await this.$content("institut")
       .sortBy("ordre", "asc")
       .fetch();
-    const pages = await this.$content("institut")
+    const categories = await this.$content("categories")
       .sortBy("ordre", "asc")
       .fetch();
     const publications = await this.$content("publication-categories")
       .sortBy("ordre", "asc")
       .fetch();
 
-    this.categories = categories;
     this.pages = pages;
+    this.categories = categories;
     this.publications = publications;
   },
 };
