@@ -6,9 +6,9 @@ couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload
 categories:
     - "Les Cahiers"
 annexes:
-  - titre: "**Le Dialogue interreligieux**"
+  - titre: "Le Dialogue interreligieux"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736137/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2011/Le-dialogue-interreligieux_xwitys.pdf"
-  - titre: "**La mosquée en Occident&nbsp;: un symbolisme actuel**"
+  - titre: "La mosquée en Occident : un symbolisme actuel"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736138/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2011/La-mosquee-en-Occident_ogilfb.pdf"
 ---
 
