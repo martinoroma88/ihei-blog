@@ -12,25 +12,18 @@ annexes:
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736141/ihei/PDF/Les%20Cahiers/Les%20Cahiers%207/L-homme-religieux_eqolsf.pdf"
 ---
 
-**Editorial**
-
-**L’islam et l’Occident**
-*Shaykh Abd-al-Wahid Pallavicini*
-
-**Le Prophète Muhammad et la société tradtionnelle de Médine**
-*Yahya Sergio Yahe Pallavicini*
-
-**L’islam et l’Etat&nbsp;: la situation française**
-*Abd-al-Haqq Ismaïl Guiderdoni*
-
-**L’islam en Italie**
-*Ahmad Abd-al-Waliyy Vincenzo*
-
-**L’homme religieux dans la société**
-*Abd-Allah Yahya Darolles*
-
-**Etre chrétien dans le monde moderne**
-*Eric Colombani*
-
-**Autorité spirituelle et pouvoir temporel**
-*Abd-al-Haqq Idris Bacoccoli*
+**Editorial**</br>
+**L’islam et l’Occident**</br>
+*Shaykh Abd-al-Wahid Pallavicini*</br>
+**Le Prophète Muhammad et la société tradtionnelle de Médine**</br>
+*Yahya Sergio Yahe Pallavicini*</br>
+**L’islam et l’Etat&nbsp;: la situation française**</br>
+*Abd-al-Haqq Ismaïl Guiderdoni*</br>
+**L’islam en Italie**</br>
+*Ahmad Abd-al-Waliyy Vincenzo*</br>
+**L’homme religieux dans la société**</br>
+*Abd-Allah Yahya Darolles*</br>
+**Etre chrétien dans le monde moderne**</br>
+*Eric Colombani*</br>
+**Autorité spirituelle et pouvoir temporel**</br>
+*Abd-al-Haqq Idris Bacoccoli*</br>
