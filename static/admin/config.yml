@@ -24,6 +24,7 @@ collections:
       - { label: 'Cover', name: 'couverture', widget: 'string', required: false }
       - { label: 'Category', name: 'category', widget: 'relation', collection: 'categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'] }
       # - { label: 'Subcategory', name: 'subcategory', widget: 'relation', collection: 'categories', value_field: "{{slug}}", display_fields: ["{{titre}}"], search_fields: ['titre'] } # TODO doesn't work because subcategory is a key inside of a category (instead of array)
+      - { label: 'Attachments', name: 'annexes', widget: 'list', fields: [ { label: 'Title', name: 'titre', widget: 'string' }, { label: 'URL', name: 'url', widget: 'string' } ] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'publications'
