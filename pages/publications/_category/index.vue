@@ -14,10 +14,11 @@
 
 <script>
 	export default {
-		async asyncData({$content, params}) {
+		async asyncData({$content, error, params}) {
 			const categories = await $content("publication-categories").sortBy("ordre", "asc").fetch();
 			const category = categories.find(c => c.slug === params.category);
-			
+			if (!category) return error({statusCode: 404})
+
 			const posts = await $content("publications").where({ category: { $contains: category.titre } }).sortBy("date", "desc").fetch();
 			posts.forEach((p, i) => {
 				p.categoryPopulated = category;

@@ -31,6 +31,7 @@
       />
       <p v-if="post.soustitre">{{ post.soustitre }}</p>
       <Auteurs v-if="post.auteur" class="text-lighterblue" :author="post.auteur" icon />
+      <Attachments v-if="post.annexes" :attachments="post.annexes" />
       <!-- Contenu -->
       <nuxt-content class="prose" :document="post" />
     </article>
@@ -41,13 +42,18 @@
 export default {
   head() {
     return {
-      title: this.post.titre,
+      title: this.post.titre
     };
   },
-  async asyncData({ $content, params }) {
-    const post = await $content("posts", params.article).fetch();
-    const category = await $content("categories", params.category).fetch();
-    return { post, category };
+  async asyncData({ $content, params, error }) {
+    try {
+      const post = await $content("posts", params.article).fetch();
+      const category = await $content("categories", params.category).fetch();
+      return { post, category };
+    } catch(err) {
+      console.error(err)
+      error({statusCode: 404})
+    }
   },
 };
 </script>

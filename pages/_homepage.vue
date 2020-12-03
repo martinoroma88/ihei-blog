@@ -24,14 +24,14 @@
           class="inset-0 absolute bg-gradient-to-b from-transparent to-black opacity-25"
         ></div>
         <div class="md:col-span-2 px-4 py-8 md:px-10 md:pt-40 md:pb-8 relative text-white">
-          <p>
+          <div>
             <n-link :to="'/articles/'+featured.categoryPopulated.slug+'/'+featured.slug">
               <p class="text-2xl font-bold">
                 {{featured.titre}}
               </p>
               <Auteurs class="text-white" f-if="featured.auteur" :author="featured.auteur" />
             </n-link>
-          </p>
+          </div>
         </div>
       </div>
       <Articles :posts="posts" baseurl="articles" />
@@ -44,13 +44,13 @@
 const PER_PAGE = 12;
 
 export default {
-  async asyncData({ $content, params }) {
+  async asyncData({ $content, params, error }) {
     const perPage = PER_PAGE;
-    const page = parseInt(params.homepage || 1) || 1;
-    const totalPosts = (await $content("posts").fetch()).length;
+    const page = params.homepage ? parseInt(params.homepage) : 1;
+    let totalPosts = (await $content("posts").where({featured: { $ne: true}}).fetch()).length;
     const skip = PER_PAGE * (page - 1);
 
-
+    if (!page) return error({statusCode: 404});
 
     let posts = await $content("posts")
       .where({featured: { $ne: true}})
@@ -62,7 +62,7 @@ export default {
     const categories = await $content("categories")
       .sortBy("ordre", "asc")
       .fetch();
-    if (!posts.length) throw new Error("Not found");
+    if (!posts.length) return error({statusCode: 404});
 
     posts.forEach((p, i) => {
       let c = categories.find((c) => p.category === c.titre);

@@ -1,5 +1,5 @@
 ---
-titre: "Etre citoyen d’Europe et homme de foi."
+titre: "Etre citoyen d’Europe et homme de foi"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-4_hexnhw.jpg"
 category: "Islam et République"

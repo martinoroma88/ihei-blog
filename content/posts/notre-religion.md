@@ -16,7 +16,7 @@ Peut-être un premier élément de réponse est que la vérité ne se trouve pas
 
 Pourquoi les représentations humaines sont-elles interdites en Islam alors que le Prophète Muhammad a lui-même protégé de ses mains une icône de la Sainte Vierge Marie et de Jésus (sur eux la paix) dans le temple de la Kaaba à la Mecque&nbsp;? Cet exemple montre qu'il ne faut pas confondre le symbole et sa signification et que la forme des choses n'a de valeur que si elle est rattachée au principe.
 
-En cela, le musulman — muslim — est celui qui se soumet librement à la volonté de Dieu. Pour l’être, il ne suffit donc pas d’aller à la mosquée pour prier, de jeuner durant le ramadan, de s’abstenir d'alcool et de porc, ou de porter la barbe ou le voile. La pratique religieuse n’est qu’un outil et cet outil est inutile s’il n’est pas utilisé par le c&oelig;ur.
+En cela, le musulman, *muslim* est celui qui se soumet librement à la volonté de Dieu. Pour l’être, il ne suffit donc pas d’aller à la mosquée pour prier, de jeuner durant le ramadan, de s’abstenir d’alcool et de porc, ou de porter la barbe ou le voile. La pratique religieuse n’est qu’un outil et cet outil est inutile s’il n’est pas utilisé par le c&oelig;ur.
 
 La pratique religieuse est en effet ce sur quoi le croyant prend appui&nbsp;; cependant elle peut devenir une forme stérile si elle n’est pas vivifiée par le c&oelig;ur, sans lequel le ramadan devient une diète, et la prière une gymnastique.
 

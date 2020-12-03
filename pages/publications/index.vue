@@ -12,7 +12,7 @@
 
 <script>
 	export default {
-		async asyncData({$content, params}) {
+		async asyncData({$content, params, error}) {
 			const categories = await $content("publication-categories").sortBy("ordre", "asc").fetch();
 			
 			const posts = await $content("publications").where({"category": {"$containsNone": ["Les Cahiers", "Il Messaggio - Le Message"]}}).sortBy("date", "desc").fetch();

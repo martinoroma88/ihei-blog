@@ -84,6 +84,21 @@ aside {
   } 
 }
 
+.checkbox {
+  position: relative;
+}
+.checkbox::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 8px;
+  width: 13px;
+  height: 13px; 
+  z-index: 0;
+  border: 2px solid white;
+  border-radius: 2px;
+}
+
 /* RELATED TO NUXT CONTENT PLUGIN */
 /* Without this line the modals z-50 is not enough to go on top of the element */
 .nuxt-content-container { position: static !important; }
