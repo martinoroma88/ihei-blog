@@ -4,7 +4,7 @@ soustitre: "Origine et Finalites"
 ordre: 1
 ---
 
-<a class="flex p-4 rounded bg-azure items-center justify-center text-lg font-sans" href="https://res.cloudinary.com/genesi-communication-design/image/upload/v1606732097/ihei/files/Pre%CC%81sentation-IHEI-2019_yqfh63.pdf" target="_blank" download>Télécharger la presentation en Pdf</a>
+<a class="font-bold text-gray-200 shadow rounded px-4 py-2 hover:shadow-lg hover:text-gray-100 focus:shadow-none focus:text-gray-300 transition duration-75 bg-azure cursor-pointer" style="color:white" target="_blank" download>Télécharger la presentation en Pdf</a>
 
 Créé en 1994 à l’initiative d’un groupe d’intellectuels français musulmans, l’Institut des Hautes Etudes Islamiques a vocation à :
 
