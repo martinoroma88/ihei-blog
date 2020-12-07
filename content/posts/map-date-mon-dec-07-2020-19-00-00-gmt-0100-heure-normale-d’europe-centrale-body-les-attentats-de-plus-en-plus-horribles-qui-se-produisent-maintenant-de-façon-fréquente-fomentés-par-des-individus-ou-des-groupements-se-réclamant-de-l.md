@@ -260,7 +260,7 @@ Il est important que les personnes en charge de l’éducation interconfessionne
 
 Les relations interreligieuses et interculturelles, plus particulièrement à la suite du «&nbsp;Document sur la Fraternité humaine pour la paix mondiale et la coexistence commune&nbsp;», résultant de la rencontre, à Abou Dhabi en 2019, entre le pape François et le cheikh Ahmad al Tayyeb, doivent être favorisées car elles sont de nature à une connaissance réciproque et à une reconnaissance de leur identité essentielle.
 
-Depuis le début de l’humanité, les religions proposent des réponses fondamentales aux questions existentielles. La laïcité doit permettre aux croyants de trouver les conditions d’une pratique sereine de leur foi. Comme l’écrivait déjà Alain Gresh en 2014, il est temps pour la République de reconsidérer l’éducation qu’elle donne à ses enfants, en retrouvant l’inspiration originelle de la loi de 1905 sur la séparation de l’Eglise et de l’Etat, de la Constitution et de la Déclaration Universelle des Droits de l’Homme.[^3](http://blog.mondediplo.net/2014-06-30-Laicite-il-est-temps-de-se-ressaisir)
+Depuis le début de l’humanité, les religions proposent des réponses fondamentales aux questions existentielles. La laïcité doit permettre aux croyants de trouver les conditions d’une pratique sereine de leur foi. Comme l’écrivait déjà Alain Gresh en 2014, il est temps pour la République de reconsidérer l’éducation qu’elle donne à ses enfants, en retrouvant l’inspiration originelle de la loi de 1905 sur la séparation de l’Eglise et de l’Etat, de la Constitution et de la Déclaration Universelle des Droits de l’Homme.[^3]
 
 **Il conviendrait aujourd’hui d’accepter pleinement et sans discrimination la présence pacifique des religions dans l’espace public, en leur accordant la place qui leur revient, et ce, afin d’éviter que la sphère privée ne devienne le lieu exclusif d’échanges d’opinions ou de points de vue individuels sur tout ce qui touche au domaine religieux.**
 
@@ -271,5 +271,5 @@ Depuis le début de l’humanité, les religions proposent des réponses fondame
 AbdAllah Yahya Darolles, vice-président de l’IHEI
 
 [^1]: Yahya Pallavicini, «&nbsp;Il faut enseigner la différence entre explication et manipulation de la doctrine religieuse&nbsp;», Alma & Georges, 29/10/2020 (https://www3.unifr.ch/alma-georges/articles/2020/il-faut-enseigner-la-difference-entre-explication-et-manipulation-de-la-doctrine-religieuse).
-
 [^2]: Yahya Pallavicini, «&nbsp;Il faut enseigner la différence entre explication et manipulation de la doctrine religieuse&nbsp;», Alma & Georges, 29/10/2020 (https://www3.unifr.ch/alma-georges/articles/2020/il-faut-enseigner-la-difference-entre-explication-et-manipulation-de-la-doctrine-religieuse).
+[^3]: (http://blog.mondediplo.net/2014-06-30-Laicite-il-est-temps-de-se-ressaisir)
