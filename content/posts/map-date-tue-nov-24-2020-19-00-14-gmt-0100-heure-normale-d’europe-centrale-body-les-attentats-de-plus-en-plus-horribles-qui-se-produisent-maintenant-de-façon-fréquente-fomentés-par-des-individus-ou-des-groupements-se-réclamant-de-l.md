@@ -28,8 +28,6 @@ Dans un second temps, nous évoquerons l’origine et les manifestations de l’
 
 ##### L’islam, les religions et la laïcité
 
-
-
 ###### L’islam, une religion comme une autre
 
 Pour un croyant musulman, l’islam est une religion révélée par le Dieu Unique de tous les hommes, tout comme les religions précédentes, et ne saurait être confondu, en quoi que ce soit, avec une idéologie ou une organisation politique à visée temporelle.
@@ -89,7 +87,6 @@ La laïcité telle qu’établie principalement par la loi du 9 décembre 1905 f
 En tout état de cause, pas plus la laïcité que les valeurs de la République, les libertés publiques et les droits fondamentaux qui en découlent ne sauraient être incompatibles ou en contradiction avec les principes de vie en société, tels que prescrits par l’islam.
 
 ##### La convergence entre les valeurs républicaines et les principes islamiques de vie en société
-
 
 Il apparaît nécessaire, au-delà de la compatibilité de l’islam avec une société laïque, de rappeler plus précisément cette même compatibilité entre les principes musulmans de vie en société, résultant d’ailleurs de la pratique des vertus, avec les valeurs républicaines, les libertés publiques et les droits fondamentaux.
 
@@ -172,7 +169,6 @@ L’écrasante majorité des musulmans dans le monde pratiquent un islam authent
 Le wahhabisme et le salafisme inondent les librairies dites «&nbsp;islamiques&nbsp;» de fascicules et d’ouvrages littéralistes, formalistes, sans réelle portée intellectuelle, caricaturant l’islam, ignorant la spiritualité, ses grands maîtres, tout autant que sa richesse artistique et culturelle.
 
 * Ce courant promeut une vision politique de l’islam, pour changer et combattre nos sociétés. 
-
 * Ces forces ont des moyens considérables qui leur permettent de propager leur vision, sachant que les pays qui en sont les foyers d’origine sont aussi —&nbsp;paradoxalement&nbsp;— des alliés de l’Occident. 
 
 Les formes de radicalisation violente qui ont frappé l’Europe, et particulièrement la France, sont un phénomène néanmoins complexe et multifactoriel qui a poussé des populations, jeunes en général, à rejoindre le prétendu «&nbsp;Etat islamique&nbsp;» ou à commettre des attentats sur le sol européen, sans oublier d’autres attentats, encore plus nombreux, commis en Afrique, en Asie ou au Maghreb, au sein des populations musulmanes, qui restent les premières victimes du terrorisme islamiste.
