@@ -23,13 +23,11 @@ Il nous a paru également utile, si ce n’est nécessaire, de préciser en quoi
 
 Dans un second temps, nous évoquerons l’origine et les manifestations de l’islamisme radical, contrefaisant l’islam authentique&nbsp;; puis les moyens qu’entend mettre en œuvre le projet du président de la République et ses limites&nbsp;; et enfin les propositions véritablement susceptibles de révéler un islam à la fois authentiquement spirituel et contributeur d’un vivre-ensemble harmonieux.
 
-## 
-I —&nbsp;L’islam une religion nécessairement compatible avec la laïcité et les valeurs républicaines
+#### I —&nbsp;L’islam une religion nécessairement compatible avec la laïcité et les valeurs républicaines
 
-### L’islam, les religions et la laïcité
+##### L’islam, les religions et la laïcité
 
-###### 
-**L’islam, une religion comme une autre**
+###### L’islam, une religion comme une autre
 
 Pour un croyant musulman, l’islam est une religion révélée par le Dieu Unique de tous les hommes, tout comme les religions précédentes, et ne saurait être confondu, en quoi que ce soit, avec une idéologie ou une organisation politique à visée temporelle.
 
@@ -47,8 +45,7 @@ De nombreux versets du Coran insistent aussi sur le fait de ne converser avec au
 
 Aucun de ces éléments constitutifs de l’islam et de toute religion ne peut être en contradiction avec la vie en société ou l’institution publique, dans la mesure où, d’un côté, la morale religieuse ne saurait s’opposer à la morale civique, et où, de l’autre, l’institution garantit la liberté de culte. Pratique rituelle, morale religieuse et morale civique se situent donc sur des plans différents.
 
-###### 
-**La révélation coranique confirme et protège la dignité des révélations précédentes**
+###### **La révélation coranique confirme et protège la dignité des révélations précédentes**
 
 Contrairement à une idée répandue, l’islam reconnaît, respecte et valorise la diversité des religions.
 
@@ -62,8 +59,7 @@ Par ailleurs, le Coran appelle les gens du Livre, en particulier les juifs et le
 
 Enfin, le Prophète Muhammad disait que «&nbsp;les prophètes sont des frères aux mères différentes mais dont la religion est unique&nbsp;». C’est ainsi qu’il était intervenu, à l’occasion d’une algarade entre deux croyants de religion différente, en leur disant&nbsp;: «&nbsp;Ne préférez pas certains prophètes au détriment des autres&nbsp;!&nbsp;».
 
-###### 
-**La distinction dans l’islam entre le domaine spirituel et le domaine temporel**
+###### **La distinction dans l’islam entre le domaine spirituel et le domaine temporel**
 
 De même que les religions ne sauraient s’opposer entre elles, de même l’islam, comme toute religion authentique, ne saurait s’opposer à une société dont l’organisation politique entend se distinguer de la religion.
 
@@ -90,7 +86,7 @@ La laïcité telle qu’établie principalement par la loi du 9 décembre 1905 f
 En tout état de cause, pas plus la laïcité que les valeurs de la République, les libertés publiques et les droits fondamentaux qui en découlent ne sauraient être incompatibles ou en contradiction avec les principes de vie en société, tels que prescrits par l’islam.
 
 1. La convergence entre les valeurs républicaines et les principes islamiques de vie en société 
-Il apparaît nécessaire, au-delà de la compatibilité de l’islam avec une société laïque, de rappeler plus précisément cette même compatibilité entre les principes musulmans de vie en société, résultant d’ailleurs de la pratique des vertus, avec les valeurs républicaines, les libertés publiques et les droits fondamentaux.
+   Il apparaît nécessaire, au-delà de la compatibilité de l’islam avec une société laïque, de rappeler plus précisément cette même compatibilité entre les principes musulmans de vie en société, résultant d’ailleurs de la pratique des vertus, avec les valeurs républicaines, les libertés publiques et les droits fondamentaux.
 
 Les principes de l’islam s’accordent pleinement avec ce cadre juridique et national. De même, la devise républicaine «&nbsp;liberté, égalité, fraternité&nbsp;» trouve des correspondances profondes et nombreuses avec l’esprit et la lettre des textes sacrés ainsi que l’histoire de la tradition islamique depuis ses origines mêmes.
 
@@ -98,29 +94,21 @@ Les valeurs de la République favorisant le vivre-ensemble dans la société fra
 
 Sans viser à l’exhaustivité, il convient d’en évoquer les principaux déterminants&nbsp;: la citoyenneté&nbsp;; la sécurité des personnes et des biens&nbsp;; la liberté religieuse et de conscience&nbsp;; la liberté d’expression.
 
- #######
 **La citoyenneté**
-
 
 Comme on le sait, la Constitution française de 1958 proclame que «&nbsp;la France est une République indivisible, laïque, démocratique et sociale…. Elle assure l’égalité devant la loi de tous les citoyens sans distinction d’origine, de race ou de religion. Elle respecte toutes les croyances&nbsp;». Distinguant le domaine religieux et le champ temporel, la République assure donc l’égalité de tous les citoyens sans discrimination, tout en respectant les croyances.
 
-
 Selon une tradition islamique, «&nbsp;l’amour de son pays dérive de la foi&nbsp;», et le Prophète Muhammad recommandait aux musulmans de respecter les us et les coutumes des pays dans lesquels ils allaient s’installer et vivre. Le Coran enjoint en effet aux musulmans d’«&nbsp;obéir à ceux qui détiennent le commandement&nbsp;».
-
 
 Dès les premiers temps de l’islam, la Constitution de Médine, évoquée précédemment, garantissait les droits et devoirs des citoyens, fondés sur l’équité, la solidarité, la sécurité, le pluralisme et la recherche du bien commun et pourrait-on dire, en termes actuels, du «&nbsp;vivre-ensemble&nbsp;», harmonieux et respectueux des différences.
 
-
 La consultation, par délibération collective, sur les affaires publiques est ainsi la règle avant toute décision du gouvernant&nbsp;: «&nbsp;Ce qui est auprès de Dieu est meilleur et plus durable pour ceux qui ont cru…, qui se consultent entre eux à propos de leurs affaires&nbsp;» (Coran 52&nbsp;: 36-38). Il est fait injonction, dans le Coran «&nbsp;de prendre conseil auprès d’eux dans toutes les questions d’intérêt public&nbsp;» (Coran 3&nbsp;: 159).
-
 
 Les vertus que doivent pratiquer les musulmans dans ce monde, en vue de leur salut spirituel, sont aussi des garanties, pour ce monde, du vivre ensemble&nbsp;: véracité, honnêteté, fiabilité, fidélité, respect des engagements sont ainsi les devoirs de tout musulman. «&nbsp;Observez la juste mesure et le bon poids en toute équité. Nous n’imposons à aucune âme une charge qu’elle ne puisse supporter&nbsp;» (Coran 6&nbsp;: 152).
 
-
 La fraternité affirmée par la Déclaration universelle des droits de l’homme et par la Constitution française trouve un écho particulier en la fraternité promue par l’Islam&nbsp;: «&nbsp;Aucun d’entre vous n’est un véritable croyant tant qu’il n’aimera pour son frère ce qu’il aime pour lui-même&nbsp;» (parole du Prophète).
 
-   ####### 
-**La sécurité des personnes et des biens**
+###### **La sécurité des personnes et des biens**
 
 Conformément à la Déclaration universelle et à la Convention européenne des droits de l’homme, «&nbsp;le droit de toute personne à la vie est protégé par la loi&nbsp;», et conformément à l’article 12 de la Déclaration des droits de l’homme et du citoyen de 1789, «&nbsp;la garantie des droits de l’homme et du citoyen nécessite une force publique&nbsp;».
 
@@ -130,8 +118,7 @@ Dans la Constitution ou Charte de Médine tout autant que dans les pactes passé
 
 L’islam est, par nature, synonyme de «&nbsp;paix&nbsp;», et la foi, de «&nbsp;sécurité&nbsp;». Lors de son pèlerinage d’adieu, le Prophète Muhammad a prononcé un sermon resté célèbre dans lequel il a notamment recommandé à sa communauté de vivre la foi et l’islam dans un esprit de bonté, de paix, d’honnêteté et d’harmonie avec les autres&nbsp;: «&nbsp;Le croyant est celui avec qui les gens se sentent en sécurité sans craindre pour leurs biens ou leurs personnes. Le musulman est celui qui n’offense personne par un acte ou une parole.&nbsp;»
 
-   ####### 
-**La liberté religieuse**
+###### **La liberté religieuse**
 
 Conformément au Pacte international des droits civiques et politiques, pris en application de la Déclaration universelle des droits de l’homme et ratifié par l’Etat français&nbsp;: «&nbsp;Toute personne a le droit d’avoir ou d’adopter une religion ou une conviction de son choix, ainsi que la liberté de manifester sa religion, tant en public qu’en privé, par le culte et l’accomplissement des rites, les pratiques et l’enseignement&nbsp;» et «&nbsp;Nul ne subira de contrainte pouvant porter atteinte à sa liberté d’avoir ou d’adopter une religion ou une conviction de son choix&nbsp;».
 
@@ -143,8 +130,7 @@ La foi est une adhésion volontaire et, pour le croyant, un don de Dieu. La conv
 
 Le rapport à la diversité est envisagé de façon plus générale à travers une vision universaliste fondée sur la sagesse de Dieu&nbsp;: «&nbsp;Ô Hommes, Nous avons créés à partir d’un homme et d’une femme, et Nous vous avons réparti en peuples et en tribus, pour que vous fassiez connaissance entre vous&nbsp;» (Coran 49&nbsp;: 13). La variété des religions, des couleurs, des origines, des langues, des caractères est l’effet de la Volonté divine. C’est un signe de Dieu qui concourt à l’harmonie entre les hommes. Dans la sagesse musulmane, les désaccords doivent être source de richesse et non de conflits.
 
-   ####### 
-**La liberté d’expression**
+###### **La liberté d’expression**
 
 Conformément à la Déclaration universelle, à la Convention européenne des droits de l’homme et au Préambule de la Constitution française&nbsp;: «&nbsp;Toute personne a droit à la liberté d’expression&nbsp;».
 
@@ -160,11 +146,9 @@ Au-delà, pourrait-on dire, pas plus le Prophète Muhammad, Lumière prophétiqu
 
 On ne peut donc en réalité, pour un musulman, se poser la question de la compatibilité de l’islam avec la laïcité et les valeurs de la République, car être un bon citoyen français devrait résulter, de sa propre valeur spirituelle et non d’une adaptation seulement passive au milieu social, de même qu’être un bon musulman ne saurait justifier une quelconque attitude de rejet ou de révolte à l’égard de la société.
 
-   ## 
-II —&nbsp;La prévention de l’islamisme radical&nbsp;: limites et perspectives
+#### II —&nbsp;La prévention de l’islamisme radical&nbsp;: limites et perspectives
 
-###
-L’islamisme radical, contrefaçon de l’Islam authentique
+##### L’islamisme radical, contrefaçon de l’Islam authentique
 
 Ce que l’on appelle actuellement «&nbsp;l’islamisme politique&nbsp;» ou la «&nbsp;radicalisation islamiste&nbsp;», et qui conduit parfois à de violentes exactions commises par des groupes ou des individus, est la résultante d’un processus de sclérose au sein des sociétés musulmanes, qui a conduit certaines tendances à dévier vers une conception formaliste, littéraliste et sectaire de l’islam, connue sous la forme du wahhabisme et du salafisme, en rupture avec la spiritualité ouverte et universelle de l’islam, telle qu’elle ressort du Coran et des enseignements du Prophète, et ce jusqu’à en être la contrefaçon.
 
@@ -186,8 +170,7 @@ Le wahhabisme et le salafisme inondent les librairies dites «&nbsp;islamiques&n
 
 Les formes de radicalisation violente qui ont frappé l’Europe, et particulièrement la France, sont un phénomène néanmoins complexe et multifactoriel qui a poussé des populations, jeunes en général, à rejoindre le prétendu «&nbsp;Etat islamique&nbsp;» ou à commettre des attentats sur le sol européen, sans oublier d’autres attentats, encore plus nombreux, commis en Afrique, en Asie ou au Maghreb, au sein des populations musulmanes, qui restent les premières victimes du terrorisme islamiste.
 
-###
-Le projet gouvernemental et ses limites 
+##### Le projet gouvernemental et ses limites
 
 Le président de la République lui-même a fait le constat du «&nbsp;séparatisme&nbsp;» de l’Etat, ghettoïsant certaines populations dans des quartiers, sans perspective économique ou sociétale, avec un accès réduit aux services publics et, au-delà, à une vie normale. Cette ghettoïsation favorisant ce que le président a appelé le «&nbsp;séparatisme islamiste&nbsp;».
 
@@ -205,9 +188,8 @@ Il apparaît néanmoins que les dispositions contenues dans le «&nbsp;projet de
 
 Quant au troisième volet, qui se veut, lui, plus positif, en favorisant, d’une part, une meilleure organisation de l’islam en France, et, d’autre part, l’enseignement civilisationnel de l’islam, il nous apparaît plus problématique.
 
-#####
-Concernant la représentation de l’islam et le projet de Conseil national des imams
-   
+###### Concernant la représentation de l’islam et le projet de Conseil national des imams
+
 Depuis une vingtaine d’années, notre Institut se désole des modalités de représentation de l’islam de France et, à plusieurs reprises, avec l’appui de parlementaires, a réclamé la réforme de ce système.
 
 En effet, la double détermination quantitative et «&nbsp;consulaire&nbsp;» tend à exclure de cette représentation de l’islam les intellectuels et les personnalités qualifiées, souvent de nationalité, d’origine et de culture françaises qui, d’une part, et de ce fait, ne sont pas des représentants «&nbsp;consulaires&nbsp;» ou de fédérations de musulmans d’origine étrangère, et, d’autre part, ont de faibles effectifs au regard du nombre d’adhérents de ces dernières.
@@ -224,15 +206,14 @@ Après avoir, pendant des années, pris pour interlocuteurs les représentants d
 
 Pour surmonter le problème de l’islam consulaire et «&nbsp;libérer l’islam de France des influences étrangères&nbsp;», selon les vœux du président de la République, il suffit probablement de clarifier le cadre des relations internationales, de le distinguer de l’autonomie du culte en France, et d’investir plutôt sur nombre de citoyens français et croyants musulmans qui ont développé une sensibilité et une expérience par rapport à la transmission des valeurs universelles de la spiritualité et de la citoyenneté, qui ont une vision claire en termes de devoirs et de droits dans le contexte de la société française où ils sont nés et ont grandi, qui évitent de tomber dans la répartition du pouvoir entre associations et mosquées, et qui ont développé un réseau d’interlocuteurs fiables distribués sur l’ensemble du territoire, en contact avec leurs communautés respectives et les jeunes représentants religieux.
 
-#####
-Construire un «&nbsp;islam des Lumières&nbsp;» ou révéler les lumières de l’islam&nbsp;?
+###### Construire un «&nbsp;islam des Lumières&nbsp;» ou révéler les lumières de l’islam&nbsp;?
 
 La proposition du président de la République de «&nbsp;bâtir un islam en France qui soit un islam des Lumières&nbsp;», telle que conçue et exprimée, a été perçue de façon négative par de nombreux musulmans en France et à l’étranger. Pour les musulmans, les lumières de l’islam émanent de la révélation coranique, de l’enseignement prophétique et de la mise en œuvre de ses recommandations.
 
 Ces lumières sont avant tout d’ordre spirituel, du domaine de la foi, et apportent des éclaircissements, tout au long de la vie et du cheminement spirituel du croyant, éclaircissements utiles à la fois en vue de l’autre monde et dans ce monde. Ces lumières spirituelles n’excluent d’ailleurs nullement la raison qui en est à la fois un réceptacle et un filtre.
 
 Mais s’il s’agit bien de réfuter l’obscurantisme qui est le propre du littéralisme et du réductionnisme islamiste, et non de l’islam, on ne peut «&nbsp;bâtir un islam&nbsp;», fût-ce «&nbsp;un islam des Lumières&nbsp;», en s’appuyant sur la seule raison, ce qui reviendrait à en faire paradoxalement une idéologie similaire à celle des islamistes.
- 
+
 Par ailleurs, s’il est pour le moins réducteur de confier aux seuls universitaires le tâche de faire connaître et comprendre l’islam et sa civilisation, la référence explicite à certains philosophes musulmans, à l’exclusion d’autres penseurs reconnus de l’islam, s’inscrit là aussi dans l’interprétation réductrice et sélective propre aux anciennes écoles orientalistes françaises.
 
 La connaissance de l’islam ne saurait se résumer à des travaux universitaires. Cette connaissance, pour être utile, ne peut se limiter à la sociologie, à l’islamologie ou à l’histoire de la civilisation. La contribution des chercheurs de ces sciences présente un intérêt certain, mais les membres de l’IHEI connaissent, en tant qu’universitaires pour certains d’entre eux, les limites de ces sciences et de leurs méthodes, qui imposent des analyses où islam et coutumes s’entremêlent sans qu’on puisse distinguer le culturel du religieux, le particulier de l’universel, l’accessoire de l’essentiel. Cette méthodologie risque de générer plus de confusions que d’éclaircissements.
@@ -249,28 +230,26 @@ La connaissance et la compréhension de l’Islam souhaitées par le président 
 
 C’est cette vision et cette pratique d’un islam universel, spirituel et citoyen, partagé dans le cadre du dialogue interreligieux, respectueux, comme on l’a vu, des valeurs et des lois de la république, que notre Institut s’efforce de présenter et de représenter depuis plus d’une vingtaine d’années, à travers nombre d’articles de réflexion, de publications, de conférences, d’expositions et de collaborations, au sein de réseaux nationaux et internationaux.
 
-###
-Rétrospectives et perspectives 
+###### Rétrospectives et perspectives
 
 Cette œuvre de «&nbsp;vivification&nbsp;» de la religion islamique, qui doit inspirer le travail indispensable d’approfondissement spirituel, intellectuel et théologique, mais aussi d’adéquation au vivre-ensemble dans une société républicaine, est conduite par des intellectuels musulmans français et européens, dans le cadre de centres d’études indépendants comme l’Institut des Hautes Etudes Islamiques ou encore la COREIS (Communauté Religieuse Islamique) Italienne, que les pouvoirs publics devraient avoir à cœur d’associer à une démarche comme celle entreprise par le président de la République.
 
 Les membres de notre Institut ont assisté, en son temps, le Ministre chargé des cultes dans la mise en œuvre de la représentation de l’islam en France, prélude à la création du CFCM, dont nous avions d’ailleurs pointé les limites, notamment celle d’une représentation assise sur l’islam «&nbsp;consulaire&nbsp;» et les fédérations d’origine, de même qu’une représentation quantitative des CRCM assise sur la superficie des mosquées, et le manque de personnalités qualifiées, totalement disparues depuis.
 
 Suivant les périodes, ils ont entretenu des relations suivies avec le Bureau des Cultes du ministère de l’Intérieur, certains des membres du Bureau ayant d’ailleurs, dans le passé, participé activement à des colloques ou séminaires de l’IHEI.
- 
+
 Les membres de l’IHEI ont participé aux différentes instances de dialogue entre l’islam et la République, et sont reconnus dans plusieurs départements comme porte-paroles des associations et mosquées, notamment en relation avec les préfectures.
 
 Dans ce cadre, ils interviennent pour coordonner des initiatives citoyennes, par exemple avec la récente déclaration des musulmans des Hautes-Alpes dénonçant la violence commise au nom de l’islam, ou des interventions dans les quartiers pour sensibiliser les jeunes.
 
 Ils organisent des rencontres interreligieuses avec leurs concitoyens juifs et chrétiens pour promouvoir une meilleure connaissance réciproque, et faire tomber les préjugés. Ils donnent cours et conférences pour présenter un islam spirituel et ouvert. Ils interviennent régulièrement dans le cadre de l’émission «&nbsp;Islam&nbsp;» sur France 2 le dimanche matin. Ils accompagnent les convertis de la Mosquée de Lyon pour les avertir du danger de la radicalisation. Ils donnent leçons et sermons dans les mosquées. Dans le cadre de l’Institut Français de Civilisation Musulmane, ils participent à la formation civique des imams et cadres religieux de l’islam. Et ils administrent, à côté de la Grande Mosquée de Lyon, cet Institut, dont les activités sont actuellement limitées en raison de la pandémie. Tout cela, ils le font en tant que citoyens, sans autre aide que les quelques subventions publiques accordées sur projet.
- 
+
 Les membres de l’IHEI répartis dans les différentes régions de France ont ainsi développé une expertise et des réseaux utiles leur permettant d’être des interfaces entre différentes réalités religieuses ou sociétales.
- 
-*Ce que l’IHEI attend des pouvoirs publics, c’est qu’ils comprennent qu’il faut rendre visibles, sous diverses formes et dans le strict respect du principe de laïcité, les initiatives de celles et ceux qui promeuvent un islam de connaissance, à la fois citoyen et spirituel. Cette visibilité d’un islam de connaissance semble être la condition de la prévention réelle et à long terme de la radicalisation, et aussi une nécessité, pour une organisation de l’islam de France qui soit fonctionnelle et efficace.*
- 
-#####
+
+***Ce que l’IHEI attend des pouvoirs publics, c’est qu’ils comprennent qu’il faut rendre visibles, sous diverses formes et dans le strict respect du principe de laïcité, les initiatives de celles et ceux qui promeuvent un islam de connaissance, à la fois citoyen et spirituel. Cette visibilité d’un islam de connaissance semble être la condition de la prévention réelle et à long terme de la radicalisation, et aussi une nécessité, pour une organisation de l’islam de France qui soit fonctionnelle et efficace.***
+
 L’information et l’éducation relatives à l’islam, axe essentiel dans un contexte d’échanges interreligieux
- 
+
 L’Institut des Hautes Etudes Islamiques proposent plusieurs pistes de réflexion et de travail dans le domaine de l’enseignement et de l’éducation sur l’islam.
 
 Il s’agit tout d’abord d’apporter une meilleure connaissance de la nature authentique de l’islam à l’intention des différents acteurs de la société civile, élus, fonctionnaires, médias et acteurs économiques, afin d’éviter les amalgames auxquels nous assistons trop souvent, et qui alimentent soit la radicalisation, soit à l’opposé l’islamophobie et le populisme.
@@ -278,11 +257,10 @@ Il s’agit tout d’abord d’apporter une meilleure connaissance de la nature 
 Il s’agit aussi d’empêcher la diffusion de fascicules dont sont inondées les librairies dites «&nbsp;islamiques&nbsp;», de tendance littéraliste, fondamentaliste, expression caricaturale de l’islam, et de soutenir, au contraire, la réalisation de manuels permettant l’éducation des hommes et femmes de confession musulmane qui ont besoin de mieux connaître les enseignements authentiques de leur religion, non à travers une approche apologétique, mais dans un esprit d’ouverture et une optique interculturelle prenant en compte la diversité religieuse et culturelle de la société française.
 
 Cet enseignement devrait inclure toutes les dimensions de la tradition religieuse de l’islam dans toute son universalité&nbsp;: les piliers du culte autant que les principes de la foi et les valeurs spirituelles, synonymes de paix, de miséricorde, de respect d’autrui, de charité, de fraternité. Ils découvriront et apprendront que les principes fondamentaux de l’islam s’accordent tout à fait avec les valeurs républicaines et humanistes de liberté, d’égalité, de fraternité.
- 
+
 L’enseignement religieux est en réalité complémentaire de la formation civique, comme le sont le cœur et la raison.
 
-#####
-L’éducation interconfessionnelle à l’école de la République
+###### L’éducation interconfessionnelle à l’école de la République
 
 On ne peut plus faire l’impasse en France sur la nécessité d’approfondir les connaissances générales sur le fait religieux. Dans cette perspective, il s’agirait, en milieu scolaire, de renforcer le lien entre l’enseignement éclaté du fait religieux et de l’instruction civique et morale, qui permettrait de mettre utilement en évidence, comme exposé précédemment, la convergence entre les valeurs civiques et les principes de vie en société, tant de l’islam que des autres religions.
 
@@ -291,28 +269,27 @@ C’est le cas en Suisse où la rénovation des programmes prendra en compte cet
 L’éducation «&nbsp;interconfessionnelle&nbsp;» offre une alternative méthodologique aussi bien à l’éducation religieuse qu’à l’histoire des religions. Elle permet de sortir de la dichotomie entre un enseignement dispensé par des laïques et un autre dispensé par les membres des différentes communautés religieuses. L’histoire des religions permet certes de replacer ces dernières dans l’histoire sans pour autant faire du catéchisme. Mais elle laisse de côté le «&nbsp;goût du sacré&nbsp;», qui tout à la fois relie les diverses religions et les différencie.
 
 Par ailleurs, la grande méconnaissance des différentes «&nbsp;grammaires&nbsp;» des religions entraîne des raccourcis. Les élèves et les étudiants devraient pouvoir distinguer et se familiariser avec les religions en tenant compte de leurs spécificités. Bref, reconnaître le goût de chaque religion sans tomber dans la superficialité. C’est seulement ainsi qu’on est en mesure de se faire un avis, de porter un jugement.
- 
+
 «&nbsp;Dans la société contemporaine, la doctrine religieuse a fait —&nbsp;et fait malheureusement encore&nbsp;— l’objet de manipulations qui nourrissent le fanatisme, la radicalisation, la violence, la haine ou les discriminations comme l’antisémitisme et l’islamophobie. En effet, sorti de son contexte, le sentiment religieux peut être facilement instrumentalisé au service d’une idéologie meurtrière. Il est dès lors essentiel d’enseigner la différence entre explication de la doctrine religieuse et manipulation de la doctrine religieuse. Comment l’éducation interconfessionnelle peut-elle contribuer à prévenir la propagation du fanatisme, de la violence ou de la haine&nbsp;?Globalement, il s’agit de mettre en évidence les moments de l’histoire où les crises se sont mélangées au fait religieux pour générer des conflits. Dans l’histoire récente, on trouve de nombreux cas de discrimination des minorités religieuses&nbsp;: outre celui —&nbsp;tristement célèbre&nbsp;— de la Shoah, on peut citer l’exemple des Rohingyas en Birmanie et des Ouïghours en Chine. A l’inverse, il est tout aussi important de reconnaître et de montrer les moments où l’interconfessionnalité a permis d’aller de l’avant, de nouer ou renouer le dialogue. Les jeunes Européens savent-ils que plusieurs pays arabes, dont le Maroc, ont offert la citoyenneté à de nombreuses familles juives&nbsp;? Au fil des siècles, il y a eu des guerres fratricides. Or, le problème n’est pas d’avoir un frère différent. Ce qui compte, c’est d’arriver à coopérer avec ce frère différent. La culture du dialogue est essentielle et elle doit servir de fil rouge à l’éducation interconfessionnelle.&nbsp;»[^1]
 
 Il est important que les personnes en charge de l’éducation interconfessionnelle soient laïques. Le principe est donc celui d’une éducation de citoyen à citoyen, sans passer par l’institution religieuse. Le grand défi consiste à former ces enseignants, ou plus précisément à mettre en lien les différentes structures de formation laïques et religieuses. L’interdisciplinarité est au cœur de toute la démarche, elle fait figure de solution méthodologique. Si l’éducation ne prend pas en compte l’interdisciplinarité comme méthode à part entière, elle ne pourra pas former des citoyens du monde.
 
 «&nbsp;Le principal défi consiste à structurer la formation des formateurs. Un autre obstacle à surmonter, c’est le fait que la complexité de l’univers religieux —&nbsp;ainsi que les nombreuses manipulations auxquels il est sujet&nbsp;— sert souvent d’excuse pour ne pas oser y toucher. Dans les écoles, on se «&nbsp;contente&nbsp;» trop souvent de faire de l’éducation à la citoyenneté. Or, la citoyenneté —&nbsp;et la paix&nbsp;— impliquent forcément la reconnaissance des différences culturelles… et cultuelles. Ne pas aborder cet aspect de la réalité, c’est de la myopie intellectuelle&nbsp;! Pire&nbsp;: c’est former les générations du futur à la médiocrité.&nbsp;»[^2]
 
-#####
-Les relations interreligieuses et interculturelles
+###### Les relations interreligieuses et interculturelles
 
 Les relations interreligieuses et interculturelles, plus particulièrement à la suite du «&nbsp;Document sur la Fraternité humaine pour la paix mondiale et la coexistence commune&nbsp;», résultant de la rencontre, à Abou Dhabi en 2019, entre le pape François et le cheikh Ahmad al Tayyeb, doivent être favorisées car elles sont de nature à une connaissance réciproque et à une reconnaissance de leur identité essentielle.
 
 Depuis le début de l’humanité, les religions proposent des réponses fondamentales aux questions existentielles. La laïcité doit permettre aux croyants de trouver les conditions d’une pratique sereine de leur foi. Comme l’écrivait déjà Alain Gresh en 2014, il est temps pour la République de reconsidérer l’éducation qu’elle donne à ses enfants, en retrouvant l’inspiration originelle de la loi de 1905 sur la séparation de l’Eglise et de l’Etat, de la Constitution et de la Déclaration Universelle des Droits de l’Homme.[^3]
 
-**Il conviendrait aujourd’hui d’accepter pleinement et sans discrimination la présence pacifique des religions dans l’espace public, en leur accordant la place qui leur revient, et ce, afin d’éviter que la sphère privée ne devienne le lieu exclusif d’échanges d’opinions ou de points de vue individuels sur tout ce qui touche au domaine religieux.
+I**l conviendrait aujourd’hui d’accepter pleinement et sans discrimination la présence pacifique des religions dans l’espace public, en leur accordant la place qui leur revient, et ce, afin d’éviter que la sphère privée ne devienne le lieu exclusif d’échanges d’opinions ou de points de vue individuels sur tout ce qui touche au domaine religieux.**
 
-L’expérience a —&nbsp;hélas&nbsp;!&nbsp;— montré que ces espaces privés, les réseaux sociaux en particulier, peuvent devenir le lieu de prédilection d’un endoctrinement des esprits et de la manipulation des masses, notamment à travers les nouveaux moyens de communication où chacun peut, à sa guise, et sans aucun discernement ou contrôle, trouver tout ce qu’il désire pour réinterpréter à sa façon le message des religions ou, pire encore, se «&nbsp;fabriquer&nbsp;» sa propre religion.
+**L’expérience a —&nbsp;hélas&nbsp;!&nbsp;— montré que ces espaces privés, les réseaux sociaux en particulier, peuvent devenir le lieu de prédilection d’un endoctrinement des esprits et de la manipulation des masses, notamment à travers les nouveaux moyens de communication où chacun peut, à sa guise, et sans aucun discernement ou contrôle, trouver tout ce qu’il désire pour réinterpréter à sa façon le message des religions ou, pire encore, se «&nbsp;fabriquer&nbsp;» sa propre religion.**
 
-Il nous semble ainsi qu’il est possible, et même nécessaire, de présenter les différentes traditions spirituelles et les pratiques religieuses dans la société contemporaine, de façon sereine et constructive, dans le respect des sensibilités et des droits de chacun, pour favoriser des échanges véritablement enrichissants et un vivre-ensemble harmonieux.**
+**Il nous semble ainsi qu’il est possible, et même nécessaire, de présenter les différentes traditions spirituelles et les pratiques religieuses dans la société contemporaine, de façon sereine et constructive, dans le respect des sensibilités et des droits de chacun, pour favoriser des échanges véritablement enrichissants et un vivre-ensemble harmonieux.**
 
 AbdAllah Yahya Darolles, vice-président de l’IHEI
 
-[^1]: Yahya Pallavicini, “Il faut enseigner la différence entre explication et manipulation de la doctrine religieuse&nbsp;», Alma & Georges, 29/10/2020 (https://www3.unifr.ch/alma-georges/articles/2020/il-faut-enseigner-la-difference-entre-explication-et-manipulation-de-la-doctrine-religieuse).
+[^1]: Yahya Pallavicini, «&nbsp;Il faut enseigner la différence entre explication et manipulation de la doctrine religieuse&nbsp;», Alma & Georges, 29/10/2020 (https://www3.unifr.ch/alma-georges/articles/2020/il-faut-enseigner-la-difference-entre-explication-et-manipulation-de-la-doctrine-religieuse).
 [^2]: Yahya Pallavicini, «&nbsp;Il faut enseigner la différence entre explication et manipulation de la doctrine religieuse&nbsp;», Alma & Georges, 29/10/2020 (https://www3.unifr.ch/alma-georges/articles/2020/il-faut-enseigner-la-difference-entre-explication-et-manipulation-de-la-doctrine-religieuse).
 [^3]: http://blog.mondediplo.net/2014-06-30-Laicite-il-est-temps-de-se-ressaisir
