@@ -28,6 +28,8 @@ Dans un second temps, nous évoquerons l’origine et les manifestations de l’
 
 ##### L’islam, les religions et la laïcité
 
+
+
 ###### L’islam, une religion comme une autre
 
 Pour un croyant musulman, l’islam est une religion révélée par le Dieu Unique de tous les hommes, tout comme les religions précédentes, et ne saurait être confondu, en quoi que ce soit, avec une idéologie ou une organisation politique à visée temporelle.
@@ -46,7 +48,7 @@ De nombreux versets du Coran insistent aussi sur le fait de ne converser avec au
 
 Aucun de ces éléments constitutifs de l’islam et de toute religion ne peut être en contradiction avec la vie en société ou l’institution publique, dans la mesure où, d’un côté, la morale religieuse ne saurait s’opposer à la morale civique, et où, de l’autre, l’institution garantit la liberté de culte. Pratique rituelle, morale religieuse et morale civique se situent donc sur des plans différents.
 
-###### **La révélation coranique confirme et protège la dignité des révélations précédentes**
+###### La révélation coranique confirme et protège la dignité des révélations précédentes
 
 Contrairement à une idée répandue, l’islam reconnaît, respecte et valorise la diversité des religions.
 
@@ -60,7 +62,7 @@ Par ailleurs, le Coran appelle les gens du Livre, en particulier les juifs et le
 
 Enfin, le Prophète Muhammad disait que «&nbsp;les prophètes sont des frères aux mères différentes mais dont la religion est unique&nbsp;». C’est ainsi qu’il était intervenu, à l’occasion d’une algarade entre deux croyants de religion différente, en leur disant&nbsp;: «&nbsp;Ne préférez pas certains prophètes au détriment des autres&nbsp;!&nbsp;».
 
-###### **La distinction dans l’islam entre le domaine spirituel et le domaine temporel**
+###### La distinction dans l’islam entre le domaine spirituel et le domaine temporel
 
 De même que les religions ne sauraient s’opposer entre elles, de même l’islam, comme toute religion authentique, ne saurait s’opposer à une société dont l’organisation politique entend se distinguer de la religion.
 
@@ -168,8 +170,10 @@ Les violences qui sont le fait des islamistes radicaux n’ont rien à voir avec
 L’écrasante majorité des musulmans dans le monde pratiquent un islam authentiquement spirituel et pacifique. Cependant, une minorité très visible, voulant imposer leur propre vision du monde à tous, s’est organisée sous forme de mouvements politico-religieux plus ou moins fondamentalistes, comme le mouvement des Frères musulmans. A l’intérieur de ces mouvements se trouvent des dissidences prêtes à justifier l’instauration de leur idéologie par toutes les formes de violence. Ce sont ces dissidences millénaristes qui sont à l’œuvre au Moyen-Orient, en Lybie, et désormais dans des raids en Europe, avec les moyens offerts par le monde moderne&nbsp;: médias, internet, exploitation du pétrole, équipements militaires, etc.
 
 Le wahhabisme et le salafisme inondent les librairies dites «&nbsp;islamiques&nbsp;» de fascicules et d’ouvrages littéralistes, formalistes, sans réelle portée intellectuelle, caricaturant l’islam, ignorant la spiritualité, ses grands maîtres, tout autant que sa richesse artistique et culturelle.
-•	Ce courant promeut une vision politique de l’islam, pour changer et combattre nos sociétés. 
-•	Ces forces ont des moyens considérables qui leur permettent de propager leur vision, sachant que les pays qui en sont les foyers d’origine sont aussi -paradoxalement- des alliés de l’Occident. 
+
+* Ce courant promeut une vision politique de l’islam, pour changer et combattre nos sociétés. 
+
+* Ces forces ont des moyens considérables qui leur permettent de propager leur vision, sachant que les pays qui en sont les foyers d’origine sont aussi —&nbsp;paradoxalement&nbsp;— des alliés de l’Occident. 
 
 Les formes de radicalisation violente qui ont frappé l’Europe, et particulièrement la France, sont un phénomène néanmoins complexe et multifactoriel qui a poussé des populations, jeunes en général, à rejoindre le prétendu «&nbsp;Etat islamique&nbsp;» ou à commettre des attentats sur le sol européen, sans oublier d’autres attentats, encore plus nombreux, commis en Afrique, en Asie ou au Maghreb, au sein des populations musulmanes, qui restent les premières victimes du terrorisme islamiste.
 
@@ -233,7 +237,7 @@ La connaissance et la compréhension de l’Islam souhaitées par le président 
 
 C’est cette vision et cette pratique d’un islam universel, spirituel et citoyen, partagé dans le cadre du dialogue interreligieux, respectueux, comme on l’a vu, des valeurs et des lois de la république, que notre Institut s’efforce de présenter et de représenter depuis plus d’une vingtaine d’années, à travers nombre d’articles de réflexion, de publications, de conférences, d’expositions et de collaborations, au sein de réseaux nationaux et internationaux.
 
-###### Rétrospectives et perspectives
+##### Rétrospectives et perspectives
 
 Cette œuvre de «&nbsp;vivification&nbsp;» de la religion islamique, qui doit inspirer le travail indispensable d’approfondissement spirituel, intellectuel et théologique, mais aussi d’adéquation au vivre-ensemble dans une société républicaine, est conduite par des intellectuels musulmans français et européens, dans le cadre de centres d’études indépendants comme l’Institut des Hautes Etudes Islamiques ou encore la COREIS (Communauté Religieuse Islamique) Italienne, que les pouvoirs publics devraient avoir à cœur d’associer à une démarche comme celle entreprise par le président de la République.
 
