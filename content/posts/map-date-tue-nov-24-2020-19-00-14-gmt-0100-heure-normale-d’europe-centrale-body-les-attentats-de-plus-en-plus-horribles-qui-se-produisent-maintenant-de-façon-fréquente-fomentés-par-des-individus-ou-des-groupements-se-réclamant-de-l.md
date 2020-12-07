@@ -1,6 +1,7 @@
 ---
 titre: "Compatibilité de l’islam : fausse question et bonnes réponses"
 date: 2020-11-24T18:00:14.144Z
+auteur: AbdAllah Yahya Darolles
 category: Islam et République
 annexes: []
 ---
@@ -94,7 +95,7 @@ Les valeurs de la République favorisant le vivre-ensemble dans la société fra
 
 Sans viser à l’exhaustivité, il convient d’en évoquer les principaux déterminants&nbsp;: la citoyenneté&nbsp;; la sécurité des personnes et des biens&nbsp;; la liberté religieuse et de conscience&nbsp;; la liberté d’expression.
 
-**La citoyenneté**
+###### La citoyenneté
 
 Comme on le sait, la Constitution française de 1958 proclame que «&nbsp;la France est une République indivisible, laïque, démocratique et sociale…. Elle assure l’égalité devant la loi de tous les citoyens sans distinction d’origine, de race ou de religion. Elle respecte toutes les croyances&nbsp;». Distinguant le domaine religieux et le champ temporel, la République assure donc l’égalité de tous les citoyens sans discrimination, tout en respectant les croyances.
 
@@ -108,7 +109,7 @@ Les vertus que doivent pratiquer les musulmans dans ce monde, en vue de leur sal
 
 La fraternité affirmée par la Déclaration universelle des droits de l’homme et par la Constitution française trouve un écho particulier en la fraternité promue par l’Islam&nbsp;: «&nbsp;Aucun d’entre vous n’est un véritable croyant tant qu’il n’aimera pour son frère ce qu’il aime pour lui-même&nbsp;» (parole du Prophète).
 
-###### **La sécurité des personnes et des biens**
+###### La sécurité des personnes et des biens
 
 Conformément à la Déclaration universelle et à la Convention européenne des droits de l’homme, «&nbsp;le droit de toute personne à la vie est protégé par la loi&nbsp;», et conformément à l’article 12 de la Déclaration des droits de l’homme et du citoyen de 1789, «&nbsp;la garantie des droits de l’homme et du citoyen nécessite une force publique&nbsp;».
 
@@ -118,7 +119,7 @@ Dans la Constitution ou Charte de Médine tout autant que dans les pactes passé
 
 L’islam est, par nature, synonyme de «&nbsp;paix&nbsp;», et la foi, de «&nbsp;sécurité&nbsp;». Lors de son pèlerinage d’adieu, le Prophète Muhammad a prononcé un sermon resté célèbre dans lequel il a notamment recommandé à sa communauté de vivre la foi et l’islam dans un esprit de bonté, de paix, d’honnêteté et d’harmonie avec les autres&nbsp;: «&nbsp;Le croyant est celui avec qui les gens se sentent en sécurité sans craindre pour leurs biens ou leurs personnes. Le musulman est celui qui n’offense personne par un acte ou une parole.&nbsp;»
 
-###### **La liberté religieuse**
+###### La liberté religieuse
 
 Conformément au Pacte international des droits civiques et politiques, pris en application de la Déclaration universelle des droits de l’homme et ratifié par l’Etat français&nbsp;: «&nbsp;Toute personne a le droit d’avoir ou d’adopter une religion ou une conviction de son choix, ainsi que la liberté de manifester sa religion, tant en public qu’en privé, par le culte et l’accomplissement des rites, les pratiques et l’enseignement&nbsp;» et «&nbsp;Nul ne subira de contrainte pouvant porter atteinte à sa liberté d’avoir ou d’adopter une religion ou une conviction de son choix&nbsp;».
 
@@ -130,7 +131,7 @@ La foi est une adhésion volontaire et, pour le croyant, un don de Dieu. La conv
 
 Le rapport à la diversité est envisagé de façon plus générale à travers une vision universaliste fondée sur la sagesse de Dieu&nbsp;: «&nbsp;Ô Hommes, Nous avons créés à partir d’un homme et d’une femme, et Nous vous avons réparti en peuples et en tribus, pour que vous fassiez connaissance entre vous&nbsp;» (Coran 49&nbsp;: 13). La variété des religions, des couleurs, des origines, des langues, des caractères est l’effet de la Volonté divine. C’est un signe de Dieu qui concourt à l’harmonie entre les hommes. Dans la sagesse musulmane, les désaccords doivent être source de richesse et non de conflits.
 
-###### **La liberté d’expression**
+###### La liberté d’expression
 
 Conformément à la Déclaration universelle, à la Convention européenne des droits de l’homme et au Préambule de la Constitution française&nbsp;: «&nbsp;Toute personne a droit à la liberté d’expression&nbsp;».
 
@@ -282,9 +283,9 @@ Les relations interreligieuses et interculturelles, plus particulièrement à la
 
 Depuis le début de l’humanité, les religions proposent des réponses fondamentales aux questions existentielles. La laïcité doit permettre aux croyants de trouver les conditions d’une pratique sereine de leur foi. Comme l’écrivait déjà Alain Gresh en 2014, il est temps pour la République de reconsidérer l’éducation qu’elle donne à ses enfants, en retrouvant l’inspiration originelle de la loi de 1905 sur la séparation de l’Eglise et de l’Etat, de la Constitution et de la Déclaration Universelle des Droits de l’Homme.[^3]
 
-I**l conviendrait aujourd’hui d’accepter pleinement et sans discrimination la présence pacifique des religions dans l’espace public, en leur accordant la place qui leur revient, et ce, afin d’éviter que la sphère privée ne devienne le lieu exclusif d’échanges d’opinions ou de points de vue individuels sur tout ce qui touche au domaine religieux.**
+**Il conviendrait aujourd’hui d’accepter pleinement et sans discrimination la présence pacifique des religions dans l’espace public, en leur accordant la place qui leur revient, et ce, afin d’éviter que la sphère privée ne devienne le lieu exclusif d’échanges d’opinions ou de points de vue individuels sur tout ce qui touche au domaine religieux.
 
-**L’expérience a —&nbsp;hélas&nbsp;!&nbsp;— montré que ces espaces privés, les réseaux sociaux en particulier, peuvent devenir le lieu de prédilection d’un endoctrinement des esprits et de la manipulation des masses, notamment à travers les nouveaux moyens de communication où chacun peut, à sa guise, et sans aucun discernement ou contrôle, trouver tout ce qu’il désire pour réinterpréter à sa façon le message des religions ou, pire encore, se «&nbsp;fabriquer&nbsp;» sa propre religion.**
+**L’expérience a —&nbsp;hélas&nbsp;!&nbsp;— montré que ces espaces privés, les réseaux sociaux en particulier, peuvent devenir le lieu de prédilection d’un endoctrinement des esprits et de la manipulation des masses, notamment à travers les nouveaux moyens de communication où chacun peut, à sa guise, et sans aucun discernement ou contrôle, trouver tout ce qu’il désire pour réinterpréter à sa façon le message des religions ou, pire encore, se «&nbsp;fabriquer&nbsp;» sa propre religion.
 
 **Il nous semble ainsi qu’il est possible, et même nécessaire, de présenter les différentes traditions spirituelles et les pratiques religieuses dans la société contemporaine, de façon sereine et constructive, dans le respect des sensibilités et des droits de chacun, pour favoriser des échanges véritablement enrichissants et un vivre-ensemble harmonieux.**
 
