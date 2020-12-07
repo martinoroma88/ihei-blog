@@ -6,7 +6,7 @@ auteur: Shaykh Abd al-Wahid Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606300338/ihei/couvertures/auditorium-83_hz27q3.jpg
 category: Dialogue interreligieux
 annexes:
-  - titre: Monothéisme et entente inter-religieuse
+  - titre: Le Monothéisme abrahamique contre le terrorisme
     url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606745809/ihei/PDF/Le_Monothéisme_abrahamique_contre_le_terrorisme_1_sibl9e.pdf
 ---
 
