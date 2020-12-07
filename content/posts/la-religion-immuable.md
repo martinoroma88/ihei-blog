@@ -2,12 +2,9 @@
 titre: "La religion immuable"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586814/ihei/couvertures/dialogue-interreligieux-8_iz21my.jpg"
-categories: 
-	- "Dialogue interreligieux"
-souscategorie: 
-	- "dialogue-avec-les-autres-traditions"
-auteur: 
-	- "Shaykh Abd al-Wahid Pallavicini"
+category: "Dialogue interreligieux"
+subcategory: "dialogue-avec-les-autres-traditions"
+auteur: "Shaykh Abd al-Wahid Pallavicini"
 ---
 
 Les conceptions de l’écologie moderne ont l’habitude d’opposer l’homme à son milieu, en prétendant sauver celui-ci de celui-là. Ce faisant, elles ignorent non seulement que tous deux, l’homme et le milieu, font partie d’un tout que l’on peut comprendre proprement comme la nature, mais elles oublient en outre quelle est la vraie nature du monde et quelle est la vraie nature de l’homme.

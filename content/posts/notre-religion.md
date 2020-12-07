@@ -2,10 +2,8 @@
 titre: "Notre religion est de paix, d’amour et de sincérité"
 date: "2020-09-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-8_yj3onv.jpg"
-categories:
-    - "Islam en pratique"
-auteur: 
-	- "Jawad Bossa"
+category: "Islam en pratique"
+auteur: "Jawad Bossa"
 ---
 
 Comment se fait-il que les terroristes qui prononcent Allahu akbar «&nbsp;Dieu est plus grand&nbsp;», prient dans les mosquées, font le Ramadan, lisent le Coran, soient si différents des musulmans qui font pourtant la même chose&nbsp;? En quoi sont-ils différents&nbsp;? Pourquoi sont-ils en désaccord&nbsp;? 

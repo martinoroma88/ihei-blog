@@ -3,8 +3,7 @@ titre: "Les Cahiers 8"
 soustitre: "Unicité et Universalité"
 date: "2020-09-08"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/c08_vlhiv3.jpg"
-categories:
-    - "Les Cahiers"
+category: "Les Cahiers"
 annexes:
   - titre: "La religion immuable"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736142/ihei/PDF/Les%20Cahiers/Les%20Cahiers%208/La-religion-immuable_i7apso.pdf"

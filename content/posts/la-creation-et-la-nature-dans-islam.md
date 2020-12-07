@@ -1,13 +1,9 @@
 ---
-titre: "La création
-et le rapport à la nature
-dans l’islam"
+titre: "La création et le rapport à la nature dans l’islam"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604580595/ihei/couvertures/islam-et-environnement_2_isu6g6.jpg"
-categories: 
-	- "Environnement"
-auteur: 
-	- "Abd ar-Rashid Bossa"
+category: "Environnement"
+auteur: "Abd ar-Rashid Bossa"
 ---
 
 Dans un hadîth *qudsî*, c’est-à-dire une tradition prophétique dans laquelle Dieu parle à la première personne, Dieu dit&nbsp;: 

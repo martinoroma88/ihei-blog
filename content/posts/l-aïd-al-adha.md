@@ -2,10 +2,8 @@
 titre: "L’Aïd al-Adhâ et le monothéisme abrahamique"
 date: "2020-09-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-5_y5dbeg.jpg"
-categories:
-    - "Islam en pratique"
-auteur: 
-	- "Abd-al-Wadoud Yahya Gouraud"
+category: "Islam en pratique"
+auteur: "Abd-al-Wadoud Yahya Gouraud"
 ---
 
 Les musulmans de France et du monde entier célèbrent en ces jours bénis l’*Aïd al-Adhâ*, «&nbsp;la fête du Sacrifice&nbsp;», appelée également *Aïd al-Kabîr*, «&nbsp;la grande fête&nbsp;», qui marque la fin de la période du Pèlerinage à La Mecque. Comme son nom l’indique, cette célébration annuelle commémore le sacrifice offert à Dieu par Abraham, dont l’obéissance et la profondeur de la foi lui ont notamment valu l’appellation d’«&nbsp;ami de Dieu&nbsp;» dans le Coran. Selon le texte sacré, le prophète s’était vu, lors d’un songe, en train d’immoler son fils. Lorsque Abraham demanda à celui-ci ce qu’il en pensait, le fils répondit à son père de faire ce qui lui était commandé, lui assurant qu’il le trouverait patient, *in sha’Allah*, «&nbsp;si Dieu le veut&nbsp;». Tous deux, se soumettant activement à ce qu’ils considéraient comme un ordre divin, s’apprêtaient donc à accomplir le sacrifice lorsque Dieu appela Abraham&nbsp;: ce dernier avait réussi à surmonter l’épreuve divine, et le sacrifice du fils fut substitué par celui d’un animal.* «&nbsp;Et Nous perpétuâmes son renom dans la postérité. Que la Paix soit sur Abraham&nbsp;! C’est ainsi que Nous récompensons les vertueux, car il fut sans conteste du nombre de Nos serviteurs croyants&nbsp;»*, finit le récit coranique[^1]. Aujourd’hui, comme alors, les musulmans sacrifient un agneau en souvenir d’Abraham et de son fils, pour qu’ils puissent non seulement faire revivre la tradition de leurs pères, mais surtout se conformer à l’enseignement de ces prophètes qui sont les modèles des *hunafâ’ muslimûn,* les purs adorateurs du Dieu unique, pleinement soumis à Sa volonté dans la Paix.

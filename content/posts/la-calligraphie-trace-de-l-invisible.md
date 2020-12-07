@@ -2,8 +2,7 @@
 titre: "La Calligraphie, trace de l'Invisible"
 date: "2020-09-02"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606251628/ihei/couvertures/images_jfucyj.jpg"
-categories: 
-    - "Art et Islam"
+category: "Art et Islam"
 ---
 
 Au début des manuels traditionnels de calligraphie arabe, on trouve, écrite en exergue, la tradition prophétique (*hadîth*) suivante&nbsp;: 

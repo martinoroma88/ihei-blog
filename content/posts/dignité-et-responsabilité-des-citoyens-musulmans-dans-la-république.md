@@ -2,10 +2,8 @@
 titre: "Dignité et responsabilité des citoyens musulmans"
 date: "2020-10-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586239/ihei/couvertures/islam-et-republique-1_fsdqhx.jpg"
-categories: 
-	- "Islam et République"
-auteur: 
-	- "IHEI"
+category: "Islam et République"
+auteur: "IHEI"
 ---
 
 Le crime barbare qui a coûté la vie à Samuel Paty, le 16 octobre dernier, illustre de manière tragique les conséquences d’une manipulation de l’islam à des fins personnelles et idéologiques. 

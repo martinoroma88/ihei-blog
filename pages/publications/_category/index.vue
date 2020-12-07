@@ -19,9 +19,9 @@
 			const category = categories.find(c => c.slug === params.category);
 			if (!category) return error({statusCode: 404})
 
-			const posts = await $content("publications").where({ categories: { $contains: category.titre } }).sortBy("date", "desc").fetch();
+			const posts = await $content("publications").where({ category: { $contains: category.titre } }).sortBy("date", "desc").fetch();
 			posts.forEach((p, i) => {
-				p.category = category;
+				p.categoryPopulated = category;
 			})
 			
 			return { categories, category, posts };

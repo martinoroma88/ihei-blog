@@ -2,8 +2,7 @@
 titre: "Il Messaggio - Le Message N°13"
 date: "2020-09-13"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604656266/ihei/couvertures/publications-12_pnncaa.jpg"
-categories:
-    - "Il Messaggio - Le Message"
+category: "Il Messaggio - Le Message"
 ---
 
 

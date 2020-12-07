@@ -2,10 +2,8 @@
 titre: "La nuit du Destin : Laylat al-Qadr"
 date: "2020-09-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-4_wodu2w.jpg"
-categories:
-    - "Islam en pratique"
-auteur: 
-	- "Abd-al-Wadoud Yahya Gouraud"
+category: "Islam en pratique"
+auteur: "Abd-al-Wadoud Yahya Gouraud"
 ---
 
 Par la volonté d’Allah et Sa grâce, nous nous trouvons dans la dernière décade du mois béni de Ramadan. Après la première décade marquée par la Miséricorde, puis la deuxième marquée par le Pardon, nous voilà dans la dernière étape de l’itinéraire de transformation et de purification spirituelles, la phase de l’affranchissement du feu qui aboutit au salut de l’âme, lorsqu’on vient à Allah *bi qalbin salîm*, le c&oelig;ur sain et sauf&nbsp;:

@@ -2,10 +2,8 @@
 titre: "Etre citoyen d’Europe et homme de foi"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-4_hexnhw.jpg"
-categories: 
-	- "Islam et République"
-auteur: 
-	- "Yahya Pallavicini"
+category: "Islam et République"
+auteur: "Yahya Pallavicini"
 ---
 
 A Bruxelles, lors de la Conférence christiano-musulmane, l’imam Yahya Pallavicini, Président de l’IHEI et vice-président de COREIS (Communauté religieuse islamique) italienne, a rappelé la nécessité de protéger tous les symboles religieux&nbsp;: 

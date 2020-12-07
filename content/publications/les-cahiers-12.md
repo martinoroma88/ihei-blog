@@ -3,8 +3,7 @@ titre: "Les Cahiers 12"
 soustitre: "La recherche de la Connaissance et la Servitude spirituelle"
 date: "2020-09-12"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125409/ihei/couvertures/c12_qznsaw.jpg"
-categories:
-    - "Les Cahiers"
+category: "Les Cahiers"
 annexes:
   - titre: "La philosophie islamique et la recherche de la Connaissance"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736140/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2012/La-philosophie-islamique_c0zuju.pdf"

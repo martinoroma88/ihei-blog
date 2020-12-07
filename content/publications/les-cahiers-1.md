@@ -3,8 +3,7 @@ titre: "Les Cahiers 1"
 soustitre: "L'Identité du Dieu unique du Christianisme et de l'Islam"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/c01_tlacdg.jpg"
-categories:
-    - "Les Cahiers"
+category: "Les Cahiers"
 annexes:
   - titre: "La doctrine islamique du tawhîd : la reconnaissance métaphysique de l’unité des Révélations divines"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736137/ihei/PDF/Les%20Cahiers/Les%20Cahiers%201/La-doctrine-islamique_zdf0iw.pdf"

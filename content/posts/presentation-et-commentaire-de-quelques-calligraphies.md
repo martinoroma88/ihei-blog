@@ -2,10 +2,8 @@
 titre: "Présentation et commentaire de quelques calligraphies"
 date: "2020-09-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606251629/ihei/couvertures/main-image_brtbhd.jpg"
-categories:
-    - "Art et Islam"
-auteur: 
-	- "Abd-al-Wadoud Yahya Gouraud"
+category: "Art et Islam"
+auteur: "Abd-al-Wadoud Yahya Gouraud"
 ---
 
 ![Calligraphie 1](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-01_rof1zv.jpg "Calligraphie 1")

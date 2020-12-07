@@ -2,10 +2,8 @@
 titre: "La quête de l’identité suprême dans l’islam"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584952/ihei/couvertures/soufisme-et-spiritualites-7_viavrs.jpg"
-categories: 
-	- "Soufisme et Spiritualités"
-auteur: 
-	- "Abd al-Haqq Ismaïl Guiderdoni"
+category: "Soufisme et Spiritualités"
+auteur: "Abd al-Haqq Ismaïl Guiderdoni"
 ---
 
 Le développement de l’individualisme, les détours de la philosophie et les avancées du progrès scientifique et technique nous ont conduits désormais à penser le monde comme une vaste étendue où le hasard et la nécessité seraient seuls à l’&oelig;uvre. Ce monde ne recevrait son sens que par l’homme qui, lui-même, n’aurait pas de sens, sinon celui qu’il voudrait bien donner, en un acte de liberté gratuite, à sa vie.

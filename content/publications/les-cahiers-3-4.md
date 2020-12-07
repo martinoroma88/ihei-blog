@@ -3,8 +3,7 @@ titre: "Les Cahiers 3-4"
 soustitre: "Connaissance et Enseignement"
 date: "2020-09-03"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/c034_wdnfjo.jpg"
-categories:
-    - "Les Cahiers"
+category: "Les Cahiers"
 annexes:
   - titre: "A la recherche du savoir : Raison et Révélation"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736141/ihei/PDF/Les%20Cahiers/Les%20Cahiers%203-4/A-la-recherche-du-savoir_ajesuz.pdf"

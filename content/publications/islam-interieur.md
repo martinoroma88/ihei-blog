@@ -2,10 +2,8 @@
 titre: "L'Islam intérieur"
 date: "2020-09-01"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604655253/ihei/couvertures/publications-3_qja2fa.jpg"
-categories: 
-    - "Essais"
-auteur: 
-    - "Shaykh Abd al-Wahid Pallavicini"
+category: "Essais"
+auteur: "Shaykh Abd al-Wahid Pallavicini"
 ---
 
 Il ne s’agit pas d’un traité de plus sur l’islam, ni même sur le soufisme, mais la transmission d’un goût particulier, inconnu de la plupart de nos contemporains, mais recherché plus ou moins consciemment par tous&nbsp;: le goût de la spiritualité qui donne un sens à la vie. Ce qui est offert n’est pas un enseignement abstrait, mais le témoignage et l’exemple vécus d’un chemin de contemplation et d’action «&nbsp;au service de Dieu&nbsp;», une voie de connaissance parcourue au sein d’une communauté initiatique qui montre la possibilité d’une vie spirituelle «&nbsp;ici et maintenant&nbsp;».

@@ -2,10 +2,8 @@
 titre: "Fraternité, développement économique et société civile"
 date: "2020-10-06"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-5_ynokno.jpg"
-categories: 
-	- "Islam et République"
-auteur: 
-	- "IHEI"
+category: "Islam et République"
+auteur: "IHEI"
 annexes:
   - titre: "Fraternite-finance-islamique"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606746108/ihei/PDF/Fraternite-finance-islamique_l4lkse.pdf"

@@ -3,8 +3,7 @@ titre: "Les Cahiers 10"
 soustitre: "L'engagement spirituel : contemplation et action"
 date: "2020-09-10"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125409/ihei/couvertures/c10_id4ax7.jpg"
-categories:
-    - "Les Cahiers"
+category: "Les Cahiers"
 annexes:
   - titre: "La consultation des musulmans de France de la nécessité spirituelle du culte à l’organisation actuelle de l’islam"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736137/ihei/PDF/Les%20Cahiers/Les%20Cahiers%2010/La-consultation_sdxs3f.pdf"

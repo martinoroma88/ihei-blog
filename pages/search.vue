@@ -45,8 +45,8 @@ export default {
 				.fetch()
 
 			posts.forEach((p, i) => {
-				let c = categories.find(c => p.categories.includes(c.titre));
-				p.category = c;
+				let c = categories.find(c => p.category === c.titre);
+				p.categoryPopulated = c;
 			});
 
 			this.posts = posts;
@@ -59,9 +59,9 @@ export default {
 				.fetch()
 			
 			publications.forEach((p, i) => {
-				if(p.categories) {
-					let c = publicationCategories.find(c => p.categories.includes(c.titre));
-					p.category = c;
+				if(p.category) {
+					let c = publicationCategories.find(c => p.category === c.titre);
+					p.categoryPopulated = c;
 				}
 			})
 

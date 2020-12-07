@@ -3,8 +3,7 @@ titre: "Les Cahiers 2"
 soustitre: "Effort spirituel et sainteté"
 date: "2020-09-02"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/c02_fatfnj.jpg"
-categories:
-    - "Les Cahiers"
+category: "Les Cahiers"
 annexes:
   - titre: "Jésus dans l'islam"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736140/ihei/PDF/Les%20Cahiers/Les%20Cahiers%202/Jesus-dans-l-islam_qr7znj.pdf"
