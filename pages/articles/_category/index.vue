@@ -19,7 +19,7 @@
 				const categories = await $content("categories").sortBy("ordre", "asc").fetch();
 				const category = categories.find(c => c.slug === params.category);
 				
-				const posts = await $content("posts").where({ categories: { $contains: category.titre } }).sortBy("date", "desc").fetch();
+				const posts = await $content("posts").where({category : category.titre}).only(["titre", "couverture", "url", "slug", "auteur", "category"]).sortBy("date", "desc").fetch();
 				posts.forEach((p, i) => {
 					p.categoryPopulated = category;
 				})
