@@ -4,6 +4,9 @@ date: 2020-12-07T18:00:00.000Z
 auteur: " AbdAllah Yahya Darolles "
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1607366857/ihei/files/DSC_0293_jwd99a.jpg
 category: Islam et République
+annexes:
+  - titre: "Compatibilité de l’islam : fausse question et bonnes réponses"
+    url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1607459753/ihei/PDF/Compatibilite%CC%81_de_l_islam_hrtruh.pdf
 ---
 Les attentats, de plus en plus horribles, qui se produisent, maintenant de façon fréquente, fomentés par des individus ou des groupements se réclamant de l’islam, provoquent un état de sidération tant chez les non-musulmans que chez les musulmans.
 
