@@ -1,15 +1,15 @@
 ---
-titre: "Calligraphie et Parole de Dieu"
-date: "2020-09-01"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606251403/ihei/couvertures/quran_old_iz1cj0.webp"
-category: "Art et Islam"
-auteur: "Abd-al-Wadoud Yahya Gouraud"
+titre: Calligraphie et Parole de Dieu
+date: 2020-09-01
+auteur: Abd-al-Wadoud Yahya Gouraud
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606251403/ihei/couvertures/quran_old_iz1cj0.webp
+category: Art et Islam
 ---
+Au début des manuels traditionnels de calligraphie arabe, on trouve, écrite en exergue, la tradition prophétique, *hadîth*, suivante&nbsp;: 
 
-Au début des manuels traditionnels de calligraphie arabe, on trouve, écrite en exergue, la tradition prophétique (hadîth) suivante&nbsp;: 
 > Celui qui écrit la formule *bismi-Llâhi-r-rahmâni-r-rahîm*, tout en l’embellissant, entre au Paradis.
 
-Cette phrase, appelée basmala, signifie «&nbsp;au nom de Dieu, le Tout-Miséricordieux, le Très-Miséricordieux&nbsp;», et introduit chacune des sourates du Coran, à l’exception de la sourate IX (Le repentir). Elle se présente ainsi comme la clef qui ouvre les portes du monde infini de la Parole de Dieu. Elle consacre aussi chaque acte accompli par le musulman avec une intention qui sacralise son existence dans le souvenir vécu de Dieu. Ce souvenir, *dhikr*, qui en arabe est également synonyme de «&nbsp;mention&nbsp;», d’ «&nbsp;invocation&nbsp;», est justement l’un des noms que porte le Coran, parce qu’il est le rappel de la Parole de Dieu adressé à l’homme, oublieux par nature, et parce qu’il réactualise, sous une forme nouvelle et ultime, le témoignage de l’Unicité divine qui représente le message unique apporté par tous les prophètes et les messagers (*alayhimu-s-salâm*), depuis le premier d’entre eux, Adam, jusqu’à Muhammad, «&nbsp;sceau des Prophètes&nbsp;», *khâtam an-nabiyyîn*.
+Cette phrase, appelée *basmala*, signifie «&nbsp;au nom de Dieu, le Tout-Miséricordieux, le Très-Miséricordieux&nbsp;», et introduit chacune des sourates du Coran, à l’exception de la sourate IX (Le repentir). Elle se présente ainsi comme la clef qui ouvre les portes du monde infini de la Parole de Dieu. Elle consacre aussi chaque acte accompli par le musulman avec une intention qui sacralise son existence dans le souvenir vécu de Dieu. Ce souvenir, *dhikr*, qui en arabe est également synonyme de «&nbsp;mention&nbsp;», d’ «&nbsp;invocation&nbsp;», est justement l’un des noms que porte le Coran, parce qu’il est le rappel de la Parole de Dieu adressé à l’homme, oublieux par nature, et parce qu’il réactualise, sous une forme nouvelle et ultime, le témoignage de l’Unicité divine qui représente le message unique apporté par tous les prophètes et les messagers (*alayhimu-s-salâm*), depuis le premier d’entre eux, Adam, jusqu’à Muhammad, «&nbsp;sceau des Prophètes&nbsp;», *khâtam an-nabiyyîn*.
 
 S’Il Se manifeste sous des formes multiples, adaptées à des peuples vivants dans des conditions différentes d’espace et de temps, le Verbe de Dieu demeure en Soi éternel et immuable&nbsp;: «&nbsp;Pas de changement dans les Paroles de Dieu&nbsp;»[^1] révèle le Coran. La multiplicité des révélations n’épuise en rien le Verbe de Dieu&nbsp;: 
 
@@ -24,7 +24,8 @@ C’est ainsi que le Coran porte en lui, tant dans sa dimension orale que dans s
 La révélation est un processus analogue, dans son ordre, à celui de la Création elle-même&nbsp;: elles sont toutes deux l’&oelig;uvre du Verbe et l’effet de la Parole de Dieu. Dans la langue sacrée du Coran, le terme *âyât* désigne à la fois les versets coraniques et les signes de Dieu dans la Création&nbsp;; c’est pourquoi le monde est comme un langage divin pour ceux qui savent le comprendre, comme un immense livre dont les caractères, écrits de la même encre par la plume divine, seraient les êtres. Dans ce sens, les versets coraniques contiennent les marques «&nbsp;évidentes&nbsp;», *bayyinât*, du Verbe éternel, inscrites dans le courant du temps, qui indiquent et révèlent la Présence invisible de Dieu. Ce mystérieux paradoxe explique la raison pour laquelle, selon la doctrine islamique orthodoxe, le Coran est à la fois incréé dans son essence qui s’identifie au Verbe de Dieu, et créé dans sa forme arabe faite de lettres, de mots et de sonorités. Seul un langage suffisamment transparent peut communiquer un tel mystère. 
 
 Cette notion de «&nbsp;langue sacrée&nbsp;» est indispensable pour comprendre le caractère symbolique qui se rattache aux lettres arabes, notamment sous leur aspect graphique, et qui dépend de ce que l’on nomme la «&nbsp;science des lettres&nbsp;»,*‘ilm al-hurûf*. Dans la Tradition islamique, la calligraphie arabe est considérée comme le plus noble des arts plastiques, car elle prête une forme visible à la Parole révélée du Coran. Ayant pour rôle d’embellir l’écriture, elle peut contribuer à souligner le symbolisme propre à la graphie des vingt-huit lettres de l’alphabet arabe. Cependant, on doit distinguer la calligraphie coranique de la calligraphie que nous pourrions dire «&nbsp;profane&nbsp;», laquelle utilise des moyens d’expression similaires à la première, mais diffère de celle-ci quant à son objet. Cela permet de comprendre pourquoi, selon le même hadîth, celui qui embellit la Parole de Dieu «&nbsp;entre au Paradis&nbsp;»&nbsp;: ce sont les lettres porteuses de la Présence divine qui possèdent une valeur spirituelle, et non simplement les lettres calligraphiées. La fonction et l’efficacité spirituelles qu’assume la calligraphie coranique confèrent à cet art un caractère réellement «&nbsp;sacré&nbsp;». Comme l’écrit Titus Burckhardt dans *Principes et méthodes de l’art sacré*&nbsp;:
-> pour qu’un art puisse être appelé “&nbsp;sacré&nbsp;”, il ne sufft pas que ses sujets dérivent d’une vérité spirituelle, il faut aussi que son langage formel témoigne de la même source. [...] Seul un art dont les formes mêmes reflètent la vision spirituelle propre à une religion donnée, mérite cette épithète.
+
+> pour qu’un art puisse être appelé “&nbsp;sacré&nbsp;”, il ne sufft pas que ses sujets dérivent d’une vérité spirituelle, il faut aussi que son langage formel témoigne de la même source. \[...] Seul un art dont les formes mêmes reflètent la vision spirituelle propre à une religion donnée, mérite cette épithète.
 
 La calligraphie arabe connaît différents styles, qui sont nés à diverses époques et se sont développés avec l’expansion géographique de l’islam. La calligraphie islamique a été et continue d’être un art cultivé par le monde musulman, qu’il soit arabe ou non. Cette dernière précision montre notamment que l’importance et la valeur que les musulmans accordent à cet art, ne sont pas déterminées par leur attachement à la beauté formelle de la langue arabe, mais tiennent avant tout à l’adhésion au Verbe de Dieu qui leur est demandée, dont la véritable beauté est informelle. Le talent d’un calligraphe réside dans sa capacité à transcrire les qualités spirituelles qui sont propres à la Parole révélée, et non dans la connaissance extérieure et grammaticale de la langue arabe. 
 
@@ -35,14 +36,17 @@ Cette complémentarité des dimensions est particulièrement significative en ce
 > Lis&nbsp;! Au nom de ton Seigneur qui a créé, qui a créé l’Homme d’une adhérence. Lis&nbsp;! Ton Seigneur est le Très-Généreux, qui a enseigné par le calame, a enseigné à l’Homme ce que celui-ci ne savait pas.[^3]
 
 La calligraphie témoigne de cette générosité divine dont le Coran est l’une des manifestations&nbsp;: 
+
 > C’est certainement un Coran généreux, dans un Livre bien gardé que seuls les purifiés touchent&nbsp;; une révélation de la part du Seigneur de l’Univers. Coran 56&nbsp;: 77-80. 
 
 Elle peut alors être un moyen pour aider l’artiste à s’approcher de la véritable Connaissance, la connaissance de Dieu pour laquelle l’Homme a été créé, en lui permettant, en quelque sorte, de s’élever suivant l’axe vertical du calame divin, à travers la Parole de Dieu, jusqu’à l’Unité initiale du *alif*.
 
 Quant au symbolisme lié à la lettre *bâ’*, on peut citer cette parole de l’Envoyé de Dieu&nbsp;: 
+
 > Tout ce qui est dans les Livres révélés se trouve dans le Coran, tout ce qui est dans le Coran se trouve dans la Fâtiha, tout ce qui est dans la Fâtiha se trouve dans *bismi-Llâhi-r-Rahmâni-r-Rahîm&nbsp;* 
 
 et, selon ‘Alî
+
 > tout ce qui est dans *bismi-Llâhi-r-Rahmâni-r-Rahîm* se trouve dans la lettre *bâ’*, elle-même contenue dans le point qui est au-dessous d’elle.
 
 Selon les enseignements des maîtres de l’ésotérisme islamique, ce point diacritique, qui enveloppe de manière synthétique tous les Livres révélés, symbolise le mystère imprononçable de l’Essence de Dieu, non-manifestée, à la source incréée du Verbe divin où se trouve l’origine de toute la Création.
@@ -54,9 +58,11 @@ L’écriture arabe s’écrit de la droite vers la gauche&nbsp;: elle reflue du
 A l’image du Verbe divin, non proféré, la forme écrite du Texte sacré transmet le silence de la Parole de Dieu, ce silence de la «&nbsp;nuit de la valeur&nbsp;», *laylat al-qadr*, au cours de laquelle le Coran descendit sur le Prophète, et qui évoque le mystère ineffable de Dieu. L’artiste calligraphe, lorsqu’il écrit les versets coraniques sur un support vierge, reproduit symboliquement l’acte de Dieu lors de la révélation quand Il grava Sa Parole dans le c&oelig;ur purifié du Prophète. Celui-ci ne dira-t-il pas, après avoir reçu de l’ange Gabriel les premiers versets révélés&nbsp;: «&nbsp;C’est comme si ces mots avaient été gravés dans mon c&oelig;ur&nbsp;»&nbsp;? Dans son &oelig;uvre, le calligraphe doit ainsi chercher à se conformer au modèle prophétique&nbsp;: de même que le Prophète était *ummî*, «&nbsp;intellectuellement vierge&nbsp;», c’est-à-dire qu’il put recevoir les Paroles de Dieu et les transmettre sans interprétation individuelle, ni altération de sa part, le calligraphe doit réaliser un effort de transparence spirituelle, en se souvenant de l’Origine divine de ce qu’il écrit. Ainsi, la virginité spirituelle du Prophète, qui se manifestait également par le fait qu’il ne savait ni lire ni écrire, trouve son expression chez le calligraphe lorsque celui-ci se débarrasse de ses tendances passionnelles en abandonnant son attachement à la beauté purement formelle, et laisse sa plume être guidée par l’unique Artiste, *al-Muçawwir*, qui est l’un des noms de Dieu, dans la Tradition islamique.
 
 Cette pureté spirituelle du Prophète, qui le rendit capable de recevoir la «&nbsp;synthèse des paroles&nbsp;», *jawâmi‘ al-kalim*, révélées dans le Coran, rappelle d’ailleurs la virginité de Marie, dont le fils, Jésus-Christ, est pour l’islam «&nbsp;le messager de Dieu, Son Verbe qu’Il a lancé sur Marie et un esprit venant de Lui&nbsp;» Coran 4&nbsp;: 171. Le Coran raconte encore comment la Présence du Verbe divin imposa à Marie le silence, lorsque l’ange Gabriel (où l’enfant Jésus à peine né, selon certains commentaires fondés sur une lecture différente du verset) lui conseilla&nbsp;: 
+
 > Si tu vois quelqu’un d’entre les humains, dis&nbsp;: “&nbsp;Assurément, j’ai voué un jeûne au Tout-Miséricordieux&nbsp;: je ne parlerai donc aujourd’hui à aucun être humain.&nbsp;[^4]”
 
 Quand son peuple lui reprocha sa maternité exceptionnelle, elle désigna, sans dire mot, l’enfant qu’elle portait et qui lui rendit justice en se présentant&nbsp;: 
+
 > En vérité, je suis le serviteur de Dieu. Il m’a donné le Livre et a fait de moi un prophète.[^5]
 
 Ces versets, qui, dans leur original arabe, sont imprégnés du rythme et de la mélodie propres au texte coranique, semblent, à l’instar de Marie désignant l’enfant Jésus, faire allusion à ce qui représente le caractère ineffable du Verbe de Dieu, Sa Présence dont Il est seul à pouvoir témoigner.
