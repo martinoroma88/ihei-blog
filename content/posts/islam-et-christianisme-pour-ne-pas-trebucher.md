@@ -1,12 +1,11 @@
 ---
-titre: "Islam et Christianisme, pour ne pas trebucher"
-date: "2020-09-01"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586813/ihei/couvertures/dialogue-interreligieux-3_fj6d78.jpg"
-category: "Dialogue interreligieux"
-subcategory: "dialogue-islamo-chrétien"
-auteur: "IHEI-COREIS"
+titre: Islam et Christianisme, pour ne pas trebucher
+date: 2020-09-01
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586813/ihei/couvertures/dialogue-interreligieux-3_fj6d78.jpg
+category: Dialogue interreligieux
+subcategory: dialogue-islamo-chrétien
+auteur: IHEI-COREIS
 ---
-
 Dans l’exhortation évangélique apostolique *Evangelii gaudium*, parue en novembre 2013, le Pape François a souligné l’importance du dialogue religieux avec l’islam, rappelant, comme principe commun au Monothéisme abrahamique, la foi dans le Dieu unique et miséricordieux et la foi dans le Jugement dernier.
 
 Ce document important et essentiel du Souverain Pontife a été suivi, le 19 décembre 2013 sur l’Agence Asia News de l’Institut Pontifical des Missions Etrangères, d’un commentaire moins heureux du jésuite Samir Khalil Samir, qui met en évidence, à la différence du Pape François, non ce qui unit en principe, mais ce qui, d’un point de vue exclusivement théologique, différencierait de façon irréductible christianisme et islam.
@@ -33,7 +32,7 @@ Si les religions sont conçues, non à la lumière de la foi, mais avec les cat�
 
 Lorsque des conceptions fausses de ce genre, comme celles qu’expriment Samir Khalil Samir, prétendent servir de paramètres pour le dialogue avec l’islam, auquel est attribuée, à la différence du christianisme, une connotation violente et belliciste, il est à craindre que l’on est à faire à un véritable «&nbsp;colonialisme culturel&nbsp;», au lieu d’un dialogue spirituel fructueux. Encore une fois, l’absence d’une inspiration vraiment métaphysique voudrait contraindre les religions à une relation anthropologique, en attribuant à celles-ci une origine purement historique, culturelle, voire tribale, privant ainsi les actes de dévotion ou les préceptes comme le jeûne ou la zakat (l’aumône rituelle envers les nécessiteux) de toute dimension symbolique et de toute portée transcendante. Et pourtant, il semble difficile de croire que l’on puisse concevoir, dans quelque religion authentique que ce soit, d’accomplir le jeûne ou toute autre action rituelle sur la base de l’adhésion à la lettre ou à la loi uniquement, sans en approfondir la signification et viser le dévoilement de leurs fruits en termes de connaissance. Qu’est-ce qui différencierait, à un tel niveau, la religion vraie des conceptions spiritualistes ou New Age, empreintes du plus grossier pragmatisme et utilitarisme, malgré leurs prétentions à la spiritualité&nbsp;? 
 
-Toujours d’un point de vue métaphysique, qui ne signifie ni philosophique ni relativiste, nous voudrions rappeler que la succession historique et providentielle des religions — qui, comme nous l’avons déjà dit, n’implique pas que les religions successives soient meilleures que les précédentes mais seulement des adaptations de l’irruption du sacré aux modifications intervenues dans la nature humaine, de moins en moins perméable à la réalité spirituelle — implique une responsabilité partagée des membres des différentes communautés religieuses dans la sauvegarde du dépôt sacré intégral que Dieu a confié aux hommes.
+Toujours d’un point de vue métaphysique, qui ne signifie ni philosophique ni relativiste, nous voudrions rappeler que la succession historique et providentielle des religions —&nbsp;qui, comme nous l’avons déjà dit, n’implique pas que les religions successives soient meilleures que les précédentes mais seulement des adaptations de l’irruption du sacré aux modifications intervenues dans la nature humaine, de moins en moins perméable à la réalité spirituelle&nbsp;— implique une responsabilité partagée des membres des différentes communautés religieuses dans la sauvegarde du dépôt sacré intégral que Dieu a confié aux hommes.
 
 En tant que musulmans, appartenant ainsi à la dernière révélation qui s’est manifestée au cours de l’histoire, nous nous sentons proches de l’Eglise catholique et de la volonté du Souverain Pontife de promouvoir un véritable dialogue fondé sur la foi dans le Dieu unique d’Abraham. Il ne s’agit pas en réalité d’un dialogue, mais d’un véritable monologue divin avec l’Occident «&nbsp;catholique&nbsp;», entendu dans le sens étymologique de «&nbsp;universel&nbsp;», de ce qui tend *versus unum*.
 
