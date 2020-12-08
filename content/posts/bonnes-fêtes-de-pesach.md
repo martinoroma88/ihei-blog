@@ -1,12 +1,11 @@
 ---
-titre: "Bonnes fêtes de Pesach et de Pâques"
-date: "2020-09-01"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586813/ihei/couvertures/dialogue-interreligieux-6_edoed1.jpg"
-category: "Dialogue interreligieux"
-subcategory: "dialogue-judéo-islamique"
-auteur: "IHEI"
+titre: Bonnes fêtes de Pesach et de Pâques
+date: 2020-09-01
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586813/ihei/couvertures/dialogue-interreligieux-6_edoed1.jpg
+category: Dialogue interreligieux
+subcategory: dialogue-judéo-islamique
+auteur: IHEI
 ---
-
 Libération et Résurrection sont deux termes avec des significations qui ont leurs spécificités providentielles dans la tradition juive et chrétienne, et qui ne peuvent donc être assimilés avec les doctrines et les langages des autres communautés. 
 
 Le respect de cette célébration sacrée et de cette spécificité providentielle représente sûrement une méthode de rapprochement fraternel qui permet la découverte d'un mystère et d'une identité doctrinale supérieure et bénie entre juifs, chrétiens et musulmans. 
@@ -19,7 +18,7 @@ Cette fête devient ainsi une occasion pour redécouvrir sa propre famille spiri
 
 Qu'il me soit permis, dans cet esprit, de me rapprocher de vos fêtes saintes, et de prier afin que mes frères et s&oelig;urs dans l'islam puissent saisir cette occasion pour réfléchir au moins sur les enseignements que la doctrine islamique transmet sur la Libération et sur la Résurrection. Nous avons tant besoin de Libération comme anticipation de cette Résurrection spirituelle&nbsp;!
 
-Nous pensons à certains signes de destruction qui ont frappé des villes symboliques comme Saint Petersburg en Russie ou Tanta en Egypte,où la violence criminelle a tué des hommes et des femmes au centre du témoignage du christianisme orthodoxe et copte. Il s'agit pour nous de deux familles spirituelles de grande tradition et qualité, auxquelles nous adressons nos prières et nos v&oelig;ux. 
+Nous pensons à certains signes de destruction qui ont frappé des villes symboliques comme Saint Petersburg en Russie ou Tanta en Egypte, où la violence criminelle a tué des hommes et des femmes au centre du témoignage du christianisme orthodoxe et copte. Il s'agit pour nous de deux familles spirituelles de grande tradition et qualité, auxquelles nous adressons nos prières et nos v&oelig;ux. 
 
 Ceux qui ont organisé ces actions ne sont pas musulmans, ce sont des individus sans foi, sans espérance, sans charité, sans justice, sans éducation, sans amour, sans connaissance, des individus sans Dieu et contre la Vérité, l'Intelligence et la Liberté de la Religion. 
 
