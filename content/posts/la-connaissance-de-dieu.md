@@ -1,11 +1,10 @@
 ---
-titre: "La connaissance de Dieu"
-date: "2020-10-08"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584955/ihei/couvertures/soufisme-et-spiritualites-8_ymfv82.jpg"
-category: "Soufisme et Spiritualités"
-auteur: "Shaykh Abd al-Wahid Pallavicini"
+titre: La connaissance de Dieu
+date: 2020-10-08
+auteur: Shaykh Abd al-Wahid Pallavicini
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584955/ihei/couvertures/soufisme-et-spiritualites-8_ymfv82.jpg
+category: Soufisme et Spiritualités
 ---
-
 A l’approche du troisième millénaire, la phrase la plus répétée est celle de Malraux&nbsp;: «&nbsp;Le XXI<sup>e</sup> siècle sera religieux ou ne sera pas&nbsp;». Nous pourrions être d’accord avec cette affirmation, si elle n’entendait pas exclure le fait que les précédents siècles, eux aussi, n’auraient pas «&nbsp;été&nbsp;» s’ils n’avaient pas été religieux, parce que la religion est la seule raison de l’existence de ce monde, comme de la présence de l’homme sur cette terre.
 
 Une tradition, dans laquelle Dieu Lui-même parle au Prophète (sur lui la Paix et la Bénédiction de Dieu), dit&nbsp;: «&nbsp;J’étais un trésor caché. J’ai voulu être connu et J’ai créé le monde&nbsp;». A la différence des tendances actuelles qui voudraient un dieu fait à la mesure de l’homme, les chrétiens orthodoxes disent&nbsp;: «&nbsp;Si Dieu s’est fait homme, c’est pour que l’homme se fasse Dieu&nbsp;».
@@ -14,7 +13,7 @@ Ainsi le monde n’existerait-il pas sans la Volonté de Dieu d’offrir à l’
 
 A la question qui nous fut un jour posée&nbsp;: «&nbsp;de quelle façon pouvons-nous relier la valeur de la connaissance et le sens de notre existence&nbsp;?&nbsp;», la réponse est contenue en un seul mot&nbsp;: «&nbsp;religieusement&nbsp;». Nous entendons ce mot dans sa signification étymologique, celle du lien qui «&nbsp;relie&nbsp;», justement, l’homme à son Créateur, le monde à son Principe, dans la pratique religieuse des rites compris comme «&nbsp;symboles agis&nbsp;», selon l’expression chère à René Guénon. Seuls ces derniers pourront permettre la vraie connaissance, celle des archétypes universels, la connaissance métaphysique, non la connaissance conceptuelle, culturelle, scientifique ou philosophique.
 
-La véritable espérance est une vertu théologale qui doit être précédée par une autre vertu, la foi, et suivie de la charité&nbsp;; foi en Dieu, espérance pour notre salut ou notre connaissance, et charité envers le prochain, dans l’acceptation — &nbsp;voilà le vrai sens du mot *islâm*&nbsp;—, dans la soumission à la Volonté du Dieu Unique, le même pour toutes les Révélations orthodoxes.
+La véritable espérance est une vertu théologale qui doit être précédée par une autre vertu, la foi, et suivie de la charité&nbsp;; foi en Dieu, espérance pour notre salut ou notre connaissance, et charité envers le prochain, dans l’acceptation —&nbsp;voilà le vrai sens du mot *islâm*&nbsp;—, dans la soumission à la Volonté du Dieu Unique, le même pour toutes les Révélations orthodoxes.
 
 La seule et véritable «&nbsp;racine de l’espérance&nbsp;» pour le troisième millénaire est la connaissance de l’Unicité de Dieu et la reconnaissance officielle et réciproque, de la part des autorités religieuses, de la vérité des traditions orthodoxes, avant tout des Révélations du monothéisme abrahamique —&nbsp;qui est unique&nbsp;— mais aussi des Révélations qui le précèdent parce que, si, pour nous musulmans, le premier prophète est Adam (sur lui la Paix), toutes les religions sont pour nous Islam.
 
@@ -25,6 +24,7 @@ L’erreur inverse est constituée par le manque de discrimination entre ce qui 
 Nous devons encore dénoncer la tentative d’assimilation, de la part des institutions religieuses occidentales, de prétendues pratiques ou techniques extrême-orientales, dans le but d’arrêter l’hémorragie vers les autres religions. Enfin, nous devons mettre en garde les occidentaux modernes contre l’illusion qu’ils puissent se tourner vers des religions pré-chrétiennes qui, si elles demeurent valides pour leurs fidèles d’origine, comporteraient, pour ceux qui n’y sont pas nés, le renoncement à la croix spatio-temporelle constituée par leur ontologie spirituelle.
 
 Il est exact que nous aussi, en suivant l’exemple de René Guénon, avons laissé le Christianisme pour adhérer à l’Islam. Cependant, pour citer René Guénon une fois encore, nous dirons que 
+
 > quiconque a conscience de l’unité des Traditions, que ce soit par une compréhension simplement théorique ou à plus forte raison par une réalisation effective est nécessairement, par là même, «&nbsp;inconvertissable&nbsp;» à quoi que ce soit.[^1]
 
 Par unité des Traditions, nous entendons en effet l’universalité métaphysique qui transcende les doctrines révélées nécessairement exprimées dans une forme théologique particulière, tout en reconnaissant pleinement la nécessité et la validité salvifiques relatives à ces mêmes orthodoxies doctrinales et rituelles. Elles seules peuvent amener les hommes à se retourner, du point périphérique sur lequel ils sont ontologiquement situés, vers le point central représenté par le même Dieu Unique.
@@ -32,7 +32,8 @@ Par unité des Traditions, nous entendons en effet l’universalité métaphysiq
 Il resterait maintenant, en reconnaissant la validité des formes traditionnelles et au-delà de considérations contingentes et personnelles, à identifier la raison de l’adhésion à l’Islam, dans la recherche de moyens rituels et de supports de contemplation qui puissent amener à la connaissance divine. A la différence des autorités de l’Eglise, nous ne disons pas que ces moyens et ces supports n’existent pas dans le Christianisme, et encore moins qu’ils n’ont jamais existé, qu’on n’en a pas besoin, ou encore qu’il ne faut pas les rechercher, dans la mesure où l’on méconnaît la possibilité de la *deificatio* ou *theosis*. Nous disons seulement que nous ne les avons pas trouvés, ni avant, ni après notre conversion.
 
 Nous déclarons que nous sommes nés dans une Tradition avec laquelle nous n’avons aucune intention de rompre, comme nous en avons été tant de fois accusé, pour nous convertir à quelque chose d’autre. S’il y a eu un changement de forme, celui-ci est advenu seulement dans le sens d’une «&nbsp;convergence&nbsp;», un *cum-vertere* vers une transformation intérieure qui, comme le dit Guénon
-> implique à la fois un “&nbsp;rassemblement&nbsp;” ou une concentration des puissances de l’être et une sorte de “&nbsp;retournement&nbsp;” par lequel cet être passe de la pensée humaine à la compréhension divine.
+
+> implique à la fois un «&nbsp;rassemblement&nbsp;» ou une concentration des puissances de l’être et une sorte de «&nbsp;retournement&nbsp;» par lequel cet être passe de la pensée humaine à la compréhension divine.
 
 D’une part, l’Islam, comme ultime Révélation divine et seule à suivre le Christianisme, se rapproche davantage de la conception de la Tradition primordiale, ou *Sophia perennis*, en embrassant toutes les Révélations qui le précèdent. D’autre part, il est la seule Révélation, avec le Christianisme, à inclure dans sa doctrine —&nbsp;même si c’est sous une forme nécessairement différente&nbsp;— la figure que nous portons en nous depuis notre naissance, celle de Sayyidunâ ‘Isâ, notre Seigneur Jésus (sur lui la Paix).
 
