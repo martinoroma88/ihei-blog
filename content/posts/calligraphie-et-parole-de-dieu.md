@@ -37,7 +37,7 @@ Cette complémentarité des dimensions est particulièrement significative en ce
 
 La calligraphie témoigne de cette générosité divine dont le Coran est l’une des manifestations&nbsp;: 
 
-> C’est certainement un Coran généreux, dans un Livre bien gardé que seuls les purifiés touchent&nbsp;; une révélation de la part du Seigneur de l’Univers. Coran 56&nbsp;: 77-80. 
+> C’est certainement un Coran généreux, dans un Livre bien gardé que seuls les purifiés touchent&nbsp;; une révélation de la part du Seigneur de l’Univers. Coran 56&nbsp;: 77-80.
 
 Elle peut alors être un moyen pour aider l’artiste à s’approcher de la véritable Connaissance, la connaissance de Dieu pour laquelle l’Homme a été créé, en lui permettant, en quelque sorte, de s’élever suivant l’axe vertical du calame divin, à travers la Parole de Dieu, jusqu’à l’Unité initiale du *alif*.
 
