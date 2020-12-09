@@ -10,13 +10,13 @@
     </aside>
 
     <div class="md:col-span-3 space-y-10">
-      <div v-if="page === 1 && featured"
+      <div v-if="page === 1 && vedette"
         class="leading-relaxed rounded bg-gray-200 overflow-hidden font-sans text-lighterblue relative z-0"
       >
         <img
-          v-if="featured.couverture"
+          v-if="vedette.couverture"
           class="object-cover absolute w-full h-full inset-0"
-          :src="featured.couverture"
+          :src="vedette.couverture"
           alt=""
         />
         <div v-else class="absolute inset-0 bg-lighterblue"></div>
@@ -25,11 +25,11 @@
         ></div>
         <div class="md:col-span-2 px-4 py-8 md:px-10 md:pt-40 md:pb-8 relative text-white">
           <div>
-            <n-link :to="'/articles/'+featured.categoryPopulated.slug+'/'+featured.slug">
+            <n-link :to="'/articles/'+vedette.categoryPopulated.slug+'/'+vedette.slug">
               <p class="text-2xl font-bold">
-                {{featured.titre}}
+                {{vedette.titre}}
               </p>
-              <Auteurs class="text-white" f-if="featured.auteur" :author="featured.auteur" />
+              <Auteurs class="text-white" f-if="vedette.auteur" :author="vedette.auteur" />
             </n-link>
           </div>
         </div>
@@ -47,13 +47,13 @@ export default {
   async asyncData({ $content, params, error }) {
     const perPage = PER_PAGE;
     const page = params.homepage ? parseInt(params.homepage) : 1;
-    let totalPosts = (await $content("posts").where({featured: { $ne: true}}).fetch()).length;
+    let totalPosts = (await $content("posts").where({vedette: { $ne: true}}).fetch()).length;
     const skip = PER_PAGE * (page - 1);
 
     if (!page) return error({statusCode: 404});
 
     let posts = await $content("posts")
-      .where({featured: { $ne: true}})
+      .where({vedette: { $ne: true}})
       .only(["titre", "couverture", "url", "slug", "auteur", "category"])
       .sortBy("date", "desc")
       .skip(skip)
@@ -69,16 +69,16 @@ export default {
       p.categoryPopulated = c;
     });
 
-    // handle featured post    
-    let featured;
-    featured = await $content("posts").where({featured : true}).fetch();
-    featured = featured.length > 0 ? featured[0] : false;
-    if (featured) {
-      const fCategory = categories.find(c => featured.category === c.titre);
-      featured.categoryPopulated = fCategory;
+    // handle vedette post    
+    let vedette;
+    vedette = await $content("posts").where({vedette : true}).fetch();
+    vedette = vedette.length > 0 ? vedette[0] : false;
+    if (vedette) {
+      const fCategory = categories.find(c => vedette.category === c.titre);
+      vedette.categoryPopulated = fCategory;
     }
 
-    return { posts, featured, categories, page, perPage, totalPosts };
+    return { posts, vedette, categories, page, perPage, totalPosts };
   }
 };
 </script>
