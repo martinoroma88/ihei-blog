@@ -14,7 +14,7 @@
             class="text-gray-300 hover:text-white block link font-sans"
             href="https://www.coreis.it/"
             target="_blank"
-            >COREIS (Communauté Religieuse Islamique) italienne</a
+            >CO.RE.IS. (Communauté Religieuse Islamique) italienne</a
           >
           <a
             class="text-gray-300 hover:text-white block link font-sans"
