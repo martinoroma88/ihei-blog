@@ -24,7 +24,7 @@ export default {
         {
           title: "Région Rhône-Alpes",
           names: [
-            {name: 'Abd al-Haqq Ismaïl Guiderdoni'},
+            {name: 'Abd al-Haqq Ismaïl Guiderdoni', email: 'b.guiderdoni@ihei-asso.org'}
             {name: 'Abd al-Qouddous Jibril Gouraud', email: 'c.gouraud@ihei-asso.org'}
           ]
         },
@@ -32,7 +32,7 @@ export default {
           title: "Région Ile-de-France",
           names: [
             {name: 'Abd al-Wadoud Yahya Gouraud', email: 'j.gouraud@ihei-asso.org'},
-            {name: ' Abd ar-Rahim Giovacchini'}
+            {name: ' Abd ar-Rahim Giovacchini', email: 'd.giovacchini@ihei-asso.org'}
           ]
         },
         {
@@ -45,8 +45,8 @@ export default {
         {
           title: "Région PACA",
           names: [
-            {name: 'AbdAllah Yahya Darolles'},
-            {name: 'Abd ar-Rashid Bossa'},
+            {name: 'AbdAllah Yahya Darolles, email: 'jm.darolles@ihei-asso.org''},
+            {name: 'Abd ar-Rashid Bossa, email: 'm.bossa@ihei-asso.org''},
             {name: 'Abd al-Karim Turnley', email: 'p.turnley@ihei-asso.org'},
             {name: 'Jawad Bossa', email: 'j.bossa@ihei-asso.org'}
           ]
