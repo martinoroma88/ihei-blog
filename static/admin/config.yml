@@ -19,7 +19,7 @@ collections:
     folder: 'content/posts'
     format: 'frontmatter'
     create: true
-    slug: '{{slug}}'
+    identifier_field: titre
     editor:
       preview: false
     fields:
@@ -39,7 +39,7 @@ collections:
     folder: 'content/publications'
     format: 'frontmatter'
     create: true
-    slug: '{{slug}}'
+    identifier_field: titre
     editor:
       preview: false
     fields:
@@ -57,7 +57,7 @@ collections:
     folder: 'content/institut'
     format: 'frontmatter'
     create: true
-    slug: '{{slug}}'
+    identifier_field: titre
     editor:
       preview: false
     fields:
@@ -71,7 +71,7 @@ collections:
     folder: 'content/categories'
     format: 'frontmatter'
     create: true
-    slug: '{{slug}}'
+    identifier_field: titre
     editor:
       preview: false
     fields:
@@ -84,7 +84,7 @@ collections:
     folder: 'content/publication-categories'
     format: 'frontmatter'
     create: true
-    slug: '{{slug}}'
+    identifier_field: titre
     editor:
       preview: false
     fields:
