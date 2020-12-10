@@ -270,7 +270,7 @@ Depuis le début de l’humanité, les religions proposent des réponses fondame
 
 **L’expérience a —&nbsp;hélas&nbsp;!&nbsp;— montré que ces espaces privés, les réseaux sociaux en particulier, peuvent devenir le lieu de prédilection d’un endoctrinement des esprits et de la manipulation des masses, notamment à travers les nouveaux moyens de communication où chacun peut, à sa guise, et sans aucun discernement ou contrôle, trouver tout ce qu’il désire pour réinterpréter à sa façon le message des religions ou, pire encore, se «&nbsp;fabriquer&nbsp;» sa propre religion.**
 
-> **Il nous semble ainsi qu’il est possible, et même nécessaire, de présenter les différentes traditions spirituelles et les pratiques religieuses dans la société contemporaine, de façon sereine et constructive, dans le respect des sensibilités et des droits de chacun, pour favoriser des échanges véritablement enrichissants et un vivre-ensemble harmonieux.**
+**Il nous semble ainsi qu’il est possible, et même nécessaire, de présenter les différentes traditions spirituelles et les pratiques religieuses dans la société contemporaine, de façon sereine et constructive, dans le respect des sensibilités et des droits de chacun, pour favoriser des échanges véritablement enrichissants et un vivre-ensemble harmonieux.**
 
 AbdAllah Yahya Darolles, vice-président de l’IHEI
 
