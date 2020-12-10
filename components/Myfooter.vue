@@ -67,18 +67,18 @@
             :class="'error' === 'policy' ? 'border-b border-red' : ''"
           >
             <input
-              value="J'ai lu et accepte la Politique de confidentialité."
+              value="J'ai lu et accepté la politique de confidentialité."
               name="données"
               class="mr-2 leading-tight text-white"
               required
               type="checkbox"
             />
             <span class="text-sm">
-              J'ai lu et accepte la
+              J'ai lu et accepté la
               <a
                 href="https://www.iubenda.com/privacy-policy/39983958"
                 target="_blank"
-                ><u>Politique de confidentialité</u></a
+                ><u>politique de confidentialité</u></a
               >.
             </span>
           </label>
