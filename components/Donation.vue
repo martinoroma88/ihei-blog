@@ -14,9 +14,9 @@
         B.P. 136<br>
         05004 GAP CEDEX<br></p>
         <hr>
-        <p class="font-sans">Virement sur le compte bancaire BNP Paribas Embrun :</p>
-        <p>IBAN : FR76 3000 4006 7600 0211 6486 749<br>
-        BIC : BNPAFRPPAIP</p>
+        <p class="font-sans">Virement sur le compte bancaire Crédit Mutuel :</p>
+        <p>IBAN : FR76 1027 8090 7500 020 39290 104<br>
+        BIC : CMCI FR 2A</p>
 
         <button @click="toggle" class="font-sans border-gray-700 border-2 font-bold text-lighterblue bg-white shadow rounded px-4 py-2 hover:border-gray-800 hover:shadow-lg hover:text-lightblue focus:shadow-none focus:border-gray-900 focus:text-blue transition duration-75">Fermer</button>
       </div>
