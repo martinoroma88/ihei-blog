@@ -1,6 +1,6 @@
 ---
-titre: "Education"
-soustitre: "L’I.H.E.I. Acteur de l’Enseignement et de l’Education"
+titre: Éducation
+soustitre: L’I.H.E.I. Acteur de l’Enseignement et de l’Éducation
 ordre: 5
 ---
 
