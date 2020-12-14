@@ -21,7 +21,7 @@ L’I.H.E.I. a tenu chaque année, à partir de 1997, des Universités d’été
 
 En particulier, un partenariat avec le Musée de Gap et Monum (Ministère de la Culture) a permis de proposer, à l’occasion de l’année de l’Algérie, en 2003, une série d’événements autour de la figure de l’Émir Abd el-Kader&nbsp;: exposition, conférences, etc. Cette coopération s’est poursuivie, deux années de suite, en 2004 et 2005, à travers l’organisation d’un important événement culturel, «&nbsp;Du spirituel dans l’art&nbsp;», dans la citadelle de Mont-Dauphin, classée au Patrimoine mondial de l’humanité par l’Unesco, puis au Musée de Gap, avec des expositions de [calligraphies](/articles/art-et-islam/presentation-et-commentaire-de-quelques-calligraphies) islamiques, d’icônes orthodoxes et d’&oelig;uvres d’artistes en recherche. Ce dernier évènement, organisé autour d’un colloque central sur deux journées, d’une dizaine de conférences réparties sur six mois, et d’une exposition d’une trentaine d’&oelig;uvres, attira, sur une seule année, plus de 16 000 visiteurs et participants.
 
-***Les Cahiers de l’IHEI***
+***Les Cahiers de l’I.H.E.I.***
 A compter de l’année 1995, l’I.H.E.I. a édité une revue trimestrielle, Les  [Cahiers de l’Institut des Hautes Études Islamiques](/publications/les-cahiers/ "Cahiers de l’Institut des Hautes Etudes Islamiques"), permettant la publication de ses travaux et des actes des colloques qu’il organisait, à commencer par le colloque de 1995 à La Sorbonne sur «&nbsp;L’identité du Dieu unique du christianisme et de l’islam&nbsp;», dont les actes composent le premier numéro. 
 
 Les articles publiés dans ces Cahiers portent sur plusieurs champs&nbsp;: 
