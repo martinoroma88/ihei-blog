@@ -1,12 +1,12 @@
 ---
-titre: "Organigramme"
+titre: Organigramme
+soustitre: Organigramme
 ordre: 7
 ---
-
 ### Le Conseil d’Administration
 
 **Yahyâ Sergio Yahe PALLAVICINI, Président**
-- Président du Haut-Conseil de l’ISESCO pour l’Education et la Culture en Occident.
+- Président du Haut-Conseil de l’ICESCO pour l’Éducation et la Culture en Occident.
 - Expert aux Nations Unies, auprès de «&nbsp;l’Alliance des Civilisations&nbsp;».
 - Conseiller de la Conférence Islamique Européenne, chargé des relations internationales et du dialogue islamo-chrétien avec le Vatican.
 - Membre ECRL, Conseil Européen des Leaders Religieux.
@@ -22,20 +22,18 @@ ordre: 7
 - Professeur Associé des Universités.
 - Juriste consultant en droit international et interne du développement durable.
 - Directeur d’un Cabinet spécialisé en développement territorial et valorisation du patrimoine culturel et naturel.
-- Ancien élève de l’Institut d’Etudes Politiques. 
+- Ancien élève de l’Institut d’Études Politiques. 
 
   
 **Patrick Abd al-Karîm TURNLEY, Secrétaire Général**
 - En charge des études relatives à l’enseignement et à l’éducation.
-- Attaché principal d’administration de l’Education Nationale et de la Recherche.
+- Attaché principal d’administration de l’Éducation Nationale et de la Recherche.
 - Responsable financier départe. 
 
   
 **Daniel Abd ar-Rahîm GIOVACCHINI, Trésorier**
 - En charge des études relatives à l’éthique et à la finance.
 - Inspecteur Principal du Trésor Public, en charge de la fonction d’audit.
-
-
 
 ### La Direction
 
@@ -45,8 +43,6 @@ ordre: 7
 - Publications, Conférences relatives à l’Islam en Europe, au dialogue des cultures et des religions.
 - Participation au débat international entre science et religion.
 - Directeur de l’Observatoire de Lyon.
-
-
 
 ### Les Administrateurs
 
@@ -77,7 +73,7 @@ ordre: 7
   
 **Gilles Abd ar-Rahmân GASTOU**
 - En charge des études relatives à l’art et à la culture.
-- Directeur Adjoint d’Ecole de musique et de danse de l’agglomération Rennaise.
+- Directeur Adjoint d’École de musique et de danse de l’agglomération Rennaise.
 - Musicien.
 - Chargé d’enseignement à l’Université de Rennes 2. 
 
