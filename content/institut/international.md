@@ -1,6 +1,6 @@
 ---
 titre: International
-soustitre: L’I.H.E.I. agit à l’international
+soustitre: L’I.H.E.I. agit à l’International
 ordre: 6
 ---
 
