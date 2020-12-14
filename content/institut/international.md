@@ -8,7 +8,7 @@ L’I.H.E.I. fait partie d’un réseau international d’experts et de chercheu
 
 Le Président de l’I.H.E.I. est, par ailleurs, expert pour l’alliance des civilisations auprès de l’O.N.U., tandis que son Directeur, Abd al-Haqq Bruno Guiderdoni, astrophysicien de renommée internationale, participe activement au débat sur les rapports entre science et religion, au niveau européen et mondial.
 
-Si l’Institut des Hautes Études Islamiques s’est fortement impliqué sur le territoire national, il a, dès l’origine, promu les échanges dans le contexte européen et international. L’I.H.E.I. travaille, à l’international, en collaboration étroite avec la [CO.RE.IS. (Communauté Religieuse Islamique) italienne](http://www.coreis.it/13/ "CO.RE.IS. (Communauté Religieuse Islamique) italienne"), qui partage avec lui des orientations communes. La CO.RE.IS. a son siège à Milan, et dispose d’antennes dans les principales régions d’Italie.
+Si l’Institut des Hautes Études Islamiques s’est fortement impliqué sur le territoire national, il a, dès l’origine, promu les échanges dans le contexte européen et international. L’I.H.E.I. travaille, à l’international, en collaboration étroite avec la [CO.RE.IS. (Communauté Religieuse Islamique) italienne](http://www.coreis.it/ "CO.RE.IS. (Communauté Religieuse Islamique) italienne"), qui partage avec lui des orientations communes. La CO.RE.IS. a son siège à Milan, et dispose d’antennes dans les principales régions d’Italie.
 
 Par leurs actions et le rayonnement de leurs relations, les musulmans occidentaux de l’I.H.E.I. et de la CO.RE.IS. italienne sont tout naturellement appelés à jouer un rôle de pont entre l’orient et l’occident, entre les rives nord et sud de la méditerranée.
 
