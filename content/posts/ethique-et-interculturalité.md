@@ -1,13 +1,13 @@
 ---
-titre: "Ethique et interculturalité dans l’éducation, le management et la gouvernance"
-date: "2020-09-01"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606749694/ihei/articles/Ethique%20et%20interculturalite/1447013873_s83gps.jpg"
-category: "Dialogue interreligieux"
-souscategorie: "dialogue-judéo-islamique"
-auteur: "IHEI"
+titre: Éthique et interculturalité dans l’éducation, le management et la gouvernance
+date: 2020-09-01
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606749694/ihei/articles/Ethique%20et%20interculturalite/1447013873_s83gps.jpg
+category: Dialogue interreligieux
+souscategorie: dialogue-judéo-islamique
+auteur: IHEI
 annexes:
-  - titre: "Compte rendu du colloque"
-    url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606758045/ihei/PDF/CR-Assemblee-nationale-08-02-2013_yco230.pdf"
+  - titre: Compte rendu du colloque
+    url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606758045/ihei/PDF/CR-Assemblee-nationale-08-02-2013_yco230.pdf
 ---
 
 ![1](https://res.cloudinary.com/genesi-communication-design/image/upload/v1606749694/ihei/articles/Ethique%20et%20interculturalite/1447013873_s83gps.jpg "1")
