@@ -7,6 +7,7 @@ category: "Il Messaggio - Le Message"
 
 
 ## Editoriale, Editorial</br>
+
 **? Islam, cristianismo, occidente, laicità**</br>
 *Abd-al-Sabur Turrini*</br>
 **Verità e diversità: oltre i punti di incontro**</br>
@@ -21,7 +22,7 @@ category: "Il Messaggio - Le Message"
 *Farida Peruzzi*</br>
 **Quo vadis Ecclesia&nbsp;? La cultura della pace e del dialogo oggi**</br>
 *Abd al-Ghafur Masotti*</br>
-**Science et religion aujourd’hui&nbsp;: **perspectives islamiques**</br>
+**Science et religion aujourd’hui&nbsp;: perspectives islamiques**</br>
 *Abd-al-Haqq Ismaïl Guiderdoni*</br>
 **Causa Prima e cause seconde**</br>
 *Yunus Abd al-Nur Distefano*</br>
