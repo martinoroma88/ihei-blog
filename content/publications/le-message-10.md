@@ -4,9 +4,9 @@ date: "2020-09-10"
 couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/messaggio-10_l5lsma.jpg"
 category: "Il Messaggio - Le Message"
 annexes:
-  - titre: "**Insights into the Islamic Eschatology**"
+  - titre: "Insights into the Islamic Eschatology"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736221/ihei/PDF/Le%20Message/Le%20Message%2010/Insights-into-the-Islamic_nojkgu.pdf"
-  - titre: "**Le Monothéisme Abrahamique contre le terrorisme**"
+  - titre: "Le Monothéisme Abrahamique contre le terrorisme"
     url: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736221/ihei/PDF/Le%20Message/Le%20Message%2010/Le-Monotheisme-abrahamique-contre-le-terrorisme_mlklph.pdf"
 ---
 
