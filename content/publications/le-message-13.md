@@ -29,6 +29,7 @@ category: "Il Messaggio - Le Message"
 *Abd al-Hayy Mansûr Baudo*</br>
 **From the heritage of mankind to metaphysics**</br>
 *Shaykh Abd-al-Wâhid Pallavicini*</br>
+
 ## Appendice</br>
 **Confronto fra Ebraismo, Cristianismo e Islam**</br>
 *Shaykh Abd-al-Wâhid Pallavicini*</br>
