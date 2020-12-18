@@ -10,7 +10,7 @@ A l’occasion de la fête de Hanoucca, les membres de l’Institut des Hautes �
 
 Cette célébration importante et particulièrement symbolique, qui commémore la libération de Jérusalem du contrôle des païens et le retour du Temple au culte juif, nous rappelle le miracle de l’huile sacrée qui maintient allumé le Chandelier du Tabernacle pendant huit jours.
 
-En ces temps où la qualité authentique de la lumière semble être oubliée, négligée ou obscurcie par des ombres, cette occasion nous rappelle, en tant que simples croyants ou responsables musulmans, la promesse divine de la victoire de la Vérité sur l’ignorance et les ténèbres, inspirant en nos cœurs une profonde gratitude pour Ses bénédictions constantes, qui illumine nos vies et nos actions en ce monde.
+En ces temps où la qualité authentique de la lumière semble être oubliée, négligée ou obscurcie par des ombres, cette occasion nous rappelle, en tant que simples croyants ou responsables musulmans, la promesse divine de la victoire de la Vérité sur l’ignorance et les ténèbres, inspirant en nos cœurs une profonde gratitude pour Ses bénédictions constantes, qui illuminent nos vies et nos actions en ce monde.
 
 Nous ne pouvons que nous souvenir du «&nbsp;verset de la Lumière&nbsp;» dans le Coran&nbsp;:
 
