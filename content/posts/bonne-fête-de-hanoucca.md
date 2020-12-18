@@ -3,10 +3,9 @@ titre: Bonne fête de Hanoucca
 vedette: true
 date: 2020-12-18T19:00:00.000Z
 auteur: IHEI
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1608318779/ihei/files/lastday-chanukah_i89wxi.jpg
 category: Dialogue interreligieux
 ---
-![Chandelier à 9 branches](https://res.cloudinary.com/genesi-communication-design/image/upload/v1608318779/ihei/files/lastday-chanukah_i89wxi.jpg "Hanoucca")
-
 A l’occasion de la fête de Hanoucca, les membres de l’Institut des Hautes Études Islamiques (I.H.E.I.) sont heureux de présenter leurs meilleurs vœux de bénédictions, de paix et de santé à toute la communauté juive en Europe et dans le monde.
 
 Cette célébration importante et particulièrement symbolique, qui commémore la libération de Jérusalem du contrôle des païens et le retour du Temple au culte juif, nous rappelle le miracle de l’huile sacrée qui maintient allumé le Chandelier du Tabernacle pendant huit jours.
