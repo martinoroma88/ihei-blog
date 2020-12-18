@@ -19,4 +19,4 @@ Nous ne pouvons que nous souvenir du «&nbsp;verset de la Lumière&nbsp;» dans 
 
 Juifs, chrétiens et musulmans de la famille d’Abraham (paix sur lui) sont comme cet olivier béni&nbsp;: restons donc unis par nos racines spirituelles communes et vers l’élévation, en partageant la richesse et la diversité des branches, des feuilles, des fleurs et des fruits !
 
-Nous louons et prions Allah, Dieu Unique et Miséricordieux, Lumières des cieux et de la terre, qu’Il nous bénisse et nous guide, vous et nous, et nous aide à être Ses serviteurs sincères, tels «&nbsp;umière sur lumière&nbsp;», pour le bien de toute l’humanité, de l’Orient et de l’Occident.
+Nous louons et prions Allah, Dieu Unique et Miséricordieux, Lumières des cieux et de la terre, qu’Il nous bénisse et nous guide, vous et nous, et nous aide à être Ses serviteurs sincères, tels «&nbsp;lumière sur lumière&nbsp;», pour le bien de toute l’humanité, de l’Orient et de l’Occident.
