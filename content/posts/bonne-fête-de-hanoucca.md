@@ -5,9 +5,7 @@ date: 2020-12-18T19:00:00.000Z
 auteur: IHEI
 category: Dialogue interreligieux
 ---
-!(https://res.cloudinary.com/genesi-communication-design/image/upload/v1608318779/ihei/files/lastday-chanukah_i89wxi.jpg [Chandelier à 9 branches]( "Hanoucca"))
-
-
+![Chandelier à 9 branches](https://res.cloudinary.com/genesi-communication-design/image/upload/v1608318779/ihei/files/lastday-chanukah_i89wxi.jpg "Hanoucca")
 
 A l’occasion de la fête de Hanoucca, les membres de l’Institut des Hautes Études Islamiques (I.H.E.I.) sont heureux de présenter leurs meilleurs vœux de bénédictions, de paix et de santé à toute la communauté juive en Europe et dans le monde.
 
