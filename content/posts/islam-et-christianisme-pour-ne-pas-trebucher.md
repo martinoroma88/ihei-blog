@@ -1,5 +1,5 @@
 ---
-titre: Islam et Christianisme, pour ne pas trebucher
+titre: Islam et Christianisme, pour ne pas trébucher
 date: 2020-09-01
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1608380208/ihei/files/37200541-32935788_horr2v.jpg
 category: Dialogue interreligieux
