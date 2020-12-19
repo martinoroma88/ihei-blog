@@ -1,5 +1,5 @@
 ---
-titre: Bonne fête de Hanoucca
+titre: Bonne fête de Hanoucca à nos frères et soeurs juifs !
 vedette: true
 date: 2020-12-18T19:00:00.000Z
 auteur: IHEI
