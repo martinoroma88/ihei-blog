@@ -23,7 +23,7 @@ Le Prophète Muhammad (grâce et paix de Dieu sur lui) a lui aussi évoqué cett
 
 Puisse la fin bénie de cette année éprouvante permettre que la dignité de la vie humaine soit soutenue par tous, et qu’elle puisse susciter un moment de méditation et de retour à Dieu, avec humilité, gratitude, patience, en retrouvant confiance en Lui.
 
-Si Dieu te touche avec une nuisance, nul ne pourra t’en délivrer en dehors de Lui&nbsp;! Et s’Il te touche avec un bien, c’est qu’Il est Tout-Puissant&nbsp;! (Coran, 6&nbsp;: 17)
+> Si Dieu te touche avec une nuisance, nul ne pourra t’en délivrer en dehors de Lui&nbsp;! Et s’Il te touche avec un bien, c’est qu’Il est Tout-Puissant&nbsp;! (Coran, 6&nbsp;: 17)
 
 Yahya Pallavicini, *Président*
 
