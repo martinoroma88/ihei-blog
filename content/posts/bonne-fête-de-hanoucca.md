@@ -1,6 +1,6 @@
 ---
 titre: Bonne fête de Hanoucca à nos frères et soeurs juifs !
-vedette: true
+vedette: false
 date: 2020-12-18T19:00:00.000Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1608318779/ihei/files/lastday-chanukah_i89wxi.jpg
