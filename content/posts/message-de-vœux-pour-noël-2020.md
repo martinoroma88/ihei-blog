@@ -1,6 +1,6 @@
 ---
-titre: Message de vœux pour Noël 2020
-vedette: false
+titre: Vœux pour Noël 2020
+vedette: true
 date: 2020-12-23T19:00:45.669Z
 auteur: IHEI
 category: Dialogue interreligieux
