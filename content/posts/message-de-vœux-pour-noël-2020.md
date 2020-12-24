@@ -3,6 +3,7 @@ titre: Vœux pour Noël 2020
 vedette: true
 date: 2020-12-23T19:00:45.669Z
 auteur: IHEI
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1608806733/ihei/couvertures/Icone_nativite-christ_dkmpzm.jpg
 category: Dialogue interreligieux
 ---
 Chers frères et sœurs chrétiens,
