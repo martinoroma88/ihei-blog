@@ -1,0 +1,112 @@
+.page-enter-active, .page-leave-active {
+  transition: opacity .5s;
+}
+.page-enter, .page-leave-active {
+  opacity: 0;
+}
+
+body, html {
+  font-size: 17px;
+  @screen xl {
+    font-size: 19px;
+  }
+}
+
+.container {
+  @apply mx-auto p-4;
+  @screen lg {
+    @apply p-6
+  }
+}
+
+.my-grid {
+  @apply grid grid-cols-1 gap-10;
+  @screen md {
+    @apply grid-cols-4 gap-16;
+  }
+}
+.my-subgrid {
+  @apply grid gap-10 grid-cols-1;
+  @screen md {
+    @apply grid-cols-2;
+  }
+  @screen lg {
+    @apply grid-cols-3;
+  }
+}
+
+a:hover:not(.no-underline) {
+  @apply underline;
+}
+
+.underline-links a {
+  @apply underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-bold leading-tight text-blue font-sans text-blue;
+}
+
+h1 {
+  @apply text-2xl;
+  @screen lg {
+    @apply text-3xl;
+  }
+}
+h2 {
+  @apply text-xl;
+  @screen lg {
+    @apply text-2xl;
+  }
+}
+h3 {
+  @apply text-lg;
+  @screen lg {
+    @apply text-xl;
+  }
+}
+
+h4 {
+  @apply text-base;
+  @screen lg {
+    @apply text-lg;
+  }
+}
+
+input:focus, button:focus {
+  outline: none;
+}
+
+aside {
+  @apply top-0;
+  @screen md {
+    @apply sticky z-50;
+  } 
+}
+
+.checkbox {
+  position: relative;
+}
+.checkbox::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 8px;
+  width: 13px;
+  height: 13px; 
+  z-index: 0;
+  border: 2px solid white;
+  border-radius: 2px;
+}
+
+/* RELATED TO NUXT CONTENT PLUGIN */
+/* Without this line the modals z-50 is not enough to go on top of the element */
+.nuxt-content-container { position: static !important; }
+
+.nuxt-content .footnotes {
+  @apply text-sm text-lighterblue font-sans;
+}
+
+.nuxt-content .footnote-backref {
+  @apply no-underline px-2 py-1 bg-gray-200 text-blue rounded ml-2;
+}

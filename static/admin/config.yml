@@ -1,0 +1,95 @@
+backend:
+  name: git-gateway
+  branch: master
+
+# local_backend: true
+
+media_folder: static/img
+public_folder: /img
+
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: genesi-communication-design
+    api_key: 712811648934331
+
+collections:
+  - name: 'posts'
+    label: 'Posts'
+    folder: 'content/posts'
+    format: 'frontmatter'
+    create: true
+    identifier_field: titre
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'titre', widget: 'string' }
+      - { label: 'Featured', name: 'vedette', widget: 'boolean', required: false, default: false}
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'URL', name: 'url', widget: 'string', required: false }
+      - { label: 'Author', name: 'auteur', widget: 'string', required: false }
+      - { label: 'Cover', name: 'couverture', widget: 'image', required: false }
+      - { label: 'Category', name: 'category', widget: 'relation', collection: 'categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'] }
+      # - { label: 'Subcategory', name: 'subcategory', widget: 'relation', collection: 'categories', value_field: "{{slug}}", display_fields: ["{{titre}}"], search_fields: ['titre'] } # TODO doesn't work because subcategory is a key inside of a category (instead of array)
+      - { label: 'Attachments', name: 'annexes', widget: 'list', fields: [ { label: 'Title', name: 'titre', widget: 'string' }, { label: 'URL', name: 'url', widget: 'string' } ] }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'publications'
+    label: 'Publications'
+    folder: 'content/publications'
+    format: 'frontmatter'
+    create: true
+    identifier_field: titre
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'titre', widget: 'string' }
+      - { label: 'Subtitle', name: 'soustitre', soustitre: 'string', required: false }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'URL', name: 'url', widget: 'string', required: false }
+      - { label: 'Author', name: 'auteur', widget: 'string', required: false }
+      - { label: 'Cover', name: 'couverture', widget: 'image', required: false }
+      - { label: 'Category', name: 'category', widget: 'relation', collection: 'publication-categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'] }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'institut'
+    label: 'Institute'
+    folder: 'content/institut'
+    format: 'frontmatter'
+    create: true
+    identifier_field: titre
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'titre', widget: 'string' }
+      - { label: 'Subtitle', name: 'soustitre', soustitre: 'string' }
+      - { label: 'Order', name: 'ordre', widget: 'number' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'categories'
+    label: 'Categories'
+    folder: 'content/categories'
+    format: 'frontmatter'
+    create: true
+    identifier_field: titre
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'titre', widget: 'string' }
+      - { label: 'Order', name: 'ordre', widget: 'number' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'publication-categories'
+    label: 'Publication Categories'
+    folder: 'content/publication-categories'
+    format: 'frontmatter'
+    create: true
+    identifier_field: titre
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'titre', widget: 'string' }
+      - { label: 'Order', name: 'ordre', widget: 'number' }
+      - { label: 'Cover', name: 'couverture', widget: 'image', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      
