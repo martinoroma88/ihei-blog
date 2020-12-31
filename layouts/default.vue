@@ -2,6 +2,7 @@
   <div class="mx-auto container p-4 lg:px-16 text-gray-800 font-sans">
     <Navbar />
     <Nuxt />
+    <a style="position:fixed; left:-7000px" href="https://www.genesicom.com/">Sviluppato da Genesi Communication Design</a>
   </div>
 </template>
 
