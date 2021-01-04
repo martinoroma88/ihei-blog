@@ -17,7 +17,7 @@ Lors de la conférence, l’imam Yahya Pallavicini a voulu destiner plus particu
 
 > leur conscience commune de la tradition historique et culturelle de l’Occident et leur témoignage de respect pour les symboles de toutes les religions, en particulier ceux de la naissance de Jésus qui unit nos doctrines respectives.
 
-La sécularisation va même jusqu’à empêcher les citoyens européens de vivre, de communiquer et bien sûr de reconnaître la contribution des témoignages religieux comme une part importante et intégrante de la vie et de la civilisation occidentale.Yahya Pallavicini a ensuite cité le récent message du Saint-Siège pour le Ramadan sur la famille et a souligné 
+La sécularisation va même jusqu’à empêcher les citoyens européens de vivre, de communiquer et bien sûr de reconnaître la contribution des témoignages religieux comme une part importante et intégrante de la vie et de la civilisation occidentale. Yahya Pallavicini a ensuite cité le récent message du Saint-Siège pour le Ramadan sur la famille et a souligné 
 
 > la valeur profonde du mariage et de la responsabilité parentale.
 >
