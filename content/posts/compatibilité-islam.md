@@ -7,7 +7,7 @@ couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/
 category: Islam et République
 annexes:
   - titre: "Compatibilité de l’islam : fausse question et bonnes réponses"
-    url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1607882210/ihei/PDF/Compatibilite%CC%81_de_l_islam_nsenka.pdf
+    url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1611397931/ihei/PDF/Compatibilite%CC%81_de_l_islam_wjkxsb.pdf
 ---
 Les attentats, de plus en plus horribles, qui se produisent, maintenant de façon fréquente, fomentés par des individus ou des groupements se réclamant de l’islam, provoquent un état de sidération tant chez les non-musulmans que chez les musulmans.
 
