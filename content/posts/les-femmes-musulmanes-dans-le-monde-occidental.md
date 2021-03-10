@@ -1,6 +1,6 @@
 ---
 titre: Les femmes musulmanes dans le monde occidental
-vedette: true
+vedette: false
 date: 2020-10-02
 auteur: Fatiha Darolles
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-2_uigrrw.jpg
