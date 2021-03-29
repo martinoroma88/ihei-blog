@@ -1,6 +1,6 @@
 ---
-titre: La visite du Pape en Irak vu par un musulman
-vedette: true
+titre: La visite du Pape en Irak vue par un musulman
+vedette: false
 date: 2021-03-10T17:00:36.731Z
 auteur: Imam Yahya Pallavicini, Président de l’Institut des Hautes Etudes Islamiques
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1615402714/ihei/ImamYahyaPallavicinietPapeFranc%CC%A7ois_imsros.jpg
