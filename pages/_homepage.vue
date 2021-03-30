@@ -25,11 +25,17 @@
         ></div>
         <div class="md:col-span-2 px-4 py-8 md:px-10 md:pt-40 md:pb-8 relative text-white">
           <div>
-            <n-link :to="'/articles/'+vedette.categoryPopulated.slug+'/'+vedette.slug">
+            <div v-if="vedette.url">
+              <a :href="vedette.url" target="_blank">
+                <p class="text-2xl font-bold">{{vedette.titre}}</p>
+                <Auteurs class="text-white" v-if="vedette.auteur" :author="vedette.auteur" />
+              </a>
+            </div>
+            <n-link v-else :to="'/articles/'+vedette.categoryPopulated.slug+'/'+vedette.slug">
               <p class="text-2xl font-bold">
                 {{vedette.titre}}
               </p>
-              <Auteurs class="text-white" f-if="vedette.auteur" :author="vedette.auteur" />
+              <Auteurs class="text-white" v-if="vedette.auteur" :author="vedette.auteur" />
             </n-link>
           </div>
         </div>
