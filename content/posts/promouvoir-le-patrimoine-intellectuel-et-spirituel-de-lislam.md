@@ -1,6 +1,6 @@
 ---
 titre: Promouvoir le patrimoine intellectuel et spirituel de l'islam
-vedette: true
+vedette: false
 date: 2021-03-28T17:30:11.902Z
 url: https://www.franceculture.fr/emissions/questions-dislam/linstitut-des-hautes-etudes-islamiques
 auteur: "\"Questions d'Islam\" sur France Culture (28/03/2021)"
