@@ -14,7 +14,7 @@ Nostra Aetate *est connue pour avoir permis l’ouverture au dialogue avec les a
 
 La tendance exclusiviste suppose que la Vérité ne s’est manifestée intégralement que dans une seule religion, alors que la tradition islamique, en accord avec la tradition chrétienne, comme l’affirme, par exemple, Saint Augustin, dans *De vera religione*, devrait permettre à chaque croyant de reconnaître que Dieu S’est toujours révélé en des temps, des lieux et des modes différents, offrant non une vérité «*&nbsp;*partiale*&nbsp;*», mais la vérité absolue, adressée spécifiquement à des réceptacles déterminés. Ces réceptacles spécifiques sont symbolisés dans les trois révélations abrahamiques, respectivement par «*&nbsp;*le peuple élu*&nbsp;*», par une «*&nbsp;*femme élue*&nbsp;*» et par «*&nbsp;*l’élu parmi les hommes*&nbsp;*». C’est la différence entre ces «*&nbsp;*élections*&nbsp;*» qui définit les limites entre les trois Révélations du Monothéisme abrahamique. Ces élections sont nécessaires pour révéler à chaque communauté la Parole de Dieu, qui se manifeste sous la forme d’une «*&nbsp;*Loi*&nbsp;*» pour les juifs, d’un «*&nbsp;*Homme*&nbsp;*» pour les chrétiens, et d’un «*&nbsp;*Livre*&nbsp;*», dans le sens de Récitation divine, pour les musulmans.
 
-*A propos des rapports entre l’islam et le christianisme, la Déclaration du Concile évoque l’importance d’une «&nbsp;estime réciproque&nbsp;». Le Cardinal Colombo de Milan propose de traiter avec les musulmans avec «&nbsp;égale dignité et solennité&nbsp;»[i](https://cms.e.jimdo.com/app/sd8e9ff83424980b9/pb3eeb15ce9f6e7c0/#sdendnote1sym). Comment avez-vous vécu, en tant que musulman, cette ouverture manifestée par l’Autorité catholique&nbsp;?*
+*A propos des rapports entre l’islam et le christianisme, la Déclaration du Concile évoque l’importance d’une «&nbsp;estime réciproque&nbsp;». Le Cardinal Colombo de Milan propose de traiter avec les musulmans avec «&nbsp;égale dignité et solennité&nbsp;»[]. Comment avez-vous vécu, en tant que musulman, cette ouverture manifestée par l’Autorité catholique&nbsp;?*
 
 Aujourd’hui, la reconnaissance réciproque de ce que nous appellerions la «*&nbsp;*validité salvatrice*&nbsp;*» des religions est plus que jamais nécessaire. Toutes les religions authentiques, en effet, conduisent l’homme au salut, participation en quelque sorte par reflet à la Réalité divine, laquelle est accessible de façon plus directe, en revanche, à travers les pratiques intérieures, présentes encore aujourd’hui au sein des ordres contemplatifs de la dernière Révélation. Il suffirait de reconnaître dans les différentes expressions théologiques des différentes révélations leur signification symbolique pour retrouver cette «*&nbsp;*seule origine*&nbsp;*»[ii](https://cms.e.jimdo.com/app/sd8e9ff83424980b9/pb3eeb15ce9f6e7c0/#sdendnote2sym) et Vérité unique dont toutes les révélations dérivent, sans nier à la Providence divine la possibilité d’adresser aux hommes différents messages qui sont adaptés à la compréhension des divers peuples à époques diverses et variées.
 
@@ -56,12 +56,10 @@ Il s’agit d’intuitions intellectuelles qui lient entre elles données tradit
 
 Le professeur Franco Cardini, grand connaisseur de la vie de Saint François, me disait que dans ses moments extatiques le saint semblait roucouler, comme font les colombes sur la devanture de mes fenêtres. En effet, si vous deviez répéter le nom de Dieu continuellement, comme dit Saint Paul «*&nbsp;sine intermissione orate&nbsp;*», vous noterez que, à un certain moment, Allah se contracte dans sa dernière syllabe qui correspond en arabe au pronom *Huwa*, signifiant «*&nbsp;*Lui*&nbsp;*»*&nbsp;*: *Hu Hu Hu*.
 
- 
-
-[i](https://cms.e.jimdo.com/app/sd8e9ff83424980b9/pb3eeb15ce9f6e7c0/#sdendnote1anc) *Lo sviluppo del Concilio Vaticano II. La Nostra Aetate*, sous la direction de Gianpietro De Bortoli, Diocèse de Trévise.
+[]1:  *Lo sviluppo del Concilio Vaticano II. La Nostra Aetate*, sous la direction de Gianpietro De Bortoli, Diocèse de Trévise.
 
 [ii](https://cms.e.jimdo.com/app/sd8e9ff83424980b9/pb3eeb15ce9f6e7c0/#sdendnote2anc) *Nostra Aetate*, § 1.
 
 [iii](https://cms.e.jimdo.com/app/sd8e9ff83424980b9/pb3eeb15ce9f6e7c0/#sdendnote3anc) *Ibidem.*
 
-[iv](https://cms.e.jimdo.com/app/sd8e9ff83424980b9/pb3eeb15ce9f6e7c0/#sdendnote4anc) *Nostra Aetate*, § 5.
+[](https://cms.e.jimdo.com/app/sd8e9ff83424980b9/pb3eeb15ce9f6e7c0/#sdendnote4anc)[4*No stra Aetate*, § 5.
