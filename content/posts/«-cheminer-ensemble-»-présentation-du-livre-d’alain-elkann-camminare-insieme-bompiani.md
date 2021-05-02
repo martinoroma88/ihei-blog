@@ -11,7 +11,7 @@ Pour mieux illustrer qui sont les protagonistes du livre œcuménique d’Alain 
 
 Nous étions à Assise, en 1986, lors de la rencontre voulue par Saint Jean-Paul II, disposés en demi-cercle&nbsp;: d’un côté, étaient assis les représentants de la tradition judéo-chrétienne, et de l’autre, dans l’ordre alphabétique, se trouvaient tous les autres participants, parmi lesquels moi-même qui représentait l’unique mosquée fondée par le Centre Islamique Culturel de Rome.
 
-Je me souviens lorsque, à la fin de l’interlocution du Rav Toaff, qui parla le premier, l’ensemble des représentants chrétiens vinrent sur l’estrade, il se retrouva seul "primus inter pares" («&nbsp;premier parmi les pairs&nbsp;»).
+Je me souviens lorsque, à la fin de l’interlocution du Rav Toaff, qui parla le premier, l’ensemble des représentants chrétiens vinrent sur l’estrade, il se retrouva seul “primus inter pares” («&nbsp;premier parmi les pairs&nbsp;»).
 
 Lorsque, ensuite, à la fin de la cérémonie, les deux parties se séparèrent, Rav Toaff vint vers moi et, avec son esprit typiquement livournais, me dit&nbsp;: «&nbsp;Vous avez vu, Pallavicini&nbsp;? Ils m’ont laissé tout seul.&nbsp;» «&nbsp;La prochaine fois, lui répondis-je, venez-vous asseoir avec nous&nbsp;!&nbsp;»
 
