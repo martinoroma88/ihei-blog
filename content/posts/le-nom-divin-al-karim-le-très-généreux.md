@@ -3,6 +3,7 @@ titre: "Le Nom divin : Al-Karim, Le Très-Généreux"
 vedette: false
 date: 2020-06-15T12:45:07.295Z
 auteur: Abd al-Wadoud Yahya Gouraud
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619986067/ihei/quran-drawing-29_yfg4sk.jpg
 category: Soufisme et Spiritualités
 ---
 Nous voici arrivés au mois de Shawwal. Le mois de Ramadan s’en est allé. «&nbsp;Ramadân karîm&nbsp;! que Ramadan te soit généreux&nbsp;!&nbsp;». Ce sont les vœux que les musulmans, de par le monde, se présentent traditionnellement les uns aux autres lors de la venue de ce mois béni.
