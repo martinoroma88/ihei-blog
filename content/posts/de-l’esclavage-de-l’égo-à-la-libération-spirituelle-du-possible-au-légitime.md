@@ -70,12 +70,12 @@ C’est, en définitive, par la conversion permanente à Dieu dans la servitude 
 
 
 
-[^1]:  Coran sourate XX, versets 2 à 4
+[^1]:  Coran sourate XX&nbsp;: versets 2 à 4
 
-[^2]:  Coran sourate XIV, verset 4
+[^2]:  Coran sourate XIV&nbsp;: verset 4
 
-[^3]:  Coran sourate XIII, versets 17 à 23
+[^3]:  Coran sourate XIII&nbsp;: versets 17 à 23
 
-[^4]:  Coran sourate XIV, verset 3
+[^4]:  Coran sourate XIV&nbsp;: verset 3
 
-[^5]:  Coran sourate XV, versets 98 et 99
+[^5]:  Coran sourate XV&nbsp;: versets 98 et 99
