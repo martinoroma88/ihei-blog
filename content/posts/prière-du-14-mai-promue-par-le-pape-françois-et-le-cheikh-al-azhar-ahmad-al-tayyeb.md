@@ -1,9 +1,9 @@
 ---
-titre: Prière du 14 mai promue par le pape François et le cheikh al-Azhar Ahmad
-  al-Tayyeb
+titre: Prière du 14 mai 2020 promue par le pape François et le cheikh al-Azhar
+  Ahmad al-Tayyeb
 vedette: false
 date: 2021-05-02T12:00:35.768Z
-auteur: Imam Yahyâ Pallavicini et Abd al-Wadoud Yahya Gouraud
+auteur: Imam Yahya Pallavicini et Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654416/ihei/couvertures/islam-en-pratique-3_ws3q2t.jpg
 category: Dialogue interreligieux
 ---
@@ -13,13 +13,15 @@ Marie tenant dans ses bras Jésus nouveau-né, à l’ombre d’un palmier-datti
 
 > Manges-en, bois et réjouis-toi&nbsp;! Et si tu vois quelqu’un, dis-lui&nbsp;: j’ai fait vœu de jeûner
 >
-> au Miséricordieux et en ce jour je n’adresserai la parole à aucun être humain&nbsp;!(Coran XIX : 25-26)
+> au Miséricordieux et en ce jour je n’adresserai la parole à aucun être humain&nbsp;!(Coran XIX&nbsp;: 25-26)
 
 L’invitation adressée «&nbsp;aux leaders religieux et à toutes les personnes dans le monde entier de se tourner vers Dieu d’une seule voix&nbsp;» vient du **Haut-Comité pour la Fraternité Humaine**, constitué en août 2019 à Casa Santa Marta, quelques mois après la rencontre historique du 4 février à Abu Dhabi entre le **pape François** et le grand-imam d’al-Azhar **Ahmad al-Tayyeb**.
 
 Le Comité, composé de leaders religieux et intellectuels **chrétiens, musulmans** **et également juifs**, «&nbsp;pour aider l’humanité à surmonter la pandémie&nbsp;» offre ainsi une occasion concrète pour réaliser cette Fraternité à laquelle se réfère le «&nbsp;Document sur la fraternité humaine pour la paix mondiale et la coexistence commune&nbsp;» d’Abu Dhabi.
 
 Dans ce sens, nous offrons ci-après, en avant-première, une réflexion du Président de l’IHEI, l’Imam Yahya Pallavicini, et celle de Abd al-Wadoud Gouraud, membre de l’IHEI et membre d’honneur de l’Organisation mondiale des diplômés de l’Université al-Azhar, qui **seront toutes deux publiées au Caire** en arabe sur *Sawt al-Azhar* («&nbsp;La voix d’al-Azhar&nbsp;»), **l’hebdomadaire de la grande mosquée-université** présidée par **Ahmad al-Tayyeb**.
+
+
 
 ##### **Découvrir la fraternité dans l’invocation du Dieu unique**
 
@@ -41,6 +43,8 @@ Ce témoignage est celui-là même que notre bien-aimé prophète Muhammad nous 
 
 Imam Yahya Pallavicini, Président, Institut des Hautes Etudes Islamiques, Président, Communauté Religieuse Islamique (COREIS) Italienne, Ambassadeur ISESCO pour le Dialogue entre les Civilisations, Rabat, Membre exécutif du WMCC (World Muslim Communities Council), Abu Dhabi
 
+
+
 ##### **Rivalisez entre vous dans les œuvres de Bien**
 
 **J’ai eu l’honneur de rencontrer le grand-imam d’al-Azhar Ahmad al-Tayyeb**, alors président de l’Université al-Azhar, à l’occasion de la première rencontre mondiale des diplômés d’al-Azhar, organisée en 2006 au Caire, où j’avais été invité à présenter une intervention au sujet de l’islam en France. Cette rencontre bénie s’est conclue avec la création de la Ligue mondiale des diplômés d’al-Azhar, à laquelle j’ai eu la surprise d’être intégré en tant que membre d’honneur de son conseil exécutif.
@@ -61,4 +65,4 @@ Dans cette attente, il appartient alors aux **croyants dans le Créateur Unique 
 >
 > Ceux qui luttent en Nous, Nous les guidons sur Nos chemins. Dieu est avec les bienfaisants.(Coran XXIX&nbsp;: 69)
 
-Abd al-Wadoud Gouraud, Membre de l’Institut des Hautes Études Islamiques, France, Membre du Conseil des guides religieux, COREIS Italienne, Membre d’honneur de l’Organisation mondiale des diplômés de l’Université al-Azhar
+Abd al-Wadoud Yahya Gouraud, Membre de l’Institut des Hautes Études Islamiques, France, Membre du Conseil des guides religieux, COREIS Italienne, Membre d’honneur de l’Organisation mondiale des diplômés de l’Université al-Azhar
