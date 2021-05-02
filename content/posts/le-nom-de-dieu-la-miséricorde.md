@@ -1,5 +1,5 @@
 ---
-titre: "Le Nom de Dieu : La Miséricorde"
+titre: "Le Nom de Dieu : Ar-Rahmân - La Miséricorde"
 vedette: false
 date: 2021-05-02T10:15:04.443Z
 auteur: Abd al-Wadoud Yahya Gouraud
