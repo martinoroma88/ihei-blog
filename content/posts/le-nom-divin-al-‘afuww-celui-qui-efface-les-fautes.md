@@ -8,7 +8,9 @@ category: Soufisme et Spiritualités
 ---
 La fin du mois de Ramadan est imminente. Bientôt, une nouvelle lune, un nouveau mois, une nouvelle saison spirituelle. Mais il n’est pas encore trop tard pour tirer profit du Bien qu’Allah nous offre en ce mois béni.
 
-Les portes du Paradis sont encore ouvertes, les portes de l’Enfer encore fermées, les diables rebelles encore enchaînés&nbsp;! L’appel du héraut résonne encore&nbsp;: «&nbsp;Ô toi qui cherche le bien, accours, et toi qui cherches le mal, cesse donc et repens-toi&nbsp;!&nbsp;»
+Les portes du Paradis sont encore ouvertes, les portes de l’Enfer encore fermées, les diables rebelles encore enchaînés&nbsp;! L’appel du héraut résonne encore&nbsp;:
+
+> Ô toi qui cherche le bien, accours, et toi qui cherches le mal, cesse donc et repens-toi&nbsp;!
 
 Le Prophète annonce qu’Allah «&nbsp;a fixé dans le mois de Ramadan une nuit qui est meilleure que mille mois, celui qui a été privé de ses bienfaits, a été privé de tout bien.&nbsp;»
 
@@ -40,7 +42,7 @@ L’invocation prophétique est un enseignement à part entière, une inspiratio
 
 En même temps, il transmettait toujours ce qui était le plus utile et le plus adapté aux besoins spirituels de ses interlocuteurs. Le Prophète enseigne la méthode qui conduit au plus grand bien en ce monde et dans l’autre. Il transmet une parole synthétique et entièrement suffisante.
 
-*Dis&nbsp;: Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu ‘annî.*
+> *Dis&nbsp;: Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu ‘annî.*
 
 Le Prophète oriente le sens et la portée de cette demande vers Allah en tant que ‘*Afuww*. Il invite à L’invoquer par l’intermédiaire de Son Nom *al-‘Afuww*, comme expression de l’Essence, de la Qualité et de l’Action divines. Cette triple dimension apparaît dans l’articulation de la racine ‘*ayn-fa-waw* sous trois formes distinctes&nbsp;: ‘*afuww* indique le Nom, ‘*afw* indique la Qualité, *u‘fu* indique l’Action. Et la relation qui lie ces trois aspects n’est autre que l’Amour, *tuhibbu*. Allah aime être Grand-Pardonneur, Il aime le Pardon, et Il aime Pardonner.
 
@@ -72,6 +74,8 @@ Le Prophète nous enseigne par son exemple le sacrifice de l’ego, l’effaceme
 
 Ces quelques commentaires permettent de mieux saisir l’ampleur et l’intensité du Pardon divin qui efface les fautes du registre du serviteur, qui purifie son âme au point qu’elle devient comme une «&nbsp;table rase&nbsp;», comme cette tablette de cire vierge, sans aucune inscription, qui symbolise la pureté de l’âme à sa naissance. C’est ainsi que grâce à l’action d’*al-‘Afuww*, l’être est réintégré, réordonné et régénéré, dans l’esprit, l’âme et le corps.
 
-Au-delà des expressions et des conceptions, l’imam al-Qushayri rappelle&nbsp;: «&nbsp;Sache que le pardon d’Allah envers Ses serviteurs est quelque chose dont la signification profonde ne peut être saisie complètement à l’aide des expressions du langage.&nbsp;»
+Au-delà des expressions et des conceptions, l’imam al-Qushayri rappelle&nbsp;:
 
-*Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu annâ*
+> Sache que le pardon d’Allah envers Ses serviteurs est quelque chose dont la signification profonde ne peut être saisie complètement à l’aide des expressions du langage.
+>
+> *Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu annâ*
