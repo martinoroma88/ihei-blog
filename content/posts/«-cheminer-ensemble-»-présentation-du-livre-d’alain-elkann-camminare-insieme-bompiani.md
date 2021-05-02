@@ -1,0 +1,50 @@
+---
+titre: « Cheminer ensemble » Présentation du livre d’Alain Elkann Camminare
+  insieme (Bompiani)
+vedette: false
+date: 2015-04-28T19:00:19.261Z
+auteur: Shaykh Abd al-Wahid Pallavicini
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619989633/ihei/Le-Pape-Jean-Paul-II-C-participe-journee-priere-pour-paix-Assise-presence-personnalites-12-religions-differentes-27-octobre-1986-eglise-Notre-Dame-Anges_0_730_338_uxk7jy.jpg
+category: Dialogue interreligieux
+---
+Pour mieux illustrer qui sont les protagonistes du livre œcuménique d’Alain Elkann, je me permettrai quelques références personnelles, en commençant par le souvenir du Rav Elio Toaff, disparu récemment, qui fut le premier à recevoir le prix du Festival national des Cultures pour le judaïsme, en 2012.
+
+Nous étions à Assise, en 1986, lors de la rencontre voulue par Saint Jean-Paul II, disposés en demi-cercle&nbsp;: d’un côté, étaient assis les représentants de la tradition judéo-chrétienne, et de l’autre, dans l’ordre alphabétique, se trouvaient tous les autres participants, parmi lesquels moi-même qui représentait l’unique mosquée fondée par le Centre Islamique Culturel de Rome.
+
+Je me souviens lorsque, à la fin de l’interlocution du Rav Toaff, qui parla le premier, l’ensemble des représentants chrétiens vinrent sur l’estrade, il se retrouva seul "primus inter pares" («&nbsp;premier parmi les pairs&nbsp;»).
+
+Lorsque, ensuite, à la fin de la cérémonie, les deux parties se séparèrent, Rav Toaff vint vers moi et, avec son esprit typiquement livournais, me dit&nbsp;: «&nbsp;Vous avez vu, Pallavicini&nbsp;? Ils m’ont laissé tout seul.&nbsp;» «&nbsp;La prochaine fois, lui répondis-je, venez-vous asseoir avec nous&nbsp;!&nbsp;»
+
+Voir tant de fidèles ensemble, réunis en cercle, pour moi qui suis musulman, me rappelle les moments du pèlerinage à La Mecque, où, autour du temple érigé à la Gloire de Dieu et qui renferme la pierre sacrée, des croyants venus du monde entier tournent toute l’année, 24h/24, sans jamais s’arrêter, si ce n’est pour les moments canoniques de la prière rituelle.
+
+> Si Dieu l’avait voulu, Il aurait fait de vous une seule communauté, mais Il a voulu vous éprouver par le don qu’Il vous a fait. Rivalisez donc dans les bonnes actions&nbsp;: votre retour à tous se fera vers Dieu, et c’est alors qu’Il vous informera à propos de ce sur quoi vous divergez. (Cor. V, 53)
+
+Comme les rayons de ce cercle que vous êtes en train de former, chacun de nous fera son pèlerinage à partir du point où il se situe - ce point nodal de la croix, à l’intersection de nos situations spatio-temporelles - en acceptant son destin sur terre et en portant sa croix vers le point central du cercle qui nous rapproche tous&nbsp;: ce symbole central et solaire de notre Unique vrai Dieu.
+
+Acceptation, tel est en effet le sens véritable du mot «&nbsp;islam&nbsp;», tout comme *muslim*, musulman, est celui qui accepte la Révélation, la Loi et le Messager qui a été envoyé par Dieu, depuis Adam, premier Prophète islamique, jusqu’à Muhammad (sur lui la Paix et la Bénédiction de Dieu), à travers la Parole divine, qui s’est faite Loi pour Moïse, Homme dans le christianisme, et Livre, le Saint Coran, pour nous qui sommes la dernière communauté d’Abraham (que la Paix soit sur tous les Prophètes).
+
+Il n’y a donc pas de religions différentes, mais seulement des communautés différentes, des confessions diverses, de même qu’il y a divers peuples, vivant dans des lieux et des temps divers, avec des itinéraires également divers mais qui tendent tous à la voie droite de notre pèlerinage, qui conduit au même but, comme des sentiers permettant de monter jusqu’au sommet de la montagne par des versants différents.
+
+C’est là le pèlerinage que nous devons entreprendre dans notre vie, telle est la montée au sommet, l’ascension intérieure que nous devons réaliser à partir du point où nous nous trouvons. Même si nous partons de situations apparemment opposées, elles se rejoignent et convergent vers le même point central, là où nous nous rencontrerons tous à la fin.
+
+En 1988, j’avais été invité à un grand événement qui s’est tenu dans le stade de Macerata, à l’occasion du pèlerinage à Notre-Dame de Lorette. Après la Sainte Messe, je me suis adressé au 15.000 fidèles présents, en leur disant&nbsp;:
+
+> Vous êtes sur le point de vous acheminer en pèlerinage vers le sanctuaire de Marie, la Vierge par excellence, comme dit le Saint Coran&nbsp;; de même, nous, musulmans, à La Mecque, nous montons à la plaine de ’Arafah où, durant une seule journée de l’année, plus de deux millions de croyants se retrouvent, sous un soleil de plomb, vêtus de deux tissus de lin blanc, pour prier Dieu, presqu’une anticipation du jour du Jugement, lorsque nous serons appelés par le Messie dont nous attendons tous la seconde venue.
+
+Ne soyons donc pas tentés de nous rencontrer au pied de la montagne pour tourner autour, pour nous donner la main dans une espèce de ronde œcuménique qui nous fait oublier le chemin à parcourir&nbsp;; la vraie rencontre est au sommet, en Dieu, et nous ne sommes frères que parce que nous avons tous le même «&nbsp;Père&nbsp;».
+
+Nous vivons dans un monde et en des moments très difficiles&nbsp;; les religions sont instrumentalisées à des fins non spirituelles et les «&nbsp;guerres saintes&nbsp;» sont déclarées même à l’encontre des croyants de la même religion, ce qui fait dire à certains que ce sont les religions qui apportent les guerres, alors que si les hommes se combattent, ce n’est pas parce qu’ils sont juifs, chrétiens ou musulmans, mais bien parce qu’ils ne le sont pas assez, ou parce qu’ils ne le sont plus en pratique.
+
+Ne croyons pas que ce pèlerinage intérieur puisse suffire pour notre purification, mais sachons que, étant faits de chair et de sang, c’est avec cette chair et ce sang que nous devons réaliser notre chemin et notre voie&nbsp;: c’est seulement avec la participation in corpore aux prescriptions liturgiques que nous pourrons recevoir cette Grâce, qui est le seul antidote contre tous les poisons inhérents à la vie en ce monde.
+
+Cet augure s’est réalisé précisément au passage de la Mendola où le Secrétariat pour les activités œcuméniques, présidé par Maria Vingiani, autre 1er prix du Festival national des Cultures pour le christianisme en 2013, invita le Cardinal Carlo Maria Martini à présider nos travaux. Je me souviens que Mme Vingiani avait été quelque peu perplexe quand je me permis de soutenir nos frères chrétiens orthodoxes en partageant la doctrine de l’Unicité de Dieu selon l’affirmation du témoignage de foi islamique.
+
+La vraie guerre sainte, comme l’a dit le Prophète Muhammad (sur lui la Paix et la Bénédiction de Dieu), c’est celle que nous devrions réaliser en combattant notre «&nbsp;je&nbsp;», auquel s’allie le diable qui sait parfois se revêtir de l’habit religieux. De même, l’Antéchrist nous parlera d’une paix pour laquelle nous ne devrons plus faire d’effort ni de sacrifice&nbsp;; une paix, pourtant, qui n’est certainement pas celle des «&nbsp;hommes de bonne volonté&nbsp;».
+
+La paix, la vraie, celle qui, selon les paroles de Jésus, «&nbsp;n’est pas de ce monde&nbsp;», nous devons la trouver en nous-mêmes. Et pour l’obtenir, nous devons, tout d’abord, nous réconcilier avec Dieu. Seulement alors pourrons-nous faire la paix avec les autres hommes, si ceux-ci sont tout aussi croyants. Les conflits ne sont jamais entre les croyants de différentes religions, mais entre les vrais et les faux croyants —&nbsp;qui appartiennent parfois à la même communauté religieuse&nbsp;— et nous ne pouvons donc pas prétendre vivre en paix avec celui qui n’a pas le sens religieux de la Justice et de la Connaissance.
+
+La reconnaissance réciproque entre les différentes religions est la conséquence directe de cette Connaissance qui est source de justice et condition pour la paix sur terre aux hommes de bonne volonté, ceux qui seulement pourront trouver la paix véritable, la paix intérieure, la paix de l’Esprit, agissant avec justice en vue de cette Connaissance —&nbsp;seul but ultime de la vie humaine&nbsp;— à travers la pratique rituelle d’une et une seule religion vraiment orthodoxe.
+
+Mais ce livre, dont le Prince El Hassan Bin Talal de Jordanie est le troisième protagoniste, que nous avons rencontré, à Monte-Carlo puis jusqu’en Toscane avec la communauté la Rondine, me permet de relancer le projet d’une rencontre au sommet, souhaitée par le Pape François dans son livre La vérité est une rencontre, et où lui-même pourrait saisir l’occasion de rencontrer un autre descendant du Prophète Muhammad, l’actuel Roi du Maroc Mohammed VI, Commandeur des croyants, ainsi que son conseiller juif André Azoulay, à Milan, à l’occasion de l’Exposition Internationale.
+
+«&nbsp;Mais où pourrions-nous organiser cette rencontre&nbsp;?&nbsp;», me demanderez-vous. Il y a trois lieux symboliques qui sont prêts à accueillir Sa Sainteté&nbsp;: la prestigieuse Bibliothèque Ambrosienne, parrainée par le Cardinal Angelo Scola, qui a tout récemment nommé Rav Giuseppe Laras docteur *Honoris Causa*, en présence du Préfet Mgr Franco Buzzi et du sous-Préfet Mgr Pier Francesco Fumagalli, que j’ai informé de mon intention. Le deuxième lieu symbolique pourrait être le monastère franciscain de Sabbioncello, près de Merate, où, grâce à son recteur frère Fiorenzo Reati, se sont tenues cette année plusieurs rencontres interreligieuses, étendues également aux traditions de l’Extrême Orient. Enfin, le troisième lieu pourrait être notre unique mosquée italienne, à Milan —&nbsp;après sept cents ans d’absence de l’islam en Italie&nbsp; où l’on m’a remis, en 2014, le 1er prix du Festival national des Cultures pour l’islam&nbsp;; cette mosquée, dirigée par l’imam Yahya Pallavicini, mon fils, qui est également mandaté par la Mosquée de Rome pour le dialogue inter-religieux, est dédiée à *Al-Wahid*, le Dieu Unique du Monothéisme d’Abraham, vers Lequel, *Eloah* en hébreu, ou *ila-Hu* en arabe, tous nous nous tournons en prière.
