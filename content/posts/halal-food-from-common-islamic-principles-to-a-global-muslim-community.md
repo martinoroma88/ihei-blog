@@ -3,6 +3,7 @@ titre: Halal food from common Islamic principles to a global Muslim community
 vedette: false
 date: 2017-03-01T20:00:47.326Z
 auteur: Abd al-Wadoud Yahya Gouraud
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619990416/ihei/HalalItalia_wdpqmr.png
 category: Islam en pratique
 ---
 The Islamic vision of reality unifies all aspects of existence, from the inward and spiritual dimension to the more external dimension of deeds and action. It is said that Islam is *dîn wa dunyâ*, which means that every spiritual and temporal aspects of human life are integrated in a sacred perspective that links this world to the Hereafter.
