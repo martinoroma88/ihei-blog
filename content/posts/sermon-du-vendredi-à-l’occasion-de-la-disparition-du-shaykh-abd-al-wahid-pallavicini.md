@@ -4,8 +4,8 @@ titre: Sermon du vendredi à l’occasion de la disparition du Shaykh Abd al-Wah
 vedette: false
 date: 2017-11-17T12:00:18.695Z
 auteur: Imam Yahya Pallavicini
-couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619978015/ihei/ShaykhAbdalWahidPallavicini_ndmjww.jpg
-category: Islam en pratique
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619979592/ihei/23669114_1627686063978779_5223221077902671818_o_g96yyd.jpg
+category: Soufisme et Spiritualités
 ---
 *Ô âme pacifiée –&nbsp;retourne à ton Seigneur satisfaisante et satisfaite –&nbsp;entre ainsi parmi Mes serviteurs –&nbsp;entre ainsi dans Mon Paradis.*
 
