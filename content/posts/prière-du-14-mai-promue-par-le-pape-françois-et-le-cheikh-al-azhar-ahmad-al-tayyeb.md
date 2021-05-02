@@ -15,8 +15,6 @@ Marie tenant dans ses bras Jésus nouveau-né, à l’ombre d’un palmier-datti
 >
 > au Miséricordieux et en ce jour je n’adresserai la parole à aucun être humain&nbsp;!(Coran XIX : 25-26)
 
-
-
 L’invitation adressée «&nbsp;aux leaders religieux et à toutes les personnes dans le monde entier de se tourner vers Dieu d’une seule voix&nbsp;» vient du **Haut-Comité pour la Fraternité Humaine**, constitué en août 2019 à Casa Santa Marta, quelques mois après la rencontre historique du 4 février à Abu Dhabi entre le **pape François** et le grand-imam d’al-Azhar **Ahmad al-Tayyeb**.
 
 Le Comité, composé de leaders religieux et intellectuels **chrétiens, musulmans** **et également juifs**, «&nbsp;pour aider l’humanité à surmonter la pandémie&nbsp;» offre ainsi une occasion concrète pour réaliser cette Fraternité à laquelle se réfère le «&nbsp;Document sur la fraternité humaine pour la paix mondiale et la coexistence commune&nbsp;» d’Abu Dhabi.
@@ -43,8 +41,6 @@ Ce témoignage est celui-là même que notre bien-aimé prophète Muhammad nous 
 
 Imam Yahya Pallavicini, Président, Institut des Hautes Etudes Islamiques, Président, Communauté Religieuse Islamique (COREIS) Italienne, Ambassadeur ISESCO pour le Dialogue entre les Civilisations, Rabat, Membre exécutif du WMCC (World Muslim Communities Council), Abu Dhabi
 
-
-
 ##### **Rivalisez entre vous dans les œuvres de Bien**
 
 **J’ai eu l’honneur de rencontrer le grand-imam d’al-Azhar Ahmad al-Tayyeb**, alors président de l’Université al-Azhar, à l’occasion de la première rencontre mondiale des diplômés d’al-Azhar, organisée en 2006 au Caire, où j’avais été invité à présenter une intervention au sujet de l’islam en France. Cette rencontre bénie s’est conclue avec la création de la Ligue mondiale des diplômés d’al-Azhar, à laquelle j’ai eu la surprise d’être intégré en tant que membre d’honneur de son conseil exécutif.
@@ -53,9 +49,7 @@ Imam Yahya Pallavicini, Président, Institut des Hautes Etudes Islamiques, Prés
 
 A chacun d’entre vous Nous avons assigné une Loi et une Voie. Si Dieu l’avait voulu, Il aurait de vous une seule communauté, mais Il a voulu vous éprouver à travers ce qu’Il vous a donné. Alors rivalisez entre vous dans les œuvres de bien ! Vous retournerez tous à Dieu, Il vous informera alors à propos de ce en quoi vous divergez. (Coran V&nbsp;: 48)
 
-Dans Son infinie Miséricorde et Sagesse, Dieu a accordé à chaque communauté de la famille d’Abraham «&nbsp;une loi et une voie&nbsp;». Si Dieu l’avait voulu Il aurait établi une seule communauté, une seule loi sacrée et une seule voie spirituelle. Mais Il a voulu au contraire diversifier Ses dons en suscitant **diverses communautés de foi, lois religieuses et voies spirituelles qui toutes proviennent de Lui et ramènent**
-
-**à Lui**.
+Dans Son infinie Miséricorde et Sagesse, Dieu a accordé à chaque communauté de la famille d’Abraham «&nbsp;une loi et une voie&nbsp;». Si Dieu l’avait voulu Il aurait établi une seule communauté, une seule loi sacrée et une seule voie spirituelle. Mais Il a voulu au contraire diversifier Ses dons en suscitant **diverses communautés de foi, lois religieuses et voies spirituelles qui toutes proviennent de Lui et ramènent à Lui**.
 
 Ses dons sont à la fois une grâce et une épreuve pour les croyants de ces communautés, tant dans la gestion de la vie en conformité avec la volonté divine que dans l’effort de réforme intérieure. Dans cette perspective, nul doute que **la prière, le jeûne et les œuvres de bien**, que le Pape et le cheikh al-Azhar nous convient à pratiquer, font partie des meilleurs actes d’adoration permettant à l’homme de **se purifier intérieurement et extérieurement, et de se rapprocher de son Seigneur**. Les bienfaits spirituels de ces œuvres sacrées ne profitent d’ailleurs pas seulement à ceux qui les pratiquent, mais **touchent également leur environnement et les créatures qui les entourent**.
 
