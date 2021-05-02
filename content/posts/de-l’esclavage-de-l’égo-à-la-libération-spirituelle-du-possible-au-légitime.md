@@ -14,7 +14,7 @@ Le deuxième inconvénient serait de rentrer une énième fois dans un débat su
 
 Le troisième inconvénient, enfin, provient du fait que le traitement de la question relative à la façon de «&nbsp;considérer l’esclavage dans des sociétés à dominante religieuse&nbsp;?&nbsp;» nous entraînerait immanquablement à parler soit d’un passé qui n’existe plus, soit à affirmer, sans crainte de se tromper, que les sociétés à dominante religieuse n’existent tout bonnement plus dans le monde d’aujourd’hui. Cette possibilité et cette impossibilité nous amèneraient soit à faire une étude historique encyclopédique, chose qui existe sans doute déjà, soit à clore définitivement la conversation faute d’objet.
 
-En effet@nbsp;:
+En effet&nbsp;:
 -Que reste t-il effectivement de la Chrétienté, peut-on l’identifier avec l’Occident moderne&nbsp;? Certes non&nbsp;!
 -Peut-on identifier les différents régimes dictatoriaux des pays arabes ou les pseudos républiques Islamiques avec l’islam&nbsp;? Certes non&nbsp;!
 -Peut-on identifier l’état d’Israël d’aujourd’hui avec le Judaïsme&nbsp;? Certes non&nbsp;!
