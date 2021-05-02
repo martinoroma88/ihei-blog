@@ -42,7 +42,7 @@ Même si les révélations ont toujours répondu, comme nous venons de le voir, 
 
 Pour la plupart des hommes et des femmes d’aujourd’hui, devenus davantage observateurs médiatisés qu’acteurs réels de leur propre vie, c’est le monde et les autres qui doivent changer et non pas la vision ou les préjugés que l’on a tant de soit même que des autres et du monde. Le principal préjugé, qui concerne plus particulièrement notre époque contemporaine, consiste à réduire l’homme à sa seule individualité et partant, à ne plus considérer comme champ de conscience que le moi, l’égo.
 
-C’est ce qui est parfaitement décrit dans cet extrait de la lettre de remerciement que le Shaykh ‘Abd al-Wâhid Pallavicini, Président d’honneur de notre institut, a adressée en réponse à l’invitation qui lui avait été faite par le Père de Lacheisserie à participer à ce colloque@nbsp;:
+C’est ce qui est parfaitement décrit dans cet extrait de la lettre de remerciement que le Shaykh ‘Abd al-Wâhid Pallavicini, Président d’honneur de notre institut, a adressée en réponse à l’invitation qui lui avait été faite par le Père de Lacheisserie à participer à ce colloque&nbsp;:
 
 > Je vous remercie pour le programme des rencontres interreligieuses organisées par la Monastère de Ganagobie en juin prochain. Les thèmes envisagés sont d’une importance vitale pour que la dimension religieuse et spirituelle ne s’éteigne pas complètement chez les hommes et les femmes contemporains. L’aplatissement des valeurs et l’homologation de la mentalité, qui sont proposés dans tous les domaines de la vie, conduisent inexorablement à l’esclavage et à l’idolâtrie de l’égo. Toutes les religions, au contraire, ont toujours fourni les moyens d’une véritable libération en ce monde en vue de l’Autre.
 
