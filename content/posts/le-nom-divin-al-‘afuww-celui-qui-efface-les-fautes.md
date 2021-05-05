@@ -52,11 +52,11 @@ La racine ‘*ayn-fa-waw* signifie effacer les traces, le superflu, éliminer, r
 
 Le Nom *al-‘Afuww* est proche du Nom *al-Ghafûr*, mais le premier est plus intense que le second. Il y a une différence entre la *maghfira* d’Allah et Son ‘*afw*. La *maghfira* est synonyme de *sitr*, elle recouvre et cache les fautes, laideurs et imperfections individuelles, tandis que le ‘*afw* est synonyme de *mahw*, il les efface complètement. L’action d’effacer est donc plus intense que l’action de recouvrir.
 
-Toute épreuve qui vous afflige est le fruit de ce que vos mains ont perpétré, et encore Il ne tient pas compte (*ya‘fû*) de nombre de vos méfaits. (42&nbsp;: 30)
+> Toute épreuve qui vous afflige est le fruit de ce que vos mains ont perpétré, et encore Il ne tient pas compte (*ya‘fû*) de nombre de vos méfaits. (42&nbsp;: 30)
 
 On remarque, par ailleurs, que le Nom divin *al-‘Afuww* n’est jamais employé seul mais il l’est, soit avec le Nom divin *al-Ghafûr*, soit avec le Nom divin coranique *al-Qadîr*.
 
-Que vous fassiez du bien ouvertement ou discrètement ou encore que vous pardonniez (*ya‘fû*) un mal, Allah s’est bel et bien révélé Indulgent (‘*afuwwan*) Tout-Puissant (*qadîran*). (4&nbsp;: 149)
+> Que vous fassiez du bien ouvertement ou discrètement ou encore que vous pardonniez (*ya‘fû*) un mal, Allah s’est bel et bien révélé Indulgent (‘*afuwwan*) Tout-Puissant (*qadîran*). (4&nbsp;: 149)
 
 Ce verset met en rapport et en correspondance la qualité d’*al-‘Afuww* avec l’attitude de Ses serviteurs&nbsp;: ceux qui passent outre et pardonnent les offenses qu’on leur a faites, comme si elles n’existaient plus à leurs yeux, revêtissent ainsi cette qualité divine, et ils verront leurs propres fautes effacées.
 
@@ -64,7 +64,7 @@ Dans son commentaire sur les plus beaux Noms d’Allah, l’imam al-Ghazali expl
 
 Il se peut même qu’Allah leur pardonne en acceptant leur repentir, ce qui signifie qu’Il efface leurs mauvaises actions. Car, selon le hadith, «&nbsp;celui qui se repent de sa faute est comme s’il n’avait pas commis de faute&nbsp;». C’est là le summum de l’effacement.
 
-Concourez au pardon de votre Seigneur, et à un Jardin large comme les cieux et la terre, préparé pour les *muttaqîn*, ceux qui se prémunissent par Allah, qui dépensent dans l'aisance et dans l'adversité, qui dominent leur rage et pardonnent à autrui (*al-‘âfîna ‘an al-nâs*) —&nbsp;car Allah aime les bienfaisants. (3&nbsp;: 133-134)
+> Concourez au pardon de votre Seigneur, et à un Jardin large comme les cieux et la terre, préparé pour les *muttaqîn*, ceux qui se prémunissent par Allah, qui dépensent dans l'aisance et dans l’adversité, qui dominent leur rage et pardonnent à autrui (*al-‘âfîna ‘an al-nâs*) —&nbsp;car Allah aime les bienfaisants. (3&nbsp;: 133-134)
 
 Encore une fois, en cela comme en toute chose, vous avez dans le messager d’Allah un excellent modèle, pour ceux qui espèrent en Allah et dans le Jour dernier, et qui se rappellent Allah en abondance.
 
