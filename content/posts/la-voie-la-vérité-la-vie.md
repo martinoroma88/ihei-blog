@@ -1,6 +1,6 @@
 ---
 titre: La Voie, la Vérité, la Vie
-vedette: false
+vedette: true
 date: 2021-05-11T12:00:46.110Z
 auteur: Shaykh Abd al-Wahid Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1620756848/2020-08-18_05_Shaykh-Abd-al-Wahid-and-wife-Nuriyyah_722x491_bpqnj9.jpg
@@ -8,7 +8,7 @@ category: Soufisme et Spiritualités
 ---
 *Ce texte est extrait d’une intervention que le Shaykh fit lors d’une «&nbsp;leçon&nbsp;» avant la prière du vendredi, à la Grande Mosquée de Paris*.
 
-Une tradition prophétique rapporte qu’un jour le Shaytan demanda à Jésus de prononcer la shahâdah. «&nbsp;Je la prononce&nbsp;», lui dit Jésus, «&nbsp;mais non parce que c’est toi qui me le demande&nbsp;».
+Une tradition prophétique rapporte qu’un jour le Shaytan demanda à Jésus de prononcer la *shahâdah*. «&nbsp;Je la prononce&nbsp;», lui dit Jésus, «&nbsp;mais non parce que c’est toi qui me le demande&nbsp;».
 
 Si Jésus l’avait ainsi prononcée, il aurait en effet suivi le conseil du diable, même s’il s’agissait là du témoignage d’une vérité de foi, alors que cette vérité, seule, est l’unique et véritable raison du témoignage. «&nbsp;Je la prononce&nbsp;», pourrait-on ajouter aux paroles de Jésus, «&nbsp;parce que cela est vrai, car il est en effet vrai qu’il n’y a pas de dieu si ce n’est Dieu et que Muhammad est l’envoyé de Dieu&nbsp;». C’est ce témoignage qui fait de nous de véritables musulmans.
 
@@ -34,7 +34,7 @@ Jamais comme aujourd’hui, notre seul maître n’a été la vie, une vie fa
 
 La présence, en Occident même, de croyants sincères et de leurs familles, au sein de confréries, naturellement insérés dans la *ummah*, atteste du caractère providentiel de l’islam, en ces temps difficiles et en des lieux d’où l’influence spirituelle semblait s’être retirée. Mais il n’y a pas de religion occidentale ou orientale, car, selon la Parole Coranique, «&nbsp;l’Orient et l’Occident appartiennent à Dieu&nbsp;» et «&nbsp;où que vous vous tourniez, là est la Face de Dieu&nbsp;». De même, il ne saurait être question d’immigrés dans quelque pays que ce soit, car là où est le croyant, il s’y trouve dans la maison de Dieu.
 
-Le critère n’est pas la race, la nation ou la langue, ni même la forme religieuse, mais bien la juste orientation, l’intention droite mise en pratique et la pratique bien intentionnée. Le critère est, selon les propres paroles du Shaykh al-Alawî, dont l’influence spirituelle est toujours présente dans cette salle de prière de la Grande Mosquée de Paris, la volonté véritable «&nbsp;d’élever son esprit au-dessus de soi-même&nbsp;». Seuls des hommes engagés de tout leur être sur une telle voie semblent pouvoir, grâce à Dieu et à la barakah de ses saints, contrebalancer les tendances anti- traditionnelles toujours plus manifestes, dans les domaines de la doctrine, des institutions ou de la pratique quotidienne.
+Le critère n’est pas la race, la nation ou la langue, ni même la forme religieuse, mais bien la juste orientation, l’intention droite mise en pratique et la pratique bien intentionnée. Le critère est, selon les propres paroles du Shaykh al-Alawî, dont l’influence spirituelle est toujours présente dans cette salle de prière de la Grande Mosquée de Paris, la volonté véritable «&nbsp;d’élever son esprit au-dessus de soi-même&nbsp;». Seuls des hommes engagés de tout leur être sur une telle voie semblent pouvoir, grâce à Dieu et à la barakah de ses saints, contrebalancer les tendances anti-traditionnelles toujours plus manifestes, dans les domaines de la doctrine, des institutions ou de la pratique quotidienne.
 
 Il s’agit pour ces hommes de rendre sacré tous les actes de leur vie. Cette sacralisation nécessaire à la réalisation spirituelle est tout d’abord rendue possible par la pratique du *dhikr* qui vivifie, sous la guidance du maître et le contrôle de la communauté, la pratique des cinq piliers qui deviennent ainsi les supports privilégiés de l’action transformante de l’influence spirituelle. C’est par leur sincérité, à travers leur soumission à Dieu dans cette action de transformation, qu’ils retrouveront la conformité à l’ordre divin, dans toutes les modalités et situations de leur existence, qu’elles soient familiales, sociales ou professionnelles.
 
