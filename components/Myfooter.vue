@@ -110,16 +110,22 @@
         </p>
         <p>
           <a
-            class="link underline"
+            class="link underline block"
             target="_blank"
             href="https://www.iubenda.com/privacy-policy/39983958"
-            >Politique de confidentialité</a
-          >,
+            >Politique de confidentialité,</a
+          >
           <a
-            class="link underline"
+            class="link underline block"
             target="_blank"
             href="https://www.iubenda.com/privacy-policy/39983958/cookie-policy"
-            >Politique des cookies</a
+            >Politique des cookies,</a
+          >
+          <a
+            class="link underline block"
+            target="_blank"
+            href="https://www.genesicom.com"
+            >Credits</a
           >
         </p>
       </div>
