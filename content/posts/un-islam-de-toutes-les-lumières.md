@@ -1,6 +1,6 @@
 ---
 titre: Un islam de toutes les lumières
-vedette: false
+vedette: true
 date: 2021-04-29T07:30:21.879Z
 url: https://www.mizane.info/abd-al-haqq-guiderdoni-un-islam-de-toutes-les-lumieres/
 auteur: Abd al-Haqq Ismaïl Guiderdoni
