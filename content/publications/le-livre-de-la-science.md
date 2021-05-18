@@ -1,9 +1,9 @@
 ---
-titre: "Le Livre de la Science"
-date: "2020-09-01"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604655254/ihei/couvertures/publications-8_znccfq.jpg"
-category: "Traductions"
-auteur: "traduit et annoté par Jean Abd al-Wadoud Gouraud"
+titre: Le Livre de la Science
+date: 2008-12-31T23:00:00.000Z
+auteur: traduit et annoté par Jean Abd al-Wadoud Gouraud
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604655254/ihei/couvertures/publications-8_znccfq.jpg
+category: Traductions
 ---
 
 Force est de constater, de nos jours, qu’une large majorité d’hommes et de femmes semble avoir adopté, souvent sans même s’en rendre compte, un point de vue et un mode de vie les amenant à considérer la vie quotidienne comme séparée de la dimension spirituelle et religieuse. Dans un tel contexte, l’&oelig;uvre de l’imam Ghazali revêt, plus que jamais, un caractère d’une extraordinaire actualité. Redonnant la possibilité, pour ceux qui le désirent, de redécouvrir le sens véritable de la religion, elle est une mise en &oelig;uvre cohérente du message fondamental d’unité et d’unicité de l’islam dans toutes ses dimensions constitutives de soumission à la volonté divine (al-islam), de foi (al-îmân) et de vertu contemplative (al-ihsân).  
