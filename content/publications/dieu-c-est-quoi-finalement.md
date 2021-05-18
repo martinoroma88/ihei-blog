@@ -1,8 +1,8 @@
 ---
-titre: "Dieu, c’est quoi finalement ?"
-date: "2020-09-01"
+titre: Dieu, c’est quoi finalement ?
+date: 2004-12-31T23:00:00.000Z
 url: "#"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604656424/ihei/couvertures/publications-13_dsnefz.jpg"
-category: "Contributions"
-auteur: "Avec la participation d’Abd al-Haqq Guiderdoni"
+auteur: Avec la participation d’Abd al-Haqq Guiderdoni
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604656424/ihei/couvertures/publications-13_dsnefz.jpg
+category: Contributions
 ---
