@@ -49,7 +49,7 @@ collections:
       - { label: 'URL', name: 'url', widget: 'string', required: false }
       - { label: 'Author', name: 'auteur', widget: 'string', required: false }
       - { label: 'Cover', name: 'couverture', widget: 'image', required: false }
-      - { label: 'Category', name: 'category', widget: 'relation', collection: 'publication-categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'] }
+      - { label: 'Category', name: 'category', widget: 'relation', collection: 'publication-categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'], required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
 
   - name: 'institut'
