@@ -42,7 +42,7 @@ export default {
   },
   async asyncData({ $content, error, params }) {
     try {
-      const post = await $content("publications", params.publication).fetch();
+      const post = await $content("publications", params.publication).sortBy("date", "desc").fetch();
       const category = await $content(
         "publication-categories",
         params.category
