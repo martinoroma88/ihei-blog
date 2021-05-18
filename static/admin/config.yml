@@ -50,7 +50,7 @@ collections:
       - { label: 'Author', name: 'auteur', widget: 'string', required: false }
       - { label: 'Cover', name: 'couverture', widget: 'image', required: false }
       - { label: 'Category', name: 'category', widget: 'relation', collection: 'publication-categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'] }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
 
   - name: 'institut'
     label: 'Institute'
