@@ -1,6 +1,6 @@
 ---
 titre: Un soufi d’Occident
-date: 2020-09-01
+date: 2007-11-30T23:00:00.000Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584952/ihei/couvertures/soufisme-et-spiritualites-1_d2hocs.jpg
 category: Soufisme et Spiritualités
