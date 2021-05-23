@@ -1,7 +1,7 @@
 ---
 titre: "Al-Ghazali : la foi et la raison"
 vedette: false
-date: 2021-01-01T13:00:27.914Z
+date: 2021-01-14T13:00:27.914Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619956223/ihei/couvertures/Al-Ghazali_nzpgbh.jpg
 category: Soufisme et Spiritualités
