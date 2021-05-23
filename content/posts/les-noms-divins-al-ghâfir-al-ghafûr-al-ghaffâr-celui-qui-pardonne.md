@@ -1,7 +1,7 @@
 ---
 titre: "Les Noms divins : Al-Ghâfir, Al-Ghafûr, Al-Ghaffâr, Celui qui pardonne"
 vedette: false
-date: 2021-05-02T12:30:44.026Z
+date: 2020-05-25T12:30:44.026Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619987110/ihei/Al-Ghafur_nmu8yl.jpg
 category: Soufisme et Spiritualités
