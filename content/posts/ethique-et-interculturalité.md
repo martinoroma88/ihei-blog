@@ -1,6 +1,6 @@
 ---
 titre: Éthique et interculturalité dans l’éducation, le management et la gouvernance
-date: 2020-09-01
+date: 2013-10-07T22:00:00.000Z
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606749694/ihei/articles/Ethique%20et%20interculturalite/1447013873_s83gps.jpg
 category: Dialogue interreligieux
 souscategorie: dialogue-judéo-islamique
