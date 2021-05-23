@@ -1,6 +1,6 @@
 ---
 titre: Les secrets des cinq piliers de l’islam
-date: 2020-09-03
+date: 2019-10-30T23:00:00.000Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654416/ihei/couvertures/islam-en-pratique-9_pzayty.jpg
 category: Islam en pratique
