@@ -19,7 +19,7 @@
 			const category = categories.find(c => c.slug === params.category);
 			if (!category) return error({statusCode: 404})
 
-			const posts = await $content("publications").where({ category: category.titre }).only(["titre", "couverture", "url", "slug", "auteur", "category"]).sortBy("date", "desc").fetch();
+			const posts = await $content("publications").where({ category: category.titre }).only(["titre", "couverture", "url", "slug", "auteur", "category", "date"]).sortBy("date", "desc").fetch();
 			posts.forEach((p, i) => {
 				p.categoryPopulated = category;
 			})
