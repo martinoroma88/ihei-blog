@@ -2,7 +2,7 @@
 titre: Prière du 14 mai 2020 promue par le pape François et le cheikh al-Azhar
   Ahmad al-Tayyeb
 vedette: false
-date: 2021-05-02T12:00:35.768Z
+date: 2020-05-14T12:00:35.768Z
 auteur: Imam Yahya Pallavicini et Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654416/ihei/couvertures/islam-en-pratique-3_ws3q2t.jpg
 category: Dialogue interreligieux
