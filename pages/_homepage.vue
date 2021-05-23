@@ -60,7 +60,7 @@ export default {
 
     let posts = await $content("posts")
       .where({vedette: { $ne: true}})
-      .only(["titre", "couverture", "url", "slug", "auteur", "category"])
+      .only(["titre", "couverture", "url", "slug", "auteur", "category", "date"])
       .sortBy("date", "desc")
       .skip(skip)
       .limit(perPage)
