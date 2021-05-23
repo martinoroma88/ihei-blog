@@ -1,10 +1,10 @@
 ---
-titre: "Quelle voie sans compagnons ?"
-date: "2020-09-01"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586812/ihei/couvertures/dialogue-interreligieux-2_sbkqyd.jpg"
-category: "Dialogue interreligieux"
-subcategory: "dialogue-islamo-chrétien"
-auteur: "Yahya Pallavicini"
+titre: Quelle voie sans compagnons ?
+date: 2014-12-24T23:00:00.000Z
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586812/ihei/couvertures/dialogue-interreligieux-2_sbkqyd.jpg
+category: Dialogue interreligieux
+subcategory: dialogue-islamo-chrétien
+auteur: Yahya Pallavicini
 ---
 Article publié dans la revue CONFRONTI de décembre 2014
 
