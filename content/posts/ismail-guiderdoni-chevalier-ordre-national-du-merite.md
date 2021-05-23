@@ -1,6 +1,6 @@
 ---
 titre: Cérémonie de remise des insignes de Chevalier de l’Ordre National du Mérite
-date: 2020-08-18
+date: 2013-11-08T23:00:00.000Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/w_900,h_600,c_fill/v1606410296/ihei/articles/ismail-guiderdoni-chevalier/DSC_0248_bldysh.jpg
 category: Islam et République
