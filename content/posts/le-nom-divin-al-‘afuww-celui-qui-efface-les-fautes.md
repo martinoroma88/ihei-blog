@@ -1,7 +1,7 @@
 ---
 titre: "Le Nom divin : Al-‘Afuww, Celui qui efface les fautes"
 vedette: false
-date: 2021-05-19T19:30:02.423Z
+date: 2020-06-22T19:30:02.423Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619987905/ihei/Al-Afuw_frwgic.jpg
 category: Soufisme et Spiritualités
