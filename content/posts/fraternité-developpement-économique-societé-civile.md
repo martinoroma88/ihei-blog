@@ -1,6 +1,6 @@
 ---
 titre: Fraternité, développement économique et société civile
-date: 2020-10-06
+date: 2009-06-28T22:00:00.000Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-5_ynokno.jpg
 category: Islam et République
