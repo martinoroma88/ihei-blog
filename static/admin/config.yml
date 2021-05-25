@@ -26,7 +26,7 @@ collections:
     fields:
       - { label: 'Title', name: 'titre', widget: 'string' }
       - { label: 'Featured', name: 'vedette', widget: 'boolean', required: false, default: false}
-      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'Datex', name: 'date', widget: 'datetime' }
       - { label: 'URL', name: 'url', widget: 'string', required: false }
       - { label: 'Author', name: 'auteur', widget: 'string', required: false }
       - { label: 'Cover', name: 'couverture', widget: 'image', required: false }
