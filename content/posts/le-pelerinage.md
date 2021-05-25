@@ -1,6 +1,6 @@
 ---
 titre: Le Pèlerinage
-date: 2020-09-03
+date: 2007-12-23T23:00:00.000Z
 auteur: Abd ar-Rashîd Bossa
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-6_re1qcm.jpg
 category: Islam en pratique
