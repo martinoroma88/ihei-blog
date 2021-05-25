@@ -1,6 +1,6 @@
 ---
 titre: Islam et Boudhisme
-date: 2020-09-01
+date: 2007-12-12T23:00:00.000Z
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586814/ihei/couvertures/dialogue-interreligieux-7_hlkbp2.jpg
 category: Dialogue interreligieux
 subcategory: dialogue-avec-les-autres-traditions
