@@ -6,9 +6,7 @@ auteur: Yahya Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-6_jhqejw.jpg
 category: Islam et République
 ---
-
-New York, le 27 septembre 2012
-Organisation des Nations Unies
+New York, Organisation des Nations Unies
 
 Panel 1
 
