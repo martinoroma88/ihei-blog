@@ -1,5 +1,5 @@
 <template>
-  <div class="flex space-x-2 font-sans">
+  <div class="flex space-x-2 font-sans items-center">
     <div v-if="icon">
       <IconUser />
     </div>
