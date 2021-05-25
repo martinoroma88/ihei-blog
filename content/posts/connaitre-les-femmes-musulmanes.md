@@ -1,6 +1,6 @@
 ---
 titre: Connaître les femmes musulmanes
-date: 2020-09-03
+date: 2009-09-17T22:00:00.000Z
 auteur: Ilhâm-Allâh Chiara Ferrero
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619955810/ihei/couvertures/muslim-woman-pray-and-beautiful-background-picture-id494812728_dpriep.jpg
 category: Islam en pratique
