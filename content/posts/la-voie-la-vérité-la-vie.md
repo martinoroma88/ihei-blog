@@ -1,7 +1,7 @@
 ---
 titre: La Voie, la Vérité, la Vie
 vedette: false
-date: 1997-04-01T12:00:46.110Z
+date: 1997-04-01
 auteur: Shaykh Abd al-Wahid Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1620756848/2020-08-18_05_Shaykh-Abd-al-Wahid-and-wife-Nuriyyah_722x491_bpqnj9.jpg
 category: Soufisme et Spiritualités
