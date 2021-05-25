@@ -1,6 +1,6 @@
 ---
 titre: L’Aïd al-Adhâ et le monothéisme abrahamique
-date: 2020-09-03
+date: 2012-10-24T22:00:00.000Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-5_y5dbeg.jpg
 category: Islam en pratique
