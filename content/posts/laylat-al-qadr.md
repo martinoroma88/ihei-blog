@@ -1,6 +1,6 @@
 ---
 titre: "La nuit du Destin : Laylat al-Qadr"
-date: 2020-09-03
+date: 2019-05-31T22:00:00.000Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-4_wodu2w.jpg
 category: Islam en pratique
