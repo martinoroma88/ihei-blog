@@ -1,9 +1,9 @@
 ---
-titre: "La détermination du début du mois de Ramadan"
-date: "2020-09-03"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-7_v2orqf.jpg"
-category: "Islam en pratique"
-auteur: "Abd al-Haqq Ismaïl Guiderdoni"
+titre: La détermination du début du mois de Ramadan
+date: 2021-04-10T22:00:00.000Z
+auteur: Abd al-Haqq Ismaïl Guiderdoni
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-7_v2orqf.jpg
+category: Islam en pratique
 ---
 
 ![Abd al-Haqq Ismaïl Guiderdoni](https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654777/ihei/couvertures/islam-en-pratique-10_a4ksqu.jpg "Abd al-Haqq Ismaïl Guiderdoni")
