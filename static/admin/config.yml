@@ -21,6 +21,7 @@ collections:
     create: true
     identifier_field: titre
     sortable_fields: ['date', 'titre']
+    summary: {{titre}} - {{date}}
     editor:
       preview: false
     fields:
@@ -40,6 +41,7 @@ collections:
     format: 'frontmatter'
     create: true
     identifier_field: titre
+    summary: {{titre}} - {{date}}
     editor:
       preview: false
     fields:
