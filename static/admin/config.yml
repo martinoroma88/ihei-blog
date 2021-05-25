@@ -21,7 +21,6 @@ collections:
     create: true
     identifier_field: titre
     sortable_fields: ['date', 'titre']
-    summary: {{titre}} /| {{date}}
     editor:
       preview: false
     fields:
@@ -32,7 +31,6 @@ collections:
       - { label: 'Auteur', name: 'auteur', widget: 'string', required: false }
       - { label: 'Couverture', name: 'couverture', widget: 'image', required: false }
       - { label: 'Categorie', name: 'category', widget: 'relation', collection: 'categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'] }
-      # - { label: 'Subcategory', name: 'subcategory', widget: 'relation', collection: 'categories', value_field: "{{slug}}", display_fields: ["{{titre}}"], search_fields: ['titre'] } # TODO doesn't work because subcategory is a key inside of a category (instead of array)
       - { label: 'Annexes', name: 'annexes', widget: 'list', fields: [ { label: 'Title', name: 'titre', widget: 'string' }, { label: 'URL', name: 'url', widget: 'string' } ] }
       - { label: 'Corps du text', name: 'body', widget: 'markdown', required: false }
 
@@ -42,7 +40,6 @@ collections:
     format: 'frontmatter'
     create: true
     identifier_field: titre
-    summary: {{titre}} /| {{date}}
     editor:
       preview: false
     fields:
