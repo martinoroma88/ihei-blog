@@ -1,6 +1,6 @@
 ---
 titre: Le Monothéisme abrahamique contre le terrorisme
-date: 2020-10-01
+date: 2013-09-18T22:00:00.000Z
 auteur: Shaykh Abd al-Wahid Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606300338/ihei/couvertures/auditorium-83_hz27q3.jpg
 category: Dialogue interreligieux
