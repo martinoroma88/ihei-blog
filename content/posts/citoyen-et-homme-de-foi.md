@@ -1,6 +1,6 @@
 ---
-titre: Etre citoyen d’Europe et homme de foi
-date: 2020-09-01
+titre: Être citoyen d’Europe et homme de foi
+date: 2008-10-22T22:00:00.000Z
 auteur: Yahya Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-4_hexnhw.jpg
 category: Islam et République
