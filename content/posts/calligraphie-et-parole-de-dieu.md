@@ -1,6 +1,6 @@
 ---
 titre: Calligraphie et Parole de Dieu
-date: 2020-09-01
+date: 2010-08-18T22:00:00.000Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606251403/ihei/couvertures/quran_old_iz1cj0.webp
 category: Art et Islam
