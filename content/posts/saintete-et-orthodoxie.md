@@ -1,6 +1,6 @@
 ---
 titre: Sainteté et orthodoxie
-date: 2020-09-01
+date: 2014-10-23T22:00:00.000Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584952/ihei/couvertures/soufisme-et-spiritualites-3_poqeq0.jpg
 category: Soufisme et Spiritualités
