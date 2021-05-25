@@ -1,9 +1,10 @@
 ---
-titre: "La société-civile et l’éducation aux Droits de l’Homme comme instruments de promotion de la tolérance religieuse"
-date: "2020-09-27"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-6_jhqejw.jpg"
-category: "Islam et République"
-auteur: "Yahya Pallavicini"
+titre: La société-civile et l’éducation aux Droits de l’Homme comme instruments
+  de promotion de la tolérance religieuse
+date: 2012-09-26T22:00:00.000Z
+auteur: Yahya Pallavicini
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-6_jhqejw.jpg
+category: Islam et République
 ---
 
 New York, le 27 septembre 2012
