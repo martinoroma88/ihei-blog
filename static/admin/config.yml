@@ -20,7 +20,7 @@ collections:
     format: 'frontmatter'
     create: true
     identifier_field: titre
-    sortable_fields: ['pubdate', 'titre']
+    sortable_fields: ['date', 'titre']
     editor:
       preview: false
     fields:
