@@ -20,13 +20,12 @@ collections:
     format: 'frontmatter'
     create: true
     identifier_field: titre
-    sortable_fields: ['date', 'titre']
     editor:
       preview: false
     fields:
       - { label: 'Title', name: 'titre', widget: 'string' }
       - { label: 'Featured', name: 'vedette', widget: 'boolean', required: false, default: false}
-      - { label: 'Datex', name: 'date', widget: 'datetime' }
+      - { label: 'Date', name: 'date', widget: 'datetime', date_format: true, time_format: false }
       - { label: 'URL', name: 'url', widget: 'string', required: false }
       - { label: 'Author', name: 'auteur', widget: 'string', required: false }
       - { label: 'Cover', name: 'couverture', widget: 'image', required: false }
