@@ -1,6 +1,6 @@
 ---
 titre: La Calligraphie, trace de l'Invisible
-date: 2020-09-02
+date: 2005-08-17T22:00:00.000Z
 auteur: "Abd al-Wadoud Yahya Gouraud "
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606251628/ihei/couvertures/images_jfucyj.jpg
 category: Art et Islam
