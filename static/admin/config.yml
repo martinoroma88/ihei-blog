@@ -23,16 +23,16 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'titre', widget: 'string' }
-      - { label: 'Featured', name: 'vedette', widget: 'boolean', required: false, default: false}
+      - { label: 'Titre', name: 'titre', widget: 'string' }
+      - { label: 'Vedette', name: 'vedette', widget: 'boolean', required: false, default: false}
       - { label: 'Date', name: 'date', widget: 'datetime', date_format: true, time_format: false }
       - { label: 'URL', name: 'url', widget: 'string', required: false }
-      - { label: 'Author', name: 'auteur', widget: 'string', required: false }
-      - { label: 'Cover', name: 'couverture', widget: 'image', required: false }
-      - { label: 'Category', name: 'category', widget: 'relation', collection: 'categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'] }
+      - { label: 'Auteur', name: 'auteur', widget: 'string', required: false }
+      - { label: 'Couverture', name: 'couverture', widget: 'image', required: false }
+      - { label: 'Categorie', name: 'category', widget: 'relation', collection: 'categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'] }
       # - { label: 'Subcategory', name: 'subcategory', widget: 'relation', collection: 'categories', value_field: "{{slug}}", display_fields: ["{{titre}}"], search_fields: ['titre'] } # TODO doesn't work because subcategory is a key inside of a category (instead of array)
-      - { label: 'Attachments', name: 'annexes', widget: 'list', fields: [ { label: 'Title', name: 'titre', widget: 'string' }, { label: 'URL', name: 'url', widget: 'string' } ] }
-      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+      - { label: 'Annexes', name: 'annexes', widget: 'list', fields: [ { label: 'Title', name: 'titre', widget: 'string' }, { label: 'URL', name: 'url', widget: 'string' } ] }
+      - { label: 'Corps du text', name: 'body', widget: 'markdown', required: false }
 
   - name: 'publications'
     label: 'Publications'
@@ -43,14 +43,14 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'titre', widget: 'string' }
-      - { label: 'Subtitle', name: 'soustitre', soustitre: 'string', required: false }
+      - { label: 'Titre', name: 'titre', widget: 'string' }
+      - { label: 'Soustitre', name: 'soustitre', soustitre: 'string', required: false }
       - { label: 'Date', name: 'date', widget: 'datetime', date_format: true, time_format: false }
       - { label: 'URL', name: 'url', widget: 'string', required: false }
-      - { label: 'Author', name: 'auteur', widget: 'string', required: false }
-      - { label: 'Cover', name: 'couverture', widget: 'image', required: false }
-      - { label: 'Category', name: 'category', widget: 'relation', collection: 'publication-categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'], required: false }
-      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+      - { label: 'Auteur', name: 'auteur', widget: 'string', required: false }
+      - { label: 'Couverture', name: 'couverture', widget: 'image', required: false }
+      - { label: 'Categorie', name: 'category', widget: 'relation', collection: 'publication-categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'], required: false }
+      - { label: 'Corps du text', name: 'body', widget: 'markdown', required: false }
 
   - name: 'institut'
     label: 'Institute'
@@ -61,10 +61,10 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'titre', widget: 'string' }
-      - { label: 'Subtitle', name: 'soustitre', soustitre: 'string' }
-      - { label: 'Order', name: 'ordre', widget: 'number' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Titre', name: 'titre', widget: 'string' }
+      - { label: 'Soustitre', name: 'soustitre', soustitre: 'string' }
+      - { label: 'Ordre', name: 'ordre', widget: 'number' }
+      - { label: 'Corps du text', name: 'body', widget: 'markdown' }
 
   - name: 'categories'
     label: 'Categories'
@@ -75,9 +75,9 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'titre', widget: 'string' }
-      - { label: 'Order', name: 'ordre', widget: 'number' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Titre', name: 'titre', widget: 'string' }
+      - { label: 'Ordre', name: 'ordre', widget: 'number' }
+      - { label: 'Corps du text', name: 'body', widget: 'markdown' }
 
   - name: 'publication-categories'
     label: 'Publication Categories'
@@ -85,12 +85,11 @@ collections:
     format: 'frontmatter'
     create: true
     identifier_field: titre
-    sortable_fields: ['date', 'ordre']
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'titre', widget: 'string' }
-      - { label: 'Order', name: 'ordre', widget: 'number' }
-      - { label: 'Cover', name: 'couverture', widget: 'image', required: false }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Titre', name: 'titre', widget: 'string' }
+      - { label: 'Ordre', name: 'ordre', widget: 'number' }
+      - { label: 'Couverture', name: 'couverture', widget: 'image', required: false }
+      - { label: 'Corps du text', name: 'body', widget: 'markdown' }
       
