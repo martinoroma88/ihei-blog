@@ -1,6 +1,6 @@
 ---
 titre: La reconnaissance métaphysique de l’Unité
-date: 2020-09-01
+date: 1996-08-14T22:00:00.000Z
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586815/ihei/couvertures/dialogue-interreligieux-9_bs0vgf.png
 category: Dialogue interreligieux
 subcategory: dialogue-avec-les-autres-traditions
