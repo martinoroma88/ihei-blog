@@ -25,7 +25,7 @@ collections:
     fields:
       - { label: 'Titre', name: 'titre', widget: 'string' }
       - { label: 'Vedette', name: 'vedette', widget: 'boolean', required: false, default: false}
-      - { label: 'Date', name: 'date', widget: 'datetime', date_format: 'YYYY-MM-DD', time_format: false }
+      - { label: 'Date', name: 'date', widget: 'datetime', date_format: 'DD-MM-YYYY', format: 'YYYY-MM-DD', time_format: false }
       - { label: 'URL', name: 'url', widget: 'string', required: false }
       - { label: 'Auteur', name: 'auteur', widget: 'string', required: false }
       - { label: 'Couverture', name: 'couverture', widget: 'image', required: false }
