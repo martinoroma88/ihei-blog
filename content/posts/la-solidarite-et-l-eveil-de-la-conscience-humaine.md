@@ -1,9 +1,9 @@
 ---
-titre: "La solidarité et l’éveil de la conscience humaine"
-date: "2020-08-04"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604580596/ihei/couvertures/islam-et-environnement_1_sxikoj.jpg"
-category: "Environnement"
-auteur: "S.A.R. le Prince El Hassan Bin Talal de Jordanie"
+titre: La solidarité et l’éveil de la conscience humaine
+date: 2020-08-03T22:00:00.000Z
+auteur: S.A.R. le Prince El Hassan Bin Talal de Jordanie
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604580596/ihei/couvertures/islam-et-environnement_1_sxikoj.jpg
+category: Environnement
 ---
 
 Ce que nous affrontons en ce moment au niveau mondial, en termes d’impact humain, social et économique, à cause de la pandémie de Covid-19, nous place devant un défi pour vérifier jusqu’à quel point le concept de citoyenneté active est enraciné en chacun de nous. Ce défi constitue en même temps une épreuve pour notre capacité de dépasser nos limites, et d’étendre le concept holistique d’harmonie collective, de solidarité, de coopération et, surtout, de capacité de résilience de l’individu&nbsp;; autant d’instruments qui servent pour faire interagir les problèmes de notre communauté, de notre pays et de la société humaine avec la nécessité avérée de construire un monde social caractérisé par l’efficience, la participation personnelle et l’interaction avec les autres.
