@@ -1,6 +1,6 @@
 ---
 titre: Communiqué de presse, Samuel Paty
-date: 2020-10-18
+date: 2020-10-17T22:00:00.000Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606407883/ihei/couvertures/Centre_historique_de_Conflans-Sainte-Honorine.Yvelines.France_zc0qox.jpg
 category: Islam et République
