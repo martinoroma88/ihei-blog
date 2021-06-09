@@ -1,9 +1,9 @@
 ---
-titre: "Communiqué de presse, Notre Dame de Nice"
-date: "2020-10-29"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606295913/ihei/couvertures/1200px-Notre_Dame__113432119_cyidmg.jpg"
-category: "Islam et République"
-auteur: "IHEI"
+titre: Communiqué de presse, Notre Dame de Nice
+date: 2020-10-28T23:00:00.000Z
+auteur: IHEI
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606295913/ihei/couvertures/1200px-Notre_Dame__113432119_cyidmg.jpg
+category: Islam et République
 ---
 
 Gap, le 29 octobre 2020,
