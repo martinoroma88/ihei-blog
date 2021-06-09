@@ -1,6 +1,6 @@
 ---
 titre: La connaissance de Dieu
-date: 2020-10-08
+date: 2020-10-07T22:00:00.000Z
 auteur: Shaykh Abd al-Wahid Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584955/ihei/couvertures/soufisme-et-spiritualites-8_ymfv82.jpg
 category: Soufisme et Spiritualités
