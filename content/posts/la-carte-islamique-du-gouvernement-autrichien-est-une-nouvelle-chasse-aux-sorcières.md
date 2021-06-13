@@ -1,5 +1,5 @@
 ---
-titre: La "carte islamique" du gouvernement autrichien est une nouvelle chasse
+titre: La "carte de l’islam" du gouvernement autrichien est une nouvelle chasse
   aux sorcières
 vedette: false
 date: 2021-06-06T09:36:23.142Z
@@ -7,7 +7,7 @@ auteur: Imam Yahya Pallavicini
 couverture: ""
 category: Islam et République
 ---
-Cette semaine, le gouvernement autrichien a publié une «&nbsp;carte islamique&nbsp;» avec une liste d’adresses d’individus, d’associations et de centres culturels qui sont sommairement enregistrés comme liés à l’islam politique, radical et extrémiste. Il semble que les mosquées et les organisations fassent partie de cette liste réunissant 620 adresses. Les représentants du Gouvernement qui ont travaillé à la sélection de ladite liste ne sont pas clairs sur son objectif&nbsp;: certains disent que cette liste recense tous ceux qui, potentiellement, sont une menace pour la sécurité nationale, d’autres affirment, quant à eux, qu’il s’agit d’une simple cartographie sur la composition hétérogène du pluralisme interne des musulmans en Autriche. Le ministre autrichien de l’Intégration Raab défend le choix de publier cette liste qui, selon lui, favorisera une plus grande transparence et permettra aux musulmans autrichiens d’avoir une plus grande conscience de leur situation.
+Cette semaine, le gouvernement autrichien a publié une «&nbsp;carte de l’islam&nbsp;» avec une liste d’adresses d’individus, d’associations et de centres culturels qui sont sommairement enregistrés comme liés à l’islam politique, radical et extrémiste. Il semble que les mosquées et les organisations musulmanes fassent partie de cette liste réunissant 620 adresses. Les représentants du Gouvernement qui ont travaillé à la sélection de ladite liste ne sont pas clairs sur son objectif&nbsp;: certains disent que cette liste recense tous ceux qui, potentiellement, sont une menace pour la sécurité nationale, d’autres affirment, quant à eux, qu’il s’agit d’une simple cartographie sur la composition hétérogène du pluralisme interne des musulmans en Autriche. La ministre autrichienne de l’Intégration, Suzanne Raab, défend le choix de publier cette liste qui, selon elle, favorisera une plus grande transparence vis-à-vis de la population et permettra aux musulmans autrichiens d’avoir une plus grande conscience de leur situation.
 
 De nombreux analystes politiques et experts en politiques de sécurité se sont exprimés de manière critique, déclarant la méthode contre-productive, une provocation naïve à la méfiance de toute une communauté de citoyens et de croyants. Le maire de Vienne a protesté contre cette carte et le Conseil de l’Europe a statué, demandant formellement son retrait immédiat du site et une protection sur la confidentialité des adresses. Au lendemain de sa publication, certains citoyens ont décidé de célébrer cette «&nbsp;liste noire&nbsp;» en affichant des panneaux à proximité des adresses indiquées sur la «&nbsp;Carte islamique&nbsp;» avec l’inscription&nbsp;: Attention&nbsp;! L’Islam politique est proche de toi&nbsp;!
 
