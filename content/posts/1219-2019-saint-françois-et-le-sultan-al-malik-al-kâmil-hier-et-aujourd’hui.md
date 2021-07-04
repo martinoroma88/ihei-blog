@@ -21,4 +21,4 @@ Nous voulons exprimer notre profonde gratitude envers l’Ordre des Frères Min
 
 Que l’exemple de cette rencontre entre saint François et al-Malik al-Kâmil continue de nous inspirer pour de longues années.
 
-Ce petit ouvrage est dédié à la mémoire du Père André Gence (1918-2009), du Père Michel Lelong (1925-2020), du Père Abbé René-Hugues de Lacheisserie (1942-2021) et du Père Pierre Fournier (1948- 2021), compagnons fidèles de nos rencontres interreligieuses pendant de longues années.
+Ce petit ouvrage est dédié à la mémoire du Père André Gence (1918-2009), du Père Michel Lelong (1925-2020), du Père Abbé René-Hugues de Lacheisserie (1942-2021) et du Père Pierre Fournier (1948-2021), compagnons fidèles de nos rencontres interreligieuses pendant de longues années.
