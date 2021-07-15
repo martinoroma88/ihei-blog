@@ -4,6 +4,7 @@ titre: Iǧtihād et ittibāʿ - La méthode du šayḫ al-Azhar ʿAbd al-H�
 vedette: false
 date: 2021-07-15T18:08:58.295Z
 auteur: Abd al-Wadoud Yahya Gouraud
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1626373539/mahmud2_orkn4u.jpg
 category: Islam en pratique
 annexes:
   - url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1626372996/ihei/PDF/MIDEO36_05_Gouraud_xi3huc.pdf
