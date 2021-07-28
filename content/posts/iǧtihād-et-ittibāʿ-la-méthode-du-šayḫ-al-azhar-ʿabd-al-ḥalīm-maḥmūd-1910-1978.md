@@ -1,5 +1,5 @@
 ---
-titre: Ightihâd et ittibâʿ - La méthode du shayh al-Azhar ʿAbd al-Halim Mahmud
+titre: Ijtihâd et ittibâʿ - La méthode du shayh al-Azhar ʿAbd al-Halim Mahmud
   (1910-1978)
 vedette: false
 date: 2021-07-15T18:08:58.295Z
