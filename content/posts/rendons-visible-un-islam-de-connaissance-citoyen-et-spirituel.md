@@ -1,7 +1,7 @@
 ---
 titre: Rendre visibles les initiatives de ceux qui promeuvent un islam de
   connaissance, citoyen et spirituel
-date: 2016-08-15T22:00:00.000Z
+date: 2016-08-16T22:00:00.000Z
 url: ""
 auteur: Abd al-Haqq Ismaïl Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-3_mgknlk.png
