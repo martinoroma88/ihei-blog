@@ -10,7 +10,7 @@ category: Environnement
 
 **Pour une théologie de la création mise en actes.**
 
-L'Institut des Hautes Etudes Islamiques (IHEI) et l'Institut de Science et de Théologie des Religions (ISTR) de Paris organisent, avec le soutien du KAICIID Dialogue Centre, une table-ronde réunissant des représentatns du judaïsme, du christianisme et de l'islam, pour voir comment une théologie de la création peut être transformée en actes concrets.
+L'Institut des Hautes Etudes Islamiques (IHEI) et l'Institut de Science et de Théologie des Religions (ISTR) de Paris organisent, avec le soutien du KAICIID Dialogue Centre, une table-ronde réunissant des représentants du judaïsme, du christianisme et de l'islam, pour voir comment une théologie de la création peut être transformée en actes concrets.
 
 Intervenants :
 
