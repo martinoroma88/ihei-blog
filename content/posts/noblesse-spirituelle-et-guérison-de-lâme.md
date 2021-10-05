@@ -18,12 +18,12 @@ Allocution d'ouverture par **Maître Chems-eddine Hafiz**, recteur de la Grande 
 
 **Bariza Khiari**, présidente de l'Institut des Cultures d'Islam
 
-
-
-*Salle de conférence de la Grande Mosquée de Paris*
+*Salle de conférence de la Grande Mosquée de Paris - 17h -19h*
 
 *2 bis Place du Puits de l'Ermite*
 
 *75005 Paris*
+
+*Entrée sur réservation uniquement. Passe sanitaire non exigé.*
 
 <iframe  src="https://widget.weezevent.com/ticket/E767289/?code=57526&locale=fr-FR&width_auto=1&color_primary=00AEEF" width="650" height="600" ></iframe>
