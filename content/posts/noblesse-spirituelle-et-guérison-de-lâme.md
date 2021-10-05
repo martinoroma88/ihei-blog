@@ -7,7 +7,7 @@ couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/
 category: Soufisme et Spiritualités
 annexes: []
 ---
-**Noblesse spirituelle et guérison de l'âme**\
+**Noblesse spirituelle et guérison de l'âme**
 **Mille ans après la disparition du Shaykh Abû 'Abd al-Rahmân al-Sulamî**
 
 Allocution d'ouverture par **Maître Chems-eddine Hafiz**, recteur de la Grande Mosquée de Paris
