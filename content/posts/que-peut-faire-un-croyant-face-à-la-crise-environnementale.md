@@ -6,24 +6,24 @@ auteur: IHEI - ISTR
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1633459396/ISTR-table-ronde-Paris-oct_zjeaxp.jpg
 category: Environnement
 ---
-**Que peut faire un croyant face à la crise environnementale ?**
+*Date&nbsp;: 21 octobre 2021 de 18h à 20h*
 
-**Pour une théologie de la création mise en actes.**
+*Lieu&nbsp;: Institut de Science et de Théologie des Religions (ISTR), Institut Catholique de Paris*
 
-L'Institut des Hautes Etudes Islamiques (IHEI) et l'Institut de Science et de Théologie des Religions (ISTR) de Paris organisent, avec le soutien du KAICIID Dialogue Centre, une table-ronde réunissant des représentants du judaïsme, du christianisme et de l'islam, pour voir comment une théologie de la création peut être transformée en actes concrets.
+*74 rue de Vaugirard, 75006 Paris*
 
-Intervenants :
+Alors que les effets de la crise environnementale deviennent de plus en plus sensibles, et que se multiplient les appels à un changement radical de nos pratiques, tant individuelles que collectives, chacun se demande ce qu’il peut faire, à son niveau, dans un contexte où une grande partie du problème est systémique.
 
-**Gabriel Hagaï**, rabbin orthodoxe
+Les croyants, en particulier, ont-ils une façon spécifique de comprendre l’origine de la crise –*&nbsp;*une crise en grande partie spirituelle*&nbsp;*–, de proposer des solutions, et de donner l’exemple par une véritable *conversion&nbsp;*?
 
-**Elena Lasida**, théologienne chrétienne
+L’Institut des Hautes Études Islamiques (IHEI) et l’Institut de Science et de Théologie des Religions (ISTR) de Paris organisent, avec le soutien du KAICIID Dialogue Centre, une table-ronde réunissant des représentants du judaïsme, du christianisme et de l’islam, pour voir comment une théologie de la création peut être transformée en actes concrets.
 
-**Abd al-Haqq Guiderdoni**, astrophysicien, directeur de l'IHEI
+Intervenants :
 
-*Institut Catholique de Paris Salle Z27 - 18h - 20h*
+* Gabriel Hagaï, rabbin orthodoxe
+* Elena Lasida, théologienne chrétienne
+* Abd-al-Haqq Guiderdoni, astrophysicien, directeur de l’IHEI
 
-*74 rue Vaugirard*
 
-*75006 Paris*
 
 *Entrée dans la limite des places disponibles. Passe sanitaire obligatoire.*
