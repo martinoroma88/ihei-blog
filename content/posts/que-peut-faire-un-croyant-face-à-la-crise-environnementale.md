@@ -21,7 +21,7 @@ Les croyants, en particulier, ont-ils une façon spécifique de comprendre l’o
 
 L’Institut des Hautes Études Islamiques (IHEI) et l’Institut de Science et de Théologie des Religions (ISTR) de Paris organisent, avec le soutien du KAICIID Dialogue Centre, une table-ronde réunissant des représentants du judaïsme, du christianisme et de l’islam, pour voir comment une théologie de la création peut être transformée en actes concrets.
 
-Intervenants :
+Intervenants*&nbsp;*:
 
 * Gabriel Hagaï, rabbin orthodoxe
 * Elena Lasida, théologienne chrétienne
