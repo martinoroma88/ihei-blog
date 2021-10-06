@@ -13,10 +13,12 @@ A l’occasion de la parution des *Quarante hadiths sur le soufisme* aux éditio
 
 Programme&nbsp;:
 
-Allocution d’ouverture par Maître Chems-eddine HAFIZ, recteur de la grande mosquée de Paris\
-Abd-al-Haqq GUIDERDONI, directeur de l’IHEI\
-Bariza KHIARI, présidente de l’Institut des Cultures d’Islam\
-Abd-al-Wadoud GOURAUD, traducteur des *Quarante hadiths sur le soufisme*
+* Allocution d’ouverture par Maître Chems-eddine HAFIZ, recteur de la grande mosquée de Paris
+* Abd-al-Haqq GUIDERDONI, directeur de l’IHEI
+* Bariza KHIARI, présidente de l’Institut des Cultures d’Islam
+* Abd-al-Wadoud GOURAUD, traducteur des *Quarante hadiths sur le soufisme*
+
+
 
 > «&nbsp;*Notre science est entrelacée avec les hadiths de l’Envoyé.*&nbsp;*» Ce propos du grand soufi Junayd rappelle que la doctrine et les pratiques du soufisme authentique remontent aux origines même de l’islam, prenant leur source au cœur de la révélation coranique et de la tradition prophétique. Il souligne aussi le rôle joué par ses maîtres pour transmettre le hadith et faire vivre la Sunna, et leur lien particulier avec la personne du Prophète et son influence spirituelle. Sulamî transmet ici l’essentiel de la voie contemplative en islam*&nbsp;*: le rapport maître et disciple, la pauvreté, la purification, l’invocation de Dieu, la sainteté, la connaissance du cœur, la sincérité, la patience, la confiance, la rectitude, la compassion, la charité, ou encore la modération.*
 >
