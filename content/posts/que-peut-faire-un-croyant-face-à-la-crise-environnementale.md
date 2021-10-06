@@ -27,5 +27,3 @@ Intervenants :
 *75006 Paris*
 
 *Entrée dans la limite des places disponibles. Passe sanitaire obligatoire.*
-
-<iframe  src="https://widget.weezevent.com/ticket/E767809/?code=22952&locale=fr-FR&width_auto=1&color_primary=00AEEF" width="650" height="600" ></iframe>
