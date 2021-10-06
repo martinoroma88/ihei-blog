@@ -27,6 +27,4 @@ Intervenants :
 * Elena Lasida, théologienne chrétienne
 * Abd-al-Haqq Guiderdoni, astrophysicien, directeur de l’IHEI
 
-
-
 *Entrée dans la limite des places disponibles. Passe sanitaire obligatoire.*
