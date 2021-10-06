@@ -6,6 +6,9 @@ auteur: IHEI - ISTR
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1633459396/ISTR-table-ronde-Paris-oct_zjeaxp.jpg
 category: Environnement
 ---
+**Que peut faire un croyant face à la crise environnementale&nbsp;?**\
+***Pour une théologie de la création mise en actes***
+
 *Date&nbsp;: 21 octobre 2021 de 18h à 20h*
 
 *Lieu&nbsp;: Institut de Science et de Théologie des Religions (ISTR), Institut Catholique de Paris*
