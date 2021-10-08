@@ -3,7 +3,7 @@ titre: Noblesse spirituelle et guérison de l'âme
 vedette: false
 date: 2021-10-22T18:31:41.187Z
 auteur: IHEI
-couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1633458785/Sulami_IHEI_Paris_oct._2021_efzc1l.png
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1633726749/Sulami_IHEI_Parigi_ott._2021_enregistrement_bvuztr.png
 category: Soufisme et Spiritualités
 annexes: []
 ---
