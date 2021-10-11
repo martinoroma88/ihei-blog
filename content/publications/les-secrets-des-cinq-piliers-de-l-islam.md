@@ -23,4 +23,4 @@ Sharani fait ici &oelig;uvre de pédagogie afin de sensibiliser et de favoriser,
 >
 > La foi a deux composantes&nbsp;: l’une prépare le croyant et le rend apte à s’approcher de la Présence divine&nbsp;; l’autre le rend digne d’entrer effectivement dans Sa Présence. (Sharani)
 
-[Commande](<  https://www.editions-i.com/ouvrages/les-secrets-des-cinq-piliers-de-l-islam-28.htm>)
+[Commande](https://www.editions-i.com/ouvrages/les-secrets-des-cinq-piliers-de-l-islam-28.htm)
