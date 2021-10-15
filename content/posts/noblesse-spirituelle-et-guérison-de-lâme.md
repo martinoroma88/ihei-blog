@@ -5,7 +5,9 @@ date: 2021-10-22T18:31:41.187Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1633726749/Sulami_IHEI_Parigi_ott._2021_enregistrement_bvuztr.png
 category: Soufisme et Spiritualités
-annexes: []
+annexes:
+  - url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1633726749/Sulami_IHEI_Parigi_ott._2021_enregistrement_bvuztr.png
+    titre: Noblesse spirituelle et guérison de l‘âme
 ---
 L’année 2021 marque le millénaire de la disparition du grand maître musulman Abû ‘Abd al-Rahmân al-Sulamî (936-1021).
 
