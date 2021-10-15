@@ -28,3 +28,5 @@ Intervenants*&nbsp;*:
 * Abd-al-Haqq Guiderdoni, astrophysicien, directeur de l’IHEI
 
 *Entrée dans la limite des places disponibles. Passe sanitaire obligatoire.*
+
+<iframe  src="https://widget.weezevent.com/ticket/E771656/?code=15007&locale=fr-FR&width_auto=1&color_primary=00AEEF" width="650" height="600" ></iframe>
