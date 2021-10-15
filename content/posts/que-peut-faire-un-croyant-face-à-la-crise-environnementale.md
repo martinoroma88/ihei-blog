@@ -9,7 +9,7 @@ annexes:
   - url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1634333946/ISTR_table_ronde_Paris_oct._2021_shwcay.png
     titre: Que peut faire un croyant face à la crise environnementale ?
 ---
-**Que peut faire un croyant face à la crise environnementale&nbsp;?**
+**je Que peut faire un croyant face à la crise environnementale&nbsp;?**
 ***Pour une théologie de la création mise en actes***
 
 *Date&nbsp;: 21 octobre 2021 de 18h à 20h*
@@ -30,4 +30,6 @@ Intervenants*&nbsp;*:
 * Elena Lasida, théologienne chrétienne
 * Abd-al-Haqq Guiderdoni, astrophysicien, directeur de l’IHEI
 
-*Entrée dans la limite des places disponibles. Passe sanitaire obligatoire.*
+*Inscription obligatoire :* **[je réserve ma place](https://l.ead.me/istr)**
+
+*Passe sanitaire obligatoire.*
