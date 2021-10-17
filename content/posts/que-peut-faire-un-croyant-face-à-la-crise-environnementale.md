@@ -9,7 +9,7 @@ annexes:
   - url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1634333946/ISTR_table_ronde_Paris_oct._2021_shwcay.png
     titre: Que peut faire un croyant face à la crise environnementale ?
 ---
-**je Que peut faire un croyant face à la crise environnementale&nbsp;?**
+**Que peut faire un croyant face à la crise environnementale&nbsp;?**
 ***Pour une théologie de la création mise en actes***
 
 *Date&nbsp;: 21 octobre 2021 de 18h à 20h*
