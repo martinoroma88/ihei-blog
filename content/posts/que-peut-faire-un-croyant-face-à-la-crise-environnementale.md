@@ -29,7 +29,3 @@ Intervenants*&nbsp;*:
 * Gabriel Hagaï, rabbin orthodoxe
 * Elena Lasida, théologienne chrétienne
 * Abd-al-Haqq Guiderdoni, astrophysicien, directeur de l’IHEI
-
-*Inscription obligatoire :* **[je réserve ma place](https://l.ead.me/istr)**
-
-*Passe sanitaire obligatoire.*
