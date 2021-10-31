@@ -20,8 +20,4 @@ Programme&nbsp;:
 * Bariza KHIARI, présidente de l’Institut des Cultures d’Islam
 * Abd-al-Wadoud GOURAUD, traducteur des *Quarante hadiths sur le soufisme*
 
-*Salle de conférence de la Grande Mosquée de Paris - 17h -19h*
-
-*2 bis Place du Puits de l'Ermite*
-
-*75005 Paris*
+*[1ère vidéo](https://www.youtube.com/watch?v=55VXdM-674A&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN)*
