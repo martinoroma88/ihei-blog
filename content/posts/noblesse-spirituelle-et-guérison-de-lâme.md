@@ -25,5 +25,3 @@ Programme&nbsp;:
 *2 bis Place du Puits de l'Ermite*
 
 *75005 Paris*
-
-[1ère VIDEO](https://www.youtube.com/watch?v=E6Z3kneqonM)
