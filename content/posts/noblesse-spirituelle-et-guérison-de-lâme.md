@@ -26,4 +26,4 @@ Programme&nbsp;:
 
 *75005 Paris*
 
-*Entrée sur réservation uniquement. Passe sanitaire non exigé.*
+[VIDEO](https://www.youtube.com/watch?v=E6Z3kneqonM)
