@@ -27,3 +27,5 @@ Programme&nbsp;:
 *[3ème vidéo](https://www.youtube.com/watch?v=XKdbI5w1-vQ&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN&index=3)*
 
 *[4ème vidéo](https://www.youtube.com/watch?v=qygjXF2jOHU&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN&index=4)*
+
+![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1635753344/4e%CC%80me_vide%CC%81o_xcsg3q.png "4ème extrait")
