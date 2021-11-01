@@ -21,3 +21,9 @@ Programme&nbsp;:
 * Abd-al-Wadoud GOURAUD, traducteur des *Quarante hadiths sur le soufisme*
 
 *[1ère vidéo](https://www.youtube.com/watch?v=55VXdM-674A&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN)*
+
+*[2ème vidéo](https://www.youtube.com/watch?v=LEA7BHryr4Q&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN&index=2)*
+
+*[3ème vidéo](https://www.youtube.com/watch?v=XKdbI5w1-vQ&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN&index=3)*
+
+*[4ème vidéo](https://www.youtube.com/watch?v=qygjXF2jOHU&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN&index=4)*
