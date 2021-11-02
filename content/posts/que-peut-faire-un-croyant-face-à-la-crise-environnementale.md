@@ -10,13 +10,7 @@ annexes:
     titre: Que peut faire un croyant face à la crise environnementale ?
 ---
 **Que peut faire un croyant face à la crise environnementale&nbsp;?**
-***Pour une théologie de la création mise en actes***
-
-*Date&nbsp;: 21 octobre 2021 de 18h à 20h*
-
-*Lieu&nbsp;: Institut de Science et de Théologie des Religions (ISTR), Institut Catholique de Paris*
-
-*74 rue de Vaugirard, 75006 Paris*
+***Pour une théologie de la création mise en actes.***
 
 Alors que les effets de la crise environnementale deviennent de plus en plus sensibles, et que se multiplient les appels à un changement radical de nos pratiques, tant individuelles que collectives, chacun se demande ce qu’il peut faire, à son niveau, dans un contexte où une grande partie du problème est systémique.
 
