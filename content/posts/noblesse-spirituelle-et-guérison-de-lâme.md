@@ -28,4 +28,4 @@ Programme&nbsp;:
 
 *[4ème vidéo](https://www.youtube.com/watch?v=qygjXF2jOHU&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN&index=4)*
 
-![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1635753344/4e%CC%80me_vide%CC%81o_xcsg3q.png "4ème extrait")
+![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1635753344/4e%CC%80me_vide%CC%81o_xcsg3q.png "Conférence à la Grande Mosquée de Paris 22 octobre 2021")
