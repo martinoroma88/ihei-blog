@@ -1,7 +1,7 @@
 ---
 titre: 1219 - 2019 Saint François et le sultan al-Malik al-Kâmil, hier et
   aujourd’hui
-vedette: true
+vedette: false
 date: 2021-07-04T19:38:41.500Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1625428390/IHEI_St-Franc%CC%A7ois-et-le-Sultan-1_qpeow6.jpg
