@@ -1,6 +1,6 @@
 ---
 titre: 40 hadiths sur le soufisme
-vedette: true
+vedette: false
 date: 2021-11-28T19:12:09.402Z
 auteur: "Abd al-Wadoud Yahya Gouraud "
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1633727024/40_hadiths_sur_le_soufisme_hap8qc.png
