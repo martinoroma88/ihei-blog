@@ -8,15 +8,13 @@ auteur: Yahya Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1640432392/Marie_et_l_enfant_Je%CC%81sus_j28pen.jpg
 category: Dialogue interreligieux
 ---
-> Participons aux similitudes qui nous unissent, sans homologation.
+> **Participons aux similitudes qui nous unissent, sans homologation.**
 >
-> Respectons les différences qui nous caractérisent, sans exclusivisme.
+> **Respectons les différences qui nous caractérisent, sans exclusivisme.**
 >
-> Reconnaissons les affinités spirituelles qui nous élèvent, avec gratitude&nbsp;!
+> **Reconnaissons les affinités spirituelles qui nous élèvent, avec gratitude&nbsp;!**
 >
-> Meilleurs vœux œcuméniques pour les bénédictions de Noël avec l’espoir d’une année 2022 pleine de santé, de développement et de collaboration. 
-
-Imam Yahya Pallavicini, Président.
+> **Meilleurs vœux œcuméniques pour les bénédictions de Noël avec l’espoir d’une année 2022 pleine de santé, de développement et de collaboration.** 
 
 A la demande du président de la Commission Européenne Ursula von der Leyen, une réunion extraordinaire des leaders religieux, Extraordinary High-Level Meeting with Religious Leaders, a été convoquée ce vendredi matin 10 décembre.
 
@@ -44,4 +42,6 @@ Toute fête religieuse a une spécificité pour chaque communauté respective, m
 
 Les grammaires du pluralisme religieux et de la communication institutionnelle doivent converger en Europe, dans la pleine cohérence des identités respectives parce qu’elles sont inclusives et en dialogue respectueux et conscient.
 
-> **Meilleurs vœux pour un Noël béni et pour un nouvel an de coopération interreligieuse.**
+**Meilleurs vœux pour un Noël béni et pour un nouvel an de coopération interreligieuse.**
+
+Imam Yahya Pallavicini, Président.
