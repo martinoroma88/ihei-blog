@@ -14,8 +14,8 @@ category: Soufisme et Spiritualités
 
 (Extrait tiré de la quatrième de couverture)
 
-Quarante hadiths sur le soufisme, un condense des enseignements du Prophète de l’islam avec Al-Sulami[](https://www.saphirnews.com/Quarante-hadiths-sur-le-soufisme-un-condense-des-enseignements-du-Prophete-de-l-islam-avec-Al-Sulami_a28516.html)
+*[Quarante hadiths sur le soufisme, un condense des enseignements du Prophète de l’islam avec Al-Sulami](https://www.saphirnews.com/Quarante-hadiths-sur-le-soufisme-un-condense-des-enseignements-du-Prophete-de-l-islam-avec-Al-Sulami_a28516.html)*
 
-[Mille ans après la mort d’Al-Sulami, l’héritage de l’historien du soufisme et maître spirituel en lumière](https://www.saphirnews.com/Mille-ans-apres-la-mort-d-Al-Sulami-l-heritage-de-l-historien-du-soufisme-et-maitre-spirituel-en-lumiere_a28517.html)
+*[Mille ans après la mort d’Al-Sulami, l’héritage de l’historien du soufisme et maître spirituel en lumière](https://www.saphirnews.com/Mille-ans-apres-la-mort-d-Al-Sulami-l-heritage-de-l-historien-du-soufisme-et-maitre-spirituel-en-lumiere_a28517.html)*
 
 Commande
