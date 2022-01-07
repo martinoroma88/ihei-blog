@@ -1,7 +1,7 @@
 ---
 titre: Vœux de Noël - Les grammaires du pluralisme religieux et de la
   communication institutionnelle doivent converger en Europe
-vedette: true
+vedette: false
 date: 2021-12-25T11:33:27.735Z
 url: ""
 auteur: Yahya Pallavicini
