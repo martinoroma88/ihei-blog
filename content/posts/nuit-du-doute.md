@@ -1,5 +1,6 @@
 ---
 titre: La détermination du début du mois de Ramadan
+vedette: true
 date: 2021-04-10T22:00:00.000Z
 auteur: Abd al-Haqq Ismaïl Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-7_v2orqf.jpg
