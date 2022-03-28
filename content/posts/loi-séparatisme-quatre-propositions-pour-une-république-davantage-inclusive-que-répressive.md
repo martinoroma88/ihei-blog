@@ -1,7 +1,7 @@
 ---
 titre: "Loi séparatisme : quatre propositions pour une République davantage
   inclusive que répressive"
-vedette: true
+vedette: false
 date: 2021-04-29T07:00:52.211Z
 url: https://www.saphirnews.com/Loi-separatisme-quatre-propositions-pour-une-Republique-davantage-inclusive-que-repressive_a28040.html
 auteur: AbdAllah Yahya Darolles et Abd al-Qayyoum Guerre-Genton
