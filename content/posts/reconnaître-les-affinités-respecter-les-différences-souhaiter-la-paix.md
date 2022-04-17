@@ -3,7 +3,7 @@ titre: Reconnaître les affinités, respecter les différences, souhaiter la pai
 vedette: true
 date: 2022-04-17T17:37:08.766Z
 auteur: IHEI
-couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1650217922/ihei/files/784260_urekpt.jpg
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1650227831/AbdalWahidPallavicini1_s4flx1.png
 category: Dialogue interreligieux
 ---
 Pessa’h 5782, Pâques 2022, Ramadan 1443
