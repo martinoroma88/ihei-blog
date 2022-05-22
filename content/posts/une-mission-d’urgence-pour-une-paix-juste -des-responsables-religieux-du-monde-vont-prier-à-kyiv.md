@@ -3,7 +3,7 @@ titre: "Une mission d’urgence pour une paix juste :  des responsables religie
   du monde vont prier à Kyiv"
 vedette: true
 date: 2022-05-22T20:04:33.750Z
-auteur: IHEI
+auteur: 24-25 mai 2022
 category: Dialogue interreligieux
 ---
 VARSOVIE, POLOGNE —&nbsp;une délégation de haut niveau composée de responsables religieux se rendra à Kyiv en intervention d’urgence, afin de contribuer à stopper **l’agression contre l’Ukraine** et le bombardement des villes ukrainiennes, et afin de prier pour une paix juste. Les responsables religieux se retrouveront à Varsovie, Pologne, et feront un voyage de 14 heures en bus pour arriver à Kyiv, Ukraine, le 24 mai, puis retourner à Varsovie le 26 mai. Ils prévoient également d’**appeler les autorités russes à accueillir à Moscou la prochaine veillée de prière pour une paix juste**.
