@@ -25,3 +25,37 @@ Le partenaire hôte de la délégation en visite à Kyiv est le *[Babyn Yar Holo
 **Maksym Rabinovych** est le directeur général du *Babyn Yar Holocaust Memorial Center*, l’organisation hôte de la délégation à Kyiv. «&nbsp;Depuis cinq ans, notre Mémorial étudie l’histoire de l’Holocauste afin de prévenir les génocides et de promouvoir la dignité humaine. Nous sommes engagés en ce sens particulièrement aujourd’hui alors que des villes ukrainiennes pacifiques souffrent des bombardements, de nombreuses habitations civiles sont détruites, il y a tant de personnes qui sont torturées et tuées de façon barbare. Nous sommes convaincus que le fait de réunir des responsables issus de différents milieux —&nbsp;religieux, politique, scientifique, culturel&nbsp;— peut montrer la voie permettant d’arrêter l’agression de Poutine, de sauver des vies, et de restaurer la paix », a-t-il dit.
 
 Les participants effectuent cette visite au nom d’une communauté internationale plus vaste de représentants de toutes les religions.
+
+Les membres de la délégation incluront :
+
+**Révérende émérite Jo Bailey Wells**, évêque anglicane de Dorking, R-U, représentante de l’archevêque de Canterbury
+
+**Imam Yahya Pallavicini**, président de la COREIS (Communauté Religieuse Islamique-Italie), de l’Institut des Hautes Etudes Islamiques, en France et coordinateur de EULEMA, le conseil européen des responsables musulmans
+
+**Sœur Sheila Kinsey, FCJM,** co-secrétaire exécutive de la Commission pour la justice, la paix et l’intégrité de la création, un projet de l’Union internationale des supérieures générales (USIG) au Vatican
+
+**Lord Maurice Glasman,** pair du parti Travailliste (R-U) et directeur de *Common Good Foundation*
+
+**Révérende Mae Elise Cannon,** directrice exécutive de *Churches for Middle East Peace* (USA)
+
+**Michele Dunne, OFS**, directrice exécutive de *Franciscan Action Network* (USA)
+
+**Imam Shaykh Ibrahim Mogra,** Religions pour la Paix (R-U)
+
+**Rose Marie Berger,** haut-responsable, *Sojourners* (USA)
+
+**Prof. Jose Casanova,** chercheur, *Berkley Center for Religion, Peace and the World Affairs*, université de Georgetown (USA)
+
+**Sara Prandi**, membre de *Stopthewarnow* (Italie)
+
+**Maura Galati,** membre de *Stopthewarnow* (Italie)
+
+**Prof. Eli S. McCarthy,** université de Georgetown (USA)
+
+**Prof. Barbara Wien,** université américaine (USA)
+
+**Aleksander Temkin,** co-fondateur de l’association *Europe, a Patient* (Pologne)
+
+**Mateusz Piotrowski,** président de l’association *Europe, a Patient* (Pologne)
+
+**Alberto Capannini**, membre de *Comunità Papa Giovanni XXIII - Operazione Colomba* (Italie)
