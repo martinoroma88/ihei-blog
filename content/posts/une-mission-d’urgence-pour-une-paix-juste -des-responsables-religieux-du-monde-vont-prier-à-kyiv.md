@@ -30,7 +30,7 @@ Les membres de la délégation incluront :
 
 **Révérende émérite Jo Bailey Wells**, évêque anglicane de Dorking, R-U, représentante de l’archevêque de Canterbury
 
-**Imam Yahya Pallavicini**, président de la COREIS (Communauté Religieuse Islamique-Italie), de l’Institut des Hautes Etudes Islamiques, en France et coordinateur de EULEMA, le conseil européen des responsables musulmans
+**Imam Yahya Pallavicini**, président de la COREIS (Communauté Religieuse Islamique-Italie), de l’IHEI (Institut des Hautes Études Islamiques-France) et coordinateur de EULEMA, le conseil européen des responsables musulmans
 
 **Sœur Sheila Kinsey, FCJM,** co-secrétaire exécutive de la Commission pour la justice, la paix et l’intégrité de la création, un projet de l’Union internationale des supérieures générales (USIG) au Vatican
 
