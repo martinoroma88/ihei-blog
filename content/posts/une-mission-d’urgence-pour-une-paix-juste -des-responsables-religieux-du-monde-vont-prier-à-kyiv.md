@@ -1,6 +1,6 @@
 ---
-titre: "Une mission d’urgence pour une paix juste :  des responsables religieux
-  du monde vont prier à Kyiv"
+titre: "Mission d’urgence pour une paix juste :  des responsables religieux du
+  monde vont prier à Kyiv"
 vedette: true
 date: 2022-05-22T22:00:00.000Z
 auteur: 24-25 mai 2022
