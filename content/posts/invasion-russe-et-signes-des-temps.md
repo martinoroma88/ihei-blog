@@ -1,6 +1,6 @@
 ---
 titre: Invasion russe et signes des temps
-vedette: true
+vedette: false
 date: 2022-06-22T16:42:00.680Z
 url: https://www.mizane.info/invasion-russe-et-signes-des-temps/
 auteur: Centre d’études métaphysiques
