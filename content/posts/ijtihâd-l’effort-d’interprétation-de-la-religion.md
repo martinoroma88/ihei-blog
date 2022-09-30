@@ -1,5 +1,5 @@
 ---
-titre: "Ijtihâd : l’effort d’interprétation de la religion - "
+titre: "Ijtihâd : l’effort d’interprétation de la religion"
 vedette: true
 date: 2022-09-30T11:08:49.369Z
 auteur: IHEI
