@@ -12,7 +12,7 @@ Après quelques années d’interruption, notamment en raison de la pandémie, l
 
 Cette rencontre annuelle **réunit depuis des décennies des représentants musulmans venus de différentes régions du monde**, y compris l’Europe, pour partager des réflexions doctrinales autour des grands défis sociétaux, en bénéficiant également d’échanges avec les recteurs d’Al-Azhar jusqu’à l’actuel grand-imam Ahmad al-Tayyeb.
 
-La 33ème édition tenue au Caire les 24 et 25 septembre dernier a porté sur une question centrale : **«&nbsp;L’Ijtihâd et sa nécessité à l’époque contemporaine : déclinaisons, règles, interprètes qualifiés.&nbsp;»**
+La 33ème édition tenue au Caire les 24 et 25 septembre dernier a porté sur une question centrale&nbsp;: **«&nbsp;L’Ijtihâd et sa nécessité à l’époque contemporaine : déclinaisons, règles, interprètes qualifiés.&nbsp;»**
 
 ***Le terme arabe* ijtihâd *signifie littéralement «*&nbsp;*effort personnel*&nbsp;*». Il désigne traditionnellement le travail de réflexion et d'interprétation des textes sacrés qui est accompli par les maîtres qualifiés, notamment les jurisconsultes, à partir du Coran et de la Tradition prophétique, selon une méthode intellectuelle reconnue, afin de répondre aux exigences religieuses des musulmans dans le contexte où ils vivent.***
 
