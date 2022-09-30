@@ -18,7 +18,7 @@ La 33ème édition tenue au Caire les 24 et 25 septembre dernier a porté sur un
 
 ***L’ancien grand-imam d’Al-Azhar, shaykh 'Abd al-Halim Mahmud, écrivait*&nbsp;*: «*&nbsp;*Pour pouvoir pratiquer l’ijtihad, la condition prioritaire et indispensable, avant et après toutes les autres, c’est de posséder la vertu de la "prémunition spirituelle" (*taqwa*). Les sommités de la jurisprudence islamique furent tous aussi des saints. L’ijtihad sincère, d’après ses plus éminents représentants, est une illumination spirituelle, une lumière provenant de Dieu.*&nbsp;*»***
 
-![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1664536449/6335e847b1f72325146e006b_k7vzbq.jpg "Le ministre des Affaires religieuses d’Egypte Mukhtar Gumua  prononçant le sermon du vendredi")
+![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1664536449/6335e847b1f72325146e006b_k7vzbq.jpg "Le ministre des Affaires religieuses d’Égypte Mukhtar Gumua  prononçant le sermon du vendredi")
 
 Ce thème a permis de renouveler la syntonie de la COREIS et de l’IHEI avec les enseignements du Conseiller **Ali Abd al-Rahman al Hashimi** (UAE), du ministre des Affaires religieuses (Royaume Hachémite de Jordanie) et du shaykh **Ali Jumu'a** (Égypte), qui ont développé certains points saillants ayant fait l’objet du témoignage de l’**imam Yahya Pallavicini**, vice-président de la COREIS et président de l’IHEI, parmi lesquels&nbsp;:
 
