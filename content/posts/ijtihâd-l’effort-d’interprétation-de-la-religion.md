@@ -6,7 +6,7 @@ auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1664536410/6335e7e8ac7e9750742f374a_baqayw.jpg
 category: Science et Religion
 ---
-*33ème Conférence islamique du Caire sur les défis actuels de l’Isla*
+*33ème Conférence islamique du Caire sur les défis actuels de l’Islam*
 
 Après quelques années d’interruption, notamment en raison de la pandémie, la Communauté Religieuse Islamique (COREIS-Italie) et l’Institut des Hautes Études Islamiques (IHEI) reprennent leur participation à la Conférence internationale du ministère des Affaires religieuses d’Égypte, à laquelle ils avaient pris part chaque année depuis 1996, à travers la présence du Shaykh Abd-al-Wahid Pallavicini, président fondateur de la COREIS, qui fut également président d’honneur de l’IHEI.
 
