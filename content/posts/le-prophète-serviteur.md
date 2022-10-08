@@ -190,7 +190,9 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^56] Cor. 40:7. 
 
-[^57] al-mustanad al-ilâhî, le point d’appui en Dieu de toute réalité créée. [^58] Dieu connaît le mystère et l’apparence des choses. Il est *‘âlin al-ghayb wa-sh-shahâdah*. Cor. 59:22.
+[^57] al-mustanad al-ilâhî, le point d’appui en Dieu de toute réalité créée.
+
+[^58] Dieu connaît le mystère et l’apparence des choses. Il est *‘âlin al-ghayb wa-sh-shahâdah*. Cor. 59:22.
 
 [^59] Cor. 19:17. 
 
