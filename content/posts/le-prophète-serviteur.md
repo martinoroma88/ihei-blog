@@ -124,14 +124,15 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^47] Tirmidhî. 
 [^48] Cor. 2:119 . 
 [^49] Cor. 2:97. 
-[^50] Tirmidhî&nbsp;; 
+[^50] Tirmidhî.
+
 [^51] Bukhârî. 
 [^52] Muslim. 
 [^53] Cor. 29:56. 
 [^54] «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21:20)&nbsp;». Futûhât I 126. Trad. M. Gloton, in L’Arbre du Monde, p. 133, cf. aussi H. Corbin, Corps Spirituel et Terre Céleste. Buchet-Chastel. 
 [^55] Cor. 9:129 et de nombreux autres versets. 
 [^56] Cor. 40:7. 
-[^57] al-mustanad al-ilâhî, le point d’appui en Dieu de toute réalité créée. [^58] Dieu connaît le mystère et l’apparence des choses. Il est ‘âlin al-ghayb wa-sh-shahâdah. Qur. 59:22.. 
+[^57] al-mustanad al-ilâhî, le point d’appui en Dieu de toute réalité créée. [^58] Dieu connaît le mystère et l’apparence des choses. Il est *‘âlin al-ghayb wa-sh-shahâdah*. Qur. 59:22.. 
 [^59] Cor. 19:17. 
 [^60] Ibn’Arabî, in Mishkât al-Anwâr. Trad. M. Valsân, La Niche des Lumières, p. 100. Les Editions de l’Oeuvre. 
 [^61] Futûhât II 603.14. Tras. W. Chittick, in Les Illuminations de la Mecque, p. 242. Sindbad. 
