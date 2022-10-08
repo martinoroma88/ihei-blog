@@ -78,76 +78,76 @@ L’appel à la prière est une anticipation de l’appel de la Résurrection. L
 Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islamique, les savants sont ceux à qui Dieu enseigne directement la Science&nbsp;: «&nbsp;Craignez Dieu et Il vous instruira&nbsp;»[^94]. Et le Prophète, le plus humble des serviteurs, reste le maître (mawlâ) de cet enseignement divin. Il constitue non seulement le modèle exemplaire à suivre, mais la réalité spirituelle à laquelle les voyageurs sur le chemin de Dieu (as-sâlikûnfî sabîli-Llâh) aspirent à s’identifier dès ce monde-ci. Quand les gens du Soufisme prient sur lui, ils savent qu’il est secrètement vivant dans le monde du mystère (al-ghayb), puisqu’il a dit&nbsp;: «&nbsp;Personne ne m’adresse le salut&nbsp;»[^95] Comment l’Esprit muhammadien pourrait-il disparaître, puisque c’est par lui que Dieu soutient les mondes&nbsp;? Ô Dieu, puisses-tu faire de cet Esprit notre esprit, sous tous les aspects, dans ce monde-ci avant l’Autre Monde. Ya ‘Azhîm&nbsp;!
 
 [^1] Ce Hadîth, souvent cité par Ibn’Arabî et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
-[^2] Fuçûc al Hikam. Trad. T. Burckhardt, La sagesse des Prophètes, p. 22, Albin Michel. [^3] Qur. 51:56.
+[^2] Fuçûc al Hikam. Trad. T. Burckhardt, La sagesse des Prophètes, p. 22, Albin Michel. [^3] Cor. 51:56.
 [^4] Ibn’Abbâs est l’un des premiers commentateurs du Qur’ân.
 [^5] II fut disciple de Sadr ad-Dîn al-Qûnawî, l’un des disciples de Ibn’Arabî.
-[^6] Qur. 15:21.
+[^6] Cor. 15:21.
 [^7] ‘Abd ar-Razzâq al-Qâshânî fut disciple de Mu’ayyad ad-Dîn Jandî, lui-même disciple de Sadr ad-Dîn al-Qûnawî.
 [^8] Içtilâhât as-Sûfiyyah. Trad. Nabil Sawfat, A glossary of Sufi Technical. Terms, p. 3, The Octagon Press.
 [^9] Al-Futûhât al-Makkiyyah II 396.30. Trad. W. Chittick, In The Sufi Path of Knowledge, SUNY.
-[^10] Qur. 17:110.
+[^10] Cor. 17:110.
 [^11] Bukhârî et Tirmidhî.
 [^12] Futûhât II 203.3. 
 [^13] Trimidhî et Ibn Mâjah.
-[^14] Qur. 15:85. 
+[^14] Cor. 15:85. 
 [^15] Tirmidhî. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis. 
 [^16] Bukhârî. 
 [^17]&nbsp;? 
-[^18] Qur. 68:4. 
-[^19] Qur. 40:35. 
+[^18] Cor. 68:4. 
+[^19] Cor. 40:35. 
 [^20] Tirmidhî. 
 [^21] Dans le Tradition hindoue, ces deux pôles sont Purusha et Prakriti. Voir R. Guenon, L’homme et son devenir selon la Védanta. Editions Traditionnelles. 
-[^22] Qur. 30:27. 
-[^23] Qur 24&nbsp;:35. 
-[^24] Qur. 33:46. 
-[^25] Qur. 49:21. 
+[^22] Cor. 30:27. 
+[^23] Cor 24&nbsp;:35. 
+[^24] Cor. 33:46. 
+[^25] Cor. 49:21. 
 [^26]Le mot rûh, esprit ou souffle, est féminin en arabe et évoque la réceptivité à l’ordre divin (al-amr). 
-[^27] Qur. 2:286. 
-[^28] Qur. 97:3. Mille mois lunaires représentent symboliquement la durée de la vie humaine. 
+[^27] Cor. 2:286. 
+[^28] Cor. 97:3. Mille mois lunaires représentent symboliquement la durée de la vie humaine. 
 [^29] Bukhârî et Muslim. 
-[^30] Qur. 63:7. 
+[^30] Cor. 63:7. 
 [^31] Les Dalâ’il al-Khayrât recensent 201 noms du Prophète. 
 [^32] Le traité, souvent attribué à Ibn’Arabî, semble en fait avoir été écrit par al-Maqdîsî. 
 [^33] Shajarat al-Kawn. Trad. M. Gloton, L’Arbre du Monde, p. 101. Les Deux Océans. 
-[^34] Qur. 21:107. 
-[^35] Qur. 3:31. 
-[^36] Qur. 18:60. 
-[^37] Qur. 18:110. 
-[^38] Qur. 14:10. 
-[^39] Qur. 94:1. 
-[^40] Qur. 95:4-5. 
-[^41] Qur. 38:71 et 15:28. 
-[^42] Qur. 15:29. 
-[^43] Qur. 38:75. 
+[^34] Cor. 21:107. 
+[^35] Cor. 3:31. 
+[^36] Cor. 18:60. 
+[^37] Cor. 18:110. 
+[^38] Cor. 14:10. 
+[^39] Cor. 94:1. 
+[^40] Cor. 95:4-5. 
+[^41] Cor. 38:71 et 15:28. 
+[^42] Cor. 15:29. 
+[^43] Cor. 38:75. 
 [^44] Fuçûç. Trad. op. cit. p. 133. 
 [^45] Fuçûç. Trad op. cit. p. 24. 
-[^46] Qur. 7:14-17. 
+[^46] Cor. 7:14-17. 
 [^47] Tirmidhî. 
-[^48] Qur. 2:119 . 
-[^49] Qur. 2:97. 
+[^48] Cor. 2:119 . 
+[^49] Cor. 2:97. 
 [^50] Tirmidhî&nbsp;; 
 [^51] Bukhârî. 
 [^52] Muslim. 
-[^53] Qur. 29:56. 
-[^54] «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Qur. 21:20)&nbsp;». Futûhât I 126. Trad. M. Gloton, in L’Arbre du Monde, p. 133, cf. aussi H. Corbin, Corps Spirituel et Terre Céleste. Buchet-Chastel. 
-[^55] Qur. 9:129 et de nombreux autres versets. 
-[^56] Qur. 40:7. 
+[^53] Cor. 29:56. 
+[^54] «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21:20)&nbsp;». Futûhât I 126. Trad. M. Gloton, in L’Arbre du Monde, p. 133, cf. aussi H. Corbin, Corps Spirituel et Terre Céleste. Buchet-Chastel. 
+[^55] Cor. 9:129 et de nombreux autres versets. 
+[^56] Cor. 40:7. 
 [^57] al-mustanad al-ilâhî, le point d’appui en Dieu de toute réalité créée. [^58] Dieu connaît le mystère et l’apparence des choses. Il est ‘âlin al-ghayb wa-sh-shahâdah. Qur. 59:22.. 
-[^59] Qur. 19:17. 
+[^59] Cor. 19:17. 
 [^60] Ibn’Arabî, in Mishkât al-Anwâr. Trad. M. Valsân, La Niche des Lumières, p. 100. Les Editions de l’Oeuvre. 
 [^61] Futûhât II 603.14. Tras. W. Chittick, in Les Illuminations de la Mecque, p. 242. Sindbad. 
 [^62] Futûhât II 214.7. Trad. op. cit. p. 244. Ibn’Arabî explique ailleurs qu’il y a aussi une racine divine à la pauvreté et à rabaissement. 
 [^63] Futûhât II 214.23. Trad. op. cit. p. 246. 
-[^64] Qur. 96:1-5. 
+[^64] Cor. 96:1-5. 
 [^65] Bukhârî. 
-[^66] Qur. 74:1-5. 
+[^66] Cor. 74:1-5. 
 [^67] Ibn Handal et Abu Dâwûd. 
 [^68] Ibn Handal. 
 [^69] Bukhârî. 
 [^70] Bukhârî. 
 [^71] Bukhârî. 
-[^72] Qur. 75&nbsp;:16-19. 
-[^73] Qur.73&nbsp;:1-4. 
+[^72] Cor. 75&nbsp;:16-19. 
+[^73] Cor.73&nbsp;:1-4. 
 [^74] Bukhârî. 
 [^75] D’après Ibn al-Jawzî, il aurait transmis 5374 ahâdîth&nbsp;! Sa mémoire était prodigieuse. 
 [^76] Qur. 93:1-3. 
@@ -156,17 +156,17 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^79] Muslim. 
 [^80] Bukhârî. 
 [^81] Bukhârî et Ibn Mâjah. 
-[^82] Qur. 33:56. 
+[^82] Cor. 33:56. 
 [^83] Tirmidhî. 
 [^84] Bukhârî.
 [^85] Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
-[^86] Qur. 4:97. 
+[^86] Cor. 4:97. 
 [^87] Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guides (ar-Râshidûn). 
 [^88] Rappelons que Muhammad est, pour les musulmans, le Consolateur (Parakietos) annoncé dans l’Evangile selon St Jean. 
-[^89] Qur. 79:6. 
-[^90] Qur. 79:7. 
-[^91] Qur. 17:79. 
+[^89] Cor. 79:6. 
+[^90] Cor. 79:7. 
+[^91] Cor. 17:79. 
 [^92] Bukhârî. 
 [^93] Tirmidhî, Abu Dâwûd et An-Nasâ’î. 
-[^94] Qur. 2:282. 
+[^94] Cor. 2:282. 
 [^95] Abu Dâwûd.
