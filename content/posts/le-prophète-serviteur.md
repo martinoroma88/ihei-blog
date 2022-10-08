@@ -206,6 +206,8 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^64]: Cor. 96:1-5.
 
+\[65]: Bukhârî.
+
 [^66]: Cor. 74:1-5.
 
 [^67]: Ibn Handal et Abu Dâwûd. 
