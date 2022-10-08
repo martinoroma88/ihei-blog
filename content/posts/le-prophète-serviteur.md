@@ -77,19 +77,35 @@ L’appel à la prière est une anticipation de l’appel de la Résurrection. L
 Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islamique, les savants sont ceux à qui Dieu enseigne directement la Science&nbsp;: «&nbsp;Craignez Dieu et Il vous instruira&nbsp;»[^94]. Et le Prophète, le plus humble des serviteurs, reste le maître (mawlâ) de cet enseignement divin. Il constitue non seulement le modèle exemplaire à suivre, mais la réalité spirituelle à laquelle les voyageurs sur le chemin de Dieu (as-sâlikûnfî sabîli-Llâh) aspirent à s’identifier dès ce monde-ci. Quand les gens du Soufisme prient sur lui, ils savent qu’il est secrètement vivant dans le monde du mystère (al-ghayb), puisqu’il a dit&nbsp;: «&nbsp;Personne ne m’adresse le salut&nbsp;»[^95] Comment l’Esprit muhammadien pourrait-il disparaître, puisque c’est par lui que Dieu soutient les mondes&nbsp;? Ô Dieu, puisses-tu faire de cet Esprit notre esprit, sous tous les aspects, dans ce monde-ci avant l’Autre Monde. Ya ‘Azhîm&nbsp;!
 
 [^1] Ce Hadîth, souvent cité par Ibn’Arabî et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
-[^2] Fuçûc al Hikam. Trad. T. Burckhardt, La sagesse des Prophètes, p. 22, Albin Michel. [^3] Cor. 51:56.
+
+[^2] Fuçûc al Hikam. Trad. T. Burckhardt, La sagesse des Prophètes, p. 22, Albin Michel.
+
+[^3] Cor. 51:56.
+
 [^4] Ibn’Abbâs est l’un des premiers commentateurs du Qur’ân.
+
 [^5] II fut disciple de Sadr ad-Dîn al-Qûnawî, l’un des disciples de Ibn’Arabî.
+
 [^6] Cor. 15:21.
+
 [^7] ‘Abd ar-Razzâq al-Qâshânî fut disciple de Mu’ayyad ad-Dîn Jandî, lui-même disciple de Sadr ad-Dîn al-Qûnawî.
+
 [^8] Içtilâhât as-Sûfiyyah. Trad. Nabil Sawfat, A glossary of Sufi Technical. Terms, p. 3, The Octagon Press.
+
 [^9] Al-Futûhât al-Makkiyyah II 396.30. Trad. W. Chittick, In The Sufi Path of Knowledge, SUNY.
+
 [^10] Cor. 17:110.
+
 [^11] Bukhârî et Tirmidhî.
+
 [^12] Futûhât II 203.3. 
+
 [^13] Trimidhî et Ibn Mâjah.
+
 [^14] Cor. 15:85. 
+
 [^15] Tirmidhî. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis. 
+
 [^16] Bukhârî. 
 [^17]&nbsp;? 
 [^18] Cor. 68:4. 
@@ -100,7 +116,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^23] Cor 24&nbsp;:35. 
 [^24] Cor. 33:46. 
 [^25] Cor. 49:21. 
-[^26]Le mot rûh, esprit ou souffle, est féminin en arabe et évoque la réceptivité à l’ordre divin (al-amr). 
+[^26]Le mot *rûh*, esprit ou souffle, est féminin en arabe et évoque la réceptivité à l’ordre divin (al-amr). 
 [^27] Cor. 2:286. 
 [^28] Cor. 97:3. Mille mois lunaires représentent symboliquement la durée de la vie humaine. 
 [^29] Bukhârî et Muslim. 
