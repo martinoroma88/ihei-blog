@@ -109,9 +109,15 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^15]: Tirmidhî. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui 
 ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis.
 
+[16]: Bukhârî.
+
+[17]: .
+
 [^18]: Cor. 68:4. 
 
-[^19]: Cor. 40:35. 
+[^19]: Cor. 40:35.
+
+[20]: Tirmidhî.
 
 [^21]: Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles. 
 
