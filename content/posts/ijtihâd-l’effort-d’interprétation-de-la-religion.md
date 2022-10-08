@@ -1,6 +1,6 @@
 ---
 titre: "Ijtihâd : l’effort d’interprétation de la religion"
-vedette: true
+vedette: false
 date: 2022-09-30T11:08:49.369Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1664536410/6335e7e8ac7e9750742f374a_baqayw.jpg
