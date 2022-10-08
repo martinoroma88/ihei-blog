@@ -240,7 +240,9 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^82]: Cor. 33:56.
 
+\[83]: Tirmidhî.
 
+\[84]: Bukhârî.
 
 [^85]: Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
 
