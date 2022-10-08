@@ -158,7 +158,8 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^81] Bukhârî et Ibn Mâjah. 
 [^82] Qur. 33:56. 
 [^83] Tirmidhî. 
-[^84] Bukhârî. [^85] Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
+[^84] Bukhârî.
+[^85] Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
 [^86] Qur. 4:97. 
 [^87] Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guides (ar-Râshidûn). 
 [^88] Rappelons que Muhammad est, pour les musulmans, le Consolateur (Parakietos) annoncé dans l’Evangile selon St Jean. 
