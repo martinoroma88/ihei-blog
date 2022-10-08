@@ -176,6 +176,12 @@ l’ordre divin (al-amr).
 
 [^49]: Cor. 2:97.
 
+[50]: Tirmidhî.
+
+[51]: Bukhârî.
+
+[52]: Muslim.
+
 [^53]: Cor. 29:56. 
 
 [^54]: «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21:20)&nbsp;». *Futûhât* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel. 
