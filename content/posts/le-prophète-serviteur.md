@@ -108,15 +108,15 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^15]: Tirmidhî. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis.
 
-\[16]: Bukhârî.
+[16]: Bukhârî.
 
-\[17]: ?
+[17]: ?
 
 [^18]: Cor. 68:4. 
 
 [^19]: Cor. 40:35. 
 
-\[20]:Tirmidhî.
+[20]:Tirmidhî.
 
 [^21]: Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles. 
 
@@ -170,17 +170,17 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^46]: Cor. 7:14-17. 
 
-\[47]:Tirmidhî.
+[47]:Tirmidhî.
 
 [^48]: Cor. 2:119 . 
 
 [^49]: Cor. 2:97. 
 
-\[50]: Tirmidhî.
+[50]: Tirmidhî.
 
-\[51]: Bukhârî.
+[51]: Bukhârî.
 
-\[52]: Muslm.
+[52]: Muslm.
 
 [^53]: Cor. 29:56. 
 
@@ -206,7 +206,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^64]: Cor. 96:1-5.
 
-\[65]: Bukhârî.
+[65]: Bukhârî.
 
 [^66]: Cor. 74:1-5.
 
@@ -214,17 +214,15 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^68]: Ibn Handal. 
 
-\[69]: Bukhârî.
-
-\[70]: Bukhârî.
-
-\[71]:Bukhârî.
+[69]: Bukhârî.
+[70]: Bukhârî.
+[71]:Bukhârî.
 
 [^72]: Cor. 75&nbsp;:16-19. 
 
 [^73]: Cor. 73&nbsp;:1-4.
 
-\[74]: Bukhârî.
+[74]: Bukhârî.
 
 [^75]: D’après Ibn al-Jawzî, il aurait transmis 5374 *ahâdîth*&nbsp;! Sa mémoire était prodigieuse. 
 
@@ -234,17 +232,17 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^78]: On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans *rahim*, la matrice maternelle.
 
-\[79]: Muslim.
+[79]: Muslim.
 
-\[80]: Bukhârî.
+[80]: Bukhârî.
 
 [^81]: Bukhârî et Ibn Mâjah.
 
 [^82]: Cor. 33:56.
 
-\[83]: Tirmidhî.
+[83]: Tirmidhî.
 
-\[84]: Bukhârî.
+[84]: Bukhârî.
 
 [^85]: Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
 
@@ -260,7 +258,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^91]: Cor. 17:79. 
 
-\[92]: Bukhârî.
+[92]: Bukhârî.
 
 [^93]: Tirmidhî, Abu Dâwûd et An-Nasâ’î. 
 
