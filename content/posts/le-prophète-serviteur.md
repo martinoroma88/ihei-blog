@@ -209,59 +209,32 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [65]: Bukhârî.
 
 [^66]: Cor. 74:1-5.
-
 [^67]: Ibn Handal et Abu Dâwûd. 
-
 [^68]: Ibn Handal. 
-
 [69]: Bukhârî.
-[70]: Bukhârî.
+[70]: Bukhârî
 [71]:Bukhârî.
-
 [^72]: Cor. 75&nbsp;:16-19. 
-
 [^73]: Cor. 73&nbsp;:1-4.
-
 [74]: Bukhârî.
-
 [^75]: D’après Ibn al-Jawzî, il aurait transmis 5374 *ahâdîth*&nbsp;! Sa mémoire était prodigieuse. 
-
 [^76]: Cor. 93:1-3. 
-
 [^77]: Bukhârî et Muslim.
-
 [^78]: On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans *rahim*, la matrice maternelle.
-
 [79]: Muslim.
-
 [80]: Bukhârî.
-
 [^81]: Bukhârî et Ibn Mâjah.
-
 [^82]: Cor. 33:56.
-
 [83]: Tirmidhî.
-
 [84]: Bukhârî.
-
 [^85]: Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
-
 [^86]: Cor. 4:97.
-
 [^87]: Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guides (*ar-Râshidûn*).
-
 [^88]: Rappelons que Muhammad est, pour les musulmans, le Consolateur (*Parakietos*) annoncé dans l’Evangile selon St Jean. 
-
 [^89]: Cor. 79:6. 
-
 [^90]: Cor. 79:7. 
-
 [^91]: Cor. 17:79. 
-
 [92]: Bukhârî.
-
 [^93]: Tirmidhî, Abu Dâwûd et An-Nasâ’î. 
-
 [^94]: Cor. 2:282. 
-
 [^95]: Abu Dâwûd.
