@@ -78,75 +78,75 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 > *Ya ‘Azhîm*&nbsp;!
 
-[^1] Ce Hadîth, souvent cité par Ibn’Arabî et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
+[^1]: Ce Hadîth, souvent cité par Ibn’Arabî et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
 
-[^2] Fuçûc al Hikam. Trad. T. Burckhardt, La sagesse des Prophètes, p. 22, Albin Michel.
+[^2]: Fuçûc al Hikam. Trad. T. Burckhardt, La sagesse des Prophètes, p. 22, Albin Michel.
 
-[^3] Cor. 51:56.
+[^3]: Cor. 51:56.
 
-[^4] Ibn’Abbâs est l’un des premiers commentateurs du Qur’ân.
+[^4]: Ibn’Abbâs est l’un des premiers commentateurs du Qur’ân.
 
-[^5] II fut disciple de Sadr ad-Dîn al-Qûnawî, l’un des disciples de Ibn’Arabî.
+[^5]: II fut disciple de Sadr ad-Dîn al-Qûnawî, l’un des disciples de Ibn’Arabî.
 
-[^6] Cor. 15:21.
+[^6]: Cor. 15:21.
 
-[^7] ‘Abd ar-Razzâq al-Qâshânî fut disciple de Mu’ayyad ad-Dîn Jandî, lui-même disciple de Sadr ad-Dîn al-Qûnawî.
+[^7]: ‘Abd ar-Razzâq al-Qâshânî fut disciple de Mu’ayyad ad-Dîn Jandî, lui-même disciple de Sadr ad-Dîn al-Qûnawî.
 
-[^8] Içtilâhât as-Sûfiyyah. Trad. Nabil Sawfat, A glossary of Sufi Technical. Terms, p. 3, The Octagon Press.
+[^8]: Içtilâhât as-Sûfiyyah. Trad. Nabil Sawfat, A glossary of Sufi Technical. Terms, p. 3, The Octagon Press.
 
-[^9] Al-Futûhât al-Makkiyyah II 396.30. Trad. W. Chittick, In The Sufi Path of Knowledge, SUNY.
+[^9]: Al-Futûhât al-Makkiyyah II 396.30. Trad. W. Chittick, In The Sufi Path of Knowledge, SUNY.
 
-[^10] Cor. 17:110.
+[^10]: Cor. 17:110.
 
-[^11] Bukhârî et Tirmidhî.
+[^11]: Bukhârî et Tirmidhî.
 
-[^12] Futûhât II 203.3. 
+[^12]: Futûhât II 203.3. 
 
-[^13] Trimidhî et Ibn Mâjah.
+[^13]: Trimidhî et Ibn Mâjah.
 
-[^14] Cor. 15:85. 
+[^14]: Cor. 15:85. 
 
-[^15] Tirmidhî. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis. 
+[^15]: Tirmidhî. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis. 
 
-[^16] Bukhârî.
+[^16]: Bukhârî.
 
-[^17]&nbsp;? 
+[^17]:&nbsp;? 
 
-[^18] Cor. 68:4. 
+[^18]: Cor. 68:4. 
 
-[^19] Cor. 40:35. 
+[^19]: Cor. 40:35. 
 
-[^20] Tirmidhî. 
+[^20]: Tirmidhî. 
 
-[^21] Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, L’homme et son devenir selon la Védanta. Editions Traditionnelles. 
+[^21]: Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, L’homme et son devenir selon la Védanta. Editions Traditionnelles. 
 
-[^22] Cor. 30:27. 
+[^22]: Cor. 30:27. 
 
-[^23] Cor 24&nbsp;:35. 
+[^23]: Cor 24&nbsp;:35. 
 
-[^24] Cor. 33:46. 
+[^24]: Cor. 33:46. 
 
-[^25] Cor. 49:21. 
+[^25]: Cor. 49:21. 
 
-[^26]Le mot *rûh*, esprit ou souffle, est féminin en arabe et évoque la réceptivité à l’ordre divin (al-amr). 
+[^26]: Le mot *rûh*, esprit ou souffle, est féminin en arabe et évoque la réceptivité à l’ordre divin (al-amr). 
 
-[^27] Cor. 2:286. 
+[^27]: Cor. 2:286. 
 
-[^28] Cor. 97:3. Mille mois lunaires représentent symboliquement la durée de la vie humaine. 
+[^28]: Cor. 97:3. Mille mois lunaires représentent symboliquement la durée de la vie humaine. 
 
-[^29] Bukhârî et Muslim. 
+[^29]: Bukhârî et Muslim. 
 
-[^30] Cor. 63:7. 
+[^30]: Cor. 63:7. 
 
-[^31] Les Dalâ’il al-Khayrât recensent 201 noms du Prophète. 
+[^31]: Les Dalâ’il al-Khayrât recensent 201 noms du Prophète. 
 
-[^32] Le traité, souvent attribué à Ibn’Arabî, semble en fait avoir été écrit par al-Maqdîsî. 
+[^32]: Le traité, souvent attribué à Ibn’Arabî, semble en fait avoir été écrit par al-Maqdîsî. 
 
-[^33] Shajarat al-Kawn. Trad. M. Gloton, L’Arbre du Monde, p. 101. Les Deux Océans. 
+[^33]: Shajarat al-Kawn. Trad. M. Gloton, L’Arbre du Monde, p. 101. Les Deux Océans. 
 
-[^34] Cor. 21:107. 
+[^34]: Cor. 21:107. 
 
-[^35] Cor. 3:31. 
+[^35]: Cor. 3:31. 
 
 [^36] Cor. 18:60. 
 
