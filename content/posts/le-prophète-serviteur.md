@@ -148,51 +148,51 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^35]: Cor. 3:31. 
 
-[^36] Cor. 18:60. 
+[^36]: Cor. 18:60. 
 
-[^37] Cor. 18:110. 
+[^37]: Cor. 18:110. 
 
-[^38] Cor. 14:10. 
+[^38]: Cor. 14:10. 
 
-[^39] Cor. 94:1. 
+[^39]: Cor. 94:1. 
 
-[^40] Cor. 95:4-5. 
+[^40]: Cor. 95:4-5. 
 
-[^41] Cor. 38:71 et 15:28. 
+[^41]: Cor. 38:71 et 15:28. 
 
-[^42] Cor. 15:29. 
+[^42]: Cor. 15:29. 
 
-[^43] Cor. 38:75. 
+[^43]: Cor. 38:75. 
 
-[^44] Fuçûç. Trad. op. cit. p. 133. 
+[^44]: Fuçûç. Trad. op. cit. p. 133. 
 
-[^45] Fuçûç. Trad op. cit. p. 24. 
+[^45]: Fuçûç. Trad op. cit. p. 24. 
 
-[^46] Cor. 7:14-17. 
+[^46]: Cor. 7:14-17. 
 
-[^47] Tirmidhî. 
+[^47]: Tirmidhî. 
 
-[^48] Cor. 2:119 . 
+[^48]: Cor. 2:119 . 
 
-[^49] Cor. 2:97. 
+[^49]: Cor. 2:97. 
 
-[^50] Tirmidhî.
+[^50]: Tirmidhî.
 
-[^51] Bukhârî. 
+[^51]: Bukhârî. 
 
-[^52] Muslim. 
+[^52]: Muslim. 
 
-[^53] Cor. 29:56. 
+[^53]: Cor. 29:56. 
 
-[^54] «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21:20)&nbsp;». Futûhât I 126. Trad. M. Gloton, in L’Arbre du Monde, p. 133, cf. aussi H. Corbin, Corps Spirituel et Terre Céleste. Buchet-Chastel. 
+[^54]: «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21:20)&nbsp;». Futûhât I 126. Trad. M. Gloton, in L’Arbre du Monde, p. 133, cf. aussi H. Corbin, Corps Spirituel et Terre Céleste. Buchet-Chastel. 
 
-[^55] Cor. 9:129 et de nombreux autres versets. 
+[^55]: Cor. 9:129 et de nombreux autres versets. 
 
-[^56] Cor. 40:7. 
+[^56]: Cor. 40:7. 
 
-[^57] al-mustanad al-ilâhî, le point d’appui en Dieu de toute réalité créée.
+[^57]: *al-mustanad al-ilâhî*, le point d’appui en Dieu de toute réalité créée.
 
-[^58] Dieu connaît le mystère et l’apparence des choses. Il est *‘âlin al-ghayb wa-sh-shahâdah*. Cor. 59:22.
+[^58]: Dieu connaît le mystère et l’apparence des choses. Il est *‘âlin al-ghayb wa-sh-shahâdah*. Cor. 59:22.
 
 [^59] Cor. 19:17. 
 
