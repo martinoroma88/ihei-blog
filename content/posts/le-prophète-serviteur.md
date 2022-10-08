@@ -170,7 +170,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^46]: Cor. 7:14-17. 
 
-\[7]4:Tirmidhî.
+\[47]:Tirmidhî.
 
 [^48]: Cor. 2:119 . 
 
