@@ -78,192 +78,190 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 > *Ya ‘Azhîm*&nbsp;!
 
-[^1]: Ce Hadîth, souvent cité par Ibn’Arabî et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
+[^1]:  Ce Hadîth, souvent cité par Ibn’Arabî et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
 
-[^2]: *Fuçûc al Hikam*. Trad. T. Burckhardt, *La sagesse des Prophètes*, p. 22, Albin Michel.
+[^2]:  *Fuçûc al Hikam*. Trad. T. Burckhardt, *La sagesse des Prophètes*, p. 22, Albin Michel.
 
-[^3]: Cor. 51&nbsp;:56.
+[^3]:  Cor. 51&nbsp;:56.
 
-[^4]: Ibn’Abbâs est l’un des premiers commentateurs du Qur’ân.
+[^4]:  Ibn’Abbâs est l’un des premiers commentateurs du Qur’ân.
 
-[^5]: II fut disciple de Sadr ad-Dîn al-Qûnawî, l’un des disciples de Ibn’Arabî.
+[^5]:  II fut disciple de Sadr ad-Dîn al-Qûnawî, l’un des disciples de Ibn’Arabî.
 
-[^6]: Cor. 15&nbsp;:21.
+[^6]:  Cor. 15&nbsp;:21.
 
-[^7]: ‘Abd ar-Razzâq al-Qâshânî fut disciple de Mu’ayyad ad-Dîn Jandî, lui-même disciple de Sadr ad-Dîn al-Qûnawî.
+[^7]:  ‘Abd ar-Razzâq al-Qâshânî fut disciple de Mu’ayyad ad-Dîn Jandî, lui-même disciple de Sadr ad-Dîn al-Qûnawî.
 
-[^8]: Içtilâhât as-Sûfiyyah. Trad. Nabil Sawfat, *A glossary of Sufi Technical*. Terms, p. 3, The Octagon Press.
+[^8]:  *Içtilâhât as-Sûfiyyah*. Trad. Nabil Sawfat, *A glossary of Sufi Technical*. Terms, p. 3, The Octagon Press.
 
-[^9]: *Al-Futûhât al-Makkiyyah* II 396.30. Trad. W. Chittick, *In The Sufi Path of Knowledge*, SUNY.
+[^9]:  *Al-Futûhât al-Makkiyyah* II 396.30. Trad. W. Chittick, *In The Sufi Path of Knowledge*, SUNY.
 
-[^10]: Cor. 17&nbsp;:110.
+[^10]:  Cor. 17&nbsp;:110.
 
-[^11]: Bukhârî et Tirmidhî.
+[^11]:  Bukhârî et Tirmidhî.
 
-[^12]: Futûhât II 203.3. 
+[^12]:  Futûhât II 203.3. 
 
-[^13]: Trimidhî et Ibn Mâjah.
+[^13]:  Trimidhî et Ibn Mâjah.
 
-[^14]: Cor. 15&nbsp;:85. 
+[^14]:  Cor. 15&nbsp;:85. 
 
-[^15]: Tirmidhî. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui 
-ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis.
+[^15]:  Tirmidhî. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis.
 
-[16]: Bukhârî.
+[16]:  Bukhârî.
 
 [17]: .
 
-[^18]: Cor. 68&nbsp;:4. 
+[^18]:  Cor. 68&nbsp;:4. 
 
-[^19]: Cor. 40&nbsp;:35.
+[^19]:  Cor. 40&nbsp;:35.
 
-[20]: Tirmidhî.
+[20]:  Tirmidhî.
 
-[^21]: Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles. 
+[^21]:  Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles. 
 
-[^22]: Cor. 30&nbsp;:27. 
+[^22]:  Cor. 30&nbsp;:27. 
 
-[^23]: Cor 24&nbsp;:35. 
+[^23]:  Cor 24&nbsp;:35. 
 
-[^24]: Cor. 33&nbsp;:46. 
+[^24]:  Cor. 33&nbsp;:46. 
 
-[^25]: Cor. 49&nbsp;:21. 
+[^25]:  Cor. 49&nbsp;:21. 
 
-[^26]: Le mot *rûh*, esprit ou souffle, est féminin en arabe et évoque la réceptivité à 
+[^26]:  Le mot *rûh*, esprit ou souffle, est féminin en arabe et évoque la réceptivité à 
 l’ordre divin (al-amr). 
 
-[^27]: Cor. 2&nbsp;:286. 
+[^27]:  Cor. 2&nbsp;:286. 
 
-[^28]: Cor. 97&nbsp;:3. Mille mois lunaires représentent symboliquement la durée de la vie humaine. 
+[^28]:  Cor. 97&nbsp;:3. Mille mois lunaires représentent symboliquement la durée de la vie humaine. 
 
-[^29]: Bukhârî et Muslim. 
+[^29]:  Bukhârî et Muslim. 
 
-[^30]: Cor. 63&nbsp;:7. 
+[^30]:  Cor. 63&nbsp;:7. 
 
-[^31]: Les *Dalâ’il al-Khayrât* recensent 201 noms du Prophète. 
+[^31]:  Les *Dalâ’il al-Khayrât* recensent 201 noms du Prophète. 
 
-[^32]: Le traité, souvent attribué à Ibn’Arabî, semble en fait avoir été écrit par al-Maqdîsî. 
+[^32]:  Le traité, souvent attribué à Ibn’Arabî, semble en fait avoir été écrit par al-Maqdîsî. 
 
-[^33]: *Shajarat al-Kawn*. Trad. M. Gloton, *L’Arbre du Monde*, p. 101. Les Deux Océans. 
+[^33]:  *Shajarat al-Kawn*. Trad. M. Gloton, *L’Arbre du Monde*, p. 101. Les Deux Océans. 
 
-[^34]: Cor. 21&nbsp;:107. 
+[^34]:  Cor. 21&nbsp;:107. 
 
-[^35]: Cor. 3&nbsp;:31. 
+[^35]:  Cor. 3&nbsp;:31. 
 
-[^36]: Cor. 18&nbsp;:60. 
+[^36]:  Cor. 18&nbsp;:60. 
 
-[^37]: Cor. 18&nbsp;:110. 
+[^37]:  Cor. 18&nbsp;:110. 
 
-[^38]: Cor. 14&nbsp;:10. 
+[^38]:  Cor. 14&nbsp;:10. 
 
-[^39]: Cor. 94&nbsp;:1. 
+[^39]:  Cor. 94&nbsp;:1. 
 
-[^40]: Cor. 95&nbsp;:4-5. 
+[^40]:  Cor. 95&nbsp;:4-5. 
 
-[^41]: Cor. 38&nbsp;:71 et 15&nbsp;:28. 
+[^41]:  Cor. 38&nbsp;:71 et 15&nbsp;:28. 
 
-[^42]: Cor. 15&nbsp;:29. 
+[^42]:  Cor. 15&nbsp;:29. 
 
-[^43]: Cor. 38&nbsp;:75. 
+[^43]:  Cor. 38&nbsp;:75. 
 
-[^44]: Fuçûç. Trad. op. cit. p. 133. 
+[^44]:  *Fuçûç*. Trad. op. cit. p. 133. 
 
-[^45]: Fuçûç. Trad op. cit. p. 24. 
+[^45]:  *Fuçûç*. Trad op. cit. p. 24. 
 
-[^46]: Cor. 7&nbsp;:14-17. 
+[^46]:  Cor. 7&nbsp;:14-17. 
 
-[^48]: Cor. 2&nbsp;:119. 
+[^48]:  Cor. 2&nbsp;:119. 
 
-[^49]: Cor. 2&nbsp;:97.
+[^49]:  Cor. 2&nbsp;:97.
 
-[50]: Tirmidhî.
+[50]:  Tirmidhî.
 
-[51]: Bukhârî.
+[51]:  Bukhârî.
 
-[52]: Muslim.
+[52]:  Muslim.
 
-[^53]: Cor. 29&nbsp;:56. 
+[^53]:  Cor. 29&nbsp;:56. 
 
-[^54]: «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21&nbsp;:20)&nbsp;». *Futûhât* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel. 
+[^54]:  «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21&nbsp;:20)&nbsp;». *Futûhât* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel. 
 
-[^55]: Cor. 9&nbsp;:129 et de nombreux autres versets. 
+[^55]:  Cor. 9&nbsp;:129 et de nombreux autres versets. 
 
-[^56]: Cor. 40&nbsp;:7. 
+[^56]:  Cor. 40&nbsp;:7. 
 
-[^57]: *al-mustanad al-ilâhî*, le point d’appui en Dieu de toute réalité créée.
+[^57]:  *al-mustanad al-ilâhî*, le point d’appui en Dieu de toute réalité créée.
 
-[^58]: Dieu connaît le mystère et l’apparence des choses. Il est *‘âlin al-ghayb wa-sh-
+[^58]:  Dieu connaît le mystère et l’apparence des choses. Il est *‘âlin al-ghayb wa-sh-
 shahâdah*. Cor. 59&nbsp;:22.
 
-[^59]: Cor. 19&nbsp;:17. 
+[^59]:  Cor. 19&nbsp;:17. 
 
-[^60]: Ibn’Arabî, in *Mishkât al-Anwâr*. Trad. M. Valsân, *La Niche des Lumières*, p. 100. 
+[^60]:  Ibn’Arabî, in *Mishkât al-Anwâr*. Trad. M. Valsân, *La Niche des Lumières*, p. 100. 
 Les Editions de l’Oeuvre.
 
-[^61]: *Futûhât* II 603.14. Tras. W. Chittick, in *Les Illuminations de la Mecque*, p. 242. 
-Sindbad.
+[^61]:  *Futûhât* II 603.14. Tras. W. Chittick, in *Les Illuminations de la Mecque*, p. 242. Sindbad.
 
-[^62]: *Futûhât* II 214.7. Trad. op. cit. p. 244. Ibn’Arabî explique ailleurs qu’il y a 
+[^62]:  *Futûhât* II 214.7. Trad. op. cit. p. 244. Ibn’Arabî explique ailleurs qu’il y a 
 aussi une racine divine à la pauvreté et au rabaissement. 
 
-[^63]: Futûhât II 214.23. Trad. op. cit. p. 246.
+[^63]:  *Futûhât* II 214.23. Trad. op. cit. p. 246.
 
-[^64]: Cor. 96&nbsp;:1-5.
+[^64]:  Cor. 96&nbsp;:1-5.
 
-[^66]: Cor. 74&nbsp;:1-5.
+[^66]:  Cor. 74&nbsp;:1-5.
 
-[^67]: Ibn Handal et Abu Dâwûd. 
+[^67]:  Ibn Handal et Abu Dâwûd. 
 
-[^68]: Ibn Handal.
+[^68]:  Ibn Handal.
 
-[69]: Bukhârî.
+[69]:  Bukhârî.
 
-[70]: Bukhârî.
+[70]:  Bukhârî.
 
-[71]: Bukhârî.
+[71]:  Bukhârî.
 
-[^72]: Cor. 75&nbsp;:16-19. 
+[^72]:  Cor. 75&nbsp;:16-19. 
 
-[^73]: Cor. 73&nbsp;:1-4.
+[^73]:  Cor. 73&nbsp;:1-4.
 
-[^75]: D’après Ibn al-Jawzî, il aurait transmis 5374 *ahâdîth*&nbsp;! Sa mémoire était 
+[^75]:  D’après Ibn al-Jawzî, il aurait transmis 5374 *ahâdîth*&nbsp;! Sa mémoire était 
 prodigieuse. 
 
-[^76]: Cor. 93&nbsp;:1-3. 
+[^76]:  Cor. 93&nbsp;:1-3. 
 
-[^77]: Bukhârî et Muslim.
+[^77]:  Bukhârî et Muslim.
 
-[^78]: On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans *rahim*, la 
+[^78]:  On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans *rahim*, la 
 matrice maternelle.
 
-[79]: Muslim.
+[79]:  Muslim.
 
-[80]: Bukhârî.
+[80]:  Bukhârî.
 
-[^81]: Bukhârî et Ibn Mâjah.
+[^81]:  Bukhârî et Ibn Mâjah.
 
-[^82]: Cor. 33&nbsp;:56.
+[^82]:  Cor. 33&nbsp;:56.
 
-[83]: Tirmidhî.
+[83]:  Tirmidhî.
 
-[84]: Bukhârî.
+[84]:  Bukhârî.
 
-[^85]: Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
+[^85]:  Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
 
-[^86]: Cor. 4:97.
+[^86]:  Cor. 4:97.
 
-[^87]: Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guides (*ar-Râshidûn*).
+[^87]:  Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guides (*ar-Râshidûn*).
 
-[^88]: Rappelons que Muhammad est, pour les musulmans, le Consolateur (*Parakietos*) annoncé dans l’Evangile selon St Jean. 
+[^88]:  Rappelons que Muhammad est, pour les musulmans, le Consolateur (*Parakietos*) annoncé dans l’Evangile selon St Jean. 
 
-[^89]: Cor. 79&nbsp;:6. 
+[^89]:  Cor. 79&nbsp;:6. 
 
-[^90]: Cor. 79&nbsp;:7. 
+[^90]:  Cor. 79&nbsp;:7. 
 
-[^91]: Cor. 17&nbsp;:79. 
+[^91]:  Cor. 17&nbsp;:79. 
 
-[^93]: Tirmidhî, Abu Dâwûd et An-Nasâ’î. 
+[^93]:  Tirmidhî, Abu Dâwûd et An-Nasâ’î. 
 
-[^94]: Cor. 2&nbsp;:282. 
+[^94]:  Cor. 2&nbsp;:282. 
 
-[^95]: Abu Dâwûd.
+[^95]:  Abu Dâwûd.
