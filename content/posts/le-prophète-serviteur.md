@@ -214,7 +214,13 @@ aussi une racine divine à la pauvreté et au rabaissement.
 
 [^67]: Ibn Handal et Abu Dâwûd. 
 
-[^68]: Ibn Handal. 
+[^68]: Ibn Handal.
+
+[69]: Bukhârî.
+
+[70]: Bukhârî.
+
+[71]:
 
 [^72]: Cor. 75&nbsp;:16-19. 
 
