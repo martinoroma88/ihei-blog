@@ -232,9 +232,15 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^78]: On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans *rahim*, la matrice maternelle.
 
+\[79]: Muslim.
+
+\[80]: Bukhârî.
+
 [^81]: Bukhârî et Ibn Mâjah.
 
 [^82]: Cor. 33:56.
+
+
 
 [^85]: Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
 
