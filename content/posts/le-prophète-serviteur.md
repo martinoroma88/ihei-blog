@@ -220,7 +220,7 @@ aussi une racine divine à la pauvreté et au rabaissement.
 
 [70]: Bukhârî.
 
-[71]:
+[71]: Bukhârî.
 
 [^72]: Cor. 75&nbsp;:16-19. 
 
