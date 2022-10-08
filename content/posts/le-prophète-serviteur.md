@@ -236,6 +236,10 @@ prodigieuse.
 [^78]: On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans *rahim*, la 
 matrice maternelle.
 
+[79]: Muslim.
+
+[80]: Bukhârî.
+
 [^81]: Bukhârî et Ibn Mâjah.
 
 [^82]: Cor. 33:56.
