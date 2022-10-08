@@ -78,7 +78,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 > *Ya ‘Azhîm*&nbsp;!
 
-[^1]: Ce Hadîth, souvent cité par Ibn’Arabî et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
+[^1]:  Ce Hadîth, souvent cité par Ibn’Arabî et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
 [^2]:  *Fuçûc al Hikam*. Trad. T. Burckhardt, *La sagesse des Prophètes*, p. 22, Albin Michel.
 [^3]:  Cor. 51&nbsp;:56.
 [^4]:  Ibn’Abbâs est l’un des premiers commentateurs du Qur’ân.
