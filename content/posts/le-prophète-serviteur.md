@@ -228,7 +228,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^75]: D’après Ibn al-Jawzî, il aurait transmis 5374 *ahâdîth*&nbsp;! Sa mémoire était prodigieuse. 
 
-[^76]: Qur. 93:1-3. 
+[^76]: Cor. 93:1-3. 
 
 [^77]: Bukhârî et Muslim.
 
