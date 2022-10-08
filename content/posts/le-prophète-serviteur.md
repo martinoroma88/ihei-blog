@@ -18,7 +18,7 @@ La raison d’être de l’homme est l’adoration de Dieu, et le but ultime de 
 
 Selon une tradition prophétique, «&nbsp;Dieu a quatre-vingt-dix-neuf Noms, cent moins un. Il est impair et Il aime l’impair&nbsp;»[^11]. Le Nom *ar-Rahmân* est celui qui fait référence aux formes des Noms. Quant au sens du Nom Allah, il est le Nom de la synthèse (*ism al-jâmi’*) et désigne Dieu dans toutes les présences. Les Noms n’ont pas d’existence, si ce n’est à travers leurs propriétés. Dieu ne devient pas multiple à travers eux, de même qu’un seul homme peut être à la fois fils, époux et père, en fonction des relations qui le lient à autrui. Les Noms sont des relations (*nisab*) non-existantes entre la Réalité (*al-Haqq*) et la création (*al-khalq*). En effet, chaque entité n’est en fait qu’un ensemble de prédispositions (*isti’dâdât*) à se revêtir de certaines qualités divines, et se trouve ainsi soumise aux Noms selon sa contenance particulière.
 
-Si la raison humaine bien conduite peut nous mener à l’affirmation de l’incomparabilité divine (*tanzîh*), seule la Révélation nous apporte l’affirmation paradoxale de la similitude divine (*tashbîh*), à travers les Noms. En effet, «&nbsp;les Noms divins sont l’isthme (*barzakh*) entre nous et le Nommé. Ils Le regardent puisqu’ils Le nomment, et ils nous regardent puisqu’ils nous octroient des effets attribués au Nommé. Ainsi ils font connaître le Nommé et ils nous font connaître&nbsp;»[^12]. Ce lieu de connaissance où les entités se revêtent des attributs divins (*at-takhalluq bi akhIâqi-Llâh*) et où l’Être (*al-Wujûd*) se qualifie des propriétés (*âthâr*) des entités est l’Expir du Tout-Miséricordieux. L’ésotérisme islamique appelle encore ce lieu d’échange le Nuage (*al- ‘amâ’*). En effet, à la question&nbsp;: «&nbsp;Où était notre Seigneur avant qu’il ne crée la création (*khalq*)&nbsp;?&nbsp;», le Prophète répondit&nbsp;: «&nbsp;Il était dans un Nuage, au-dessus et au-dessous duquel il n’y avait pas d’air (*hawâ*’)&nbsp;»[^13]. Ce lieu, qui est la première des créations de Dieu, constitue encore, «&nbsp;le réel à partir duquel toute chose a été créée (*al-haqq al-makhiûq bihi kullu shay’*)&nbsp;», évoqué dans ce verset coranique&nbsp;: «&nbsp;Nous n’avons créé les Cieux et la Terre, et ce qui se trouve entre les deux, que par le réel (*bi-l-haqq*, ou le vrai, ou la Vérité)&nbsp;»[^14]. Ce réel (*haqq*) est, selon la doctrine du Soufisme, la réalité intime du Prophète, ou réalité muhammadienne (*al-haqîqat al-muhammadiyyah*). Le Prophète nous apprend en effet&nbsp;: «&nbsp;J’étais prophète alors qu’Adam était entre l’esprit et le corps&nbsp;»[^15]. La réalité muhammadienne irrigue la création entière, et se manifeste à travers la succession temporelle des prophètes et des envoyés, pour apparaître une dernière fois, de façon parfaite, en Muhammad&nbsp;: «&nbsp;J’ai été suscité depuis la meilleure génération des fils d’Adam génération après génération, jusqu’à me trouver dans celle dans laquelle je suis actuellement&nbsp;»[^16](Bukhârî.).
+Si la raison humaine bien conduite peut nous mener à l’affirmation de l’incomparabilité divine (*tanzîh*), seule la Révélation nous apporte l’affirmation paradoxale de la similitude divine (*tashbîh*), à travers les Noms. En effet, «&nbsp;les Noms divins sont l’isthme (*barzakh*) entre nous et le Nommé. Ils Le regardent puisqu’ils Le nomment, et ils nous regardent puisqu’ils nous octroient des effets attribués au Nommé. Ainsi ils font connaître le Nommé et ils nous font connaître&nbsp;»[^12]. Ce lieu de connaissance où les entités se revêtent des attributs divins (*at-takhalluq bi akhIâqi-Llâh*) et où l’Être (*al-Wujûd*) se qualifie des propriétés (*âthâr*) des entités est l’Expir du Tout-Miséricordieux. L’ésotérisme islamique appelle encore ce lieu d’échange le Nuage (*al- ‘amâ’*). En effet, à la question&nbsp;: «&nbsp;Où était notre Seigneur avant qu’il ne crée la création (*khalq*)&nbsp;?&nbsp;», le Prophète répondit&nbsp;: «&nbsp;Il était dans un Nuage, au-dessus et au-dessous duquel il n’y avait pas d’air (*hawâ*’)&nbsp;»[^13]. Ce lieu, qui est la première des créations de Dieu, constitue encore, «&nbsp;le réel à partir duquel toute chose a été créée (*al-haqq al-makhiûq bihi kullu shay’*)&nbsp;», évoqué dans ce verset coranique&nbsp;: «&nbsp;Nous n’avons créé les Cieux et la Terre, et ce qui se trouve entre les deux, que par le réel (*bi-l-haqq*, ou le vrai, ou la Vérité)&nbsp;»[^14]. Ce réel (*haqq*) est, selon la doctrine du Soufisme, la réalité intime du Prophète, ou réalité muhammadienne (*al-haqîqat al-muhammadiyyah*). Le Prophète nous apprend en effet&nbsp;: «&nbsp;J’étais prophète alors qu’Adam était entre l’esprit et le corps&nbsp;»[^15]. La réalité muhammadienne irrigue la création entière, et se manifeste à travers la succession temporelle des prophètes et des envoyés, pour apparaître une dernière fois, de façon parfaite, en Muhammad&nbsp;: «&nbsp;J’ai été suscité depuis la meilleure génération des fils d’Adam génération après génération, jusqu’à me trouver dans celle dans laquelle je suis actuellement&nbsp;»[[^16](Bukhârî.)].
 
 La réalité essentielle du Prophète s’identifie au Livre révélé lui-même, selon le hadîth rapporté par son épouse ‘A’ishah qui disait de lui&nbsp;: «&nbsp;son caractère était comme le Qur’ân&nbsp;»[[^17](< ?>)]. Il possède en effet, par la grâce de la Parole de Dieu, «&nbsp;un caractère immense (*khuluq azhîm*)&nbsp;»[^18]. Les réalités métaphysiques des qualités divines se manifestent comme perfections des vertus (*makârim al-akhiâq*) et excellences des actions (*mahâsin al-afâl)* dans la personne du Prophète. Le revêtement des qualités divines se fait en lui selon le mode propre à l’homme. Les Noms de Majesté exaltant la transcendance divine, comme «&nbsp;Celui qui proclame Sa propre Grandeur&nbsp;» ou le «&nbsp;Très-Contraignant&nbsp;» (*al-Mutakabbir, al-Jabbâr*), sont réservés à Dieu seul et correspondent à des vertus réalisées «&nbsp;négativement&nbsp;» par l’humilité et la servitude. Dieu dit en effet qu’il «&nbsp;met un sceau sur le cœur de tout orgueilleux et de tout tyran (*kulli qaibi mutakabbirin jabbâr*)&nbsp;»[^19], en employant les Noms mêmes qu’il s’attribue ailleurs dans Sa Gloire. En revanche, les Noms de Beauté proclamant la similitude divine, comme le «&nbsp;Charitable&nbsp;» ou le «&nbsp;Très-doux&nbsp;» (*al-Barr, ar-Ra’ûf*), doivent être réalisés «&nbsp;positivement&nbsp;» par l’homme.
 
@@ -109,15 +109,9 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^15]: Tirmidhî. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui 
 ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis.
 
-[^16]: Bukhârî.
-
-[^17]: ?
-
 [^18]: Cor. 68:4. 
 
 [^19]: Cor. 40:35. 
-
-[^20]:Tirmidhî.
 
 [^21]: Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles. 
 
@@ -172,17 +166,9 @@ l’ordre divin (al-amr).
 
 [^46]: Cor. 7:14-17. 
 
-[^47]: Tirmidhî.
-
 [^48]: Cor. 2:119. 
 
 [^49]: Cor. 2:97.
-
-[^50]: Tirmidhî.
-
-[^51]: Bukhârî.
-
-[^52]: Muslm.
 
 [^53]: Cor. 29:56. 
 
@@ -212,25 +198,15 @@ aussi une racine divine à la pauvreté et au rabaissement.
 
 [^64]: Cor. 96:1-5.
 
-[^65]: Bukhârî.
-
 [^66]: Cor. 74:1-5.
 
 [^67]: Ibn Handal et Abu Dâwûd. 
 
 [^68]: Ibn Handal. 
 
-[^69]: Bukhârî.
-
-[^70]: Bukhârî
-
-[^71]:Bukhârî.
-
 [^72]: Cor. 75&nbsp;:16-19. 
 
 [^73]: Cor. 73&nbsp;:1-4.
-
-[^74]: Bukhârî.
 
 [^75]: D’après Ibn al-Jawzî, il aurait transmis 5374 *ahâdîth*&nbsp;! Sa mémoire était 
 prodigieuse. 
@@ -242,17 +218,9 @@ prodigieuse.
 [^78]: On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans *rahim*, la 
 matrice maternelle.
 
-[^79]: Muslim.
-
-[^80]: Bukhârî.
-
 [^81]: Bukhârî et Ibn Mâjah.
 
 [^82]: Cor. 33:56.
-
-[^83]: Tirmidhî.
-
-[84]: Bukhârî.
 
 [^85]: Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
 
@@ -264,12 +232,9 @@ matrice maternelle.
 
 [^89]: Cor. 79:6. 
 
-
 [^90]: Cor. 79:7. 
 
 [^91]: Cor. 17:79. 
-
-[92]: Bukhârî.
 
 [^93]: Tirmidhî, Abu Dâwûd et An-Nasâ’î. 
 
