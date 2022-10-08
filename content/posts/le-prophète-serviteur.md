@@ -118,7 +118,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 \[20]:Tirmidhî.
 
-[^21]: Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, L’homme et son devenir selon la Védanta. Editions Traditionnelles. 
+[^21]: Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles. 
 
 [^22]: Cor. 30:27. 
 
@@ -138,11 +138,11 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^30]: Cor. 63:7. 
 
-[^31]: Les Dalâ’il al-Khayrât recensent 201 noms du Prophète. 
+[^31]: Les *Dalâ’il al-Khayrât* recensent 201 noms du Prophète. 
 
 [^32]: Le traité, souvent attribué à Ibn’Arabî, semble en fait avoir été écrit par al-Maqdîsî. 
 
-[^33]: Shajarat al-Kawn. Trad. M. Gloton, L’Arbre du Monde, p. 101. Les Deux Océans. 
+[^33]: *Shajarat al-Kawn*. Trad. M. Gloton, *L’Arbre du Monde*, p. 101. Les Deux Océans. 
 
 [^34]: Cor. 21:107. 
 
@@ -184,7 +184,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^53]: Cor. 29:56. 
 
-[^54]: «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21:20)&nbsp;». Futûhât I 126. Trad. M. Gloton, in L’Arbre du Monde, p. 133, cf. aussi H. Corbin, Corps Spirituel et Terre Céleste. Buchet-Chastel. 
+[^54]: «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21:20)&nbsp;». *Futûhât* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel. 
 
 [^55]: Cor. 9:129 et de nombreux autres versets. 
 
@@ -196,11 +196,11 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^59]: Cor. 19:17. 
 
-[^60]: Ibn’Arabî, in Mishkât al-Anwâr. Trad. M. Valsân, La Niche des Lumières, p. 100. Les Editions de l’Oeuvre.
+[^60]: Ibn’Arabî, in *Mishkât al-Anwâr*. Trad. M. Valsân, *La Niche des Lumières*, p. 100. Les Editions de l’Oeuvre.
 
-[^61]: Futûhât II 603.14. Tras. W. Chittick, in Les Illuminations de la Mecque, p. 242. Sindbad.
+[^61]: *Futûhât* II 603.14. Tras. W. Chittick, in *Les Illuminations de la Mecque*, p. 242. Sindbad.
 
-[^62]: Futûhât II 214.7. Trad. op. cit. p. 244. Ibn’Arabî explique ailleurs qu’il y a aussi une racine divine à la pauvreté et au rabaissement. 
+[^62]: *Futûhât* II 214.7. Trad. op. cit. p. 244. Ibn’Arabî explique ailleurs qu’il y a aussi une racine divine à la pauvreté et au rabaissement. 
 
 [^63]: Futûhât II 214.23. Trad. op. cit. p. 246.
 
