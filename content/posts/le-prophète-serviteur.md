@@ -93,11 +93,11 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^13]: Trimidhî et Ibn Mâjah.
 [^14]: Cor. 15:85. 
 [^15]: Tirmidhî. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis.
-\[16]: Bukhârî.
-\[17]: ?
+[^16]: Bukhârî.
+[^17]: ?
 [^18]: Cor. 68:4. 
 [^19]: Cor. 40:35. 
-\[20]:Tirmidhî.
+[^20]:Tirmidhî.
 [^21]: Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles. 
 [^22]: Cor. 30:27. 
 [^23]: Cor 24&nbsp;:35. 
@@ -124,12 +124,12 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^44]: Fuçûç. Trad. op. cit. p. 133. 
 [^45]: Fuçûç. Trad op. cit. p. 24. 
 [^46]: Cor. 7:14-17. 
-\[47]: Tirmidhî.
+[^47]: Tirmidhî.
 [^48]: Cor. 2:119. 
 [^49]: Cor. 2:97.
-\[50]: Tirmidhî.
-\[51]: Bukhârî.
-\[52]: Muslm.
+[^50]: Tirmidhî.
+[^51]: Bukhârî.
+[^52]: Muslm.
 [^53]: Cor. 29:56. 
 [^54]: «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21:20)&nbsp;». *Futûhât* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel. 
 [^55]: Cor. 9:129 et de nombreux autres versets. 
@@ -142,26 +142,26 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^62]: *Futûhât* II 214.7. Trad. op. cit. p. 244. Ibn’Arabî explique ailleurs qu’il y a aussi une racine divine à la pauvreté et au rabaissement. 
 [^63]: Futûhât II 214.23. Trad. op. cit. p. 246.
 [^64]: Cor. 96:1-5.
-\[65]: Bukhârî.
+[^65]: Bukhârî.
 [^66]: Cor. 74:1-5.
 [^67]: Ibn Handal et Abu Dâwûd. 
 [^68]: Ibn Handal. 
-\[69]: Bukhârî.
-\[70]: Bukhârî
-\[71]:Bukhârî.
+[^69]: Bukhârî.
+[^70]: Bukhârî
+[^71]:Bukhârî.
 [^72]: Cor. 75&nbsp;:16-19. 
 [^73]: Cor. 73&nbsp;:1-4.
-\[74]: Bukhârî.
+[^74]: Bukhârî.
 [^75]: D’après Ibn al-Jawzî, il aurait transmis 5374 *ahâdîth*&nbsp;! Sa mémoire était prodigieuse. 
 [^76]: Cor. 93:1-3. 
 [^77]: Bukhârî et Muslim.
 [^78]: On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans *rahim*, la matrice maternelle.
-\[79]: Muslim.
-\[80]: Bukhârî.
+[^79]: Muslim.
+[^80]: Bukhârî.
 [^81]: Bukhârî et Ibn Mâjah.
 [^82]: Cor. 33:56.
-\[83]: Tirmidhî.
-\[84]: Bukhârî.
+[^83]: Tirmidhî.
+[84]: Bukhârî.
 [^85]: Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
 [^86]: Cor. 4:97.
 [^87]: Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guides (*ar-Râshidûn*).
