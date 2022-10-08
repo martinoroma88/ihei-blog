@@ -94,7 +94,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^8]: Içtilâhât as-Sûfiyyah. Trad. Nabil Sawfat, *A glossary of Sufi Technical*. Terms, p. 3, The Octagon Press.
 
-[^9]: Al-Futûhât al-Makkiyyah II 396.30. Trad. W. Chittick, In The Sufi Path of Knowledge, SUNY.
+[^9]: *Al-Futûhât al-Makkiyyah* II 396.30. Trad. W. Chittick, *In The Sufi Path of Knowledge*, SUNY.
 
 [^10]: Cor. 17:110.
 
