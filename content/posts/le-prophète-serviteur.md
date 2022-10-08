@@ -36,7 +36,7 @@ Mais le Prophète Muhammad, qui, dans son essence, s’identifie à la lumière 
 
 L’homme mortel fut créé par Dieu à partir de l’argile&nbsp;: «&nbsp;Ton Seigneur dit aux Anges&nbsp;: En vérité je vais créé un homme (*bashar*) à partir de l’argile&nbsp;»[^41], c’est-à-dire de l’eau et du fin limon qui représentent l’aspect psychique et l’aspect corporel de l’individualité humaine (*an-nafs*). Mais Dieu ne laissa pas ce corps inanimé et y projeta de Son Souffle, ou de Son Esprit (*min rûhî*)[^42]. Puis II intima aux Anges l’ordre de se prosterner devant Adam, ce qu’ils firent, à l’exception d’Iblîs qui s’enorgueillit et refusa. Alors Dieu l’interroge&nbsp;: «&nbsp;Qu’est-ce qui t’a empêché de te prosterner devant ce que J’ai créé de Mes Mains&nbsp;?&nbsp;»[^43].Aussi est-il dit que l’homme pétri des «&nbsp;deux Mains&nbsp;» a une double nature&nbsp;: il participe à la fois de ce monde-ci et de l’Autre. Ibn ‘Arabî commente ainsi le verset&nbsp;: «&nbsp;C’est à cause de ce pétrissement par Ses deux Mains que Dieu appela alors bashar, ce mot faisant allusion à la tendresse (*al mubâsharah*, mot de la même racine BShR) qui fut prodiguée à l’homme par les deux Mains divines qui le façonnèrent&nbsp;»[^44]. Car la Miséricorde de Dieu envers la création s’est exprimée en l’homme, lieutenant de Dieu (*khalîfat Allah*), et «&nbsp;clarté du miroir du monde&nbsp;»[^45].
 
-Iblîs ne croit pas en l’homme, créé à partir d’argile alors que lui-même est fait de feu pur. En fait, Iblîs ne croit pas davantage en Dieu, puisqu’il refuse d’obéir à l’ordre direct et explicite que Celui-ci lui donne. Iblîs préfère à Dieu l’idée qu’il se fait de Dieu, à travers la glorification qu’il Lui porte. Après avoir demandé à Dieu de lui accorder un délai pour qu’il montre à quel point l’homme est peu digne de confiance, Iblîs devient l’adversaire déclaré de l’homme, qu’il va s’efforcer de faire trébucher[^46]. En revanche, Dieu est. Lui, *al-Mu’min*, le Croyant, Celui qui fait confiance en l’homme, auprès duquel II a mis un dépôt (*al-amânah*), celui de la foi et de la connaissance libres, ou relativement libres. Quant à Muhammad, il est le modèle du croyant (*al-mu’min*), le premier à croire en la Parole révélée par Son Seigneur. Comme, selon le hadîth, «&nbsp;le croyant est le miroir du croyant&nbsp;»[^47](Tirmidhî.), la doctrine du Soufisme explique que Dieu le Croyant Se connaît dans le miroir de Son serviteur croyant, de même que le serviteur se connaît dans le miroir de Dieu. C’est dans le Prophète seul, modèle exemplaire du croyant, que l’on peut placer sa confiance (*Ma’mûn*) car il est l’homme sûr (*Amîn*).
+Iblîs ne croit pas en l’homme, créé à partir d’argile alors que lui-même est fait de feu pur. En fait, Iblîs ne croit pas davantage en Dieu, puisqu’il refuse d’obéir à l’ordre direct et explicite que Celui-ci lui donne. Iblîs préfère à Dieu l’idée qu’il se fait de Dieu, à travers la glorification qu’il Lui porte. Après avoir demandé à Dieu de lui accorder un délai pour qu’il montre à quel point l’homme est peu digne de confiance, Iblîs devient l’adversaire déclaré de l’homme, qu’il va s’efforcer de faire trébucher[^46]. En revanche, Dieu est. Lui, *al-Mu’min*, le Croyant, Celui qui fait confiance en l’homme, auprès duquel II a mis un dépôt (*al-amânah*), celui de la foi et de la connaissance libres, ou relativement libres. Quant à Muhammad, il est le modèle du croyant (*al-mu’min*), le premier à croire en la Parole révélée par Son Seigneur. Comme, selon le hadîth, «&nbsp;le croyant est le miroir du croyant&nbsp;»[[^47](Tirmidhî.)], la doctrine du Soufisme explique que Dieu le Croyant Se connaît dans le miroir de Son serviteur croyant, de même que le serviteur se connaît dans le miroir de Dieu. C’est dans le Prophète seul, modèle exemplaire du croyant, que l’on peut placer sa confiance (*Ma’mûn*) car il est l’homme sûr (*Amîn*).
 
 La racine BShR dont dérive le mot *bashar*, a aussi le sens de bonne nouvelle (*bushrâ*). Dieu dit du Prophète&nbsp;: «&nbsp;En vérité Nous t’avons envoyé avec la Vérité comme annonciateur de bonne nouvelle, et avertisseur&nbsp;»[^48]. Le Prophète est porteur de la bonne nouvelle (*Bashîr*), ou annonciateur de la bonne nouvelle (*Mubashshir*), qui est évidemment la Révélation providentielle du Qur’ân par l’Ange Jibrâ’îl&nbsp;: «&nbsp;En vérité c’est lui qui a fait descendre sur ton cœur, avec la permission de Dieu, ce qui confirme ce qui était avant lui, une direction et une bonne nouvelle pour les croyants&nbsp;»[^49]. La bonne nouvelle est celle du rappel de la religion immuable (dîn qayyim), celle de l’homme dans sa nature primordiale (*al-fitrah*), «&nbsp;nature surnaturelle&nbsp;» qui est la constitution harmonieuse voulue par Dieu. Aussi Muhammad, modèle exemplaire de cet homme restauré, est-il lui-même bonne nouvelle (*Bushrâ*) dans les litanies à sa louange.
 
@@ -93,11 +93,11 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^13]: Trimidhî et Ibn Mâjah.
 [^14]: Cor. 15:85. 
 [^15]: Tirmidhî. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis.
-[16]: Bukhârî.
-[17]: ?
+\[16]: Bukhârî.
+\[17]: ?
 [^18]: Cor. 68:4. 
 [^19]: Cor. 40:35. 
-[20]:Tirmidhî.
+\[20]:Tirmidhî.
 [^21]: Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles. 
 [^22]: Cor. 30:27. 
 [^23]: Cor 24&nbsp;:35. 
@@ -124,12 +124,12 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^44]: Fuçûç. Trad. op. cit. p. 133. 
 [^45]: Fuçûç. Trad op. cit. p. 24. 
 [^46]: Cor. 7:14-17. 
-[47]: Tirmidhî.
+\[47]: Tirmidhî.
 [^48]: Cor. 2:119. 
 [^49]: Cor. 2:97.
-[50]: Tirmidhî.
-[51]: Bukhârî.
-[52]: Muslm.
+\[50]: Tirmidhî.
+\[51]: Bukhârî.
+\[52]: Muslm.
 [^53]: Cor. 29:56. 
 [^54]: «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21:20)&nbsp;». *Futûhât* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel. 
 [^55]: Cor. 9:129 et de nombreux autres versets. 
@@ -142,26 +142,26 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^62]: *Futûhât* II 214.7. Trad. op. cit. p. 244. Ibn’Arabî explique ailleurs qu’il y a aussi une racine divine à la pauvreté et au rabaissement. 
 [^63]: Futûhât II 214.23. Trad. op. cit. p. 246.
 [^64]: Cor. 96:1-5.
-[65]: Bukhârî.
+\[65]: Bukhârî.
 [^66]: Cor. 74:1-5.
 [^67]: Ibn Handal et Abu Dâwûd. 
 [^68]: Ibn Handal. 
-[69]: Bukhârî.
-[70]: Bukhârî
-[71]:Bukhârî.
+\[69]: Bukhârî.
+\[70]: Bukhârî
+\[71]:Bukhârî.
 [^72]: Cor. 75&nbsp;:16-19. 
 [^73]: Cor. 73&nbsp;:1-4.
-[74]: Bukhârî.
+\[74]: Bukhârî.
 [^75]: D’après Ibn al-Jawzî, il aurait transmis 5374 *ahâdîth*&nbsp;! Sa mémoire était prodigieuse. 
 [^76]: Cor. 93:1-3. 
 [^77]: Bukhârî et Muslim.
 [^78]: On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans *rahim*, la matrice maternelle.
-[79]: Muslim.
-[80]: Bukhârî.
+\[79]: Muslim.
+\[80]: Bukhârî.
 [^81]: Bukhârî et Ibn Mâjah.
 [^82]: Cor. 33:56.
-[83]: Tirmidhî.
-[84]: Bukhârî.
+\[83]: Tirmidhî.
+\[84]: Bukhârî.
 [^85]: Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
 [^86]: Cor. 4:97.
 [^87]: Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guides (*ar-Râshidûn*).
@@ -169,7 +169,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^89]: Cor. 79:6. 
 [^90]: Cor. 79:7. 
 [^91]: Cor. 17:79. 
-[92]: Bukhârî.
+\[92]: Bukhârî.
 [^93]: Tirmidhî, Abu Dâwûd et An-Nasâ’î. 
 [^94]: Cor. 2:282. 
 [^95]: Abu Dâwûd.
