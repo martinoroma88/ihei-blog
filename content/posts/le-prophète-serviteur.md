@@ -98,19 +98,19 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^18]:  Cor. 68&nbsp;:4. 
 [^19]:  Cor. 40&nbsp;:35.
 [^20]:  Tirmidhî.
-[^21]:  Dans le Tradition hindoue, ces deux pôles sont Purusha et Prakriti. Voir R. Guenon, L’homme et son devenir selon la Védanta. Editions Traditionnelles. 
+[^21]:  Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles. 
 [^22]:  Cor. 30&nbsp;:27. 
 [^23]:  Cor 24&nbsp;:35. 
 [^24]:  Cor. 33&nbsp;:46. 
 [^25]:  Cor. 49&nbsp;:21. 
-[^26]:  Le mot rûh, esprit ou souffle, est féminin en arabe et évoque la réceptivité à l’ordre divin (al-amr). 
+[^26]:  Le mot *rûh*, esprit ou souffle, est féminin en arabe et évoque la réceptivité à l’ordre divin (*al-amr*). 
 [^27]:  Cor. 2&nbsp;:286. 
 [^28]:  Cor. 97&nbsp;:3. Mille mois lunaires représentent symboliquement la durée de la vie humaine. 
 [^29]:  Bukhârî et Muslim. 
 [^30]:  Cor. 63&nbsp;:7. 
-[^31]:  Les Dalâ’il al-Khayrât recensent 201 noms du Prophète. 
-[^32]:  Le traité, souvent attribué à Ibn’Arabî, semble en fait avoir été écrit par al-Maqdîsî. 
-[^33]:  Shajarat al-Kawn. Trad. M. Gloton, L’Arbre du Monde, p. 101. Les Deux Océans. 
+[^31]:  Les *Dalâ’il al-Khayrât* recensent 201 noms du Prophète. 
+[^32]:  Le traité, souvent attribué à Ibn’Arabî, semble en fait avoir été écrit par *al-Maqdîsî*. 
+[^33]:  *Shajarat al-Kawn*. Trad. M. Gloton, *L’Arbre du Monde*, p. 101. Les Deux Océans. 
 [^34]:  Cor. 21&nbsp;:107. 
 [^35]:  Cor. 3&nbsp;:31. 
 [^36]:  Cor. 18&nbsp;:60. 
@@ -130,16 +130,16 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^51]:  Bukhârî.
 [^52]:  Muslim.
 [^53]:  Cor. 29&nbsp;:56. 
-[^54]:  «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21&nbsp;:20)&nbsp;». Futûhât I 126. Trad. M. Gloton, in L’Arbre du Monde, p. 133, cf. aussi H. Corbin, Corps Spirituel et Terre Céleste. Buchet-Chastel. 
+[^54]:  «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21&nbsp;:20)&nbsp;». *Futûhât* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Célest*e. Buchet-Chastel. 
 [^55]:  Cor. 9&nbsp;:129 et de nombreux autres versets. 
 [^56]:  Cor. 40&nbsp;:7. 
-[^57]:  al-mustanad al-ilâhî, le point d’appui en Dieu de toute réalité créée.
-[^58]:  Dieu connaît le mystère et l’apparence des choses. Il est ‘âlin al-ghayb wa-sh- shahâdah. Cor. 59&nbsp;:22.
+[^57]:  *al-mustanad al-ilâhî*, le point d’appui en Dieu de toute réalité créée.
+[^58]:  Dieu connaît le mystère et l’apparence des choses. Il est *‘âlin al-ghayb wa-sh- shahâdah*. Cor. 59&nbsp;:22.
 [^59]:  Cor. 19&nbsp;:17. 
-[^60]:  Ibn’Arabî, in Mishkât al-Anwâr. Trad. M. Valsân, La Niche des Lumières, p. 100. Les Editions de l’Oeuvre.
-[^61]:  Futûhât II 603.14. Tras. W. Chittick, in Les Illuminations de la Mecque, p. 242. Sindbad.
-[^62]:  Futûhât II 214.7. Trad. op. cit. p. 244. Ibn’Arabî explique ailleurs qu’il y a aussi une racine divine à la pauvreté et au rabaissement. 
-[^63]:  Futûhât II 214.23. Trad. op. cit. p. 246.
+[^60]:  Ibn’Arabî, in *Mishkât al-Anwâr*. Trad. M. Valsân, *La Niche des Lumières*, p. 100. Les Editions de l’Oeuvre.
+[^61]:  *Futûhât* II 603.14. Tras. W. Chittick, in *Les Illuminations de la Mecque*, p. 242. Sindbad.
+[^62]:  *Futûhât* II 214.7. Trad. op. cit. p. 244. Ibn’Arabî explique ailleurs qu’il y a aussi une racine divine à la pauvreté et au rabaissement. 
+[^63]:  *Futûhât* II 214.23. Trad. op. cit. p. 246.
 [^64]:  Cor. 96&nbsp;:1-5.
 [^66]:  Cor. 74&nbsp;:1-5.
 [^67]:  Ibn Handal et Abu Dâwûd. 
@@ -149,18 +149,18 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^71]:  Bukhârî.
 [^72]:  Cor. 75&nbsp;:16-19. 
 [^73]:  Cor. 73&nbsp;:1-4.
-[^75]:  D’après Ibn al-Jawzî, il aurait transmis 5374 ahâdîth&nbsp;! Sa mémoire était prodigieuse. 
+[^75]:  D’après Ibn al-Jawzî, il aurait transmis 5374 *ahâdîth*&nbsp;! Sa mémoire était prodigieuse. 
 [^76]:  Cor. 93&nbsp;:1-3. 
 [^77]:  Bukhârî et Muslim.
-[^78]:  On sait que la racine RHM de Rahmah, l’Amour divin, se retrouve dans rahim, la matrice maternelle.
+[^78]:  On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans rahim, la matrice maternelle.
 [^79]:  Muslim.
 [^80]:  Bukhârî.
-[^81]: Bukhârî et Ibn Mâjah.
+[^81]:  Bukhârî et Ibn Mâjah.
 [^82]:  Cor. 33&nbsp;:56.
 [^85]:  Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth. 
 [^86]:  Cor. 4:97.
-[^87]:  Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guides (ar-Râshidûn).
-[^88]:  Rappelons que Muhammad est, pour les musulmans, le Consolateur (Parakietos) annoncé dans l’Evangile selon St Jean. 
+[^87]:  Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guides (*ar-Râshidûn*).
+[^88]:  Rappelons que Muhammad est, pour les musulmans, le Consolateur (*Parakietos*) annoncé dans l’Evangile selon St Jean. 
 [^89]:  Cor. 79&nbsp;:6. 
 [^90]:  Cor. 79&nbsp;:7. 
 [^91]:  Cor. 17&nbsp;:79. 
