@@ -201,7 +201,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^75]: D’après Ibn al-Jawzî, il aurait transmis 5374 *ahâdîth*&nbsp;! Sa mémoire était prodigieuse.
 [^76]: Cor. 93&nbsp;:1-3.
 [^77]: Bukhârî et Muslim.
-[^78]: On sait que la racine RHM de Rahmah, l’Amour divin, se retrouve dans rahim, la matrice maternelle.
+[^78]: On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans *rahim*, la matrice maternelle.
 [^79]: Bukhârî.
 [^80]: Muslim.
 [^81]: Bukhârî et Ibn Mâjah.
@@ -210,8 +210,8 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 \[¨84]: Bukhârî.
 [^85]: Bukhârî et Muslim. Il y a plusieurs variantes de ce hadîth.
 [^86]: Cor. 4:97.
-[^87]: Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guidés (ar-Râshidûn).
-[^88]: Rappelons que Muhammad est, pour les musulmans, le Consolateur (Parakietos) annoncé dans l’Evangile selon St Jean.
+[^87]: Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guidés (*ar-Râshidûn*).
+[^88]: Rappelons que Muhammad est, pour les musulmans, le Consolateur (*Parakietos*) annoncé dans l’Evangile selon St Jean.
 [^89]: Cor. 79&nbsp;:6.
 [^90]: Cor. 79&nbsp;:7.
 [^91]: Cor. 17&nbsp;:79.
