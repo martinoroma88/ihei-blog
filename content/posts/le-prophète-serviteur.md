@@ -164,6 +164,8 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^19]:   Cor. 40&nbsp;:35.
 
+[^20]:   Tirmidhî.
+
 [^21]:   Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles.
 
 [^22]:   Cor. 30&nbsp;:27.
@@ -215,6 +217,8 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^45]:   Fuçûç. Trad op. cit. p. 24.
 
 [^46]:   Cor. 7&nbsp;:14-17.
+
+[^47]:   Tirmidhî.
 
 [^48]:   Cor. 2&nbsp;:119.
 
