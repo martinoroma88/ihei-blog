@@ -158,6 +158,8 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^16]:   Bukhârî.
 
+[^17]:   Bukhârî.
+
 [^18]:   Cor. 68&nbsp;:4.
 
 [^19]:   Cor. 40&nbsp;:35.
