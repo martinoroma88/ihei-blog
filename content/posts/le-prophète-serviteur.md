@@ -180,13 +180,13 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^54]: «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21&nbsp;:20)&nbsp;». *Futûhât* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel.
 [^55]: Cor. 9&nbsp;:129 et de nombreux autres versets.
 [^56]: Cor. 40&nbsp;:7.
-[^57]: al-mustanad al-ilâhî, le point d’appui en Dieu de toute réalité créée.
-[^58]: Dieu connaît le mystère et l’apparence des choses. Il est ‘âlin al-ghayb wa-sh- shahâdah. Cor. 59&nbsp;:22.
+[^57]: *al-mustanad al-ilâhî*, le point d’appui en Dieu de toute réalité créée.
+[^58]: Dieu connaît le mystère et l’apparence des choses. Il est *‘âlin al-ghayb wa-sh- shahâdah*. Cor. 59&nbsp;:22.
 [^59]: Cor. 19&nbsp;:17.
-[^60]: Ibn’Arabî, in Mishkât al-Anwâr. Trad. M. Valsân, La Niche des Lumières, p. 100. Les Editions de l’Oeuvre.
-[^61]: Futûhât II 603.14. Tras. W. Chittick, in Les Illuminations de la Mecque, p. 242. Sindbad.
-[^62]: Futûhât II 214.7. Trad. op. cit. p. 244. Ibn’Arabî explique ailleurs qu’il y a aussi une racine divine à la pauvreté et au rabaissement.
-[^63]: Futûhât II 214.23. Trad. op. cit. p. 246.
+[^60]: *Ibn’Arabî*, in *Mishkât al-Anwâr*. Trad. M. Valsân, *La Niche des Lumières*, p. 100. Les Editions de l’Oeuvre.
+[^61]: *Futûhât* II 603.14. Tras. W. Chittick, in *Les Illuminations de la Mecque*, p. 242. Sindbad.
+[^62]: *Futûhât* II 214.7. Trad. op. cit. p. 244. Ibn’Arabî explique ailleurs qu’il y a aussi une racine divine à la pauvreté et au rabaissement.
+[^63]: *Futûhât* II 214.23. Trad. op. cit. p. 246.
 [^64]: Cor. 96&nbsp;:1-5.
 [^65]: Bukhârî.
 [^66]: Cor. 74&nbsp;:1-5.
@@ -198,7 +198,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^72]: Cor. 75&nbsp;:16-19.
 [^73]: Cor. 73&nbsp;:1-4.
 [^74]: Bukhârî.
-[^75]: D’après Ibn al-Jawzî, il aurait transmis 5374 ahâdîth&nbsp;! Sa mémoire était prodigieuse.
+[^75]: D’après Ibn al-Jawzî, il aurait transmis 5374 *ahâdîth*&nbsp;! Sa mémoire était prodigieuse.
 [^76]: Cor. 93&nbsp;:1-3.
 [^77]: Bukhârî et Muslim.
 [^78]: On sait que la racine RHM de Rahmah, l’Amour divin, se retrouve dans rahim, la matrice maternelle.
