@@ -36,7 +36,7 @@ En fait, si le Trône de Dieu lui-même ne peut supporter l’évidence éclatan
 
 > Si vous aimez Dieu, suivez-moi. Alors Dieu vous aimera et vous pardonnera vos péchés[^35].
 
- Le Prophète est donc l’isthme (*barzakh*) entre Dieu (*al-Haqq*) et la création (*al-khalq*), le confluent entre les deux mers (majma’ al-bahrayn)[^36], celle, amère et salée, de ce monde-ci (*ad-dunyâ*) et celle, douée à boire, de l’Autre Monde (*al-Akhirah*), le lieu de descente des influences spirituelles et de notre ascension vers Dieu.
+ Le Prophète est donc l’isthme (*barzakh*) entre Dieu (*al-Haqq*) et la création (*al-khalq*), le confluent entre les deux mers (*majma’ al-bahrayn*)[^36], celle, amère et salée, de ce monde-ci (*ad-dunyâ*) et celle, douée à boire, de l’Autre Monde (*al-Akhirah*), le lieu de descente des influences spirituelles et de notre ascension vers Dieu.
 
 Mais le Prophète Muhammad, qui, dans son essence, s’identifie à la lumière prophétique, fut, dans sa réalité visible dans le monde de la manifestation formelle, un homme mortel (*bashar*), avec une origine et une fin temporelles. La Parole de Dieu lui enjoint de le répéter&nbsp;:
 
@@ -44,7 +44,7 @@ Mais le Prophète Muhammad, qui, dans son essence, s’identifie à la lumière 
 
 Muhammad n’est qu’un homme, proclame la Parole coranique. Or cette phrase est précisément celle que répètent de tout temps ceux qui demeurent incrédules malgré le message des Envoyés de Dieu, comme en témoignent par exemple les versets suivants&nbsp;:
 
-> Leurs envoyés dirent&nbsp;: “Y a-t-il un doute en Dieu, le Créateur des Cieux et de la Terre&nbsp;? Il vous appelle pour vous pardonner certains de vos péchés et vous donner un délai jusqu’à un terme fixé”. Ils répondirent&nbsp;: “Vous n’êtes que des hommes comme nous”[^38].
+> Leurs envoyés dirent&nbsp;: ’Y a-t-il un doute en Dieu, le Créateur des Cieux et de la Terre&nbsp;? Il vous appelle pour vous pardonner certains de vos péchés et vous donner un délai jusqu’à un terme fixé’. Ils répondirent&nbsp;: ’Vous n’êtes que des hommes comme nous’[^38].
 
 Certes, Muhammad est mortel, mais il n’est pas un homme ordinaire. Il est homme comme le joyau au milieu des pierres. Il est l’Élu purifié (*Muçtafâ*), le Choisi (*Mukhtâr*), le meilleur de l’humanité (*Khayr al-bariyyah*). Dieu n’a-t-il pas ouvert sa poitrine pour laver son cœur de toute tache&nbsp;?[^39]. Il possède l’impeccabilité (*‘içmah*). Le Qur’ân attribue ce titre d’élu à d’autres prophètes, mais les incrédules de toutes les époques, arrêtés par l’écorce des êtres, ne voient que les pierres et ne savent pas y distinguer le joyau. Leur absence de discrimination les empêche de faire la différence entre l’homme déchu, tombé dans l’état le plus bas (*asfala sâfilîn*), et l’homme restauré dans la meilleure des dispositions (*fi ahsani taqwîm*)[^40] créée par Dieu.
 
