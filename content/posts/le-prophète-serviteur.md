@@ -154,8 +154,13 @@ Ils viendront me trouver et je demanderai au Seigneur une audience dans Sa demeu
 
 
 Aussi est-il traditionnel, après l’appel à la prière (adhân), de réciter sur le Prophète, Détenteur de l’accès d’intercession (çâhib al-wasîlah) et de l’intercession (çâhib ash-shafâ’ah), l’invocation suivante qui se rapporte précisément à la station de l’intercession&nbsp;: «&nbsp; mon Dieu, Seigneur de cet appel parfait et de cette prière qui vient, donne à Muhammad l’accès d’intercession (al-wasîlah) et la Grâce surabondante (al-fadîlah), et élève-le à la station de louange (maqâm mahmûd) que Tu lui as promise&nbsp;». Et certes Dieu ne manque pas à Sa Promesse&nbsp;!
+
+
 Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islamique, les savants sont ceux à qui Dieu enseigne directement la Science&nbsp;: «&nbsp;Craignez Dieu et Il vous instruira&nbsp;»[^94]. Et le Prophète, le plus humble des serviteurs, reste le maître (mawlâ) de cet enseignement divin. Il constitue non seulement le modèle exemplaire à suivre, mais la réalité spirituelle à laquelle les voyageurs sur le chemin de Dieu (as-sâlikûnfî sabîli-Llâh) aspirent à s’identifier dès ce monde-ci. Quand les gens du Soufisme prient sur lui, ils savent qu’il est secrètement vivant dans le monde du mystère (al-ghayb), puisqu’il a dit&nbsp;: «&nbsp;Personne ne m’adresse le salut&nbsp;»[^95] Comment l’Esprit muhammadien pourrait-il disparaître, puisque c’est par lui que Dieu soutient les mondes&nbsp;? Ô Dieu, puisses-tu faire de cet Esprit notre esprit, sous tous les aspects, dans ce monde-ci avant l’Autre Monde.
-Ya ‘Azhîm&nbsp;!
+
+> Ya ‘Azhîm&nbsp;!
+
+
 [^1]: Ce Hadîth, souvent cité par Ibn’Arabî et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
 [^2]: Fuçûc al Hikam. Trad. T. Burckhardt, La sagesse des Prophètes, p. 22, Albin Michel.
 [^3]: Cor. 51&nbsp;:56.
