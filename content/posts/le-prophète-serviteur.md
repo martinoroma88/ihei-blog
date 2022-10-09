@@ -254,15 +254,25 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^64]:   Cor. 96&nbsp;:1-5.
 
+[^65]:   Bukhârî.
+
 [^66]:   Cor. 74&nbsp;:1-5.
 
 [^67]:   Ibn Handal et Abu Dâwûd.
 
 [^68]:   Ibn Handal.
 
+[^69]:   Bukhârî.
+
+[^70]:   Bukhârî.
+
+[^71]:   Bukhârî.
+
 [^72]:   Cor. 75&nbsp;:16-19.
 
 [^73]:   Cor. 73&nbsp;:1-4.
+
+[^74]:   Bukhârî.
 
 [^75]:   D’après Ibn al-Jawzî, il aurait transmis 5374 *ahâdîth*&nbsp;! Sa mémoire était prodigieuse.
 
