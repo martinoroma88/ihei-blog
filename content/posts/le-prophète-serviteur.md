@@ -44,7 +44,7 @@ En fait, si le Trône de Dieu lui-même ne peut supporter l’évidence éclatan
 
 Mais le Prophète Muhammad, qui, dans son essence, s’identifie à la lumière prophétique, fut, dans sa réalité visible dans le monde de la manifestation formelle, un homme mortel (*bashar*), avec une origine et une fin temporelles. La Parole de Dieu lui enjoint de le répéter&nbsp;:
 
-> Dis&nbsp;: Je ne suis qu’un homme comme vous. Il m’est révélé que votre Dieu est un Dieu unique. Que celui qui espère la rencontre de son Seigneur accomplisse des œuvres bonnes et qu’il n’associe rien dans l’adoration de son Seigneur[^37].
+> Dis&nbsp;: ‘Je ne suis qu’un homme comme vous. Il m’est révélé que votre Dieu est un Dieu unique. Que celui qui espère la rencontre de son Seigneur accomplisse des œuvres bonnes et qu’il n’associe rien dans l’adoration de son Seigneur’[^37].
 
 Muhammad n’est qu’un homme, proclame la Parole coranique. Or cette phrase est précisément celle que répètent de tout temps ceux qui demeurent incrédules malgré le message des Envoyés de Dieu, comme en témoignent par exemple les versets suivants&nbsp;:
 
