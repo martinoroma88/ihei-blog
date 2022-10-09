@@ -125,14 +125,14 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 > Ya ‘Azhîm&nbsp;!
 
 [^1]: Ce Hadîth, souvent cité par Ibn’Arabî et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
-[^2]: Fuçûc al Hikam. Trad. T. Burckhardt, La sagesse des Prophètes, p. 22, Albin Michel.
+[^2]: *Fuçûc al Hikam*. Trad. T. Burckhardt, *La sagesse des Prophètes*, p. 22, Albin Michel.
 [^3]: Cor. 51&nbsp;:56.
 [^4]: Ibn’Abbâs est l’un des premiers commentateurs du Qur’ân.
 [^5]: II fut disciple de Sadr ad-Dîn al-Qûnawî, l’un des disciples de Ibn’Arabî.
 [^6]: Cor. 15&nbsp;:21.
 [^7]: ‘Abd ar-Razzâq al-Qâshânî fut disciple de Mu’ayyad ad-Dîn Jandî, lui-même disciple de Sadr ad-Dîn al-Qûnawî.
-[^8]: Içtilâhât as-Sûfiyyah. Trad. Nabil Sawfat, A glossary of Sufi Technical. Terms, p. 3, The Octagon Press.
-[^9]: Al-Futûhât al-Makkiyyah II 396.30. Trad. W. Chittick, In The Sufi Path of Knowledge, SUNY.
+[^8]: I*çtilâhât as-Sûfiyyah*. Trad. Nabil Sawfat, *A glossary of Sufi Technical*. Terms, p. 3, The Octagon Press.
+[^9]: *Al-Futûhât al-Makkiyyah* II 396.30. Trad. W. Chittick, In *The Sufi Path of Knowledge*, SUNY.
 [^10]: Cor. 17&nbsp;:110.
 [^11]: Bukhârî et Tirmidhî.
 [^12]: Futûhât II 203.3.
@@ -144,19 +144,19 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^18]: Cor. 68&nbsp;:4.
 [^19]: Cor. 40&nbsp;:35.
 [^20]: Tirmidhî.
-[^21]: Dans le Tradition hindoue, ces deux pôles sont Purusha et Prakriti. Voir R. Guenon, L’homme et son devenir selon la Védanta. Editions Traditionnelles.
+[^21]: Dans le Tradition hindoue, ces deux pôles sont *Purusha* et *Prakriti*. Voir R. Guenon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles.
 [^22]: Cor. 30&nbsp;:27.
 [^23]: Cor 24&nbsp;:35.
 [^24]: Cor. 33&nbsp;:46.
 [^25]: Cor. 49&nbsp;:21.
-[^26]: Le mot rûh, esprit ou souffle, est féminin en arabe et évoque la réceptivité à l’ordre divin (al-amr). 
+[^26]: Le mot *rûh*, esprit ou souffle, est féminin en arabe et évoque la réceptivité à l’ordre divin (*al-amr*). 
 [^27]: Cor. 2&nbsp;:286.
 [^28]: Cor. 97&nbsp;:3. Mille mois lunaires représentent symboliquement la durée de la vie humaine.
 [^29]: Bukhârî et Muslim.
 [^30]: Cor. 63&nbsp;:7.
-[^31]: Les Dalâ’il al-Khayrât recensent 201 noms du Prophète.
+[^31]: Les *Dalâ’il al-Khayrât* recensent 201 noms du Prophète.
 [^32]: Le traité, souvent attribué à Ibn’Arabî, semble en fait avoir été écrit par al-Maqdîsî.
-[^33]: Shajarat al-Kawn. Trad. M. Gloton, L’Arbre du Monde, p. 101. Les Deux Océans.
+[^33]: *Shajarat al-Kawn*. Trad. M. Gloton, *L’Arbre du Monde*, p. 101. Les Deux Océans.
 [^34]: Cor. 21&nbsp;:107.
 [^35]: Cor. 3&nbsp;:31.
 [^36]: Cor. 18&nbsp;:60.
@@ -177,7 +177,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^51]: Bukhârî.
 [^52]: Muslim.
 [^53]: Cor. 29&nbsp;:56.
-[^54]: «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21&nbsp;:20)&nbsp;». Futûhât I 126. Trad. M. Gloton, in L’Arbre du Monde, p. 133, cf. aussi H. Corbin, Corps Spirituel et Terre Céleste. Buchet-Chastel.
+[^54]: «&nbsp;Si l’on disposait dans cette Terre le Trône et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relâcher” (Cor. 21&nbsp;:20)&nbsp;». *Futûhât* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel.
 [^55]: Cor. 9&nbsp;:129 et de nombreux autres versets.
 [^56]: Cor. 40&nbsp;:7.
 [^57]: al-mustanad al-ilâhî, le point d’appui en Dieu de toute réalité créée.
