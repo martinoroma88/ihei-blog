@@ -139,12 +139,12 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^8]: *Içtilacirc;hacirc;t as-Sucirc;fiyyah*. Trad. Nabil Sawfat, *A glossary of Sufi Technical*. Terms, p. 3, The Octagon Press.
 [^9]: *Al-Futucirc;hacirc;t al-Makkiyyah* II 396.30. Trad. W. Chittick, In *The Sufi Path of Knowledge*, SUNY.
 [^10]: Cor. 17&nbsp;:110.
-[^11]: Bukhacirc;ricirc; et Tirmidhicirc;.
+[^11]: Bukhacirc; et Tirmidhicirc;.
 [^12]: *Futucirc;hacirc;t* II 203.3.
 [^13]: Trimidhicirc; et Ibn Macirc;jah.
 [^14]: Cor. 15&nbsp;:85.
 [^15]: Tirmidhicirc;. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis.
-[^16]: Bukhacirc;ricirc;.
+[^16]: Bukhacirc;.
 [^17]: Muslim.
 [^18]: Cor. 68&nbsp;:4.
 [^19]: Cor. 40&nbsp;:35.
@@ -157,7 +157,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^26]: Le mot *rucirc;h*, esprit ou souffle, est féminin en arabe et évoque la réceptivité à l’ordre divin (*al-amr*). 
 [^27]: Cor. 2&nbsp;:286.
 [^28]: Cor. 97&nbsp;:3. Mille mois lunaires représentent symboliquement la durée de la vie humaine.
-[^29]: Bukhacirc;ricirc; et Muslim.
+[^29]: Bukhacirc; et Muslim.
 [^30]: Cor. 63&nbsp;:7.
 [^31]: Les *Dalacirc;’il al-Khayracirc;t* recensent 201 noms du Prophète.
 [^32]: Le traité, souvent attribué à Ibn’Arabicirc;, semble en fait avoir été écrit par al-Maqdicirc;sicirc;.
@@ -179,7 +179,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^48]: Cor. 2&nbsp;:119.
 [^49]: Cor. 2&nbsp;:97.
 [^50]: Tirmidhicirc;.
-[^51]: Bukhacirc;ricirc;.
+[^51]: Bukhacirc;.
 [^52]: Muslim.
 [^53]: Cor. 29&nbsp;:56.
 [^54]: «&nbsp;Si l’on disposait dans cette Terre le Trocirc;ne et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se relacirc;cher” (Cor. 21&nbsp;:20)&nbsp;». *Futucirc;hacirc;t* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel.
@@ -193,34 +193,34 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^62]: *Futucirc;hacirc;t* II 214.7. Trad. op. cit. p. 244. Ibn ‘Arabicirc; explique ailleurs qu’il y a aussi une racine divine à la pauvreté et au rabaissement.
 [^63]: *Futucirc;hacirc;t* II 214.23. Trad. op. cit. p. 246.
 [^64]: Cor. 96&nbsp;:1-5.
-[^65]: Bukhacirc;ricirc;.
+[^65]: Bukhacirc;.
 [^66]: Cor. 74&nbsp;:1-5.
 [^67]: Ibn Handal et Ab Dacirc;wucirc;d.
 [^68]: Ibn Handal.
-[^69]: Bukhacirc;ricirc;.
-[^70]: Bukhacirc;ricirc;.
-[^71]: Bukhacirc;ricirc;.
+[^69]: Bukhacirc;.
+[^70]: Bukhacirc;.
+[^71]: Bukhacirc;.
 [^72]: Cor. 75&nbsp;:16-19.
 [^73]: Cor. 73&nbsp;:1-4.
-[^74]: Bukhacirc;ricirc;.
+[^74]: Bukhacirc;.
 [^75]: D’après Ibn al-Jawzicirc;, il aurait transmis 5374 *ahacirc;dicirc;th*&nbsp;! Sa mémoire était prodigieuse.
 [^76]: Cor. 93&nbsp;:1-3.
-[^77]: Bukhacirc;ricirc; et Muslim.
+[^77]: Bukhacirc; et Muslim.
 [^78]: On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans *rahim*, la matrice maternelle.
-[^79]: Bukhacirc;ricirc;.
+[^79]: Bukhacirc;.
 [^80]: Muslim.
-[^81]: Bukhacirc;ricirc; et Ibn Macirc;jah.
+[^81]: Bukhacirc; et Ibn Macirc;jah.
 [^82]: Cor. 33&nbsp;:56.
 [^83]: Tirmidhicirc;.
-\[¨84]: Bukhacirc;ricirc;.
-[^85]: Bukhacirc;ricirc; et Muslim. Il y a plusieurs variantes de ce hadicirc;th.
+[^84]: Bukhacirc;.
+[^85]: Bukhacirc; et Muslim. Il y a plusieurs variantes de ce hadicirc;th.
 [^86]: Cor. 4:97.
 [^87]: Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guidés (*ar-Racirc;shiducirc;n*).
 [^88]: Rappelons que Muhammad est, pour les musulmans, le Consolateur (*Parakletos*) annoncé dans l’Evangile selon St Jean.
 [^89]: Cor. 79&nbsp;:6.
 [^90]: Cor. 79&nbsp;:7.
 [^91]: Cor. 17&nbsp;:79.
-[^92]: Bukhacirc;ricirc;.
+[^92]: Bukhacirc;.
 [^93]: Tirmidhicirc;, Abucirc; Dacirc;wucirc;d et An-Nasacirc;’icirc;.
 [^94]: Cor. 2&nbsp;:282.
 [^95]: Ab Dacirc;wucirc;d.
