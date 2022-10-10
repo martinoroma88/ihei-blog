@@ -129,23 +129,23 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 > Ya ‘Azhîm&nbsp;!
 
-[^1]: Ce Hadîth, souvent cité par Ibn’Arabî et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
+[^1]: Ce Hadîth, souvent cité par Ibn ‘Arabî et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
 [^2]: *Fuçûc al Hikam*. Trad. T. Burckhardt, *La sagesse des Prophètes*, p. 22, Albin Michel.
 [^3]: Cor. 51&nbsp;:56.
-[^4]: Ibn’Abbâs est l’un des premiers commentateurs du Qur’ân.
+[^4]: Ibn ‘Abbâs est l’un des premiers commentateurs du Qur’ân.
 [^5]: II fut disciple de Sadr ad-Dîn al-Qûnawî, l’un des disciples de Ibn’Arabî.
 [^6]: Cor. 15&nbsp;:21.
 [^7]: ‘Abd ar-Razzâq al-Qâshânî fut disciple de Mu’ayyad ad-Dîn Jandî, lui-même disciple de Sadr ad-Dîn al-Qûnawî.
-[^8]: I*çtilâhât as-Sûfiyyah*. Trad. Nabil Sawfat, *A glossary of Sufi Technical*. Terms, p. 3, The Octagon Press.
+[^8]: *Içtilâhât as-Sûfiyyah*. Trad. Nabil Sawfat, *A glossary of Sufi Technical*. Terms, p. 3, The Octagon Press.
 [^9]: *Al-Futûhât al-Makkiyyah* II 396.30. Trad. W. Chittick, In *The Sufi Path of Knowledge*, SUNY.
 [^10]: Cor. 17&nbsp;:110.
 [^11]: Bukhârî et Tirmidhî.
-[^12]: Futûhât II 203.3.
+[^12]: *Futûhât* II 203.3.
 [^13]: Trimidhî et Ibn Mâjah.
 [^14]: Cor. 15&nbsp;:85.
 [^15]: Tirmidhî. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis.
 [^16]: Bukhârî.
-[^17]: Bukhârî.
+[^17]: Muslim.
 [^18]: Cor. 68&nbsp;:4.
 [^19]: Cor. 40&nbsp;:35.
 [^20]: Tirmidhî.
@@ -186,7 +186,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^55]: Cor. 9&nbsp;:129 et de nombreux autres versets.
 [^56]: Cor. 40&nbsp;:7.
 [^57]: *al-mustanad al-ilâhî*, le point d’appui en Dieu de toute réalité créée.
-[^58]: Dieu connaît le mystère et l’apparence des choses. Il est *‘âlin al-ghayb wa-sh- shahâdah*. Cor. 59&nbsp;:22.
+[^58]: Dieu connaît le mystère et l’apparence des choses. Il est *‘âlim al-ghayb wa-sh- shahâdah*. Cor. 59&nbsp;:22.
 [^59]: Cor. 19&nbsp;:17.
 [^60]: *Ibn’Arabî*, in *Mishkât al-Anwâr*. Trad. M. Valsân, *La Niche des Lumières*, p. 100. Les Editions de l’Oeuvre.
 [^61]: *Futûhât* II 603.14. Tras. W. Chittick, in *Les Illuminations de la Mecque*, p. 242. Sindbad.
