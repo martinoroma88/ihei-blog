@@ -223,4 +223,4 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^92]: Bukhârî.
 [^93]: Tirmidhî, Abu Dâwûd et An-Nasâ’î.
 [^94]: Cor. 2&nbsp;:282.
-[^95]: Abu Dâwûd.
+[^95]: Ab Dâwûd.
