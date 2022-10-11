@@ -181,7 +181,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^51]: Bukh&acirc;r&icirc;.
 [^52]: Muslim.
 [^53]: Cor. 29&nbsp;: 56.
-[^54]: «&nbsp;Si l’on disposait dans cette Terre le Tr&ocirc;ne et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se rel&acirc;cher” (Cor. 21&nbsp;:20)&nbsp;». *Fut&ucirc;h&acirc;t* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel.
+[^54]: «&nbsp;Si l’on disposait dans cette Terre le Tr&ocirc;ne et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se rel&acirc;cher” (Cor. 21&nbsp;: 20)&nbsp;». *Fut&ucirc;h&acirc;t* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel.
 [^55]: Cor. 9&nbsp;: 129 et de nombreux autres versets.
 [^56]: Cor. 40&nbsp;: 7.
 [^57]: *al-mustanad al-il&acirc;h&icirc;*, le point d’appui en Dieu de toute réalité créée.
