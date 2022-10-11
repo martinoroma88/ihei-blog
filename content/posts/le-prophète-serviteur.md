@@ -221,5 +221,5 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^91]: Cor. 17&nbsp;: 79.
 [^92]: Bukh&acirc;r&icirc;.
 [^93]: Tirmidh&icirc;, Ab&ucirc; D&acirc;w&ucirc;d et An-Nas&acirc;’&icirc;.
-[^94]: Cor. 2&nbsp;:282.
+[^94]: Cor. 2&nbsp;: 282.
 [^95]: Ab&ucirc; D&acirc;w&ucirc;d.
