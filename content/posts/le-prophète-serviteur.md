@@ -199,8 +199,8 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^69]: Bukh&acirc;r&icirc;.
 [^70]: Bukh&acirc;r&icirc;.
 [^71]: Bukh&acirc;r&icirc;.
-[^72]: Cor. 75&nbsp;:16-19.
-[^73]: Cor. 73&nbsp;:1-4.
+[^72]: Cor. 75&nbsp;: 16-19.
+[^73]: Cor. 73&nbsp;: 1-4.
 [^74]: Bukh&acirc;r&icirc;.
 [^75]: D’après Ibn al-Jawz&icirc;, il aurait transmis 5374 *ah&acirc;d&icirc;th*&nbsp;! Sa mémoire était prodigieuse.
 [^76]: Cor. 93&nbsp;: 1-3.
