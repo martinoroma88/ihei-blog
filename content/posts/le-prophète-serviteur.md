@@ -156,7 +156,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^26]: Le mot *r&ucirc;h*, esprit ou souffle, est féminin en arabe et évoque la réceptivité à l’ordre divin (*al-amr*). 
 [^27]: Cor. 2&nbsp;: 286.
 [^28]: Cor. 97&nbsp;: 3. Mille mois lunaires représentent symboliquement la durée de la vie humaine.
-[^29]: Bukh&acirc; et Muslim.
+[^29]: Bukh&acirc;r&icirc; et Muslim.
 [^30]: Cor. 63&nbsp;: 7.
 [^31]: Les *Dal&acirc;’il al-Khayr&acirc;t* recensent 201 noms du Prophète.
 [^32]: Le traité, souvent attribué à Ibn’Arab&icirc;, semble en fait avoir été écrit par al-Maqd&icirc;s&icirc;.
