@@ -192,7 +192,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^62]: *Fut&ucirc;h&acirc;t* II 214.7. Trad. op. cit. p. 244. Ibn ‘Arab&icirc; explique ailleurs qu’il y a aussi une racine divine à la pauvreté et au rabaissement.
 [^63]: *Fut&ucirc;h&acirc;t* II 214.23. Trad. op. cit. p. 246.
 [^64]: Cor. 96&nbsp;: 1-5.
-[^65]: Bukh&acirc;r&icitc;.
+[^65]: Bukh&acirc;r&icirc;.
 [^66]: Cor. 74&nbsp;: 1-5.
 [^67]: Ibn Handal et Ab&ucirc; D&acirc;w&ucirc;d.
 [^68]: Ibn Handal.
