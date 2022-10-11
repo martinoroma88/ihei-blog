@@ -132,7 +132,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^2]: *Fuç&ucirc;c al Hikam*. Trad. T. Burckhardt, *La sagesse des Prophètes*, p. 22, Albin Michel.
 [^3]: Cor. 51&nbsp;: 56.
 [^4]: Ibn ‘Abb&acirc;s est l’un des premiers commentateurs du Qur’&acirc;n.
-[^5]: II fut disciple de Sadr ad-D&icirc;n al-Q&ucirc;naw&icirc;, l’un des disciples de Ibn ’Arab&icirc;.
+[^5]: II fut disciple de Sadr ad-D&icirc;n al-Q&ucirc;naw&icirc;, l’un des disciples de Ibn ‘Arab&icirc;.
 [^6]: Cor. 15&nbsp;: 21.
 [^7]: ‘Abd ar-Razz&acirc;q al-Q&acirc;sh&acirc;n&icirc; fut disciple de Mu’ayyad ad-D&icirc;n Jand&icirc;, lui-m&ecirc;me disciple de Sadr ad-D&icirc;n al-Q&ucirc;naw&icirc;.
 [^8]: *Içtil&acirc;h&acirc;t as-S&ucirc;fiyyah*. Trad. Nabil Sawfat, *A glossary of Sufi Technical*. Terms, p. 3, The Octagon Press.
