@@ -138,7 +138,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^8]: *Içtil&acirc;h&acirc;t as-S&ucirc;fiyyah*. Trad. Nabil Sawfat, *A glossary of Sufi Technical*. Terms, p. 3, The Octagon Press.
 [^9]: *Al-Fut&ucirc;h&acirc;t al-Makkiyyah* II 396.30. Trad. W. Chittick, In *The Sufi Path of Knowledge*, SUNY.
 [^10]: Cor. 17&nbsp;: 110.
-[^11]: Bukh&acirc; et Tirmidh&icirc;.
+[^11]: Bukh&acirc;r&icirc; et Tirmidh&icirc;.
 [^12]: *Fut&ucirc;h&acirc;t* II 203.3.
 [^13]: Trimidh&icirc; et Ibn M&acirc;jah.
 [^14]: Cor. 15&nbsp;: 85.
