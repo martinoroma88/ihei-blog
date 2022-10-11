@@ -132,7 +132,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^2]: *Fuç&ucirc;c al Hikam*. Trad. T. Burckhardt, *La sagesse des Prophètes*, p. 22, Albin Michel.
 [^3]: Cor. 51&nbsp;: 56.
 [^4]: Ibn ‘Abb&acirc;s est l’un des premiers commentateurs du Qur’&acirc;n.
-[^5]: II fut disciple de Sadr ad-D&icirc;n al-Q&ucirc;naw&icirc;, l’un des disciples de Ibn’Arab&icirc;.
+[^5]: II fut disciple de Sadr ad-D&icirc;n al-Q&ucirc;naw&icirc;, l’un des disciples de Ibn ’Arab&icirc;.
 [^6]: Cor. 15&nbsp;: 21.
 [^7]: ‘Abd ar-Razz&acirc;q al-Q&acirc;sh&acirc;n&icirc; fut disciple de Mu’ayyad ad-D&icirc;n Jand&icirc;, lui-m&ecirc;me disciple de Sadr ad-D&icirc;n al-Q&ucirc;naw&icirc;.
 [^8]: *Içtil&acirc;h&acirc;t as-S&ucirc;fiyyah*. Trad. Nabil Sawfat, *A glossary of Sufi Technical*. Terms, p. 3, The Octagon Press.
@@ -159,7 +159,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^29]: Bukh&acirc;r&icirc; et Muslim.
 [^30]: Cor. 63&nbsp;: 7.
 [^31]: Les *Dal&acirc;’il al-Khayr&acirc;t* recensent 201 noms du Prophète.
-[^32]: Le traité, souvent attribué à Ibn’Arab&icirc;, semble en fait avoir été écrit par al-Maqd&icirc;s&icirc;.
+[^32]: Le traité, souvent attribué à Ibn ‘Arab&icirc;, semble en fait avoir été écrit par al-Maqd&icirc;s&icirc;.
 [^33]: *Shajarat al-Kawn*. Trad. M. Gloton, *L’Arbre du Monde*, p. 101. Les Deux Océans.
 [^34]: Cor. 21&nbsp;: 107.
 [^35]: Cor. 3&nbsp;: 31.
