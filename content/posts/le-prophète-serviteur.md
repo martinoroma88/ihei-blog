@@ -143,7 +143,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^13]: Trimidh&icirc; et Ibn M&acirc;jah.
 [^14]: Cor. 15&nbsp;:85.
 [^15]: Tirmidh&icirc;. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis.
-[^16]: Bukh&acirc;.
+[^16]: Bukh&acirc;r&icirc;.
 [^17]: Muslim.
 [^18]: Cor. 68&nbsp;:4.
 [^19]: Cor. 40&nbsp;:35.
