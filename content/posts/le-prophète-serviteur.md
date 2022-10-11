@@ -148,7 +148,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^18]: Cor. 68&nbsp;: 4.
 [^19]: Cor. 40&nbsp;: 35.
 [^20]: Tirmidh&icirc;.
-[^21]: Dans le Tradition hindoue, ces deux p&ocirc;les sont *Purusha* et *Prakriti*. Voir R. Guenon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles.
+[^21]: Dans le Tradition hindoue, ces deux p&ocirc;les sont *Purusha* et *Prakriti*. Voir R. Guénon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles.
 [^22]: Cor. 30&nbsp;: 27.
 [^23]: Cor 24&nbsp;: 35.
 [^24]: Cor. 33&nbsp;: 46.
