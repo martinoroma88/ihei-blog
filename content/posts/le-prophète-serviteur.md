@@ -209,7 +209,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^79]: Bukh&acirc;r&icirc;.
 [^80]: Muslim.
 [^81]: Bukh&acirc;r&icirc; et Ibn M&acirc;jah.
-[^82]: Cor. 33&nbsp;:56.
+[^82]: Cor. 33&nbsp;: 56.
 [^83]: Tirmidh&icirc;.
 [^84]: Bukh&acirc;r&icirc;.
 [^85]: Bukh&acirc;r&icirc; et Muslim. Il y a plusieurs variantes de ce had&icirc;th.
