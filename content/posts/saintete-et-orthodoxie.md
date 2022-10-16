@@ -48,4 +48,4 @@ L’approche du Shaykh Abû Madyan se caractérisait par la sobriété et la sim
 [^3]:  Coran 50&nbsp;: 16.
 [^4]:  Ibn Mâjah.
 [^5]:  Coran 6&nbsp;: 83.
-[^6]:  Coran 18&nbsp,;: 44.
+[^6]:  Coran 18&nbsp;: 44.
