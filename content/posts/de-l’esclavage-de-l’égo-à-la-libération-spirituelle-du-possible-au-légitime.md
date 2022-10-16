@@ -64,7 +64,7 @@ Le vouloir et le pouvoir, quant à eux, n’appartiennent seulement et réelleme
 
 > ne pas souscrire à la prétention de la limitation de l’égo à connaître Dieu et à Le voir par elle-même, mais plutôt souscrire à l’attitude prophétique de connaître et de voir Dieu comme Il Se connaît et Se voit Lui-même, ce qui présuppose une mort au point de vue individuel limité, et ainsi laisser la place en nous à la seule Vision divine.
 
-C’est, en définitive, par la conversion permanente à Dieu dans la servitude spirituelle véritable que se réalisent la libération de l’esclavage de l’égo et la délivrance spirituelle éternelle:
+C’est, en définitive, par la conversion permanente à Dieu dans la servitude spirituelle véritable que se réalisent la libération de l’esclavage de l’égo et la délivrance spirituelle éternelle&nbsp;:
 
 > Proclame la louange de ton Seigneur&nbsp;! Sois au nombre de ceux qui se prosternent&nbsp;! Adore ton Seigneur, jusqu’à ce que la certitude te parvienne&nbsp;![^5]
 
