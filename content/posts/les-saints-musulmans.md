@@ -111,4 +111,36 @@ La décolonisation s’est produite et le monde musulman est désormais rentré 
 
 Récupérer pleinement cette aspiration totale à Dieu est peut-être la dernière chance qui nous est laissée de ne pas être emportés par l’effondrement de nos constructions prométhéennes. Qui croit à la sainteté croit encore vraiment à la destinée de l’homme.
 
-[^1]: Coran 95&nbsp;: 4. [^2]: Coran 2&nbsp;: 30. La racine QDS est employée à plusieurs reprises dans le Coran. Certains lieux particuliers peuvent être sanctifiés (muqaddas)&nbsp;: la Vallée sainte de Tuwâ où Moïse reçoit sa mission (Coran 20:12, 79:16), la Terre sainte où il ramène les enfants d’Israël (Coran 5:21). Jésus est assisté de l’Esprit de sainteté (rûh al-qudus ; Coran 2:87, 2:256, 5:110). Enfin, la tradition islamique appelle Jérusalem «la Sainte (*al-Quds*)&nbsp;». [^3]: Coran 2&nbsp;: 257. [^4]: Coran 12&nbsp;: 101. [^5]: Coran 5&nbsp;: 55. [^6]: Coran 10&nbsp;: 62. [^7]: Coran 50&nbsp;: 16. [^8]: Ibn Mâjah, zuhd 3. [^9]: Coran 51&nbsp;: 56. [^10]: Coran 15&nbsp;: 99. [^11]: Coran 6&nbsp;: 83. [^12]: Les mu’tazilites renforcent la liberté humaine, Dieu récompensant alors selon la justice. Les hanbalites abandonnent toute idée de liberté humaine, Dieu récompensant alors qui Il veut. La troisième position, celle de l’école ash’arite, consiste à poser que Dieu crée les actes des hommes, mais que ceux-ci acceptent de les «&nbsp;acquérir (*kasb*)&nbsp;», justifiant ainsi la récompense ou la punition divines. [^13]: Bukhârî et Muslim. HQ p. 27. [^14]: Coran 2&nbsp;: 282. [^15]: Coran 17&nbsp;: 85. [^16]: Coran 20&nbsp;: 114. [^17]: Bukhârî, Ibn Mâjah. [^18]: Coran 33&nbsp;: 21. [^19]: Muslim. [^20]: Coran 3&nbsp;: 32. [^21]: Bukhârî, riqâq 38. [^22]: Coran 2&nbsp;: 255, 6&nbsp;: 80. [^23]: Coran 40&nbsp;: 7. [^24]: Ce hadîth souvent cité par les soufis ne se trouve pas dans les recueils canoniques. [^25]: Muslim, fitan 14, Tirmidhî, fitan 56. [^26]: Coran 3&nbsp;: 185. [^27]: Coran 42&nbsp;: 53. [^28]: Tirmîdhî, qiyâmah 25. [^29]: Coran 89&nbsp;: 27-28. [^30]: Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis. [^31]: Cité par Henry Corbin, *Histoire de la philosophie islamique*, p. 28. [^32]: Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis. [^33]: Coran 33&nbsp;: 56. [^34]: Abû Dâwûd. [^35]: Tirmîdhî. [^36]: Coran 48&nbsp;: 18. [^37]: Sûyûtî, Al-Jâmi’ aç-Çaghîr II 505. [^38]: Coran 29&nbsp;: 45. [^39]: Tirmîdhî. [^40]: Coran 13&nbsp;: 28. [^41]: Coran 2&nbsp;: 152. [^42]: Abû Dâwûd et Tirmîdhî. Le texte mentionne &nbsp;: «Il vous incombe de suivre ma sunnah et celle des califes bien guidés qui suivent la bonne voie&nbsp;; mordez-y à pleines dents&nbsp;! Et prenez garde aux choses nouvelles, car toute nouveauté est une innovation (bid’ah), toute innovation est égarement, et l’égarement conduit en Enfer.&nbsp» [^43]: Muslim, ‘ilm 15, zakât 69, Nasâ’î, zakât 64, etc. [^44]: Abû Dâwûd, Tirmîdhî. [^45]: Coran 24&nbsp;: 37. [^46]: On se reportera à l’ouvrage de Michel Chodkiewicz, *Le Sceau des Saints*, Gallimard, 1986. [^47]: Coran 35&nbsp;: 12.
+[^1]: Coran 95&nbsp;: 4.
+
+[^2]: Coran 2&nbsp;: 30. La racine QDS est employée à plusieurs reprises dans le Coran. Certains lieux particuliers peuvent être sanctifiés (muqaddas)&nbsp;: la Vallée sainte de Tuwâ où Moïse reçoit sa mission (Coran 20:12, 79:16), la Terre sainte où il ramène les enfants d’Israël (Coran 5:21). Jésus est assisté de l’Esprit de sainteté (rûh al-qudus ; Coran 2&nbsp;: 87, 2&nbsp;: 256, 5&nbsp;: 110). Enfin, la tradition islamique appelle Jérusalem «la Sainte (*al-Quds*)&nbsp;».
+
+[^3]: Coran 2&nbsp;: 257.
+
+[^4]: Coran 12&nbsp;: 101.
+
+[^5]: Coran 5&nbsp;: 55.
+
+[^6]: Coran 10&nbsp;: 62.
+
+[^7]: Coran 50&nbsp;: 16. 
+
+[^8]: Ibn Mâjah, zuhd 3.
+
+[^9]: Coran 51&nbsp;: 56.
+
+[^10]: Coran 15&nbsp;: 99.
+
+[^11]: Coran 6&nbsp;: 83.
+
+[^12]: Les mu’tazilites renforcent la liberté humaine, Dieu récompensant alors selon la justice. Les hanbalites abandonnent toute idée de liberté humaine, Dieu récompensant alors qui Il veut. La troisième position, celle de l’école ash’arite, consiste à poser que Dieu crée les actes des hommes, mais que ceux-ci acceptent de les «&nbsp;acquérir (*kasb*)&nbsp;», justifiant ainsi la récompense ou la punition divines.
+
+[^13]: Bukhârî et Muslim. HQ p. 27.
+
+[^14]: Coran 2&nbsp;: 282.
+
+[^15]: Coran 17&nbsp;: 85.
+
+[^16]: Coran 20&nbsp;: 114.
+
+[^17]: Bukhârî, Ibn Mâjah.[^18]: Coran 33&nbsp;: 21. [^19]: Muslim. [^20]: Coran 3&nbsp;: 32. [^21]: Bukhârî, riqâq 38. [^22]: Coran 2&nbsp;: 255, 6&nbsp;: 80. [^23]: Coran 40&nbsp;: 7. [^24]: Ce hadîth souvent cité par les soufis ne se trouve pas dans les recueils canoniques. [^25]: Muslim, fitan 14, Tirmidhî, fitan 56. [^26]: Coran 3&nbsp;: 185. [^27]: Coran 42&nbsp;: 53. [^28]: Tirmîdhî, qiyâmah 25. [^29]: Coran 89&nbsp;: 27-28. [^30]: Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis. [^31]: Cité par Henry Corbin, *Histoire de la philosophie islamique*, p. 28. [^32]: Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis. [^33]: Coran 33&nbsp;: 56. [^34]: Abû Dâwûd. [^35]: Tirmîdhî. [^36]: Coran 48&nbsp;: 18. [^37]: Sûyûtî, Al-Jâmi’ aç-Çaghîr II 505. [^38]: Coran 29&nbsp;: 45. [^39]: Tirmîdhî. [^40]: Coran 13&nbsp;: 28. [^41]: Coran 2&nbsp;: 152. [^42]: Abû Dâwûd et Tirmîdhî. Le texte mentionne &nbsp;: «Il vous incombe de suivre ma sunnah et celle des califes bien guidés qui suivent la bonne voie&nbsp;; mordez-y à pleines dents&nbsp;! Et prenez garde aux choses nouvelles, car toute nouveauté est une innovation (bid’ah), toute innovation est égarement, et l’égarement conduit en Enfer.&nbsp» [^43]: Muslim, ‘ilm 15, zakât 69, Nasâ’î, zakât 64, etc. [^44]: Abû Dâwûd, Tirmîdhî. [^45]: Coran 24&nbsp;: 37. [^46]: On se reportera à l’ouvrage de Michel Chodkiewicz, *Le Sceau des Saints*, Gallimard, 1986. [^47]: Coran 35&nbsp;: 12.
