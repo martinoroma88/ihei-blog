@@ -68,14 +68,12 @@ C’est, en définitive, par la conversion permanente à Dieu dans la servitude 
 
 > Proclame la louange de ton Seigneur&nbsp;! Sois au nombre de ceux qui se prosternent&nbsp;! Adore ton Seigneur, jusqu’à ce que la certitude te parvienne&nbsp;![^5]
 
+[^1]:  Coran sourate XX&nbsp;: versets 2 à 4.
 
+[^2]:  Coran sourate XIV&nbsp;: verset 4.
 
-[^1]:  Coran sourate XX&nbsp;: versets 2 à 4
+[^3]:  Coran sourate XIII&nbsp;: versets 17 à 23.
 
-[^2]:  Coran sourate XIV&nbsp;: verset 4
+[^4]:  Coran sourate XIV&nbsp;: verset 3.
 
-[^3]:  Coran sourate XIII&nbsp;: versets 17 à 23
-
-[^4]:  Coran sourate XIV&nbsp;: verset 3
-
-[^5]:  Coran sourate XV&nbsp;: versets 98 et 99
+[^5]:  Coran sourate XV&nbsp;: versets 98 et 99.
