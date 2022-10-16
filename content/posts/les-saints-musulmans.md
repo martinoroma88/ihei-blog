@@ -143,4 +143,60 @@ Récupérer pleinement cette aspiration totale à Dieu est peut-être la derniè
 
 [^16]: Coran 20&nbsp;: 114.
 
-[^17]: Bukhârî, Ibn Mâjah.[^18]: Coran 33&nbsp;: 21. [^19]: Muslim. [^20]: Coran 3&nbsp;: 32. [^21]: Bukhârî, riqâq 38. [^22]: Coran 2&nbsp;: 255, 6&nbsp;: 80. [^23]: Coran 40&nbsp;: 7. [^24]: Ce hadîth souvent cité par les soufis ne se trouve pas dans les recueils canoniques. [^25]: Muslim, fitan 14, Tirmidhî, fitan 56. [^26]: Coran 3&nbsp;: 185. [^27]: Coran 42&nbsp;: 53. [^28]: Tirmîdhî, qiyâmah 25. [^29]: Coran 89&nbsp;: 27-28. [^30]: Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis. [^31]: Cité par Henry Corbin, *Histoire de la philosophie islamique*, p. 28. [^32]: Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis. [^33]: Coran 33&nbsp;: 56. [^34]: Abû Dâwûd. [^35]: Tirmîdhî. [^36]: Coran 48&nbsp;: 18. [^37]: Sûyûtî, Al-Jâmi’ aç-Çaghîr II 505. [^38]: Coran 29&nbsp;: 45. [^39]: Tirmîdhî. [^40]: Coran 13&nbsp;: 28. [^41]: Coran 2&nbsp;: 152. [^42]: Abû Dâwûd et Tirmîdhî. Le texte mentionne &nbsp;: «Il vous incombe de suivre ma sunnah et celle des califes bien guidés qui suivent la bonne voie&nbsp;; mordez-y à pleines dents&nbsp;! Et prenez garde aux choses nouvelles, car toute nouveauté est une innovation (bid’ah), toute innovation est égarement, et l’égarement conduit en Enfer.&nbsp» [^43]: Muslim, ‘ilm 15, zakât 69, Nasâ’î, zakât 64, etc. [^44]: Abû Dâwûd, Tirmîdhî. [^45]: Coran 24&nbsp;: 37. [^46]: On se reportera à l’ouvrage de Michel Chodkiewicz, *Le Sceau des Saints*, Gallimard, 1986. [^47]: Coran 35&nbsp;: 12.
+[^17]: Bukhârî, Ibn Mâjah.
+
+[^18]: Coran 33&nbsp;: 21.
+
+[^19]: Muslim.
+
+[^20]: Coran 3&nbsp;: 32.
+
+[^21]: Bukhârî, riqâq 38.
+
+[^22]: Coran 2&nbsp;: 255, 6&nbsp;: 80.
+
+[^23]: Coran 40&nbsp;: 7.
+
+[^24]: Ce hadîth souvent cité par les soufis ne se trouve pas dans les recueils canoniques.
+
+[^25]: Muslim, fitan 14, Tirmidhî, fitan 56.
+
+[^26]: Coran 3&nbsp;: 185.
+
+[^27]: Coran 42&nbsp;: 53.
+
+[^28]: Tirmîdhî, qiyâmah 25.
+
+[^29]: Coran 89&nbsp;: 27-28.
+
+[^30]: Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis.
+
+[^31]: Cité par Henry Corbin, *Histoire de la philosophie islamique*, p. 28.
+
+[^32]: Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis.
+
+[^33]: Coran 33&nbsp;: 56. [^34]: Abû Dâwûd.
+
+[^35]: Tirmîdhî. [^36]: Coran 48&nbsp;: 18.
+
+[^37]: Sûyûtî, Al-Jâmi’ aç-Çaghîr II 505.
+
+[^38]: Coran 29&nbsp;: 45.
+
+[^39]: Tirmîdhî.
+
+[^40]: Coran 13&nbsp;: 28.
+
+[^41]: Coran 2&nbsp;: 152.
+
+[^42]: Abû Dâwûd et Tirmîdhî. Le texte mentionne &nbsp;: «Il vous incombe de suivre ma sunnah et celle des califes bien guidés qui suivent la bonne voie&nbsp;; mordez-y à pleines dents&nbsp;! Et prenez garde aux choses nouvelles, car toute nouveauté est une innovation (bid’ah), toute innovation est égarement, et l’égarement conduit en Enfer.&nbsp»
+
+[^43]: Muslim, ‘ilm 15, zakât 69, Nasâ’î, zakât 64, etc.
+
+[^44]: Abû Dâwûd, Tirmîdhî.
+
+[^45]: Coran 24&nbsp;: 37.
+
+[^46]: On se reportera à l’ouvrage de Michel Chodkiewicz, *Le Sceau des Saints*, Gallimard, 1986.
+
+[^47]: Coran 35&nbsp;: 12.
