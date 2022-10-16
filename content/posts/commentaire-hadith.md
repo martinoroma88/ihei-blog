@@ -143,7 +143,7 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 [^28]:  La communauté de l’appel est l’humanité dans son ensemble, appelée à la soumission à Dieu. La communauté de la réponse est celle des musulmans *stricto sensu*. Le Shaykh rappelle que le Prophète est une miséricorde universelle et que son souci s’adresse à l’humanité entière.
 [^29]:  Coran 21&nbsp;: 107.
 [^30]:  Coran 50&nbsp;: 16.
-[^31]:  Il s’agit du célèbre hadîth qudsî rapporté dans al-Bukhârî&nbsp;: «&nbsp;Rien ne rapproche plus Mon serviteur de Moi que ce que J’aime par dessus tout, les actes obligatoires. Mon serviteur ne cesse de s’approcher de Moi par les actes surérogatoires jusqu’à ce que Je l’aime&nbsp;;et quand Je l’aime, Je suis l’ouïe avec laquelle il entend, la vue avec laquelle il voit, la main avec laquelle il saisit fortement et le pied avec lequel il marche&nbsp;».
+[^31]:  Il s’agit du célèbre hadîth qudsî rapporté dans al-Bukhârî&nbsp;: «&nbsp;Rien ne rapproche plus Mon serviteur de Moi que ce que J’aime par dessus tout, les actes obligatoires. Mon serviteur ne cesse de s’approcher de Moi par les actes surérogatoires jusqu’à ce que Je l’aime&nbsp;; et quand Je l’aime, Je suis l’ouïe avec laquelle il entend, la vue avec laquelle il voit, la main avec laquelle il saisit fortement et le pied avec lequel il marche&nbsp;».
 [^32]:  Par le tanzîh, l’affirmation de la Transcendance et de l’Incomparabilité de Dieu.
 [^33]:  C’est-à-dire en 1902.
 [^34]:  Il s’agit du petit fils de Muhammad al-Qutb, fils aîné du Shaykh Ahmad Ibn Idrîs. Muhammad al Yamanî (1876-1923) fonda, contre les Ottomans, un royaume idrîside au Yémen. Voir R.S. O’Fahey, in *Enigmatic Saint*, p. 122-125.
