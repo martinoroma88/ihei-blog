@@ -115,7 +115,7 @@ Et ce désir, chacun le reçoit selon sa capacité. Si celle-ci le peut, le dés
 
 Dieu est Celui qui préserve et Celui qui guide. Que Dieu prie sur notre maître Muhammad et sur sa famille, dans chaque regard et dans chaque souffle autant de fois qu’en englobe la science de Dieu.
 
-Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’année 1320 de l’hégire.[^33] Sur ceux qui ont émigré, sur la famille \[du Prophète] et sur ses compagnons, la meilleure des prières et la plus parfaite des salutations.\[Cette lettre] fut mise par écrit par le serviteur méprisable, le pauvre envers la générosité de Dieu, Muhammad al-Yamanî Ibn ’Alî al-Idrîsî.[^34]
+Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’année 1320 de l’hégire.[^33] Sur ceux qui ont émigré, sur la famille \[du Prophète] et sur ses compagnons, la meilleure des prières et la plus parfaite des salutations.\[Cette lettre] fut mise par écrit par le serviteur méprisable, le pauvre envers la générosité de Dieu, Muhammad al-Yamanî Ibn ‘Alî al-Idrîsî.[^34]
 
 [^1]:  C’est un disciple du ShaykhAhmad Ibn Idrîs qui parle.
 [^2]:  Cette ville se situe dans le sud du Yémen. Le Shaykh arriva à Zabîd en 1827-1828 pour une brève visite, puis s’y installa ensuite pendant neuf mois, en 1828-1829. Voir R.S. O’Fahey, in *Enigmatic Saint*, p. 83-88.
