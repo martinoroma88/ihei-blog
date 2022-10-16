@@ -65,7 +65,7 @@ Rien ne demeure avec le serviteur que la confiance totale en Dieu. Quand Dieu ne
 
 Le chagrin est à la mesure de l’immensité de ce dont on s’attriste. Le chagrin et le regret s’exercent en direction de ce qui a échappé. Quand le regret s’exerce en direction des théophanies qui nous ont échappé, quel bon regret&nbsp;![^13]
 
-**La science est mon arme**, *wa-l-’ilmu silâhî*&nbsp;: la science est le fondement de la connaissance, et le fondement de tout bien. Grâce à elle l’on atteint dans le c&oelig;ur l’immensité de Dieu, par la vertu de la méditation, comme le dit Dieu&nbsp;: «&nbsp;Tirez un enseignement, ô vous qui détenez les regards&nbsp;!&nbsp;»[^14] Et cela ne peut se produire que par la science.
+**La science est mon arme**, *wa-l-‘ilmu silâhî*&nbsp;: la science est le fondement de la connaissance, et le fondement de tout bien. Grâce à elle l’on atteint dans le c&oelig;ur l’immensité de Dieu, par la vertu de la méditation, comme le dit Dieu&nbsp;: «&nbsp;Tirez un enseignement, ô vous qui détenez les regards&nbsp;!&nbsp;»[^14] Et cela ne peut se produire que par la science.
 
 **La patience est ma provision de route**, *wa-ç-çabru zâdî*&nbsp;: le serviteur voyage dans ses souffles et ses regards[^15], et sa provision de route dans son voyage consiste à suivre les ordres et les interdictions.[^16] Cela ne peut s’accomplir pour lui que par la patience. S’il ne patiente pas, il se conduit lui-même vers ce qui courrouce Dieu.
 
