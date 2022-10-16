@@ -113,7 +113,7 @@ Récupérer pleinement cette aspiration totale à Dieu est peut-être la derniè
 
 [^1]: Coran 95&nbsp;: 4.
 
-[^2]: Coran 2&nbsp;: 30. La racine QDS est employée à plusieurs reprises dans le Coran. Certains lieux particuliers peuvent être sanctifiés (muqaddas)&nbsp;: la Vallée sainte de Tuwâ où Moïse reçoit sa mission (Coran 20:12, 79:16), la Terre sainte où il ramène les enfants d’Israël (Coran 5:21). Jésus est assisté de l’Esprit de sainteté (rûh al-qudus ; Coran 2&nbsp;: 87, 2&nbsp;: 256, 5&nbsp;: 110). Enfin, la tradition islamique appelle Jérusalem «la Sainte (*al-Quds*)&nbsp;».
+[^2]: Coran 2&nbsp;: 30. La racine QDS est employée à plusieurs reprises dans le Coran. Certains lieux particuliers peuvent être sanctifiés (muqaddas)&nbsp;: la Vallée sainte de Tuwâ où Moïse reçoit sa mission (Coran 20&nbsp;: 12, 79&nbsp;: 16), la Terre sainte où il ramène les enfants d’Israël (Coran 5&nbsp;: 21). Jésus est assisté de l’Esprit de sainteté (rûh al-qudus ; Coran 2&nbsp;: 87, 2&nbsp;: 256, 5&nbsp;: 110). Enfin, la tradition islamique appelle Jérusalem «la Sainte (*al-Quds*)&nbsp;».
 
 [^3]: Coran 2&nbsp;: 257.
 
@@ -175,7 +175,9 @@ Récupérer pleinement cette aspiration totale à Dieu est peut-être la derniè
 
 [^32]: Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis.
 
-[^33]: Coran 33&nbsp;: 56. [^34]: Abû Dâwûd.
+[^33]: Coran 33&nbsp;: 56.
+
+[^34]: Abû Dâwûd.
 
 [^35]: Tirmîdhî. [^36]: Coran 48&nbsp;: 18.
 
