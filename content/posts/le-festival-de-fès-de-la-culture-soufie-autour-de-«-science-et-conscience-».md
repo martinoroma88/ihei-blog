@@ -14,7 +14,9 @@ Une délégation de l’Institut des Hautes Études Islamiques était présente 
 
 Le thème de cette 15ème édition du Festival de Fès de la culture soufie, «&nbsp;Science et conscience&nbsp;», a trouvé un cadre idéal et un sens particulier en ce haut-lieu de la civilisation islamique, fondé à la fin du VIIIe siècle par Idris 1er. Dans cette ville marquée par une longue tradition de connaissance, de culture et de spiritualité, la bénédiction et les enseignements des maîtres et des saints musulmans rayonnent et s’entremêlent de façon harmonieuse avec les beautés de l’architecture et des arts islamiques traditionnels qui imprègnent la vie quotidienne. 
 
-Rappelant que la science et la conscience partagent la même étymologie latine, *scientia*, qui signifie «&nbsp;connaissance&nbsp;», Carole Latifa Ameer, directrice artistique et de la programmation, a cité cette parole attribuée au maître soufi afghan Sanâ‘î&nbsp;: «&nbsp;Si la connaissance ne fait pas disparaître ton “moi” pour toi-même, l’ignorance vaut mieux qu’une telle connaissance.&nbsp;»
+Rappelant que la science et la conscience partagent la même étymologie latine, *scientia*, qui signifie «&nbsp;connaissance&nbsp;», Carole Latifa Ameer, directrice artistique et de la programmation, a cité cette parole attribuée au maître soufi afghan Sanâ‘î&nbsp;:
+
+> Si la connaissance ne fait pas disparaître ton “moi” pour toi-même, l’ignorance vaut mieux qu’une telle connaissance.
 
 «&nbsp;Apportant sens et sagesse à un monde qui en semble largement dépourvu, une telle conscience spirituelle pourrait éclairer nos savoirs et nos recherches scientifiques d’une lumière, d’une finalité et sans doute –&nbsp;en raison de nouvelles convergences&nbsp;– d’une fécondité nouvelle&nbsp;», écrit pour sa part, dans son éditorial, Faouzi Skali, président de l’association du Festival de Fès de la culture soufie.
 
