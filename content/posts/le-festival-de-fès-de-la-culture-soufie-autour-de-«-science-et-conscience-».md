@@ -5,6 +5,10 @@ date: 2022-10-29T12:50:02.989Z
 auteur: IHEI
 category: Soufisme et Spiritualités
 ---
+![La mosquée-université Al-Qarawiyyin de Fès, la plus ancienne université dans le monde, encore en activité](https://res.cloudinary.com/genesi-communication-design/image/upload/v1667049131/1_uvarn7.jpg)
+
+*La mosquée-université Al-Qarawiyyin de Fès, la plus ancienne université dans le monde, encore en activité*
+
 Une délégation de l’Institut des Hautes Études Islamiques était présente au Festival de Fès de la culture soufie qui s’est déroulé du 22 au 29 avril 2022, avec le soutien, notamment du ministère de la Jeunesse, de la Culture et de la Communication, et du ministère des Habous et des Affaires islamiques du Royaume du Maroc.
 
 Le thème de cette 15ème édition du Festival de Fès de la culture soufie, «&nbsp;Science et conscience&nbsp;», a trouvé un cadre idéal et un sens particulier en ce haut-lieu de la civilisation islamique, fondé à la fin du VIIIe siècle par Idris 1er. Dans cette ville marquée par une longue tradition de connaissance, de culture et de spiritualité, la bénédiction et les enseignements des maîtres et des saints musulmans rayonnent et s’entremêlent de façon harmonieuse avec les beautés de l’architecture et des arts islamiques traditionnels qui imprègnent la vie quotidienne. 
@@ -21,11 +25,18 @@ S’appuyant à son tour sur les écrits et sur l’exemple même de l’imam al
 
 De nombreux échanges ont eu lieu lors des tables rondes et en dehors, pendant les visites de cette ville où se trouvent tant de magnifiques mosquées et mausolées des «&nbsp;amis de Dieu&nbsp;» (*awliyâ’ Allah*). Dans la perspective de leur engagement sur le chemin de la spiritualité, les membres de la délégation de l’IHEI ont rappelé la nécessité d’associer à la connaissance de la riche culture soufie, la mise en œuvre du «&nbsp;culte divin&nbsp;» qui seul peut nous transformer.
 
+![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1667049227/2_rzwvti.jpg)
+
 Une vue de la Médersa Bou ‘Inania, construite entre 1350 et 1355, qui a accueilli certaines tables rondes du Festival de Fès de la culture soufie.
+
+![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1667049262/3_f7paws.jpg)
 
 Salle de prière réservée aux shurafâ’ ou nobles descendants du Prophète Muhammad, près du mausolée de Moulay Idris 1er, fondateur de Fès et de l’émirat idrisside, lui-même d’ascendance prophétique. 
 
+![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1667049280/4_jw28nn.jpg)
 
 Abd-al-Haqq Guiderdoni devant l’entrée de la mosquée renfermant le mausolée de Moulay Idris II, fils de Moulay Idris 1er, descendant du Prophète Muhammad, fondateur de Fès et de l’émirat idrisside.
+
+![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1667049299/5_mofndl.jpg)
 
 Abd al-Haqq Guiderdoni devant le mausolée du shaykh ‘Abd al-‘Azîz al-Dabbâgh, saint illettré.
