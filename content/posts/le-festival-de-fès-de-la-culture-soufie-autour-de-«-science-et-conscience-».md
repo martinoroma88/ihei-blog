@@ -3,6 +3,7 @@ titre: Le Festival de Fès de la culture soufie autour de « Science et conscien
 vedette: true
 date: 2022-10-29T12:50:02.989Z
 auteur: IHEI
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1667050009/University_karaouiyine_of_fes_mmuwoe.jpg
 category: Soufisme et Spiritualités
 ---
 ![La mosquée-université Al-Qarawiyyin de Fès, la plus ancienne université dans le monde, encore en activité](https://res.cloudinary.com/genesi-communication-design/image/upload/v1667049131/1_uvarn7.jpg)
