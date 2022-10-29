@@ -32,10 +32,6 @@ De nombreux échanges ont eu lieu lors des tables rondes et en dehors, pendant l
 
 Une vue de la Médersa Bou ‘Inania, construite entre 1350 et 1355, qui a accueilli certaines tables rondes du Festival de Fès de la culture soufie.
 
-![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1667049262/3_f7paws.jpg)
-
-Salle de prière réservée aux shurafâ’ ou nobles descendants du Prophète Muhammad, près du mausolée de Moulay Idris 1er, fondateur de Fès et de l’émirat idrisside, lui-même d’ascendance prophétique. 
-
 ![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1667049280/4_jw28nn.jpg)
 
 Abd al-Haqq Guiderdoni devant l’entrée de la mosquée renfermant le mausolée de Moulay Idris II, fils de Moulay Idris 1er, descendant du Prophète Muhammad, fondateur de Fès et de l’émirat idrisside.
