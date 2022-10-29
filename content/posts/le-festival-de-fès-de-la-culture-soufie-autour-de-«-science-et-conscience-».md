@@ -6,7 +6,7 @@ auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1667050009/University_karaouiyine_of_fes_mmuwoe.jpg
 category: Soufisme et Spiritualités
 ---
-![La mosquée-université Al-Qarawiyyin de Fès, la plus ancienne université dans le monde, encore en activité](https://res.cloudinary.com/genesi-communication-design/image/upload/v1667049131/1_uvarn7.jpg)
+![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1667049131/1_uvarn7.jpg)
 
 *La mosquée-université Al-Qarawiyyin de Fès, la plus ancienne université dans le monde, encore en activité*
 
