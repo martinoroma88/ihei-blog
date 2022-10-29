@@ -26,5 +26,6 @@ Une vue de la Médersa Bou ‘Inania, construite entre 1350 et 1355, qui a accue
 Salle de prière réservée aux shurafâ’ ou nobles descendants du Prophète Muhammad, près du mausolée de Moulay Idris 1er, fondateur de Fès et de l’émirat idrisside, lui-même d’ascendance prophétique. 
 
 
-
 Abd-al-Haqq Guiderdoni devant l’entrée de la mosquée renfermant le mausolée de Moulay Idris II, fils de Moulay Idris 1er, descendant du Prophète Muhammad, fondateur de Fès et de l’émirat idrisside.
+
+Abd al-Haqq Guiderdoni devant le mausolée du shaykh ‘Abd al-‘Azîz al-Dabbâgh, saint illettré.
