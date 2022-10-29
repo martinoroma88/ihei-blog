@@ -9,7 +9,7 @@ category: Soufisme et Spiritualités
 
 *La mosquée-université Al-Qarawiyyin de Fès, la plus ancienne université dans le monde, encore en activité*
 
-Une délégation de l’Institut des Hautes Études Islamiques était présente au Festival de Fès de la culture soufie qui s’est déroulé du 22 au 29 avril 2022, avec le soutien, notamment du ministère de la Jeunesse, de la Culture et de la Communication, et du ministère des Habous et des Affaires islamiques du Royaume du Maroc.
+Une délégation de l’Institut des Hautes Études Islamiques était présente au Festival de Fès de la culture soufie qui s’est déroulé du 22 au 29 octobre 2022, avec le soutien, notamment du ministère de la Jeunesse, de la Culture et de la Communication, et du ministère des Habous et des Affaires Islamiques du Royaume du Maroc.
 
 Le thème de cette 15ème édition du Festival de Fès de la culture soufie, «&nbsp;Science et conscience&nbsp;», a trouvé un cadre idéal et un sens particulier en ce haut-lieu de la civilisation islamique, fondé à la fin du VIIIe siècle par Idris 1er. Dans cette ville marquée par une longue tradition de connaissance, de culture et de spiritualité, la bénédiction et les enseignements des maîtres et des saints musulmans rayonnent et s’entremêlent de façon harmonieuse avec les beautés de l’architecture et des arts islamiques traditionnels qui imprègnent la vie quotidienne. 
 
