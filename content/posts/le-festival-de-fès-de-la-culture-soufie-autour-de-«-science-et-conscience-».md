@@ -40,3 +40,7 @@ Abd-al-Haqq Guiderdoni devant l’entrée de la mosquée renfermant le mausolée
 ![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1667049299/5_mofndl.jpg)
 
 Abd al-Haqq Guiderdoni devant le mausolée du shaykh ‘Abd al-‘Azîz al-Dabbâgh, saint illettré.
+
+![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1667049645/IMG-20221029-WA0019_c8g4eu.jpg)
+
+Abd al-Wadoud Gouraud devant le mausolée du shaykh ‘Abd al-Wahhab al-Tâzî, maître spirituel et ancien recteur de l'université Al-Qarawiyyin de Fès
