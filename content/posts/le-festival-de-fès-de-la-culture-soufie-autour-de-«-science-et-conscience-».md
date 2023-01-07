@@ -1,6 +1,6 @@
 ---
 titre: Le Festival de Fès de la culture soufie autour de « Science et conscience »
-vedette: true
+vedette: false
 date: 2022-10-29T12:50:02.989Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1667050194/fes-83_lvpb1z.jpg
