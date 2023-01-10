@@ -1,7 +1,7 @@
 ---
 titre: René Guénon et le retour au spirituel
-vedette: true
-date: 2023-01-07T20:42:15.086Z
+vedette: false
+date: 2001-01-07T20:42:15.086Z
 auteur: Abd al-Haqq Ismaïl Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584952/ihei/couvertures/soufisme-et-spiritualites-5_brktv0.jpg
 category: Soufisme et Spiritualités
