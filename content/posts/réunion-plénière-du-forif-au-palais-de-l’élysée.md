@@ -22,13 +22,10 @@ Des membres de l’IHEI présents dans plusieurs régions de France prennent par
 
 Soulignant l’importance d’une consultation et d’une concertation internes à la communauté musulmane, autour de l’organisation du culte musulman en France et de la place de l’islam dans la République, Abd al-Wadoud Gouraud a évoqué en conclusion la question de la formation, incluant un «&nbsp;socle de base des connaissances et des compétences qui sont attendues des imams en France, tant pour ce qui concerne le volet religieux que pour ce qui concerne le volet dit profane&nbsp;».
 
-\
 Sur ce sujet de fond, l’Institut des Hautes Études Islamiques participe depuis plusieurs années à la formation des imams organisée, en région Rhône-Alpes, par l’Institut français de civilisation musulmane (IFCM), présidé par Kamel Kabtane, également Recteur de la Grande Mosquée de Lyon, en partenariat avec l’Université catholique de Lyon et l’Université Lyon 3.
 
-\
-La restitution des travaux du FORIF a été clôturée par un discours du chef de l’État. Emmanuel Macron a insisté sur la nécessité de «&nbsp;traiter les conséquences d’un Islam dévoyé&nbsp;» en favorisant l’accès à ce qu’il appelle un « Islam des Lumières&nbsp;», que ce soit pour les musulmans ou pour l’ensemble de la société française. Après avoir remercié les acteurs musulmans qui s’engagent au service de la République, il a aussi rappelé que, dans le cadre de la laïcité, «&nbsp;sans ambiguïté aucune, il ne s’agit pas de dire que la République serait au-dessus de quelque religion que ce soit. Ce n’est pas le même ordre&nbsp;»&nbsp;; démontrant ainsi la pleine compatibilité de la pratique de l’islam avec les principes de la République.
+La restitution des travaux du FORIF a été clôturée par un discours du chef de l’État. Emmanuel Macron a insisté sur la nécessité de «&nbsp;traiter les conséquences d’un Islam dévoyé&nbsp;» en favorisant l’accès à ce qu’il appelle un «&nbsp;Islam des Lumières&nbsp;», que ce soit pour les musulmans ou pour l’ensemble de la société française. Après avoir remercié les acteurs musulmans qui s’engagent au service de la République, il a aussi rappelé que, dans le cadre de la laïcité, «&nbsp;sans ambiguïté aucune, il ne s’agit pas de dire que la République serait au-dessus de quelque religion que ce soit. Ce n’est pas le même ordre&nbsp;»&nbsp;; démontrant ainsi la pleine compatibilité de la pratique de l’islam avec les principes de la République.
 
-\
-Le chef de l’État a conclu son intervention en faisant référence à la volonté, au respect, à la reconnaissance et à la connaissance, autant de valeurs qui inspirent les actions de l’IHEI depuis sa création.\
-\
+Le chef de l’État a conclu son intervention en faisant référence à la volonté, au respect, à la reconnaissance et à la connaissance, autant de valeurs qui inspirent les actions de l’IHEI depuis sa création.
+
 [Revoir et écouter la réunion du Forum de l’Islam de France à l’Élysée.](https://www.elysee.fr/emmanuel-macron/2023/02/16/reunion-du-forum-de-lislam-de-france-a-lelysee)
