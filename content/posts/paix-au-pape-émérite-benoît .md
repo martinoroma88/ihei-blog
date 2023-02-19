@@ -1,6 +1,6 @@
 ---
 titre: Paix au pape émérite Benoît !
-vedette: true
+vedette: false
 date: 2023-01-06T08:07:52.712Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1673338225/Shaykh_Yahya_e_Benede_ym2vm0.jpg
