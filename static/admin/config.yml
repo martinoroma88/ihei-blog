@@ -21,6 +21,10 @@ collections:
     create: true
     identifier_field: titre
     sortable_fields: ['date', 'titre']
+    slug:
+      encoding: "ascii"
+      clean_accents: true
+      sanitize_replacement: "_"
     editor:
       preview: false
     fields:
