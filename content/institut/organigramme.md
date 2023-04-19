@@ -95,7 +95,7 @@ ordre: 7
 
 * Chargé des relations publiques.
 * En charge des études et relations relatives au secteur sanitaire et social.
-* Infirmier. 
+* Cadre de santé. 
 
 **Anne Farah LE SIGNOR**
 
