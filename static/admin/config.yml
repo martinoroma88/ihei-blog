@@ -21,11 +21,7 @@ collections:
     create: true
     identifier_field: titre
     sortable_fields: ['date', 'titre']
-    slug:
-      template: "{{titre}}"
-      encoding: "ascii"
-      clean_accents: true
-      sanitize_replacement: "_"
+    slug: "{{titre}}"
     editor:
       preview: false
     fields:
