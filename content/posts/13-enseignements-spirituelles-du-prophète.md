@@ -1,5 +1,5 @@
 ---
-titre: 13 enseignements spirituelles du Prophète
+titre: 13 enseignements spirituels du Prophète
 vedette: false
 date: 2023-04-29T17:29:09.612Z
 url: https://www.mizane.info/13-enseignements-spirituels-du-prophete/
