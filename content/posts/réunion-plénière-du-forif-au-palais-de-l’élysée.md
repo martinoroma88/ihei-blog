@@ -1,6 +1,6 @@
 ---
 titre: Réunion plénière du FORIF au Palais de l’Élysée
-vedette: true
+vedette: false
 date: 2023-02-16T12:47:59.232Z
 auteur: Abd al-Wadoud Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1676811123/63ef79497750fd55d83e2f57_agkllo.jpg
