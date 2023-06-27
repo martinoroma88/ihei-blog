@@ -1,6 +1,6 @@
 ---
 titre: "Sha’rani : l’entrée à La Mecque et les circumambulations"
-vedette: false
+vedette: true
 date: 2021-07-12T22:00:00.000Z
 url: https://www.mizane.info/sharani-lentree-a-la-mecque-et-les-circumambulations/
 auteur: "Sha’rani "
