@@ -3,6 +3,7 @@ titre: La vie après la mort selon l'islam
 vedette: false
 date: 2013-05-30T18:22:19.337Z
 auteur: Yahya Pallavicini
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1687888050/1687887242108_ltjvsa.jpg
 category: Islam en pratique
 ---
 La vie après la mort dans la tradition islamique
