@@ -1,6 +1,6 @@
 ---
 titre: Le sens du pèlerinage en islam
-vedette: true
+vedette: false
 date: 2022-07-11T20:17:41.415Z
 url: https://www.mizane.info/abdelwadoud-gouraud-le-sens-du-pelerinage-en-islam-1/
 auteur: Abd al-Wadoud Yahya Gouraud
