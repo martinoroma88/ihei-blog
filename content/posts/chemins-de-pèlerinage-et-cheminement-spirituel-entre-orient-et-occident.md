@@ -6,4 +6,7 @@ url: https://www.saphirnews.com/Sur-le-chemin-du-dialogue-interreligieux-l-unive
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1688204502/1688204214363_ggq34f.jpg
 category: Dialogue interreligieux
+annexes:
+  - url: https://www.youtube.com/watch?v=_gRPTLMNIIQ
+    titre: Chemins de pèlerinage et cheminement spirituel entre Orient et Occident
 ---
