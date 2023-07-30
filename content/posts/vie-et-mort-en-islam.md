@@ -6,7 +6,7 @@ auteur: Abd al-Qouddous Jibril GOURAUD
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1627206783/image-MILKY-WAY_1877_zmxsxn.jpg
 category: Islam en pratique
 ---
-> «&nbsp;Votre retour à tous se fera vers Dieu&nbsp;»[^1]
+> Votre retour à tous se fera vers Dieu[^1]
 
 Ce court verset du Saint Coran fait partie des passages les plus explicites sur la destinée de l’homme au terme de son existence, et, plus généralement, sur la destinée de l’ensemble de la Création. Il contient une certitude qui met fin au doute nourrie par l’âme quant à son avenir posthume. Ce rappel synthétique, ô combien riche d’enseignements, est, par ailleurs, l’une des caractéristiques de la religion islamique, dernière Révélation pour l’humanité avant la fin des temps. En effet, c’est en qualité d’ultime message céleste envoyé aux hommes et aux femmes que l’islam énonce, de manière plus explicite, ce que les Traditions antérieures comprenaient implicitement en elles.
 
