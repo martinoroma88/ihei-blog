@@ -1,6 +1,6 @@
 ---
 titre: Aperçus sur la christologie coranique
-vedette: false
+vedette: true
 date: 2004-04-12T14:31:22.972Z
 auteur: Abd al-Haqq Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1691854728/5-pillars-hero_hwzrgt.jpg
