@@ -1,5 +1,5 @@
 ---
-titre: Aperçus sur l'ascèse vers Dieu en Islam
+titre: Aperçus sur l'ascèse vers Dieu en islam
 vedette: false
 date: 1995-01-07T21:32:15.932Z
 auteur: Abd al-Haqq Guiderdoni
