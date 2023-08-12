@@ -1,6 +1,6 @@
 ---
 titre: Chemins de pèlerinage et cheminement spirituel entre Orient et Occident
-vedette: true
+vedette: false
 date: 2023-06-17T19:11:39.958Z
 url: https://www.saphirnews.com/Sur-le-chemin-du-dialogue-interreligieux-l-universalite-du-pelerinage-de-l-Orient-a-l-Occident-en-partage_a29745.html
 auteur: IHEI
