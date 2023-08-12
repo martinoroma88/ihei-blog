@@ -1,7 +1,7 @@
 ---
 titre: Autorité et pouvoir en Islam dans la perspective eschatologique
 vedette: false
-date: 2023-08-12T17:11:23.518Z
+date: 2005-08-11T17:11:23.518Z
 auteur: Abd al-Haqq Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1691863985/affiche30mars_wxzabs.jpg
 category: Islam en pratique
