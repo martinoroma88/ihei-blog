@@ -48,7 +48,7 @@ Toutes les religions évoquent l’eschatologie et prédisent la venue d’une f
 \[1] Cor. 14&nbsp;:4.
 \[2] Cor. 2&nbsp;:253.
 \[3] Voir par exemple Denise Masson, *Monothéisme coranique et monothéisme biblique*, doctrines comparées, Desclée de Brouwer, Paris, 1976.
-\[4] Du côté chrétien, on pourra consulter les ouvrages de la collection «&nbsp;Jésus et Jésus-Christ&nbsp;», Desclée de Brouwer&nbsp;: Roger Arnaldez, J*ésus fils de Marie prophète de l’islam*, Paris, 1980, et *Jésus dans la pensée musulmane*, Paris, 1988, ainsi que Maurice Borrmans, *Jésus et les musulmans aujourd'hui*, Paris, 1996. Du côté musulman, on trouvera une abondante littérature, souvent de compilation. Citons par exemple A. Alem, *Mohammad dans la Bible et Jésus dans le Coran*, éditions Dâr el-Azhar, Paris, 1989.
+\[4] Du côté chrétien, on pourra consulter les ouvrages de la collection «&nbsp;Jésus et Jésus-Christ&nbsp;», Desclée de Brouwer&nbsp;: Roger Arnaldez, *Jésus fils de Marie prophète de l’islam*, Paris, 1980, et *Jésus dans la pensée musulmane*, Paris, 1988, ainsi que Maurice Borrmans, *Jésus et les musulmans aujourd'hui*, Paris, 1996. Du côté musulman, on trouvera une abondante littérature, souvent de compilation. Citons par exemple A. Alem, *Mohammad dans la Bible et Jésus dans le Coran*, éditions Dâr el-Azhar, Paris, 1989.
 \[5] Mohamed Talbi et Olivier Clément, *Un respect têtu*, Nouvelle Cité, Paris, 1989. Plus récemment, voir aussi Rachid Benzine et Christian Delorme, *Nous avons tant de choses à nous dire*, Albin Michel, Paris, 1997.
 \[6] Cor. 3&nbsp;:36.
 \[7] Cor. 3&nbsp;:42.
