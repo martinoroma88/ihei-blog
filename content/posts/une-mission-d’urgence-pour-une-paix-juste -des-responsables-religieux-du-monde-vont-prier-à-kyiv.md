@@ -3,7 +3,7 @@ titre: "Mission d’urgence pour une paix juste :  des responsables religieux d
   monde vont prier à Kyiv"
 vedette: false
 date: 2022-05-22T22:00:00.000Z
-auteur: 24-25 mai 2022
+auteur: IHEI - COREIS
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1653291342/IMG-20220523-WA0000_jcudiy.jpg
 category: Dialogue interreligieux
 ---
