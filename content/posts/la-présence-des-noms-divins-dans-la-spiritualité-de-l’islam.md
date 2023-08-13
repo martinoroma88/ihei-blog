@@ -80,9 +80,9 @@ La mention du Nom de Dieu polit le cœur et nettoie l’âme des «&nbsp;pensée
 [^17]: Cor. 6&nbsp,: 12.
 [^18]: Bukhârî et Muslim.
 [^19]: Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis.
-[^20]: *Fuçûç al-Hikam*, Trad. Titus Burckhardt, La Sagesse des Prophètes, Albin Michel, Paris.
+[^20]: *Fuçûç al-Hikam*, Trad. Titus Burckhardt, *La Sagesse des Prophètes*, Albin Michel, Paris.
 [^21]: Cor. 51&nbsp,: 56.
-[^22]: *Al-Futûhât al-Makkiyyah* II 396.30. Trad. William Chittick, The Sufi Path of Knowledge, SUNY.
+[^22]: *Al-Futûhât al-Makkiyyah* II 396.30. Trad. William Chittick, *The Sufi Path of Knowledge*, SUNY.
 [^23]: id. II 203.3.
 [^24]: Tirmidhî et Ibn Mâjah.
 [^25]: Cor. 15&nbsp,: 85.
