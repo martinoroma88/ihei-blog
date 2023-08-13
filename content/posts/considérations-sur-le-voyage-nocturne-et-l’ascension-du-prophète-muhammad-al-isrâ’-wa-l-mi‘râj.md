@@ -1,6 +1,6 @@
 ---
 titre: "Considérations sur le Voyage nocturne et l’Ascension du Prophète
-  Muhammad: Al-Isrâ’ wa-l-Mi‘râj"
+  Muhammad : Al-Isrâ’ wa-l-Mi‘râj"
 vedette: false
 date: 2023-02-18T15:50:56.120Z
 auteur: Abd al-Haqq Ismaïl Guiderdoni
