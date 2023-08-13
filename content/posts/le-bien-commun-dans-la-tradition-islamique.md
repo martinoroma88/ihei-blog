@@ -2,7 +2,7 @@
 titre: Le Bien commun dans la Tradition islamique
 vedette: false
 date: 2000-05-05T16:32:17.131Z
-auteur: Abd al-Haqq Guiderdoni
+auteur: Abd al-Haqq Ismaïl Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1691859685/DSC_0247_azvqof.jpg
 category: Islam en pratique
 ---
