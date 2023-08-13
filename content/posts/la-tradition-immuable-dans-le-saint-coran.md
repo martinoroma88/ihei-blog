@@ -1,7 +1,7 @@
 ---
 titre: La Tradition immuable dans le Saint Coran
 vedette: false
-date: 2023-08-13T10:31:57.617Z
+date: 2019-08-06T10:31:57.617Z
 auteur: Abd al-Haqq Ismaïl Guiderdoni
 category: Islam en pratique
 ---
