@@ -2,7 +2,7 @@
 titre: Aperçus sur l'ascèse vers Dieu en islam
 vedette: false
 date: 1995-01-07T21:32:15.932Z
-auteur: Abd al-Haqq Guiderdoni
+auteur: Abd al-Haqq Ismaïl Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1691872512/salat-dervishe_zpmwwp.jpg
 category: Islam en pratique
 ---
