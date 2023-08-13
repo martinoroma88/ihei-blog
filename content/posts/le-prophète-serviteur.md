@@ -2,7 +2,7 @@
 titre: Le Prophète serviteur
 vedette: false
 date: 2022-10-08T15:04:35.576Z
-auteur: Abd al-Haqq Guiderdoni
+auteur: Abd al-Haqq Ismaïl Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1665244164/Muhammad_fbnvge.jpg
 category: Islam en pratique
 ---
