@@ -3,6 +3,7 @@ titre: La présence des Noms divins dans la spiritualité de l’islam
 vedette: false
 date: 2005-11-09T21:29:35.431Z
 auteur: Abd al-Haqq Ismaïl Guiderdoni
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1691961116/1691961006511_pi5mxz.jpg
 category: Soufisme et Spiritualités
 ---
 > *Bismi-Llâhi-r-Rahmâni-r-Rahîm*
