@@ -2,7 +2,7 @@
 titre: Vie et mort en islam
 vedette: false
 date: 2014-01-16T11:37:25.286Z
-auteur: Abd al-Qouddous Jibril GOURAUD
+auteur: Abd al-Qouddous Jibril Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1690716994/p08fs45t_h8bffj.jpg
 category: Islam en pratique
 ---
