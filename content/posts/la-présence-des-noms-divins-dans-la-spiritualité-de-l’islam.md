@@ -26,11 +26,9 @@ La Perfection divine se déploie en une longue série de noms qui désignent la 
 
 > Il est Dieu&nbsp;! Il n’y a de Dieu que Lui. Il connaît ce qui est caché et ce qui est apparent, le Clément, le Miséricordieux. Il est Dieu&nbsp;! Il n’y a de Dieu que Lui, le Roi, le Saint, la Paix, Celui qui témoigne de Sa propre véridicité, le Vigilant, le Tout-Puissant, le Très-Fort, Celui qui proclame Sa propre Grandeur. Gloire à Dieu au-dessus de ce qu’ils Lui associent. Il est Dieu, le Créateur, Celui qui instaure, Celui qui façonne. Les plus beaux noms Lui appartiennent. Ce qui est dans les cieux et sur la terre proclame Sa gloire. Il est le Tout-Puissant, le Sage.[^9]
 
-
 Selon la tradition prophétique, «&nbsp;Dieu a quatre-vingt-dix-neuf noms, cent moins un. Il est impair et il aime l’impair.&nbsp;»[^10] Et cette tradition énumère ces plus beaux noms de Dieu, qui apparaissent souvent par paires de qualités apparemment antagonistes, dont l’une traduit la douceur de Dieu, l’autre, Sa force. Tous les noms peuvent être ainsi rangés en «&nbsp;noms de beauté&nbsp;» (*asmâ’ al-jamâl*) et «&nbsp;noms de splendeur&nbsp;» (*asmâ’ al-jalâl*). Dieu est Celui qui donne la vie (*al-Muhyî*) et qui donne la mort (*al-Mumît*), Celui qui étend dans l’aisance (*al-Bâsit*) et qui serre dans la gêne (*al-Qâbid*), Celui qui élève (*ar-Râfi‘*) et qui abaisse (*al-Khâfid*). Il est tout à la fois le Subtil (*al-Latîf*) et l’Immense (*al-‘Azhîm*), le parfaitement vivant (*al-Hayy*) et le parfaitement Immuable (*al-Qayyûm*). Dieu est l’Aimant-Aimé (*al-Wadûd*), qui aime les hommes et est aimé d’eux. La vie spirituelle consiste à prendre refuge dans la douceur de Dieu contre Sa force, car Seul Dieu, «&nbsp;Maître de Majesté et de Générosité&nbsp;» (*Dhû-l-Jalâli wa-l-Ikrâm*), peut nous défendre contre Dieu.
 
 L’affirmation de la similitude est telle que Dieu parle de Sa Face, de Son Regard, de Sa Main, de Son assise sur Son Trône. Les théologiens de l’islam ont longuement discuté du statut des noms divins. Pour l’école mu’tazilite, la réponse est claire&nbsp;: les noms sont strictement identiques à l’Essence dont ils désignent simplement les nombreuses qualités. En conséquence, les versets dits «&nbsp;anthropomorphiques&nbsp;» doivent être interprétés allégoriquement. Par exemple, la Face de Dieu représente Sa gloire, la Main, Sa puissance, le Regard, Sa connaissance, l’assise sur le trône, Sa stabilité. En revanche, pour l’école ash’arite, les noms ne sont «&nbsp;ni l’Essence elle-même, ni autre qu’elle&nbsp;» (*lâ ‘aynuhu wa lâ ghayruhu*). Les attributs décrits sont bien réels, mais «&nbsp;sans comment&nbsp;» (*bilâ kayfa*). Cette formule d’impuissance, encore appelée la «&nbsp;*balkafah*&nbsp;», représente donc le terme de la théologie et le début du chemin de connaissance spirituel. Bien évidemment, l’anthropomorphisme grossier, qui consisterait à chercher dans ces attributs divins une signification littérale, c’est-à-dire «&nbsp;corporelle&nbsp;», n’est qu’impiété. Il faut donc résister à toute tentative de dire plus que ce qui se trouve dans la révélation coranique et dans l’enseignement prophétique, car on peut seulement parler de Dieu «&nbsp;comme Il S’est décrit Lui-même et comme Son envoyé L’a décrit.&nbsp;» La grâce de Dieu suppléant à la faiblesse de notre raison nous permettra de saisir ce que signifient les Noms divins. Il nous est au moins donné de comprendre que ces Noms ne sont pas des limitations. Dieu est certes «&nbsp;le Premier et le Dernier, l’Extérieur et l’Intérieur.&nbsp;»[^11] Mais ces affirmations coraniques signifient qu’Il n’y a rien avant Lui, rien après Lui, rien en dehors de Lui, rien à l’intérieur de Lui. La transcendance de Dieu ne L’éloigne pas du monde, Son immanence ne L’y enferme pas.
-
 
 Certains noms sont presque synonymes ou homonymes. Pourtant, il n’y a pas de «&nbsp;doublon&nbsp;» ni de «&nbsp;redite&nbsp;», car il n’y a aucune qualité réelle qui ne puisse pas être affirmée de Dieu, si bien que Dieu ne laisse aucun espace vide entre Ses qualités. La multiplication des noms de Dieu ne permet en aucune façon de Le cerner ni de Le définir, car c’est Lui qui nous cerne&nbsp;: «&nbsp;Où que vous vous tourniez, là est la Face de Dieu.&nbsp;»[^12] La récitation circulaire de ces noms, sur les quatre-vingt-dix-neuf grains jointifs du chapelet musulman, permet de se laisser ainsi entourer par Dieu, qui a dit «&nbsp;Ma miséricorde entoure toute chose.&nbsp;»[^13]
 
@@ -38,11 +36,9 @@ La science divine n’est pas limitée à l’universel, car Dieu connaît aussi
 
 Chaque Révélation apporte, avec le rappel du Dieu unique, attesté avant même le début du temps, le dévoilement des attributs et actions de Dieu, ainsi que certains Noms spécifiques qui correspondent ainsi à une grâce particulière. Les juifs conservent le «&nbsp;Nom ineffable&nbsp;», *ha-shem*, et les chrétiens aiment à appeler Dieu «&nbsp;Notre Père&nbsp;» et à rappeler que «&nbsp;Dieu est Amour&nbsp;». Ce n’est pas le nom *Allâh* qui est la grâce particulière faite aux musulmans, puisqu’il s’agit là du nom arabe de Dieu, mais le nom *ar-Rahmân*, dont la forme grammaticale inusitée, qui traduit un intensif, a surpris les contemporains du Prophète.
 
-
 *Ar-Rahmân*, nom dont les traductions habituelles, comme «&nbsp;le Clément&nbsp;» ou le «&nbsp;très-Miséricordieux&nbsp;», affaiblissent le sens, est Celui qui fait universellement miséricorde à toutes les créatures en les amenant à l’existence. C’est le Dieu d’Amour qui se révèle&nbsp;: «&nbsp;Invoquez Dieu (*Allâh*) ou invoquez le Miséricordieux (*ar-Rahmân*). Quel que soit le nom que vous invoquiez, les plus beaux noms Lui appartiennent.&nbsp;»[^15] Dieu a un autre nom formé sur la même racine, *ar-Rahîm*, qui pardonne et sauve, en ajoutant, à la Miséricorde universelle, une Miséricorde particulière envers chaque créature.
 
 Les Noms *ar-Rahmân* et *ar-Rahîm* dérivent de *rahmah*, la miséricorde. On retrouve cette racine dans *rahim*, la matrice maternelle. Selon la tradition prophétique&nbsp;: «&nbsp;Dieu a divisé la miséricorde en cent parts. Il en a conservé auprès de lui quatre-vingt-dix-neuf et en a fait descendre une sur terre. C’est grâce à cette part que les créatures se font mutuellement miséricorde, et que la jument écarte son sabot de son poulain, de peur de l’atteindre.&nbsp;»[^16] Ainsi l’amour tendre de la mère pour son enfant est-il le symbole, en ce monde, de l’amour divin pour les créatures. Dieu est libre de créer ce qu’Il veut. Mais il nous révèle que, dans un acte de Sa libre Volonté, devenue volonté d’amour, «&nbsp;Il s’est prescrit à Lui-même la Miséricorde.&nbsp;»[^17] Selon un *hadîth qudsî*, une parole de Dieu rapportée par le Prophète Muhammad, Dieu a dit&nbsp;: «&nbsp;Ma Miséricorde l’emporte sur Ma Colère.&nbsp;»[^18] Chaque sourate du Coran commence par la formule *Bismi-Llâhi-r-Rahmâni-r-Rahîm*, si bien que la clé de la parole de Dieu est l’Amour, un amour qui procède du don du Nom.
-
 
 Le Soufisme enseigne la doctrine des Noms de Dieu. Qu’il nous soit permis d’évoquer ici certains aspects de cet enseignement, notamment à travers l’œuvre du «&nbsp;plus grand des Maîtres&nbsp;», Muhyi-d-dîn Ibn ‘Arabî (1165-1240) (que Dieu soit satisfait de lui). Ibn ‘Arabî explique comment Dieu se connaît Lui-même, en Lui-même, par Lui-même, d’une connaissance qui constitue le secret inépuisable et ineffable de la vie divine, et qui est appelée l’effusion très-sainte (*al-fayd al-aqdas*). Mais Dieu désire partager la connaissance qu’Il a de Lui-même&nbsp;: «&nbsp;J’étais un Trésor caché et J’ai désiré être connu. Alors J’ai créé le monde.&nbsp;»[^19] A l’origine de la création se trouvent donc le vouloir d’amour (*irâdah*) et la connaissance (*ma’rifah*). «&nbsp;Car la vision qu’a l’être de lui-même en lui-même n’est pas pareille à celle que lui procure une autre réalité dont il se sert comme d’un miroir&nbsp;: il s’y manifeste à lui-même sous la forme qui résulte du «&nbsp;lieu&nbsp;» de la vision.&nbsp;»[^20] Aussi Dieu dit-il dans le Coran&nbsp;: «&nbsp;Je n’ai créé les *jinns* et les hommes que pour qu’ils M’adorent.&nbsp;»[^21] Le secret de la création du monde et de la Prophétie qui l’éclaire réside donc dans l’adoration qui est, selon le commentaire de Ibn ‘Abbâs, connaissance de Dieu par la reconnaissance que nous sommes serviteurs et que c’est bien Lui le Seigneur. Cette connaissance de Dieu par Dieu, à travers l’adoration que les créatures Lui portent, est appelée l’effusion sanctifiée (*al-fayd al-muqaddas*).
 
@@ -65,36 +61,36 @@ La mention du Nom de Dieu polit le cœur et nettoie l’âme des «&nbsp;pensée
 > Souvenez-vous de Moi, Je me souviendrai de vous.[^34]
 
 [^1]: Cette tradition se trouve, par exemple, dans les recueils de Bukhârî et Muslim.
-[^2]: Cor. 6&nbsp,: 91.
-[^3]: Cor. 49&nbsp,: 23.
+[^2]: Cor. 6&nbsp;: 91.
+[^3]: Cor. 49&nbsp;: 23.
 [^4]: La tradition est rapportée avec plusieurs variantes par Suyûtî dans *Al-Jâmi’ aç-çaghîr*.
-[^5]: Cor. 50&nbsp,: 16.
-[^6]: Cor. 8&nbsp,: 24.
-[^7]: Cor. 57&nbsp,: 4.
-[^8]: Cor. 42&nbsp,: 11.
-[^9]: Cor. 59&nbsp,: 22-24.
+[^5]: Cor. 50&nbsp;: 16.
+[^6]: Cor. 8&nbsp;: 24.
+[^7]: Cor. 57&nbsp;: 4.
+[^8]: Cor. 42&nbsp;: 11.
+[^9]: Cor. 59&nbsp;: 22-24.
 [^10]: Tirmidhî.
-[^11]: Cor. 57&nbsp,: 3.
-[^12]: Cor. 2&nbsp,: 115.
-[^13]: Cor. 7&nbsp,: 156.
-[^14]: Cor. 6&nbsp,: 59.
-[^15]: Coran 17&nbsp,: 110.
+[^11]: Cor. 57&nbsp;: 3.
+[^12]: Cor. 2&nbsp;: 115.
+[^13]: Cor. 7&nbsp;: 156.
+[^14]: Cor. 6&nbsp;: 59.
+[^15]: Coran 17&nbsp;: 110.
 [^16]: Bukhârî et Muslim.
-[^17]: Cor. 6&nbsp,: 12.
+[^17]: Cor. 6&nbsp;: 12.
 [^18]: Bukhârî et Muslim.
 [^19]: Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis.
 [^20]: *Fuçûç al-Hikam*, Trad. Titus Burckhardt, *La Sagesse des Prophètes*, Albin Michel, Paris.
-[^21]: Cor. 51&nbsp,: 56.
+[^21]: Cor. 51&nbsp;: 56.
 [^22]: *Al-Futûhât al-Makkiyyah* II 396.30. Trad. William Chittick, *The Sufi Path of Knowledge*, SUNY.
 [^23]: id. II 203.3.
 [^24]: Tirmidhî et Ibn Mâjah.
-[^25]: Cor. 15&nbsp,: 85.
+[^25]: Cor. 15&nbsp;: 85.
 [^26]: Tirmidhî.
 [^27]: Bukhârî.
 [^28]: Muslim.
-[^29]: Cor. 68&nbsp,: 4.
-[^30]: Cor. 29&nbsp,: 45.
+[^29]: Cor. 68&nbsp;: 4.
+[^30]: Cor. 29&nbsp;: 45.
 [^31]: Tirmidhî.
 [^32]: Tirmidhî.
-[^33]: Cor. 13&nbsp,: 28.
-[^34]: Cor. 2&nbsp,: 152.
+[^33]: Cor. 13&nbsp;: 28.
+[^34]: Cor. 2&nbsp;: 152.
