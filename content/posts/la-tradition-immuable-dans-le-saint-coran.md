@@ -38,7 +38,9 @@ La multiplicité des religions, dont le croyant ne peut que prendre acte, perdur
 
 La connaissance des raisons providentielles de nos divergences est donc reportée à l’Autre monde (*al-âkhira*). Les différences providentielles, ordonnées par la Volonté souveraine de Dieu, font partie de Son plan pour le salut des hommes et nous seront expliquées lors de la Rencontre ultime. Ainsi le dialogue inter-religieux vaut-il aussi et surtout par ce qui est tû, par le secret de Dieu qui en est la fondation la plus solide. D’une certaine façon, ce dialogue est inutile, si nous sommes assez sincères pour reconnaître notre vocation commune à connaître Dieu. Lui seul permet la transformation du dialogue qui porte inévitablement le sceau de la dualité, en une entente véritable, en la prise de conscience de notre commun acheminement, par les voies cachées de la Providence, vers le jour ultime où nous nous retrouverons tous devant Lui. Plus nous nous serons rapprochés de Dieu, plus nous serons alors proches les uns des autres.
 
-En attendant ce jour, nous devons nous efforcer de suivre l’injonction coranique&nbsp;: «&nbsp;Rivalisez entre vous dans les œuvres de bien.&nbsp;» Apprenons à nous connaître et à nous aimer au nom de la grandeur de Dieu, en espérant être de ceux dont Dieu dira au Jour du Jugement, selon les mots d’un *hadîth qudsî*&nbsp;: «&nbsp;Où sont ceux qui se sont aimés les uns les autres par Ma Majesté&nbsp;? Aujourd’hui Je les couvrirai de Mon Ombre, en ce Jour où il n’y a plus d’autre Ombre que la Mienne.&nbsp;»
+En attendant ce jour, nous devons nous efforcer de suivre l’injonction coranique&nbsp;: «&nbsp;Rivalisez entre vous dans les œuvres de bien.&nbsp;» Apprenons à nous connaître et à nous aimer au nom de la grandeur de Dieu, en espérant être de ceux dont Dieu dira au Jour du Jugement, selon les mots d’un *hadîth qudsî*&nbsp;:
+
+> Où sont ceux qui se sont aimés les uns les autres par Ma Majesté&nbsp;? Aujourd’hui Je les couvrirai de Mon Ombre, en ce Jour où il n’y a plus d’autre Ombre que la Mienne.
 
 [^1]: Muslim. Le Prophète suit là le conseil du Coran 46:13-14.
 [^2]: Cor. 98&nbsp;: 5.
