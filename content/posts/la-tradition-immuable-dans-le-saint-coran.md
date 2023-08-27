@@ -3,6 +3,7 @@ titre: La Tradition immuable dans le Saint Coran
 vedette: false
 date: 2019-08-06T10:31:57.617Z
 auteur: Abd al-Haqq Ismaïl Guiderdoni
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1693127849/c95751f8a17e174e81b60e3c67ed659e_mxfbj1.webp
 category: Islam en pratique
 ---
 Depuis le Pacte primordial (*al-mîthâq*) relaté dans le Coran, tous les hommes partagent une même nature spirituelle, appelée *fitra*, puisqu’ils ont reconnu pour Seigneur le Dieu unique, dans l’éternité pré-temporelle. L’essence de leur humanité réside, non dans leur part d’&nbsp;«&nbsp;argile&nbsp;» qu’ils ont en commun avec le reste de la création, mais dans le «&nbsp;souffle&nbsp;» de Dieu qui les anime et par lequel Dieu accroît leur savoir. En conséquence, tous les hommes sont «&nbsp;naturellement&nbsp;» religieux. Il faut éviter de se méprendre à propos de ce dernier terme. En Occident, on a coutume d’opposer la «&nbsp;religion naturelle&nbsp;», un mélange de déisme et d’éthique positive que l’homme peut se fabriquer en s’appuyant sur ses seules facultés individuelles, et la «&nbsp;religion révélée&nbsp;», par laquelle Dieu communique surnaturellement un message à l’homme. Dans la Tradition islamique, l’homme a pour première et véritable nature de connaître Dieu, non pas simplement en vertu de sa raison ou de son sens moral, mais par tout son être. La révélation est la réponse de Dieu aux attentes de cette nature.
