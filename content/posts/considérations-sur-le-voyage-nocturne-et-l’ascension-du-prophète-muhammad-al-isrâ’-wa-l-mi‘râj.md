@@ -78,7 +78,7 @@ Enfin, il faut rappeler que le voyage effectué par le Prophète est le modèle 
 [^4]: Cor. LII&nbsp;: 4.
 [^5]: Cor. LIII&nbsp;: 1-18.
 [^6]: Cor. XVII&nbsp;: 60.
-[^7]: An-nafs désigne la personne humaine, dans sa dimension formelle, corps et âme étant étroitement liés. En revanche, l’esprit est un don de Dieu. Il ne s’agit pas d’un esprit appartenant à chaque être humain, mais de l’esprit de Dieu présent en chaque être humain. La réalisation spirituelle consiste à transformer le corps-âme par l’esprit.
+[^7]: *An-nafs* désigne la personne humaine, dans sa dimension formelle, corps et âme étant étroitement liés. En revanche, l’esprit est un don de Dieu. Il ne s’agit pas d’un esprit appartenant à chaque être humain, mais de l’esprit de Dieu présent en chaque être humain. La réalisation spirituelle consiste à transformer le corps-âme par l’esprit.
 [^8]: Bukhârî, Muslim, Tirmidhî, Ibn Mâjah.
 [^9]: Tabarî XV&nbsp;: 13. Les arguments de Tabarî sont les suivants : 1) Si le Prophète n’avait pas été emmené corporellement, l’événement n’aurait pas eu la valeur de preuve de sa mission prophétique «&nbsp;diurne&nbsp;». 2) Le Coran dit bien que Dieu a fait voyager «&nbsp;Son serviteur&nbsp;», et non «&nbsp;l’esprit de Son serviteur&nbsp;». 3) Le Prophète était monté sur *al-Burâq*. Or une monture est utilisée pour porter les corps, non les esprits.
 [^10]: Cor. XIX&nbsp;: 57.
