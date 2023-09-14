@@ -2,7 +2,7 @@
 titre: Fraternité, développement économique et société civile
 date: 2009-06-28T22:00:00.000Z
 auteur: IHEI
-couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-5_ynokno.jpg
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1694711677/h-m26_jxj5ht.jpg
 category: Islam et République
 annexes:
   - titre: Fraternite-finance-islamique
