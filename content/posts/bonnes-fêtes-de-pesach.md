@@ -1,7 +1,7 @@
 ---
 titre: Bonnes fêtes de Pesach et de Pâques
 date: 2020-08-31T22:00:00.000Z
-couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586813/ihei/couvertures/dialogue-interreligieux-6_edoed1.jpg
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1694798142/pexels-darya-sannikova-17501625_sw4gbr.jpg
 category: Dialogue interreligieux
 subcategory: dialogue-judéo-islamique
 auteur: IHEI
