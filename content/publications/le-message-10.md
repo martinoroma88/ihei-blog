@@ -10,7 +10,6 @@ annexes:
     url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736221/ihei/PDF/Le%20Message/Le%20Message%2010/Le-Monotheisme-abrahamique-contre-le-terrorisme_mlklph.pdf
 ---
 **Editoriale, Editorial**</br>
-
 **L’uomo occidentale tra unità e dispersione**</br>
 *Ahmad Abd-al-Waliyy Vincenzo*</br>
 **Le Shaykh Ahmad Ibn Idris face aux juristes wahhabites**</br>
