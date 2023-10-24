@@ -1,13 +1,12 @@
 ---
-titre: "Il Messaggio - Le Message N°13"
-date: "2020-09-13"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1604656266/ihei/couvertures/publications-12_pnncaa.jpg"
-category: "Il Messaggio - Le Message"
+titre: Il Messaggio - Le Message N°13
+date: 2020-09-13
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604656266/ihei/couvertures/publications-12_pnncaa.jpg
+category: Il Messaggio - Le Message
 ---
 
 
-## Editoriale, Editorial</br>
-
+**Editoriale, Editorial</br>
 **? Islam, cristianismo, occidente, laicità**</br>
 *Abd-al-Sabur Turrini*</br>
 **Verità e diversità: oltre i punti di incontro**</br>
