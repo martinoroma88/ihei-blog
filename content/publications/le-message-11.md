@@ -1,12 +1,10 @@
 ---
-titre: "Il Messaggio - Le Message N°11"
-date: "2020-09-11"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/messaggio-11_symrpq.jpg"
-category: "Il Messaggio - Le Message"
+titre: Il Messaggio - Le Message N°11
+date: 2020-09-11
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/messaggio-11_symrpq.jpg
+category: Il Messaggio - Le Message
 ---
-
-## Editoriale, Editorial</br>
-
+**Editoriale, Editorial</br>
 **L’Islam e l’Occidente**</br>
 *Shaykh Abd-al-Wâhid Pallavicini*</br>
 **Les femmes musulmanes dans le monde occidental**</br>
