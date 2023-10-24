@@ -36,6 +36,8 @@ ordre: 7
 * En charge des études relatives à l’éthique et à la finance.
 * Inspecteur Principal du Trésor Public, en charge de la fonction d’audit.
 
+
+
 ### La Direction
 
 **Bruno Abd al-Haqq Ismaîl GUIDERDONI, Directeur**
@@ -45,6 +47,8 @@ ordre: 7
 * Publications, Conférences relatives à l’Islam en Europe, au dialogue des cultures et des religions.
 * Participation au débat international entre science et religion.
 * Directeur de l’Observatoire de Lyon.
+
+
 
 ### Les Administrateurs
 
@@ -84,7 +88,8 @@ ordre: 7
 
 * En charge des études et relations relatives à l’euro méditerranée et à l’international.
 * Membre du Conseil exécutif de l’Association internationale des Diplômés de l’Université islamique Al-Azhar.
-* Consultant en relations internationales, spécialiste du monde arabe. 
+* Imam-conférencier, membre du Forum de l'Islam de France (FORIF).
+* Cadre de la fonction publique du ministère de l’Éducation nationale
 
 **Hadja KHARCHOUCHE**
 
@@ -106,7 +111,7 @@ ordre: 7
 **Pierre Ahmad Abd as-Samâd GASTOU**
 
 * En charge des relations et études relatives l’éthique et à l’économie.
-* Economiste. 
+* Économiste. 
 
 **Jawad BOSSA**
 
