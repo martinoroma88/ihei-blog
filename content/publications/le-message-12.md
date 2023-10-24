@@ -1,11 +1,11 @@
 ---
-titre: "Il Messaggio - Le Message N°12"
-date: "2020-09-12"
-couverture: "https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/messaggio-12_snu9qb.jpg"
-category: "Il Messaggio - Le Message"
+titre: Il Messaggio - Le Message N°12
+date: 2020-09-12
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125410/ihei/couvertures/messaggio-12_snu9qb.jpg
+category: Il Messaggio - Le Message
 ---
 
-## Editoriale, Editorial</br>
+**Editoriale, Editorial</br>
 **Monothéisme abrahamique et fraternité spirituelle**</br>
 *Abd al-Wadoud Yahyâ Gouraud*</br>
 **Ismaele e Isacco&nbsp;: prospettive sul rapporti tra islam ed ebraismo**</br>
