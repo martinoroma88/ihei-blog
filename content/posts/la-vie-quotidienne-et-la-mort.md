@@ -51,7 +51,7 @@ La tradition islamique attend comme «&nbsp;annonce de l’Heure&nbsp;» le reto
 
 Quelles sont les aides sur lesquelles l’homme d’aujourd’hui peut compter&nbsp;? Il peut sembler singulier que ce soit précisément les saints qui, par leur exemple, nous rappellent la possibilité de trouver, dès cette vie, la paix en réalisant la connaissance de notre Seigneur, Al-Hayy, le Vivant, et Al-Qayyûm, le Subsistant par Lui-même.
 
-Cette renaissance spirituelle à laquelle nous sommes tous appelés, chacun bénéficiant des moyens qui sont propres à la religion à laquelle il appartient, sera d’autant plus vraie et sincère que l’on réussira à réaliser que «&nbsp;toute chose périt, à l’exception de Sa Face.&nbsp;» (Coran 28, 88)
+Cette renaissance spirituelle à laquelle nous sommes tous appelés, chacun bénéficiant des moyens qui sont propres à la religion à laquelle il appartient, sera d’autant plus vraie et sincère que l’on réussira à réaliser que «&nbsp;toute chose périt, à l’exception de Sa Face.&nbsp;»\[7]
 
 \[1]: René Guénon, *L’erreur Spirite*, deuxième partie&nbsp;: «&nbsp;Examen des théories spirites&nbsp;» chapitre 3&nbsp;: «&nbsp;immortalité et survivance&nbsp;», Les éditions traditionnelles, Paris 1984.
 
@@ -64,3 +64,5 @@ Cette renaissance spirituelle à laquelle nous sommes tous appelés, chacun bén
 \[5]: 29, 20.
 
 \[6]: Abd al-Wâhid Pallavicini, *L’Islam interiore*, Il Sagiattore, Milan 2002.
+
+\[7]: Coran 28, 88.
