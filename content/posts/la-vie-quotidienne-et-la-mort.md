@@ -18,7 +18,7 @@ Dans une perspective islamique, nous pourrions dire que l’espérance est la ca
 
 Cette synthèse très approximative de conceptions et de réalités complexes nous aident, en définitive, à réfléchir au fait que la vie sur cette terre est une des multiples modalités d’existence dans laquelle Dieu place Ses créatures, et qu’elle ne peut être comprise que si l’on élève notre vision humaine au plan divin. Il s’agit là d’une vision métaphysique qui unit la transcendance et l’immanence, en éliminant un certain dualisme philosophique dont nous sommes tous bien imprégnés.
 
-> Les Occidentaux ont l’habitude d’appeler “mort” ce qui n’est seulement que la fin de l’existence terrestre et ils ne réussissent, du reste, presque pas à concevoir les autres changements analogues&nbsp;: il semble, en effet, que ce monde soit pour eux la moitié  de l’Univers alors que pour les Orientaux il n’en représente qu’une portion infinitésimale.\[1]
+> Les Occidentaux ont l’habitude d’appeler “mort” ce qui n’est seulement que la fin de l’existence terrestre et ils ne réussissent, du reste, presque pas à concevoir les autres changements analogues&nbsp;: il semble, en effet, que ce monde soit pour eux la moitié  de l’Univers alors que pour les Orientaux il n’en représente qu’une portion infinitésimale.[1]
 
 
 La finalité de la vie en ce monde est l’autre monde. Associer à la vie terrestre une autre finalité crée des fractures dangereuses en l’homme et la femme d’aujourd’hui. L’unité sur laquelle insiste sans cesse la doctrine islamique est aussi l’unité constitutive de l’homme qui est à la fois esprit, âme et corps. Si l’on néglige une seule de ces composantes de l’être, on risque de mener une vie déséquilibrée et disharmonieuse qui éloigne inéluctablement de Dieu. Distinguer, sans les confondre, l’âme et l’esprit, tel est l’un des efforts majeurs qui sont demandés à l’humanité contemporaine. En effet, c’est bien l’esprit qui ne meurt pas&nbsp;; alors que notre tendance à nous identifier avec l’âme destinée à disparaître est la principale source de souffrance&nbsp;!
@@ -63,4 +63,4 @@ Cette renaissance spirituelle à laquelle nous sommes tous appelés, chacun bén
 
 
 
-\[1] : René Guénon, L’erreur Spirite, deuxième partie&nbsp;: «&nbsp;Examen des théories spirites&nbsp;» chapitre 3&nbsp;: «&nbsp;immortalité et survivance&nbsp;» Les éditions traditionnelles, Paris 1984
+[1] : René Guénon, L’erreur Spirite, deuxième partie&nbsp;: «&nbsp;Examen des théories spirites&nbsp;» chapitre 3&nbsp;: «&nbsp;immortalité et survivance&nbsp;» Les éditions traditionnelles, Paris 1984
