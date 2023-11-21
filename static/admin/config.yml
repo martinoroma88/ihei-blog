@@ -50,6 +50,7 @@ collections:
       - { label: 'URL', name: 'url', widget: 'string', required: false }
       - { label: 'Auteur', name: 'auteur', widget: 'string', required: false }
       - { label: 'Couverture', name: 'couverture', widget: 'image', required: false }
+      - { label: 'Annexes', name: 'annexes', widget: 'list', fields: [ { label: 'Title', name: 'titre', widget: 'string' }, { label: 'URL', name: 'url', widget: 'string' } ] }
       - { label: 'Categorie', name: 'category', widget: 'relation', collection: 'publication-categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'], required: false }
       - { label: 'Corps du text', name: 'body', widget: 'markdown', required: false }
 
@@ -93,4 +94,4 @@ collections:
       - { label: 'Ordre', name: 'ordre', widget: 'number' }
       - { label: 'Couverture', name: 'couverture', widget: 'image', required: false }
       - { label: 'Corps du text', name: 'body', widget: 'markdown' }
-      
+
