@@ -9,7 +9,7 @@ annexes:
     url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736141/ihei/PDF/Les%20Cahiers/Les%20Cahiers%205-6/Les-intellectuels-musulmans_iypvxh.pdf
 category: Les Cahiers
 ---
-**Editorial**</br>
+**Éditorial**</br>
 **L’apport de la Tradition islamique à l’Europe et aux européens**</br>
 *Shaykh Abd al-Wahid Pallavicini*</br>
 **L’enseignement de l’islam dans les mosquées**</br>
