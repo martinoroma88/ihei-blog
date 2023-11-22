@@ -35,7 +35,7 @@ category: Il Messaggio - Le Message
 **Le monothéisme abrahamique contre le terrorisme**</br>
 *Shaykh Abd al-Wahid Pallavicini*</br>
 
-## Appendice</br>
+###### Appendice</br>
 
 **Il Papa e l’Islam**</br>
 *Ahmad Abd al-Waliyy Vincenzo*</br>
