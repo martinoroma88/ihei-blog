@@ -10,8 +10,8 @@ annexes:
     url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736142/ihei/PDF/Les%20Cahiers/Les%20Cahiers%203-4/La-Voie_zrrdpk.pdf
 category: Les Cahiers
 ---
-**Editorial**
-**A la recherche du savoir&nbsp;: Raison et Révélation**</br>
+**Éditorial**
+**À la recherche du savoir&nbsp;: Raison et Révélation**</br>
 *Abd al-Haqq Ismaïl Guiderdoni*</br>
 **La doctrine de la connaissance dans la théologie chrétienne du Moyen-Âge**</br>
 *Abd al-Hayy Mansour Baudo*</br>
