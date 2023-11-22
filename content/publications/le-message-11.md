@@ -22,7 +22,7 @@ L’Islam e l’Occidente</br>**
 **Al-Mi‘raj&nbsp;: Le voyage céleste du Prohète Muhammad*</br>***
 *Abd al-Haqq Ismaïl Guiderdoni</br>*
 
-## Appendice</br>
+###### Appendice</br>
 
 **Reflessioni di un Imam Italiano**</br>
 *Yahyâ Sergio Yahe Pallavicini*</br>
