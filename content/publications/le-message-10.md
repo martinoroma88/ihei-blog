@@ -27,7 +27,7 @@ category: Il Messaggio - Le Message
 **La réalisation spirituelle**</br>
 *Shaykh Abd-al-Wahid Pallavicini*</br>
 **Muhi-d-Dîn Ibn Arabî&nbsp;: héritage spirituel et interprétations modernes**</br>
-*Abd al-Sabûr Turrini*</br>
+*Abd as-Sabûr Turrini*</br>
 **La tentazione recorrente della forma orientale**</br>
 *AbdAllâh Yahya Darolles*</br>
 **La tentation récurrente de la forme orientale**</br>
