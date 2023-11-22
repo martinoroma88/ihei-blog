@@ -1,7 +1,7 @@
 ---
 titre: L’avenir de la communauté islamique occidentale
 vedette: false
-date: 2023-11-22T16:53:09.207Z
+date: 2003-07-26T22:00:00.000Z
 url: ""
 auteur: Yahya Sergio Yahe Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1700673263/palmeri_moschea_ha82t6.jpg
