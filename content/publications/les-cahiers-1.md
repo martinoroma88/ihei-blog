@@ -8,14 +8,14 @@ annexes:
     url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736137/ihei/PDF/Les%20Cahiers/Les%20Cahiers%201/La-connaissance-de-Dieu_ok94ov.pdf
 category: Les Cahiers
 ---
-**Editorial**</br>
+**Éditorial**</br>
 **Allocution d’ouverture**</br>
 *Mgr Stephanos*</br>
 **Message au colloque**</br>
 *Mgr Guy Deroubaix*</br>
 **Allocution d’ouverture**</br>
 *Dr Hocine Raïs*</br>
-**Les relations entre l’Eglise et l’islam&nbsp;: difficultés et espoirs**</br>
+**Les relations entre l’Église et l’islam&nbsp;: difficultés et espoirs**</br>
 *Père Michel Lelong*</br>
 **La doctrine islamique du tawhîd&nbsp;: la reconnaissance métaphysique de l’unité des Révélations divines**</br>
 *Abd al-Latif Conti*</br>
