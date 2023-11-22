@@ -4,6 +4,7 @@ vedette: false
 date: 2023-11-22T16:53:09.207Z
 url: ""
 auteur: Yahya Sergio Yahe Pallavicini
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1700673263/palmeri_moschea_ha82t6.jpg
 category: Islam et République
 ---
 Quel avenir prévoir pour le monde islamique&nbsp;? Est-il encore possible, à l’ère de la mondialisation, de parler de différences entre Orient et Occident&nbsp;? Quel rôle auront les nations majoritairement islamiques et les minorités musulmanes européennes dans le développement de la civilisation&nbsp;? Dans quelle mesure la communauté islamique sera-t-elle distincte ou séparée du reste du monde&nbsp;? Enfin, quel dialogue est-il possible de construire entre la tradition islamique, les autres religions et la société moderne&nbsp;?
