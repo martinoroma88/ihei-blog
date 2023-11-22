@@ -30,7 +30,7 @@ Monothéisme abrahamique et fraternité spirituelle</br>**
 **Du patrimoine de l’humanité à la métaphysique*</br>***
 *Shaykh Abd al-Wâhid Pallavicini</br>*
 
-## Appendice</br>
+###### Appendice</br>
 
 **Come il rispetto del valore della persona umana trasforma il nostro rapporto con l’altro**</br>
 *Shaykh Yahyâ Pallavicini*</br>
@@ -43,7 +43,8 @@ Monothéisme abrahamique et fraternité spirituelle</br>**
 **What is European islam&nbsp;?**</br>
 *Shaykh Abd al-Wâhid Pallavicini*</br>
 
-**Attualità</br>**
+###### Attualità</br>
+
 **Corriere 18 luglio 2005**</br>
 **Corriere 21 luglio 2005**</br>
 **Corriere 10 agosto 2005**</br>
