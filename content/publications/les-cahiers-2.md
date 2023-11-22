@@ -10,7 +10,7 @@ annexes:
     url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606736140/ihei/PDF/Les%20Cahiers/Les%20Cahiers%202/Aper%C3%A7us-sur-le-jihad_gvvgnt.pdf
 category: Les Cahiers
 ---
-**Editorial**</br>
+**Éditorial**</br>
 *Abd al-Haqq Ismaïl Guiderdoni*</br>
 **Jésus dans l’islam**</br>
 *Yahya Sergio Yahe Pallavicini*</br>
