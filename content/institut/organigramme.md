@@ -51,7 +51,6 @@ ordre: 7
 **Christophe Abd al-Qayyoum GUERRE-GENTON**
 
 * En charge des relations et études relatives à la laïcité et aux collectivités publiques.
-* Directeur Général Adjoint des Services de la communauté d’agglomération du Calaisis.
 * Chargé d’enseignement à l’Université de Lille 1.
 * Ingénieur en Chef. 
 
