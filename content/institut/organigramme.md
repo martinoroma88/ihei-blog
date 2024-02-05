@@ -29,7 +29,7 @@ ordre: 7
 
 * En charge des études relatives à l’enseignement et à l’éducation.
 * Attaché principal d’administration de l’Éducation Nationale et de la Recherche.
-* Responsable financier départe. 
+* Responsable financier départemental. 
 
 **Daniel Abd ar-Rahîm GIOVACCHINI, Trésorier**
 
