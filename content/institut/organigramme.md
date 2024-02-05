@@ -13,7 +13,7 @@ ordre: 7
 * Membre ECRL, Conseil Européen des Leaders Religieux.
 * Membre fondateur du Comité International «&nbsp;Imams, Rabbins et Chrétiens pour la Paix&nbsp;» présenté à l’UNESCO de Paris.
 * Membre fondateur, CEDAR, European Muslim Professionnals Network.
-* Président de la CO.RE.IS. (Communauté Religieuse Islamique) italienne.
+* Vice-Président de la CO.RE.IS. (Communauté Religieuse Islamique) italienne.
 
 **Jean Michel AbdAllâh Yahyâ DAROLLES, Vice-Président**
 
@@ -36,8 +36,6 @@ ordre: 7
 * En charge des études relatives à l’éthique et à la finance.
 * Inspecteur Principal du Trésor Public, en charge de la fonction d’audit.
 
-
-
 ### La Direction
 
 **Bruno Abd al-Haqq Ismaîl GUIDERDONI, Directeur**
@@ -47,8 +45,6 @@ ordre: 7
 * Publications, Conférences relatives à l’Islam en Europe, au dialogue des cultures et des religions.
 * Participation au débat international entre science et religion.
 * Directeur de l’Observatoire de Lyon.
-
-
 
 ### Les Administrateurs
 
