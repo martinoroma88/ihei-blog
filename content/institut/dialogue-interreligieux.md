@@ -1,10 +1,9 @@
 ---
-titre: "Dialogue interreligieux"
-soustitre: "L’I.H.E.I. Acteur du Dialogue Interreligieux"
+titre: Dialogue interreligieux
+soustitre: L’I.H.E.I. Acteur du Dialogue Interreligieux
 ordre: 4
 ---
-
-Il est important de souligner les liens de coopération que l’Institut des Hautes Etudes Islamiques a su tisser, dans un esprit d’entente et d’ouverture, avec les représentants d’autres religions, particulièrement chrétiens et juifs. Fidèle à son orientation métaphysique, nous avons toujours appelé à un dialogue profond entre les croyants des traditions et religions authentiques, en vue de la reconnaissance réciproque de leur validité salvatrice, seule condition pour une Paix réelle. C’est la raison pour laquelle nous avons toujours tenu à associer des représentants des autres traditions religieuses et spirituelles.
+Il est important de souligner les liens de coopération que l’Institut des Hautes Études Islamiques a su tisser, dans un esprit d’entente et d’ouverture, avec les représentants d’autres religions, particulièrement chrétiens et juifs. Fidèle à son orientation métaphysique, nous avons toujours appelé à un dialogue profond entre les croyants des traditions et religions authentiques, en vue de la reconnaissance réciproque de leur validité salvatrice, seule condition pour une Paix réelle. C’est la raison pour laquelle nous avons toujours tenu à associer des représentants des autres traditions religieuses et spirituelles.
 
 ***Avec les églises et les communautés chrétiennes d’Occident et d’Orient***
 
