@@ -7,7 +7,7 @@ category: Soufisme et Spiritualités
 ---
 Par l’Imâm Seigneurial et le Secours Universel, le Seigneur Ahmad Ibn Idrîs al-Hasanî al-Idrîsî, que Dieu sanctifie son secret. Amîn.
 
-![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1708195775/bismillahi_uhwlcq.jpg)
+![Au Nom de Dieu le Miséricordieux dans la Transcendance, le Miséricordieux dans l'Immanence](https://res.cloudinary.com/genesi-communication-design/image/upload/v1708195775/bismillahi_uhwlcq.jpg "Au Nom de Dieu le Miséricordieux dans la Transcendance, le Miséricordieux dans l'Immanence")
 
 ***Au Nom de Dieu le Miséricordieux dans la Transcendance, le Miséricordieux dans l'Immanence***
 
