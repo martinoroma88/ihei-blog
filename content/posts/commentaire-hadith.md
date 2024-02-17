@@ -7,8 +7,6 @@ category: Soufisme et Spiritualités
 ---
 Par l’Imâm Seigneurial et le Secours Universel, le Seigneur Ahmad Ibn Idrîs al-Hasanî al-Idrîsî, que Dieu sanctifie son secret. Amîn.
 
-![Au Nom de Dieu le Miséricordieux dans la Transcendance, le Miséricordieux dans l'Immanence](https://res.cloudinary.com/genesi-communication-design/image/upload/v1708195775/bismillahi_uhwlcq.jpg "Au Nom de Dieu le Miséricordieux dans la Transcendance, le Miséricordieux dans l'Immanence")
-
 ***Au Nom de Dieu le Miséricordieux dans la Transcendance, le Miséricordieux dans l'Immanence***
 
 Louange à Dieu Seigneur des Mondes, et que la prière et la paix soient sur notre Seigneur, notre aimé, la fraîcheur de nos yeux, Muhammad l’Envoyé de Dieu, que Dieu prie sur lui, sur sa famille et sur ses compagnons, et qu’Il répande sur eux la paix.
