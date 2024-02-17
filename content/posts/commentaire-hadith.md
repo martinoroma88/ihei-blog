@@ -9,6 +9,8 @@ Par l’Imâm Seigneurial et le Secours Universel, le Seigneur Ahmad Ibn Idrîs 
 
 **Au Nom de Dieu le Tout-Miséricordieux, le Très-Miséricordieux**
 
+<https://res.cloudinary.com/genesi-communication-design/image/upload/v1708195764/internet-basmallah_zw4bnd.jpg>
+
 Louange à Dieu Seigneur des Mondes, et que la prière et la paix soient sur notre Seigneur, notre aimé, la fraîcheur de nos yeux, Muhammad l’Envoyé de Dieu, que Dieu prie sur lui, sur sa famille et sur ses compagnons, et qu’Il répande sur eux la paix.
 
 Parmi les dons que Dieu \[nous] a octroyés se trouve la visite de notre Shaykh, le noble seigneur, le grand saint qui nous dépasse tous, le miracle des connaissances et la nouveauté des réalités subtiles, la mer gonflée de secrets et de lumières, Ahmad Ibn Idrîs al-Hasanî.[^1] Dieu nous en a fait profiter alors que nous nous dirigions vers la ville de Zabîd[^2] —&nbsp;que Dieu Exalté la garde, Lui qui crée et qui renouvelle&nbsp;— et le bénéfice total nous advint par lui. Il répandit les subtilités de ses sciences et manifesta les trésors de sa compréhension, comme autant de merveilles étonnantes.
