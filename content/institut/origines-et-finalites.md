@@ -3,7 +3,7 @@ titre: Origine et Finalités
 soustitre: Origine et Finalités
 ordre: 1
 ---
-<a href=https://res.cloudinary.com/genesi-communication-design/image/upload/v1681905226/Pre%CC%81sentation_IHEI-min_fwdljv.pdf>Télécharger la présentation en PDF</a>
+<a href=https://www.canva.com/design/DAF9UONVCPU/Qul4n_QM3FGItD8E2BGDRg/view?utm_content=DAF9UONVCPU&utm_campaign=designshare&utm_medium=link&utm_source=editor>Présentation</a>
 
 **[Promouvoir le patrimoine intellectuel et spirituel de l'islam](https://www.franceculture.fr/emissions/questions-dislam/linstitut-des-hautes-etudes-islamiques),** Émission de France Culture "Questions d'Islam", interview par Ghaleb Bencheikh, 28/03/2021
 
