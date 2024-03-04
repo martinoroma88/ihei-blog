@@ -11,8 +11,11 @@ category: Islam en pratique
 Poème écrit par Shaykh Ibrâhîm ibn Ibrâhîm al-Laqqânî (m. 1041/1631)
 
 Louange à Dieu pour tous Ses dons
+
 Puis Ses Grâces et Ses Salutations
+
 Sur un prophète portant l’Unicité
+
 Là où la religion en avait été dépouillée
 
 Il guida les hommes vers la religion vraie
@@ -141,7 +144,7 @@ Par exemple&nbsp;: l’acceptation (islam) et la sotte dénégation.
 Il est aussi de notre devoir de croire à la Prédestination
 Et au Décret divin éternel, selon la tradition
 De même que les regards pourront Le contempler
-Mais sans qu’on sache «&nbsp;comment&nbsp;» et qu’Il soit en cela limité.\
+Mais sans qu’on sache «&nbsp;comment&nbsp;» et qu’Il soit en cela limité.
 
 Cette possibilité sera accordée aux croyants au Paradis
 Mais pour l’Élu la vision s’est réalisée en cette vie.
