@@ -73,7 +73,7 @@ Poème écrit par Shaykh Ibrâhîm ibn Ibrâhîm al-Laqqânî (m. 1041/1631)
 > Ni ami, ni progéniture ni père
 
 
-A Lui aussi Puissance et Volonté,
+À Lui aussi Puissance et Volonté,
 Qui n’est pas nécessairement ce qu’Il ordonne, connaît et agrée
 Quant à Sa Science, on ne dit pas qu’Il l’acquiert
 Suis donc la voie du Vrai loin des chimères
