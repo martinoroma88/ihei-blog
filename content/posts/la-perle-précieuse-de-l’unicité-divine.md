@@ -10,36 +10,36 @@ category: Islam en pratique
 
 Poème écrit par Shaykh Ibrâhîm ibn Ibrâhîm al-Laqqânî (m. 1041/1631)
 
-> Louange à Dieu pour tous Ses dons\
-> Puis Ses Grâces et Ses Salutations\
-> Sur un prophète portant l’Unicité\
-> Là où la religion en avait été dépouillée
+> Louange à Dieu pour tous Ses dons
+Puis Ses Grâces et Ses Salutations
+Sur un prophète portant l’Unicité
+Là où la religion en avait été dépouillée
 >
-> Il guida les hommes vers la religion vraie\
-> Par son glaive et sa conduite au service du Vrai\
-> Muhammad, des messagers divins, est le dernier\
-> Bénis soient sa famille, ses compagnons et ses alliés.
+> Il guida les hommes vers la religion vraie
+Par son glaive et sa conduite au service du Vrai
+Muhammad, des messagers divins, est le dernier
+Bénis soient sa famille, ses compagnons et ses alliés.
 >
-> Sur ce, connaître les principes de la religion\
-> Est un devoir exigeant claire exposition.\
-> Les longs écrits ont émoussé les résolutions\
-> Aussi doit-on à ce sujet synthétiser.\
-> Voici donc un poème que j’ai intitulé\
-> «&nbsp;la Perle Précieuse de l’Unicité&nbsp;»
+> Sur ce, connaître les principes de la religion
+Est un devoir exigeant claire exposition.
+Les longs écrits ont émoussé les résolutions
+Aussi doit-on à ce sujet synthétiser.
+Voici donc un poème que j’ai intitulé
+«&nbsp;la Perle Précieuse de l’Unicité&nbsp;»
 >
-> Espérant de Dieu Son acceptation\
-> Qu’il soit utile à ceux qui désirent Sa rétribution&nbsp;!\
-> Toute personne religieusement responsable\
-> Doit donc connaître les attributs indispensables\
-> De Dieu, les attributs possibles et les attributs inconcevables\
-> Pareillement pour les attributs propres aux messagers.
+> Espérant de Dieu Son acceptation
+Qu’il soit utile à ceux qui désirent Sa rétribution&nbsp;!
+Toute personne religieusement responsable
+Doit donc connaître les attributs indispensables
+De Dieu, les attributs possibles et les attributs inconcevables
+Pareillement pour les attributs propres aux messagers.
 >
-> Car croire en l’Unicité juste pour imiter\
-> N’épargne guère la foi des hésitations.\
-> Certains ont à ce propos une autre opinion\
-> D’autres ont clairement élucidé la question\
-> Disant que si la conviction est acquise sur la foi d’autrui\
-> Cela suffit, sinon l’imitation nuit.
+> Car croire en l’Unicité juste pour imiter
+N’épargne guère la foi des hésitations.
+Certains ont à ce propos une autre opinion
+D’autres ont clairement élucidé la question
+Disant que si la conviction est acquise sur la foi d’autrui
+Cela suffit, sinon l’imitation nuit.
 >
 > Ton premier devoir, sois-en certain&nbsp;:\
 > Connaître Dieu, quoi qu’en disent certains.\
