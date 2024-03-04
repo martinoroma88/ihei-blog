@@ -10,76 +10,69 @@ category: Islam en pratique
 
 Poème écrit par Shaykh Ibrâhîm ibn Ibrâhîm al-Laqqânî (m. 1041/1631)
 
-Louange à Dieu pour tous Ses dons
-Puis Ses Grâces et Ses Salutations
-Sur un prophète portant l’Unicité
-Là où la religion en avait été dépouillée
+> Louange à Dieu pour tous Ses dons
+> Puis Ses Grâces et Ses Salutations
+> Sur un prophète portant l’Unicité
+> Là où la religion en avait été dépouillée
+>
+> Il guida les hommes vers la religion vraie
+> Par son glaive et sa conduite au service du Vrai
+> Muhammad, des messagers divins, est le dernier
+> Bénis soient sa famille, ses compagnons et ses alliés.
+>
+> Sur ce, connaître les principes de la religion
+> Est un devoir exigeant claire exposition.
+> Les longs écrits ont émoussé les résolutions
+> Aussi doit-on à ce sujet synthétiser.
+> Voici donc un poème que j’ai intitulé
+> «&nbsp;la Perle Précieuse de l’Unicité&nbsp;»
+>
+> Espérant de Dieu Son acceptation
+> Qu’il soit utile à ceux qui désirent Sa rétribution&nbsp;!
+> Toute personne religieusement responsable
+> Doit donc connaître les attributs indispensables
+> De Dieu, les attributs possibles et les attributs inconcevables
+> Pareillement pour les attributs propres aux messagers.
+>
+> Car croire en l’Unicité juste pour imiter
+> N’épargne guère la foi des hésitations.
+> Certains ont à ce propos une autre opinion
+> D’autres ont clairement élucidé la question
+> Disant que si la conviction est acquise sur la foi d’autrui
+> Cela suffit, sinon l’imitation nuit.
+>
+> Ton premier devoir, sois-en certain&nbsp;:
+> Connaître Dieu, quoi qu’en disent certains.
+> Ton propre être, il te faut scruter
+> Puis les mondes céleste et terrestre observer
+> Tu y trouveras merveilles et sagesses de Son œuvre
+> Portant pourtant de son néant la preuve
+>
+> Toute chose qui peut ne pas exister
+> L’éternité pour elle est pure impossibilité
+> L’îmân est interprété comme étant la foi
+> Le désaccord porte sur son témoignage à haute voix
+>
+> Selon les uns, c’est une condition comparable à un acte
+> Pour les autres, c’est un élément essentiel, tandis que l’acte
+> C’est l’islam, comme faire le pèlerinage et prier
+> Donner l’aumône rituelle et jeûner
+>
+> Plus le nombre de bonnes actions croît
+> Plus la foi augmente et plus l’homme croit
+> De même, la foi décroît si les œuvres diminuent
+> Mais il existe à ce propos plusieurs points de vue.
+>
+> Sont chez Dieu nécessaires la Pré-éternité et l’Être
+> Son Éternité est telle qu’Il ne cessera jamais d’être
+> De toutes choses sujettes au néant
+> Il est totalement différent puisqu’Il est sans avant
+> De même l’Autosuffisance et l’Unicité.
+> Transcendant par Ses sublimes qualités
+> Il n’a nul opposé, semblable ou partenaire
+> Ni ami, ni progéniture ni père
 
 
-Il guida les hommes vers la religion vraie
-Par son glaive et sa conduite au service du Vrai
-Muhammad, des messagers divins, est le dernier
-Bénis soient sa famille, ses compagnons et ses alliés.
-
-
-Sur ce, connaître les principes de la religion
-Est un devoir exigeant claire exposition.
-Les longs écrits ont émoussé les résolutions
-Aussi doit-on à ce sujet synthétiser.
-Voici donc un poème que j’ai intitulé
-«&nbsp;la Perle Précieuse de l’Unicité&nbsp;»
-
-
-Espérant de Dieu Son acceptation
-Qu’il soit utile à ceux qui désirent Sa rétribution&nbsp;!
-Toute personne religieusement responsable
-Doit donc connaître les attributs indispensables
-De Dieu, les attributs possibles et les attributs inconcevables
-Pareillement pour les attributs propres aux messagers.
-
-
-Car croire en l’Unicité juste pour imiter
-N’épargne guère la foi des hésitations.
-Certains ont à ce propos une autre opinion
-D’autres ont clairement élucidé la question
-Disant que si la conviction est acquise sur la foi d’autrui
-Cela suffit, sinon l’imitation nuit.
-
-
-Ton premier devoir, sois-en certain&nbsp;:
-Connaître Dieu, quoi qu’en disent certains.
-Ton propre être, il te faut scruter
-Puis les mondes céleste et terrestre observer
-Tu y trouveras merveilles et sagesses de Son œuvre
-Portant pourtant de son néant la preuve
-
-
-Toute chose qui peut ne pas exister
-L’éternité pour elle est pure impossibilité
-L’îmân est interprété comme étant la foi
-Le désaccord porte sur son témoignage à haute voix
-
-
-Selon les uns, c’est une condition comparable à un acte
-Pour les autres, c’est un élément essentiel, tandis que l’acte
-C’est l’islam, comme faire le pèlerinage et prier
-Donner l’aumône rituelle et jeûner
-
-
-Plus le nombre de bonnes actions croît
-Plus la foi augmente et plus l’homme croit
-De même, la foi décroît si les œuvres diminuent
-Mais il existe à ce propos plusieurs points de vue.
-
-
-Sont chez Dieu nécessaires la Prééternité et l’Être
-Son Éternité est telle qu’Il ne cessera jamais d’être
-De toutes choses sujettes au néant
-Il est totalement différent puisqu’Il est sans avant
-De même l’Autosuffisance et l’Unicité.
-Transcendant par Ses sublimes qualités
-Il n’a nul opposé, semblable ou partenaire
-Ni ami, ni progéniture ni père
 A Lui aussi Puissance et Volonté,
 Qui n’est pas nécessairement ce qu’Il ordonne, connaît et agrée
 Quant à Sa Science, on ne dit pas qu’Il l’acquiert
