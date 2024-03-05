@@ -3,6 +3,7 @@ titre: Le Shaykh Ahmad Ibn Idriss face aux juristes wahhabites
 vedette: false
 date: 2005-03-15T21:27:26.825Z
 auteur: Jean Abd al-Wadoud Gouraud
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1709676547/1709676421046_oe33vo.jpg
 category: Islam en pratique
 ---
 Avant d’aborder ce qui compose l’essentiel de notre sujet, nous aimerions présenter le Shaykh Ahmad Ibn Idris à travers les mots de l’un de ses héritiers spirituels contemporains, par lequel la Tarîqa Ahmadiyya Idrisiyya Shadhiliyya a été introduite en Occident&nbsp;:
