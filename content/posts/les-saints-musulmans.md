@@ -179,7 +179,9 @@ Récupérer pleinement cette aspiration totale à Dieu est peut-être la derniè
 
 [^34]: Abû Dâwûd.
 
-[^35]: Tirmîdhî. [^36]: Coran 48&nbsp;: 18.
+[^35]: Tirmîdhî.
+
+[^36]: Coran 48&nbsp;: 18.
 
 [^37]: Sûyûtî, Al-Jâmi’ aç-Çaghîr II 505.
 
