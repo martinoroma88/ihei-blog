@@ -1,6 +1,6 @@
 ---
 titre: "Introduction au quatrième pilier de l’islam : le jeûne rituel de Ramadan"
-vedette: false
+vedette: true
 date: 2020-04-27T09:59:00.500Z
 url: https://oumma.com/introduction-au-quatrieme-pilier-de-lislam-le-jeune-rituel-de-ramadan/
 auteur: Abd al-Wadoud Yahya Gouraud
