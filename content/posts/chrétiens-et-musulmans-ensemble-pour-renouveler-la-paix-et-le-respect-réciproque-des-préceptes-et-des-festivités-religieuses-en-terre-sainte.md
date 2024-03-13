@@ -1,7 +1,7 @@
 ---
 titre: Chrétiens et musulmans ensemble pour renouveler la Paix et le respect
   réciproque des préceptes et des festivités religieuses en Terre sainte.
-vedette: false
+vedette: true
 date: 2024-03-13T10:43:40.994Z
 category: Dialogue interreligieux
 ---
