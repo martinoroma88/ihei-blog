@@ -3,6 +3,7 @@ titre: Chrétiens et musulmans ensemble pour renouveler la Paix et le respect
   réciproque des préceptes et des festivités religieuses en Terre sainte.
 vedette: true
 date: 2024-03-13T10:43:40.994Z
+auteur: IHEI
 category: Dialogue interreligieux
 ---
 ##### **Appel interreligieux au cessez-le-feu et à une paix durable au Moyen-Orient**
