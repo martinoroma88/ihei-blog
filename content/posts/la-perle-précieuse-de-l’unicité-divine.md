@@ -2,7 +2,7 @@
 titre: La perle précieuse de l’Unicité divine (poème)
 vedette: false
 date: 2023-09-29T19:21:24.904Z
-auteur: Traduction par Jean Abd al-Wadoud Gouraud
+auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1709585075/oyster-1327311_1280_klgqem.jpg
 category: Islam en pratique
 ---
