@@ -30,7 +30,6 @@ et condamne
 
 > le terrorisme détestable qui menace la sécurité des personnes, aussi bien en Orient qu’en Occident, au Nord ou au Sud, répandant panique, terreur ou pessimisme (qui) n’est pas dû à la religion –&nbsp;même si les terroristes l’instrumentalisent&nbsp;– mais est dû à l’accumulation d’interprétations erronées des textes religieux, aux politiques de faim, de pauvreté, d’injustice, d’oppression, d’arrogance&nbsp;; pour cela, il est nécessaire d’interrompre le soutien aux mouvements terroristes par la fourniture d’argent, d’armes, de plans ou de justifications, ainsi que par la couverture médiatique, et de considérer tout cela comme des crimes internationaux qui menacent la sécurité et la paix mondiale. Il faut condamner ce terrorisme sous toutes ses formes et ses manifestations.
 
-\
 Frère Michael Schopf SJ, Directeur JRS International
 
 Imam Yahya Pallavicini, Vice-président COREIS
