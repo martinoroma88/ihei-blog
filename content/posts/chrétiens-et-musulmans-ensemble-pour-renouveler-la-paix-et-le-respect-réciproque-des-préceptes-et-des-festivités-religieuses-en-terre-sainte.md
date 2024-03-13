@@ -6,6 +6,7 @@ date: 2024-03-13T10:43:40.994Z
 auteur: JRS - COREIS
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1710327397/65f17c09e1853ef04856d5d0_tnsdrv.jpg
 category: Dialogue interreligieux
+annexes: []
 ---
 ##### **Appel interreligieux au cessez-le-feu et à une paix durable au Moyen-Orient**
 
