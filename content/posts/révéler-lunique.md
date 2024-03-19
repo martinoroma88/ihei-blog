@@ -5,7 +5,7 @@ date: 2000-02-08T09:03:26.355Z
 auteur: AbdAllah Yahya Darolles
 category: Islam en pratique
 ---
-> *Qul Huwa-Llhu Ahad*... Dis : Lui Dieu est Un...
+> *Qul Huwa-Ll*acirc;*hu Ahad*... Dis : Lui Dieu est Un...
 
 C'est ainsi que le Coran nous rappelle et nous appelle à l'Unité de Dieu dans la plus synthétique des sourates, appelée la sourate de la Sincérité, dont il est dit que celui qui la récite véritablement, c'est-à-dire avec toute la concentration des puissances de son &ecirc;tre, est l'égal de celui qui récite le tiers du Coran. Cette sourate est seulement suivie de deux autres, appelées couramment «&nbsp;les sourates de protection de Dieu&nbsp;», comme si le rappel et l'appel à l'Unité, à la fin, nécessitait une protection divine particulière en raison du décha&icirc;nement des puissances d'illusion, d'obscurcissement et de tentation qui essaieront jusqu'au bout d'imposer l'erreur individualiste et dualiste, erreur dont le Shaykh Abd al-Wahid Yahya, René Guénon, dénonçait le caractère proprement antéchristique.
 
