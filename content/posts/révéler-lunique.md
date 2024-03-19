@@ -1,7 +1,7 @@
 ---
 titre: Révéler l'Unique
 vedette: false
-date: 2024-03-19T09:03:26.355Z
+date: 2000-02-08T09:03:26.355Z
 auteur: AbdAllah Yahya Darolles
 category: Islam en pratique
 ---
