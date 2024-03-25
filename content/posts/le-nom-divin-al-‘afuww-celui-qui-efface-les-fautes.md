@@ -14,7 +14,7 @@ Les portes du Paradis sont encore ouvertes, les portes de l’Enfer encore ferm�
 
 Le Prophète annonce qu’Allah «&nbsp;a fixé dans le mois de Ramadan une nuit qui est meilleure que mille mois, celui qui a été privé de ses bienfaits, a été privé de tout bien.&nbsp;»
 
-Il nous reste encore une nuit impaire de ce mois pour veiller, chercher et nous préparer à trouver, in-sha’Allah, cette nuit, *Laylat al-Qadr*.
+Il nous reste encore une nuit impaire de ce mois pour veiller, chercher et nous préparer à trouver, *in-sha’Allah*, cette nuit, *Laylat al-Qadr*.
 
 On rapporte à ce sujet que ‘Aïcha (), l’épouse bien-aimée de notre Prophète bien-aimé (), lui avait demandé&nbsp;: «&nbsp;Ô messager de Dieu, si jamais je sais quelle nuit est *Laylat al-Qadr*, que devrais-je dire&nbsp;?&nbsp;» Il répondit&nbsp;: *«&nbsp;Dis&nbsp;: "Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu ‘annî. Allâhumma, Tu es Celui qui effaces (les fautes) par Ton pardon, Tu aimes le pardon, efface (mes fautes)."*&nbsp;» (Tirmidhi)
 
