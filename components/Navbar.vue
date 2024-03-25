@@ -25,7 +25,7 @@
 		<div ref="items" :class="open ? 'scale-100' : 'scale-0 lg:scale-100'" class="text-white lg:text-blue font-bold transform absolute lg:static inset-0 flex items-center justify-center lg:justify-between flex-col lg:flex-row space-y-6 lg:space-y-0 h-screen lg:h-auto w-full col-span-3 z-10" >
 			<!-- Internal links -->
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-75' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150 accueil-link" to="/">Accueil</n-link>
-			<n-link :class="open ? 'translate-y-0 opacity-100 delay-100' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150" to="/institut/">L'Institut</n-link>
+			<n-link :class="open ? 'translate-y-0 opacity-100 delay-100' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150" to="/institut/">L’Institut</n-link>
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-150' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150" to="/publications/">Publications</n-link>								
 			<n-link :class="open ? 'translate-y-0 opacity-100 delay-200' : 'translate-y-12 lg:translate-y-0 opacity-0 lg:opacity-100'" class="transform transition duration-150" to="/contact/">Contact</n-link>
 			<!-- Search input -->
