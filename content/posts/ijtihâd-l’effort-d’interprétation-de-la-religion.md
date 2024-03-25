@@ -6,13 +6,13 @@ auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1664536410/6335e7e8ac7e9750742f374a_baqayw.jpg
 category: Science et Religion
 ---
-*33ème Conférence islamique du Caire sur les défis actuels de l’Islam*
+*33<sup>e</sup> Conférence islamique du Caire sur les défis actuels de l’Islam*
 
 Après quelques années d’interruption, notamment en raison de la pandémie, la Communauté Religieuse Islamique (COREIS-Italie) et l’Institut des Hautes Études Islamiques (IHEI) reprennent leur participation à la Conférence internationale du ministère des Affaires religieuses d’Égypte, à laquelle ils avaient pris part chaque année depuis 1996, à travers la présence du Shaykh Abd-al-Wahid Pallavicini, président fondateur de la COREIS, qui fut également président d’honneur de l’IHEI.
 
 Cette rencontre annuelle **réunit depuis des décennies des représentants musulmans venus de différentes régions du monde**, y compris l’Europe, pour partager des réflexions doctrinales autour des grands défis sociétaux, en bénéficiant également d’échanges avec les recteurs d’Al-Azhar jusqu’à l’actuel grand-imam Ahmad al-Tayyeb.
 
-La 33ème édition tenue au Caire les 24 et 25 septembre dernier a porté sur une question centrale&nbsp;: **«&nbsp;L’Ijtihâd et sa nécessité à l’époque contemporaine : déclinaisons, règles, interprètes qualifiés.&nbsp;»**
+La 33*<sup>e</sup>* édition tenue au Caire les 24 et 25 septembre dernier a porté sur une question centrale&nbsp;: **«&nbsp;L’Ijtihâd et sa nécessité à l’époque contemporaine : déclinaisons, règles, interprètes qualifiés.&nbsp;»**
 
 ***Le terme arabe* ijtihâd *signifie littéralement «*&nbsp;*effort personnel*&nbsp;*». Il désigne traditionnellement le travail de réflexion et d'interprétation des textes sacrés qui est accompli par les maîtres qualifiés, notamment les jurisconsultes, à partir du Coran et de la Tradition prophétique, selon une méthode intellectuelle reconnue, afin de répondre aux exigences religieuses des musulmans dans le contexte où ils vivent.***
 
