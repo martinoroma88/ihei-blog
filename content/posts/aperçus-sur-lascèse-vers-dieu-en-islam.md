@@ -88,7 +88,7 @@ Afin d’expliquer la nature de cette union sans confusion, Ibn ‘Arabî révè
 
 Ainsi l’ordre coranique «&nbsp;Dis&nbsp;: mon Seigneur, augmente ma science !&nbsp;»[^39] signifie-t-il d’abord un accroissement de la perplexité. Nous voilà donc arrivés au moment où il vaut mieux nous taire et reconnaître que Dieu est plus Savant.
 
-Ainsi devons-nous nous préparer à ce passage dans le Monde invisible, et à notre rencontre avec notre Seigneur. Ce ne sont pas les rites qui sauvent en eux-mêmes, car Dieu seul sauve. Mais il appartient à l’homme de se tourner vers Dieu afin que la Parole de Dieu puisse œuvrer à travers le support providentiel des rites. Ce n’est pas la connaissance qui sauve car Dieu seul sauve. Mais il revient à l’homme d’ouvrir son cœur à Dieu, afin que la Parole de Dieu puisse le nourrir, l’illuminer et le transformer. Dans sa lettre à un disciple. Al Ghazalî raconte que le mystique Junayd, après sa mort, apparut en songe à quelqu’un. On lui dit&nbsp;: «&nbsp;Quelle nouvelle, ô Abu al-Qâsim&nbsp;»&nbsp;? Il répondit&nbsp;: «&nbsp;Les belles phrases ont été vaines et les formules mystérieuses se sont avérées stériles ; rien ne nous a été utile que les quelques génuflexions accomplies au sein même de la nuit&nbsp;»[^40].
+Ainsi devons-nous nous préparer à ce passage dans le Monde invisible, et à notre rencontre avec notre Seigneur. Ce ne sont pas les rites qui sauvent en eux-mêmes, car Dieu seul sauve. Mais il appartient à l’homme de se tourner vers Dieu afin que la Parole de Dieu puisse œuvrer à travers le support providentiel des rites. Ce n’est pas la connaissance qui sauve car Dieu seul sauve. Mais il revient à l’homme d’ouvrir son cœur à Dieu, afin que la Parole de Dieu puisse le nourrir, l’illuminer et le transformer. Dans sa lettre à un disciple. Al-Ghazalî raconte que le mystique Junayd, après sa mort, apparut en songe à quelqu’un. On lui dit&nbsp;: «&nbsp;Quelle nouvelle, ô Abu al-Qâsim&nbsp;»&nbsp;? Il répondit&nbsp;: «&nbsp;Les belles phrases ont été vaines et les formules mystérieuses se sont avérées stériles ; rien ne nous a été utile que les quelques génuflexions accomplies au sein même de la nuit&nbsp;»[^40].
 
 Cette rencontre avec notre Seigneur est proprement le Jour de la Résurrection, où nos œuvres et notre foi seront estimées à leur juste valeur. Car la raison d’être de notre vie terrestre est ce moment eschatologique. Alors, nous tous, juifs, chrétiens, et musulmans, comme tous les croyants sincères des autres religions orthodoxes, nous serons rassemblés afin que le sens caché de notre vie, des épreuves et des joies que nous avons connues, devienne manifeste. Selon la promesse coranique[^41]. Dieu nous renseignera enfin sur les raisons de nos différences, de la multitude des communautés religieuses, et de la Grâce surabondante de sa Révélation. Attendons avec espérance. Plus nous nous rapprocherons de Dieu, et plus nous serons proches alors les uns des autres, sous son ombre majestueuse et bienveillante, en cette heure qui se hâte vers nous où, selon le hadîth, il n’y aura plus d’autre ombre que la sienne[^42].
 
@@ -122,7 +122,7 @@ Wa-llâhu a ‘lam&nbsp;!
 [^26]: Cor. XXXV&nbsp;: 28.
 [^27]: Cor. LVIII&nbsp;: 11.
 [^28]: Bukhâri.
-[^29]: René Guenon, *La Métaphysique orientale*, Editions traditionnelles, p. 14.
+[^29]: René Guenon, *La Métaphysique orientale*, Éditions traditionnelles, p. 14.
 [^30]: Bukh. et Mus.
 [^31]: Bukh. et Mus.
 [^32]: Ibn Arabî, *Les Illuminations de la Mecque*, trad. sous la direction de M. Chodkiewicz, Sindbad, p. 184.
