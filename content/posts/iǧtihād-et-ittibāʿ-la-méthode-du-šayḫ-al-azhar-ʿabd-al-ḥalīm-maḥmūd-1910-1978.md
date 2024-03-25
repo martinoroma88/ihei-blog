@@ -11,7 +11,7 @@ annexes:
     titre: Iǧtihād et ittibāʿ - La méthode du šayḫ al-Azhar ʿAbd al-Ḥalīm
       Maḥmūd (1910-1978)
 ---
-Figure de la vie intellectuelle, spirituelle et politique égyptienne du XXe siècle, l’ancien cheikh al-Azhar ‘Abd al-Halîm Mahmûd (1910-1978) est reconnu pour ses *ijtihâdât* et son rôle décisif dans le développement de la mosquée-université al-Azhar, et dans le renouveau de la pensée musulmane contemporaine.
+Figure de la vie intellectuelle, spirituelle et politique égyptienne du XX<sup>e</sup> siècle, l’ancien cheikh al-Azhar ‘Abd al-Halîm Mahmûd (1910-1978) est reconnu pour ses *ijtihâdât* et son rôle décisif dans le développement de la mosquée-université al-Azhar, et dans le renouveau de la pensée musulmane contemporaine.
 
 Savant traditionaliste, intellectuel proche de René Guénon, disciple de la voie Shâdhiliyya, il s’attacha à défendre l’orthodoxie islamique traditionnelle, et à faire connaître la vie et les enseignements des grands maîtres du soufisme. S’inspirant du modèle ghazâlien, il insista sur l’équilibre entre Sharî‘a et spiritualité, et sur la primauté de la connaissance métaphysique, en réponse aux tendances modernes de l’individualisme et du rationalisme, ainsi qu’aux dégénérescences d’un certain soufisme populaire.
 
