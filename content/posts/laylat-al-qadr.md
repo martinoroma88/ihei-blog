@@ -5,8 +5,8 @@ auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-4_wodu2w.jpg
 category: Islam en pratique
 ---
-
 Par la volonté d’Allah et Sa grâce, nous nous trouvons dans la dernière décade du mois béni de Ramadan. Après la première décade marquée par la Miséricorde, puis la deuxième marquée par le Pardon, nous voilà dans la dernière étape de l’itinéraire de transformation et de purification spirituelles, la phase de l’affranchissement du feu qui aboutit au salut de l’âme, lorsqu’on vient à Allah *bi qalbin salîm*, le c&oelig;ur sain et sauf&nbsp;:
+
 > Le Jour où ni biens ni enfants ne seront d’aucune utilité, sauf celui qui vient à Allah avec un coeur sain. Le Paradis sera rapproché de ceux qui se prémunissent par Allah *al-muttaqîn*.[^1]
 
 C’est ainsi que la vertu de la *taqwâ*, acquise notamment à l’aide du jeûne rituel, *la‘allakum tattaqûn*, opère en nous pour assainir le c&oelig;ur et assurer son intégrité spirituelle (*salâmat al-qalb*). C’est ainsi que les *muttaqîn* arrivent à Allah et accèdent à Son paradis.
@@ -24,11 +24,13 @@ Il ne s’agit pas tant, ou seulement, d’attendre cette nuit bénie, mais de s
 *Laylat al-Qadr*, son nom même est un mystère&nbsp;! Nuit de la Puissance, nuit de la Valeur, nuit de la Capacité, nuit du Destin, nuit de la Détermination, nuit de la Révélation. *Laylat al-Qadr* est à la fois tout cela, et bien plus encore&nbsp;! La nuit est en elle-même ici-bas un symbole du *Ghayb*, du Mystère divin, du Non-manifesté, caché et inaccessible aux sens et à la raison. *Laylat al-Qadr* est porteuse de mystères aussi innombrables qu’insondables.
 
 En nous aidant à réaliser la vertu de la *taqwâ*, le rite du jeûne, lui-même surnaturel, nous réapprend ce sens du mystère qui est précisément l’une des qualités des *muttaqîn*&nbsp;:
+
 > Alif Lam Mim. Voici le Livre qui ne porte aucun doute. Guidance pour les *muttaqîn*, ceux qui se prémunissent (par Allah), qui croient au Mystère non-manifesté, accomplissent la prière rituelle, et offrent une partie de la subsistance que Nous leur avons accordée.[^3]
 
-Le jeûne, la prière et l’aumône nous préparent à trouver *Laylat al-Qadr* et certains de ses mystères&nbsp;: mystère du Coran descendu sur le dernier messager (), guidance pour les *muttaqîn*&nbsp;; mystère de la Révélation et de la prophétie&nbsp;; mystère de l’Eternité, du Temps, de la succession du jour et de la nuit&nbsp;; mystère de l’Esprit et des anges au service de l’Ordre divin&nbsp;; mystère du Destin&nbsp;; mystère de la Paix qui émane du Nom et de la Qualité d’Allah *al-Salâm*&nbsp;; mystère du *Qadr* qui émane des Noms et des Qualités d’Allah *al-Qâdir al-Muqtadir*.
+Le jeûne, la prière et l’aumône nous préparent à trouver *Laylat al-Qadr* et certains de ses mystères&nbsp;: mystère du Coran descendu sur le dernier messager (), guidance pour les *muttaqîn*&nbsp;; mystère de la Révélation et de la prophétie&nbsp;; mystère de l’Éternité, du Temps, de la succession du jour et de la nuit&nbsp;; mystère de l’Esprit et des anges au service de l’Ordre divin&nbsp;; mystère du Destin&nbsp;; mystère de la Paix qui émane du Nom et de la Qualité d’Allah *al-Salâm*&nbsp;; mystère du *Qadr* qui émane des Noms et des Qualités d’Allah *al-Qâdir al-Muqtadir*.
 
 *Laylat al-Qadr* est «&nbsp;Nuit de la Valeur&nbsp;» de par sa noblesse et son rang éminent par rapport à toutes les autres nuits. Sa valeur est inestimable, incommensurable. Les créatures sont incapables de la saisir, seul Allah en connaît la véritable nature.
+
 > Et qui te fera saisir (*adrâ*) ce qu’est *Laylat al-Qadr*&nbsp;? *Laylat al-Qadr* est meilleure que mille mois.
 
 Les savants expliquent que la nature de *Laylat al-Qadr* échappe à la *dirâya*, c’est-à-dire l’entendement humain, elle dépasse toutes les déterminations et mesures spatio-temporelles propres à ce bas-monde. Lors de cette nuit, *al-Rûh* et les Anges descendent sur terre&nbsp;: ils proclament la louange d’Allah, Sa gloire et Sa sainteté, attestent Son unicité, transmettent leurs salutations de paix aux musulmans, disent *âmîn* à leurs prières, et implorent le pardon d’Allah pour la communauté de Muhammad (), et cela jusqu’à l’aube.
@@ -42,6 +44,7 @@ Dans cette Nuit, certains adorateurs trouvent la valeur et la mesure de leur âm
 *Layat al-Qadr* renouvelle le miracle de la guidance prophétique dans le miracle de la révélation coranique. Le Prophète Muhammad () guide les croyants *muttaqîn* dans l’approfondissement de la foi dans le Mystère divin non-manifesté, tout en leur apprenant la discipline de l’humilité, l’exemple de la servitude spirituelle, le respect des limites providentielles. Il leur enseigne le Livre et la Sagesse, les purifie, il les bénit, illumine leurs coeurs par la Lumière du Seigneur, il les éduque par son *khuluq ‘azhîm*, nature incommensurable et magnifique, au point d’être identique au *Qur’ân al-‘azhîm*, la Récitation divine incommensurable et magnifique.
 
 Par l’intermédiaire du Prophète, les musulmans deviennent les témoins et les interprètes des signes de la Parole d’Allah&nbsp;:
+
 > En Vérité, Nous l’avons fait descendre lors de *Laylat al-Qadr*. Et qui te fera saisir ce qu’est *Laylat al-Qadr*&nbsp;?[^4]
 
 Le *Nous* de Majesté divine s’adresse au *tu* de Muhammad (). Allah a fait du Prophète le réceptacle pur de Sa parole, mais aussi Son interlocuteur direct et Son interprète fidèle.
@@ -49,7 +52,8 @@ Le *Nous* de Majesté divine s’adresse au *tu* de Muhammad (). Allah a fait du
 Sans l’interlocution du Prophète, nous n’aurions pas entendu les signes de la Révélation. Sans l’interprétation du Prophète, nous ne saurions pas comment lire les signes de la Révélation. Sans lui, le Coran ne serait pas descendu, et *Laylat al-Qadr* ne serait pas manifestée. Sans lui, les limites de la nature humaine ne seraient pas dépassées, et la connaissance ne serait pas dévoilée. Sans lui, le monde supérieur ne serait pas accessible, et la Paix ne serait pas propagée. Sans lui, l’aurore ne se lèverait pas, et le monde ne serait pas illuminé. Il est *al-insân al-kâmil* qui reçoit l’Esprit d’Allah et sert Son *Amr*, Ordre.
 
 *Laylat al-Qadr* est «&nbsp;Nuit de la Révélation&nbsp;» et en même temps «&nbsp;Nuit de la Détermination&nbsp;» ou «&nbsp;du Destin&nbsp;». Lors de cette nuit bénie, l’Ordre divin détermine la destinée de toutes choses pour l’année à venir&nbsp;:
-> Hâ Mîm. Par le Livre révélateur. En vérité, Nous l’avons révélé au cours d’une nuit bénie, résolu à vous mettre en garde. Au cours de cette nuit est tranchée toute disposition sage.[^5]
+
+> *Hâ Mîm*. Par le Livre révélateur. En vérité, Nous l’avons révélé au cours d’une nuit bénie, résolu à vous mettre en garde. Au cours de cette nuit est tranchée toute disposition sage.[^5]
 
 *Laylat al-Qadr* manifeste la réalité de la Parole divine qui ordonne l’existence par son ordre *Kun*, Sois&nbsp;!, et qui révèle Son message de Vérité. Le Livre du Coran est comme le Livre de l’Existence, ils contiennent les *ayât*, les signes d’Allah qui s’offrent aux êtres doués d’intelligence, qui les méditent, les suivent et les récitent dans le Coran et dans leur propre existence.
 
@@ -60,6 +64,7 @@ Il y a une correspondance profonde entre la Descente synthétique du Coran à pa
 «&nbsp;C’est ainsi que sont inscrites les choses de toute éternité, explique l’imam al-Ghazali (dans son Livre de la Patience et de la Gratitude). Et c’est ainsi que les causes et les effets s’enchaînent, conformément à la disposition établie par le Seigneur des seigneurs et l’Agent des causes. Cela ne procède pas de faits fortuits, mais d’une volonté, d’une sagesse, d’une vérité établie et d’un ordre péremptoire que l’on définit en empruntant à la langue le terme de «&nbsp;décret&nbsp;», *al-Qadâ’*. On dit de ce décret qu’il est «&nbsp;aussi bref qu’un clin d’&oelig;il&nbsp;»[^6], ou plus prompt encore. Les mers des potentialités déferlèrent en vertu de ce Décret divin péremptoire selon les modalités préétablies. Pour définir la hiérarchie des choses décrétées, on emprunta à la langue le nom de «&nbsp;destin&nbsp;», *al-Qadar*. Le mot «&nbsp;décret&nbsp;» apparaît donc relatif à l’ordre unique et global, tandis que le mot «&nbsp;destin&nbsp;» est relatif au déploiement infini des choses dans leur singularité et temporalité. Il est dit que rien ne sort de ce décret et de ce destin.&nbsp;» 
 
 A ce sujet, le Prophète nous enseigne à «&nbsp;croire au Destin imparti en bien comme en mal&nbsp;», en faisant preuve de gratitude pour les bienfaits et de patience face aux épreuves, et à en montrant satisfaits du Décret souverain d’Allah. En même temps, il nous met en garde contre les recherches vaines et les débats stériles autour de la Prédestination qui reste un mystère insondable et ineffable, qu’aucun être humain ne peut percer.
+
 > Soyez sereins, dit-il, vous n’avez pas été créés pour cela. Quant à Allah, Il n’a pas de compte à rendre sur ce qu’Il fait, tandis qu’eux ont des comptes à rendre.[^7]
 
 Le Prophète nous apprend à accepter sereinement le destin, et à nous soumettre en paix à la Volonté d’Allah, et à mettre toutes notre capacité et toute notre incapacité au service du miracle de la *Qudra* d’Allah incommensurable et impénétrable.
@@ -68,7 +73,7 @@ Le Prophète nous apprend à accepter sereinement le destin, et à nous soumettr
 
 Pendant que d’autres se perdent dans les dédales du *qadar* ou s’illusionnent sur leur propre *qudra*, les *muttaqîn* préfèrent suivre la compagnie du Prophète sur le chemin de l’existence qui les mène progressivement du *qadar* jusqu’auprès du Roi Tout-Puissant.
 
-> Certes, Nous avons créé toute chose selon une mesure. Notre Ordre ne tient qu’en un mot aussi bref qu’un clin d’oeil. Déjà Nous avons anéanti tous vos semblables&nbsp;: y-t-il quelqu’un pour prendre cela en considération&nbsp;? Et tous leurs actes sont consignés dans les Ecritures. Toutes leurs actions d’importance ou minimes sont couchées par écrit. Ceux qui se sont prémunis par Allah, *al-muttaqîn*, se partagent entre des jardins et des fleuves, en un séjour dénué de frivolité auprès d’un Roi Tout-Puissant, *muqtadir*.[^8]
+> Certes, Nous avons créé toute chose selon une mesure. Notre Ordre ne tient qu’en un mot aussi bref qu’un clin d’œil. Déjà Nous avons anéanti tous vos semblables&nbsp;: y-t-il quelqu’un pour prendre cela en considération&nbsp;? Et tous leurs actes sont consignés dans les Ecritures. Toutes leurs actions d’importance ou minimes sont couchées par écrit. Ceux qui se sont prémunis par Allah, *al-muttaqîn*, se partagent entre des jardins et des fleuves, en un séjour dénué de frivolité auprès d’un Roi Tout-Puissant, *muqtadir*.[^8]
 
 Allah Se nomme Lui-même *al-Qâdir al-Muqtadir*, le Tout-Puissant. Selon l’imam al-Ghazali, *al-Qâdir al-Muqtadir* est celui qui peut agir s’il le veut, ou ne pas agir s’il le veut. Vouloir n’est pas une condition nécessaire pour Son pouvoir. Par exemple, Allah peut très bien faire surgir le Jour de la Résurrection à cet instant même. S’Il l’avait voulu, Il l’aurait fait. Cependant, Il ne le fait pas, parce qu’Il ne le veut pas. Et Il ne le veut pas parce que Sa science éternelle a déterminé un terme et un temps précis pour la Résurrection. Ce n’est donc pas une question de capacité, mais de volonté. Le Tout-Puissant absolu est Celui qui créé, invente et produit toute chose existante à partir du néant. Il est Seul Créateur, Inventeur et Producteur, et n’a nul besoin d’aide extérieure. C’est Allah.
 
@@ -90,7 +95,7 @@ Il nous reste donc à prier avec espoir. Prier pour contempler la lumière du To
 
 *Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa‘fu ‘annâ*
 
-Mon Dieu, Tu es Indulgent, Pardonneur qui efface, Tu aimes le pardon, sois Indulgent avec nous et efface nos fautes.
+«&nbsp;Mon Dieu, Tu es Indulgent, Pardonneur qui efface, Tu aimes le pardon, sois Indulgent avec nous et efface nos fautes.&nbsp;»
 
 [^1]: Coran 26&nbsp;: 88-90.
 [^2]: Coran 97&nbsp;: 1-5.
