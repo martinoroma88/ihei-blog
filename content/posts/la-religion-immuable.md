@@ -6,10 +6,9 @@ category: Dialogue interreligieux
 subcategory: dialogue-avec-les-autres-traditions
 auteur: Shaykh Abd al-Wahid Pallavicini
 ---
-
 Les conceptions de l’écologie moderne ont l’habitude d’opposer l’homme à son milieu, en prétendant sauver celui-ci de celui-là. Ce faisant, elles ignorent non seulement que tous deux, l’homme et le milieu, font partie d’un tout que l’on peut comprendre proprement comme la nature, mais elles oublient en outre quelle est la vraie nature du monde et quelle est la vraie nature de l’homme.
 
-Nous devrions peut-être nous référer au Moyen-Âge chrétien pour retrouver encore en Occident des conceptions qui reconnaissent à l’homme et à la nature les rôles qui lui reviennent respectivement. Des distinctions comme celle entre*natura naturans* et*natura naturata*, où celle contenue dans la triade*spiritus*, *anima*, *corpus*, font bien comprendre à quel point le sacré entre dans la nature véritable de l’un et de l’autre, et nous aident à aborder le thème qui nous est ici proposé&nbsp;: celui de la «&nbsp;religion naturelle&nbsp;».
+Nous devrions peut-être nous référer au Moyen-Âge chrétien pour retrouver encore en Occident des conceptions qui reconnaissent à l’homme et à la nature les rôles qui lui reviennent respectivement. Des distinctions comme celle entre *natura naturans* et *natura naturata*, où celle contenue dans la triade *spiritus*, *anima*, *corpus*, font bien comprendre à quel point le sacré entre dans la nature véritable de l’un et de l’autre, et nous aident à aborder le thème qui nous est ici proposé&nbsp;: celui de la «&nbsp;religion naturelle&nbsp;».
 
 L’hindouisme, la première Révélation par ordre chronologique, et la plus proche des origines de l’humanité, nous donne la notion de *Sanathana Dharma* ou «&nbsp;Loi Immuable&nbsp;», c’est-à-dire d’une Tradition Primordiale qui, en même temps, transcende et sous-tend toute doctrine religieuse orthodoxe. Cette formulation est connue aussi en Occident comme la *Sophia Perennis* dont parle Saint-Augustin, et que nous, musulmans, appelons *dîn al-qayyimah*, «&nbsp;Tradition Axiale&nbsp;», selon l’expression du Coran qui, en tant que dernière Révélation, semble vouloir en conclure le cycle en complétant le symbole du «&nbsp;Zéro métaphysique&nbsp;».
 
@@ -30,16 +29,11 @@ Chaque Révélation est une nouvelle création qui redonne à la nature déchue 
 A propos de la contribution islamique au respect de la nature, je ne pourrais faire mieux que de citer certains des thèmes identifiés par un colloque qui s’est tenu il y a quelques années à Venise. Dans un des groupes de travail furent proposés les points suivants&nbsp;: 
 
 1. La nuisance à l’environnement comme nuisance morale, 
-
 2. Le concept de Création et sa valeur écologique, 
-
 3. La Miséricorde, la Justice et l’Amour envers la Création, don de Dieu, 
-
 4. La crise de l’environnement comme crise morale, 
-
 5. La Loi divine et l’obéissance de l’homme dans l’accomplissement de son devoir comme gardien de la Création
-
-6. nous dirions&nbsp;: Vicaire de Dieu, khalîfat Allâh.
+6. nous dirions&nbsp;: Vicaire de Dieu, *khalîfat Allâh*.
 
 Les points qui sont identifiés ici sont sûrement très stimulants, à condition toutefois que l’on ne prétende pas les aborder avec le préjugé selon lequel les diverses religions exprimeraient des perspectives totalement irréductibles. En effet, il est inutile de se demander, comme pourtant on l’a fait à l’occasion d’un tel colloque, quelles sont les conceptions de la grâce divine, de l’amour ou du pardon qui sont propres respectivement aux juifs, aux chrétiens et aux musulmans, quand on sait que Dieu ne dit pas des choses différentes à l’homme, unique créature faite à Son image et ressemblance, et qu’Il ne donne pas «&nbsp;un&nbsp;» aux juifs, «&nbsp;deux&nbsp;» aux chrétiens et «&nbsp;trois&nbsp;» aux musulmans, selon une conception évolutive de ces religions qui ne sont alors plus comprises comme irruptions du sacré dans le monde, comme manifestations du Verbe divin lui-même, donc complètes et parfaites.
 
@@ -49,9 +43,9 @@ L’islam n’est pas seulement le troisième monothéisme abrahamique, l’ulti
 
 On ne peut pas faire porter à la tradition judéo-chrétienne la faute d’avoir provoqué la détérioration de l’environnement, parce que ce ne sont certainement pas les traditions divines qui peuvent causer quelque dommage ou quelque crise, tandis que ce sont seulement les hommes, justement parce qu’ils ne sont plus religieux, parce qu’ils ne sont plus de vrais juifs, de vrais chrétiens ou de vrais musulmans, qui produisent de telles aberrations, et qui parfois se cachent aussi derrière les religions pour les accuser d’avoir fomenté les guerres du passé ou de fomenter celles du présent.
 
-Ce qui a été dit pour l’écologie vaut aussi pour les idéologies pacifistes modernes&nbsp;: en effet, ces dernières aussi abordent le problème de l’extérieur, en prétendant réaliser une paix en dehors de la soumission à la Loi divine — rappelons-nous que le mot «&nbsp;*islâm&nbsp;»* signifie, en même temps, soumission à Dieu et Paix — soumission qui comporte comme conséquence immédiate la paix, mais, selon la parole du Christ, «&nbsp;non comme la donne le monde.&nbsp;» 
+Ce qui a été dit pour l’écologie vaut aussi pour les idéologies pacifistes modernes&nbsp;: en effet, ces dernières aussi abordent le problème de l’extérieur, en prétendant réaliser une paix en dehors de la soumission à la Loi divine —&nbsp;rappelons-nous que le mot «&nbsp;*islâm&nbsp;»* signifie, en même temps, soumission à Dieu et Paix&nbsp;— soumission qui comporte comme conséquence immédiate la paix, mais, selon la parole du Christ, «&nbsp;non comme la donne le monde.&nbsp;» 
 
-En conséquence, les conflits n’adviennent jamais entre les véritables croyants des religions orthodoxes, surtout si l’on croit que le Dieu unique en est l’origine et la raison d’être, tout comme la connaissance de Dieu est le but, non seulement de la religion, mais de la vie humaine elle-même&nbsp;; sans vouloir identifier le judaïsme ou le christianisme avec l’Occident, ni l’islam, seule autre vraie religion universelle, avec l’Orient, nous devons dire que les dommages, imités ensuite et peut-être aussi accentués par le reste du monde, proviennent seulement de la conception athéo- matérialiste propre à notre monde moderne, sécularisé et désacralisé.
+En conséquence, les conflits n’adviennent jamais entre les véritables croyants des religions orthodoxes, surtout si l’on croit que le Dieu unique en est l’origine et la raison d’être, tout comme la connaissance de Dieu est le but, non seulement de la religion, mais de la vie humaine elle-même&nbsp;; sans vouloir identifier le judaïsme ou le christianisme avec l’Occident, ni l’islam, seule autre vraie religion universelle, avec l’Orient, nous devons dire que les dommages, imités ensuite et peut-être aussi accentués par le reste du monde, proviennent seulement de la conception athéo-matérialiste propre à notre monde moderne, sécularisé et désacralisé.
 
 L’enseignement traditionnel selon lequel la connaissance de Dieu est le but de la vie humaine offre la réponse la plus élevée et la plus synthétique à toute question écologique mal posée. Tout mal est en effet la conséquence de l’ignorance de Dieu&nbsp;; il ne s’agit naturellement pas d’une connaissance conceptuelle, juxtaposée de l’extérieur, mais, au contraire, de la vraie transparence intellectuelle de l’être. Les dichotomies apparaissent seulement d’un point de vue relatif, tandis qu’en vérité, tout se réduit à un enseignement divin, et toute la réalité se dissout, sans «&nbsp;résidus&nbsp;» ni «&nbsp;scories&nbsp;», dans la Connaissance, sans pour autant cesser d’être ce qu’elle a toujours été&nbsp;; ce qui tombe, ce sont seulement les voiles de l’ignorance qui n’ont jamais eu de réalité effective.
 
