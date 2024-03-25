@@ -87,7 +87,7 @@
     </div>
     <footer class="my-grid mt-6 font-sans md:text-sm">
       <div class="space-y-2 hidden md:block">
-        <p>&copy; Institut des Hautes Etudes Islamiques, 2022</p>
+        <p>&copy; Institut des Hautes Études Islamiques, 2024</p>
         <p>
           <a
             class="link underline flex space-x-2"
@@ -125,7 +125,7 @@
             class="link underline block"
             target="_blank"
             href="https://www.genesicom.com"
-            >Credits</a
+            >Crédits</a
           >
         </p>
       </div>
@@ -167,7 +167,7 @@
       </div>
 
       <div class="space-y-2 md:hidden text-sm">
-        <p>&copy; Institut des Hautes Etudes Islamiques, 2021</p>
+        <p>&copy; Institut des Hautes Études Islamiques, 2024</p>
         <p>
           <a
             class="link underline flex space-x-2"
