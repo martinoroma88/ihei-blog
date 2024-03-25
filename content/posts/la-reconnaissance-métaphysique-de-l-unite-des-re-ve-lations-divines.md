@@ -48,7 +48,7 @@ De la même façon, selon une expression doctrinale bien connue, la conception d
 
 Chaque fois qu’un tel équilibre est rompu, on risque fort de tomber, d’un côté, dans l’abstraction mentale, de l’autre, dans le «&nbsp;panthéisme&nbsp;», et toute hérésie peut, en définitive, être rapportée à l’une de ces deux tendances. C’est à travers des attestations apparemment inconciliables que le Coran nous appelle à la nécessité de maintenir cet équilibre&nbsp;: «&nbsp;Rien n’est semblable à Lui, et Il est Celui qui entend et qui sait.&nbsp;»[^10] Ibn Arabî s’exprime à ce propos, en témoignant d’une polarisation des aspects divins qui se multiplient comme en une série de miroirs se faisant face&nbsp;: 
 
->  L’éloignement ne l’empêche pas d’entendre, car Il est le Proche (*al-Qarîb*), et la proximité ne L’empêche pas de voir car Il est l’Eloigné (*al-Ba’îd*).[^11]
+>  L’éloignement ne l’empêche pas d’entendre, car Il est le Proche (*al-Qarîb*), et la proximité ne L’empêche pas de voir car Il est l’Éloigné (*al-Ba’îd*).[^11]
 
 La synthèse des dimensions de la transcendance et de l’immanence représente donc l’équilibre spirituel exprimé dans le *tawhîd*. Malheureusement, il arrive souvent qu’*Allâh* soit identifié comme un dieu spécifique à l’islam, qui présenterait seulement l’aspect de transcendance. Cela ne correspond en aucune manière à la doctrine orthodoxe. Au contraire, c’est souvent contre une telle déviation que la doctrine islamique a dû se défendre.
 
@@ -56,7 +56,7 @@ Par ailleurs, la définition du mot *tawhîd* peut être normalement rendue par 
 
 Mais, dès lors que le monothéisme est unique, pourquoi existe- t-il diverses religions&nbsp;? Le Principe, Dieu Lui-même, a en Lui diverses relations. Il existe donc la possibilité ontologique que la miséricorde divine manifeste dans l’unicité du «&nbsp;monothéisme&nbsp;» différentes Révélations, en raison de l’adaptation nécessaire d’une même Vérité aux possibilités de compréhension des hommes en des époques et des lieux différents. Selon une expression d’Ibn Arabî, 
 
-> Dieu a parlé \[...] par une Parole éternelle, sans commencement et sans fin, comme il en est de tous Ses autres Attributs, tels que Sa Science, Sa Volonté et Sa Puissance. C’est par elle qu’Il a parlé à Moïse et Il l’a appelée Thora&nbsp;; c’est par elle qu’Il a parlé à David et Il l’a appelée Psaumes, à Jésus et Il l’a appelée Evangile, à Muhammad et Il l’a appelée «&nbsp;Descente&nbsp;» et «&nbsp;Discrimination&nbsp;» —&nbsp;que les Prières de Dieu et Son Salut soient sur lui et sur eux tous&nbsp;![^12]
+> Dieu a parlé \[...] par une Parole éternelle, sans commencement et sans fin, comme il en est de tous Ses autres Attributs, tels que Sa Science, Sa Volonté et Sa Puissance. C’est par elle qu’Il a parlé à Moïse et Il l’a appelée Thora&nbsp;; c’est par elle qu’Il a parlé à David et Il l’a appelée Psaumes, à Jésus et Il l’a appelée Évangile, à Muhammad et Il l’a appelée «&nbsp;Descente&nbsp;» et «&nbsp;Discrimination&nbsp;» —&nbsp;que les Prières de Dieu et Son Salut soient sur lui et sur eux tous&nbsp;![^12]
 
 C’est en se fondant sur la convergence dans le Dieu unique que chaque tradition a reconnu et confirmé les Révélations qui l’ont précédée, comme elle a, dans le même temps, annoncé la Révélation successive. La diversité des traditions est donc providentielle, même si elle peut apparaître comme une épreuve, surtout en des temps où la réalité de l’unicité divine s’est voilée dans le c&oelig;ur des hommes. On lit dans le Coran&nbsp;: 
 
@@ -68,11 +68,11 @@ Pour considérer les mêmes choses dans une perspective géométrique, on peut r
 
 >  Votre Dieu est un Dieu unique. Il n’y a pas de dieu si ce n’est Lui, le Tout-Miséricordieux, le Très-Miséricordieux.[^14]
 
-La Révélation islamique manifeste la réalité universelle de l’amour divin à travers Ses Noms *ar-Rahmân*, le Tout-Miséricordieux, et *ar-Rahîm*, le Très-Miséricordieux, qui dérivent tous deux de la *rahmah*, la miséricorde, dont la racine évoque*ar-rahim*, la matrice maternelle. Selon une tradition prophétique&nbsp;: 
+La Révélation islamique manifeste la réalité universelle de l’amour divin à travers Ses Noms *ar-Rahmân*, le Tout-Miséricordieux, et *ar-Rahîm*, le Très-Miséricordieux, qui dérivent tous deux de la *rahmah*, la miséricorde, dont la racine évoque *ar-rahim*, la matrice maternelle. Selon une tradition prophétique&nbsp;: 
 
 >  Dieu a divisé la miséricorde en cent parts. Il en a conservé quatre-vingt dix-neuf auprès de Lui et en a fait descendre une sur terre. C’est grâce à cette part que les créatures se font mutuellement miséricorde et que la jument écarte son sabot de son poulain, de peur de l’atteindre.[^15]
 
-Aux temps du Prophète, l’adjectif rahmân n’était plus guère utilisé. Le message coranique vient en renouveler le sens. Aussi le Nom *ar-Rahmân* constitue-t-il le signe caractéristique de la révélation coranique, comme peut l’être, pour les juifs, le Nom divin ineffable, *ha-shem*, et, pour les chrétiens, le Nom du Père. 
+Aux temps du Prophète, l’adjectif *rahmân* n’était plus guère utilisé. Le message coranique vient en renouveler le sens. Aussi le Nom *ar-Rahmân* constitue-t-il le signe caractéristique de la révélation coranique, comme peut l’être, pour les juifs, le Nom divin ineffable, *ha-shem*, et, pour les chrétiens, le Nom du Père. 
 
 >  Invoquez Dieu ou invoquez le Tout-Miséricordieux. Quel que soit le Nom que vous invoquiez, à Lui sont les plus beaux Noms.[^16]
 
