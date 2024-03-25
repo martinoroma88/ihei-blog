@@ -47,7 +47,7 @@
 </template>
 
 <script>
-const PER_PAGE = 12;
+const PER_PAGE = 6;
 
 export default {
   async asyncData({ $content, params, error }) {
