@@ -11,7 +11,7 @@ annexes:
 ---
 L’année 2021 marque le millénaire de la disparition du grand maître musulman Abû ‘Abd al-Rahmân al-Sulamî (936-1021).
 
-A l’occasion de la parution des *Quarante hadiths sur le soufisme* aux éditions Albouraq (octobre 2021), l’Institut des Hautes Études Islamiques lui rend hommage en organisant une conférence sur le thème&nbsp;: «&nbsp;Noblesse spirituelle et guérison de l’âme&nbsp;», le vendredi 22 octobre 2021, de 17h à 19h, à la grande mosquée de paris.
+À l’occasion de la parution des *Quarante hadiths sur le soufisme* aux éditions Albouraq (octobre 2021), l’Institut des Hautes Études Islamiques lui rend hommage en organisant une conférence sur le thème&nbsp;: «&nbsp;Noblesse spirituelle et guérison de l’âme&nbsp;», le vendredi 22 octobre 2021, de 17h à 19h, à la grande mosquée de paris.
 
 Programme&nbsp;:
 
@@ -20,12 +20,12 @@ Programme&nbsp;:
 * Bariza KHIARI, présidente de l’Institut des Cultures d’Islam
 * Abd-al-Wadoud GOURAUD, traducteur des *Quarante hadiths sur le soufisme*
 
-*[1ère vidéo](https://www.youtube.com/watch?v=55VXdM-674A&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN)*
+*[1<sup>ère</sup> vidéo](https://www.youtube.com/watch?v=55VXdM-674A&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN)*
 
-*[2ème vidéo](https://www.youtube.com/watch?v=LEA7BHryr4Q&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN&index=2)*
+*[2<sup>e</sup> vidéo](https://www.youtube.com/watch?v=LEA7BHryr4Q&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN&index=2)*
 
-*[3ème vidéo](https://www.youtube.com/watch?v=XKdbI5w1-vQ&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN&index=3)*
+*[3<sup>e</sup> vidéo](https://www.youtube.com/watch?v=XKdbI5w1-vQ&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN&index=3)*
 
-*[4ème vidéo](https://www.youtube.com/watch?v=qygjXF2jOHU&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN&index=4)*
+*[4<sup>e</sup> vidéo](https://www.youtube.com/watch?v=qygjXF2jOHU&list=PL8SfYzzX-i3mOKSXHmwksLBXZojXQL8uN&index=4)*
 
 ![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1635753344/4e%CC%80me_vide%CC%81o_xcsg3q.png "Conférence à la Grande Mosquée de Paris 22 octobre 2021")
