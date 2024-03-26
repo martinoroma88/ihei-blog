@@ -7,7 +7,7 @@ auteur: Imam Yahya Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619979592/ihei/23669114_1627686063978779_5223221077902671818_o_g96yyd.jpg
 category: Soufisme et Spiritualités
 ---
-*Ô âme pacifiée –&nbsp;retourne à ton Seigneur satisfaisante et satisfaite –&nbsp;entre ainsi parmi Mes serviteurs –&nbsp;entre ainsi dans Mon Paradis.*
+*Ô âme pacifiée —&nbsp;retourne à ton Seigneur satisfaisante et satisfaite —&nbsp;entre ainsi parmi Mes serviteurs —&nbsp;entre ainsi dans Mon Paradis.*
 
 Surat al-Fajr, L’Aube, 99*&nbsp;*: 27-30
 
