@@ -8,7 +8,7 @@ category: Islam en pratique
 ---
 La vie après la mort dans la tradition islamique
 
-«&nbsp;A Dieu nous appartenons et c’est vers Lui que ce fera le retour&nbsp;»
+«&nbsp;À Dieu nous appartenons et c’est vers Lui que ce fera le retour&nbsp;»
 Sourate 2, verset 156
 
 Ce verset tiré du Saint Coran, Parole de Dieu fait Livre pour les musulmans, est celui qui est le plus communément rappelé à l’occasion de la disparition d’une personne chère. Nous appartenons à Dieu, et à Dieu seulement. Pendant un instant, la disparition d’une personne représente le rappel de la disparition de ses spécificités, un rappel à la relativité de son corps, de son caractère, de ses œuvres, de son histoire, même de sa religion.
