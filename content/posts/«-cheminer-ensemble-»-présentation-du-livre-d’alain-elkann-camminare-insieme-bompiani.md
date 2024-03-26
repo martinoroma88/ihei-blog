@@ -11,7 +11,7 @@ Pour mieux illustrer qui sont les protagonistes du livre œcuménique d’Alain 
 
 Nous étions à Assise, en 1986, lors de la rencontre voulue par Saint Jean-Paul II, disposés en demi-cercle&nbsp;: d’un côté, étaient assis les représentants de la tradition judéo-chrétienne, et de l’autre, dans l’ordre alphabétique, se trouvaient tous les autres participants, parmi lesquels moi-même qui représentait l’unique mosquée fondée par le Centre Islamique Culturel de Rome.
 
-Je me souviens lorsque, à la fin de l’interlocution du Rav Toaff, qui parla le premier, l’ensemble des représentants chrétiens vinrent sur l’estrade, il se retrouva seul “primus inter pares” («&nbsp;premier parmi les pairs&nbsp;»).
+Je me souviens lorsque, à la fin de l’interlocution du Rav Toaff, qui parla le premier, l’ensemble des représentants chrétiens vinrent sur l’estrade, il se retrouva seul “*primus inter pares*” («&nbsp;premier parmi les pairs&nbsp;»).
 
 Lorsque, ensuite, à la fin de la cérémonie, les deux parties se séparèrent, Rav Toaff vint vers moi et, avec son esprit typiquement livournais, me dit&nbsp;: «&nbsp;Vous avez vu, Pallavicini&nbsp;? Ils m’ont laissé tout seul.&nbsp;» «&nbsp;La prochaine fois, lui répondis-je, venez-vous asseoir avec nous&nbsp;!&nbsp;»
 
@@ -19,7 +19,7 @@ Voir tant de fidèles ensemble, réunis en cercle, pour moi qui suis musulman, m
 
 > Si Dieu l’avait voulu, Il aurait fait de vous une seule communauté, mais Il a voulu vous éprouver par le don qu’Il vous a fait. Rivalisez donc dans les bonnes actions&nbsp;: votre retour à tous se fera vers Dieu, et c’est alors qu’Il vous informera à propos de ce sur quoi vous divergez. (Cor. V, 53)
 
-Comme les rayons de ce cercle que vous êtes en train de former, chacun de nous fera son pèlerinage à partir du point où il se situe - ce point nodal de la croix, à l’intersection de nos situations spatio-temporelles - en acceptant son destin sur terre et en portant sa croix vers le point central du cercle qui nous rapproche tous&nbsp;: ce symbole central et solaire de notre Unique vrai Dieu.
+Comme les rayons de ce cercle que vous êtes en train de former, chacun de nous fera son pèlerinage à partir du point où il se situe —&nbsp;ce point nodal de la croix, à l’intersection de nos situations spatio-temporelles&nbsp;— en acceptant son destin sur terre et en portant sa croix vers le point central du cercle qui nous rapproche tous&nbsp;: ce symbole central et solaire de notre Unique vrai Dieu.
 
 Acceptation, tel est en effet le sens véritable du mot «&nbsp;islam&nbsp;», tout comme *muslim*, musulman, est celui qui accepte la Révélation, la Loi et le Messager qui a été envoyé par Dieu, depuis Adam, premier Prophète islamique, jusqu’à Muhammad (sur lui la Paix et la Bénédiction de Dieu), à travers la Parole divine, qui s’est faite Loi pour Moïse, Homme dans le christianisme, et Livre, le Saint Coran, pour nous qui sommes la dernière communauté d’Abraham (que la Paix soit sur tous les Prophètes).
 
@@ -27,9 +27,9 @@ Il n’y a donc pas de religions différentes, mais seulement des communautés d
 
 C’est là le pèlerinage que nous devons entreprendre dans notre vie, telle est la montée au sommet, l’ascension intérieure que nous devons réaliser à partir du point où nous nous trouvons. Même si nous partons de situations apparemment opposées, elles se rejoignent et convergent vers le même point central, là où nous nous rencontrerons tous à la fin.
 
-En 1988, j’avais été invité à un grand événement qui s’est tenu dans le stade de Macerata, à l’occasion du pèlerinage à Notre-Dame de Lorette. Après la Sainte Messe, je me suis adressé au 15.000 fidèles présents, en leur disant&nbsp;:
+En 1988, j’avais été invité à un grand événement qui s’est tenu dans le stade de Macerata, à l’occasion du pèlerinage à Notre-Dame de Lorette. Après la Sainte Messe, je me suis adressé au 15 000 fidèles présents, en leur disant&nbsp;:
 
-> Vous êtes sur le point de vous acheminer en pèlerinage vers le sanctuaire de Marie, la Vierge par excellence, comme dit le Saint Coran&nbsp;; de même, nous, musulmans, à La Mecque, nous montons à la plaine de ’Arafah où, durant une seule journée de l’année, plus de deux millions de croyants se retrouvent, sous un soleil de plomb, vêtus de deux tissus de lin blanc, pour prier Dieu, presqu’une anticipation du jour du Jugement, lorsque nous serons appelés par le Messie dont nous attendons tous la seconde venue.
+> Vous êtes sur le point de vous acheminer en pèlerinage vers le sanctuaire de Marie, la Vierge par excellence, comme dit le Saint Coran&nbsp;; de même, nous, musulmans, à La Mecque, nous montons à la plaine de ‘Arafah où, durant une seule journée de l’année, plus de deux millions de croyants se retrouvent, sous un soleil de plomb, vêtus de deux tissus de lin blanc, pour prier Dieu, presqu’une anticipation du jour du Jugement, lorsque nous serons appelés par le Messie dont nous attendons tous la seconde venue.
 
 Ne soyons donc pas tentés de nous rencontrer au pied de la montagne pour tourner autour, pour nous donner la main dans une espèce de ronde œcuménique qui nous fait oublier le chemin à parcourir&nbsp;; la vraie rencontre est au sommet, en Dieu, et nous ne sommes frères que parce que nous avons tous le même «&nbsp;Père&nbsp;».
 
