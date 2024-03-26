@@ -25,7 +25,7 @@ Hadîth&nbsp;: «&nbsp;Jeûnez à sa vision (c’est-à-dire du *hilâl*) et rom
 > 2. On refuse toute prévision par le calcul et on attend une vision oculaire. Le problème est&nbsp;: Est-on bien sûr d’avoir vu le *hilâl* et pas autre chose (un nuage, ou une traînée de jet, par exemple)&nbsp;? 
 > 3. On attend une vision oculaire mais on accepte la vérification par le calcul, pour être sûr que c’est bien le *hilâl* qui a été vu. 
 >
-> Les trois options peuvent donner des résultats différents, d’où les désaccords au sein de la *ummah*. A cela s’ajoute le fait que certains privilégient la vision locale, ou vision du pays (*ru’yat-al-bilâd*), alors que d’autres voudraient que tous les musulmans du monde jeûnent en même temps, une idée nouvelle née de la globalisation et du développement des moyens de communication.
+> Les trois options peuvent donner des résultats différents, d’où les désaccords au sein de la *ummah*. À cela s’ajoute le fait que certains privilégient la vision locale, ou vision du pays (*ru’yat-al-bilâd*), alors que d’autres voudraient que tous les musulmans du monde jeûnent en même temps, une idée nouvelle née de la globalisation et du développement des moyens de communication.
 
 ***3. La France doit-elle suivre d’autres pays musulmans&nbsp;?*** 
 
