@@ -7,7 +7,7 @@ auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619815734/ihei/AbdalWahidPallavicini2_zbpq7v.png
 category: Soufisme et Spiritualités
 ---
-Les membres de l’Institut des Hautes Études Islamiques sont heureux de célébrer le quatre-vingt-dixième anniversaire de leur Président d’honneur, le Shaykh Abd al-Wahid Pallavicini. A cette occasion, il leur paraît important de retracer brièvement son exceptionnel itinéraire intellectuel et spirituel.
+Les membres de l’Institut des Hautes Études Islamiques sont heureux de célébrer le quatre-vingt-dixième anniversaire de leur Président d’honneur, le Shaykh Abd al-Wahid Pallavicini. À cette occasion, il leur paraît important de retracer brièvement son exceptionnel itinéraire intellectuel et spirituel.
 
 «&nbsp;Rien de personnel&nbsp;» a pourtant déclaré le Shaykh Abd al-Wahid Pallavicini à la délégation qui venait le féliciter. Une formule qui résume une vie entière à la recherche d’une Vérité qui nous dépasse tous. Ce maître spirituel de 90 ans, dont 65 ans passées en tant que musulman italien, est le premier de l’époque contemporaine à avoir donné le témoignage d’un parcours de l’islam en Occident, à avoir rapporté, avec force et patience, la spiritualité islamique en Italie 700 ans après Frédéric II et les échanges intellectuel du Moyen Âge, et à avoir influencé profondément la vie de plusieurs générations de disciples.
 
