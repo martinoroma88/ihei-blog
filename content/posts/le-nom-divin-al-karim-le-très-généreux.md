@@ -38,7 +38,7 @@ La Noblesse et la Générosité sont chez Lui des Qualités sublimes, des Attrib
 >
 > Tu avertis seulement celui qui suit le Rappel, et craint le Tout-Miséricordieux, bien qu’il ne Le voit pas. Annonce-lui un pardon et une récompense généreuse (*ajr karîm*). (36&nbsp;: 11)
 >
-> Ceux-là sont les vrais croyants. A eux des degrés élevés auprès de leur Seigneur, ainsi qu’un pardon et une dotation généreuse (*rizq karîm*). (8&nbsp;: 4)
+> Ceux-là sont les vrais croyants. À eux des degrés élevés auprès de leur Seigneur, ainsi qu’un pardon et une dotation généreuse (*rizq karîm*). (8&nbsp;: 4)
 
 Le Coran enseigne encore que les fils d’Adam sont nobles par nature, parce qu’ils ont été ennoblis par le Noble et Généreux absolu&nbsp;: «&nbsp;Il créa Adam selon Sa forme&nbsp;», lui insuffla le souffle de Son Esprit, lui fit don de la Connaissance, fit de lui Son vicaire sur terre, lui confia le dépôt de confiance. L’homme a reçu d’innombrables dons généreux de la part d’Allah.
 
