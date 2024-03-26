@@ -16,7 +16,7 @@ category: Dialogue interreligieux
 >
 > **Meilleurs vœux œcuméniques pour les bénédictions de Noël avec l’espoir d’une année 2022 pleine de santé, de développement et de collaboration.** 
 
-A la demande du président de la Commission Européenne Ursula von der Leyen, une réunion extraordinaire des leaders religieux, Extraordinary High-Level Meeting with Religious Leaders, a été convoquée ce vendredi matin 10 décembre.
+À la demande du président de la Commission Européenne Ursula von der Leyen, une réunion extraordinaire des leaders religieux, Extraordinary High-Level Meeting with Religious Leaders, a été convoquée ce vendredi matin 10 décembre.
 
 La réunion a été introduite par le vice-président Margaritis Schinas, référent pour les programmes relatifs à l’article 17, portant sur le dialogue avec les organisations confessionnelles en Europe.
 
@@ -24,7 +24,7 @@ Dans la lettre de convocation adressée à l’imam Yahya Pallavicini, présiden
 
 La réunion fait suite au retrait des «&nbsp;lignes directrices&nbsp;» de la Commission Européenne sur la «&nbsp;communication inclusive&nbsp;» dans lesquelles semblaient prévaloir l’opportunité de ne pas expliciter l’identité des festivités lors des vœux exprimées pour les fêtes de Noël.
 
-A la réunion extraordinaire ont participé des représentants de sept confessions religieuses&nbsp;: l’évêque Noel Treanor, vice-président de la Conférence épiscopale auprès de l’Union européenne (COMECE), Lakshmi Viyas, président du Forum Hindouiste Européen, Ron Eichhorn, président de l’Union Bouddhiste Européenne, Albert Guigui, grand-rabbin de Bruxelles, Rev. Sorin Selaru, directeur de la représentation de l’Eglise orthodoxe roumaine auprès des Institutions européennes (CROCEU), imam Yahya Pallavicini, coordinateur EULEMA Conseil des Leaders Musulmans d’Europe, Rev. Christian Krieger, président de la Conférence des Églises Européennes (CEC).
+A la réunion extraordinaire ont participé des représentants de sept confessions religieuses&nbsp;: l’évêque Noel Treanor, vice-président de la Conférence épiscopale auprès de l’Union européenne (COMECE), Lakshmi Viyas, président du Forum Hindouiste Européen, Ron Eichhorn, président de l’Union Bouddhiste Européenne, Albert Guigui, grand-rabbin de Bruxelles, Rev. Sorin Selaru, directeur de la représentation de l’Église orthodoxe roumaine auprès des Institutions européennes (CROCEU), imam Yahya Pallavicini, coordinateur EULEMA Conseil des Leaders Musulmans d’Europe, Rev. Christian Krieger, président de la Conférence des Églises Européennes (CEC).
 
 Nous publions ci-après l’intervention de l’imam Yahya Pallavicini, président de l’Institut des Hautes Études Islamiques (IHEI) et de la COREIS (Communauté Religieuse Islamique) Italienne.
 
