@@ -28,7 +28,7 @@ C’est dans cette perspective de la Révélation que se situe l’aspect compl�
 
 Si le texte sacré rappelle, d’une part, que l’Essence de Dieu est inépuisable et incomparable, de l’autre, il répète que «&nbsp;Dieu est chaque jour à l’&oelig;uvre&nbsp;».[^5] Il façonne à chaque instant la création à l’image de Ses attributs. Selon les mots du Coran, 
 
->  Il est Dieu, le Créateur, le Producteur, Celui qui donne la forme. A Lui sont les plus beaux noms. Tout ce qui est dans les cieux et sur la terre chante Sa louange. Il est le Puissant, le Sage.[^6]
+>  Il est Dieu, le Créateur, le Producteur, Celui qui donne la forme. À Lui sont les plus beaux noms. Tout ce qui est dans les cieux et sur la terre chante Sa louange. Il est le Puissant, le Sage.[^6]
 
 Dieu comprend en Lui toute la multiplicité, exprimée par la diversité de Ses noms, qui doit être entendue en un sens qualitatif et non quantitatif. 
 
@@ -38,7 +38,7 @@ C’est pour cette raison que le Coran dit que l’on ne peut affirmer que «&nb
 
 > C’est ainsi que s’unissent indivisiblement les deux points de vue complémentaires de «&nbsp;l’unité dans la multiplicité et la multiplicité dans l’unité&nbsp;» au point central de toute manifestation qui est le «&nbsp;lieu divin&nbsp;» ou la «&nbsp;station divine&nbsp;».[^8]
 
-La multiplicité des Noms divins représente le miroir de l’Essence divine qui ne peut être saisie en Elle-même, mais seulement dans le reflet de Ses qualités. A travers Ses Noms, c’est Dieu Lui-même qui Se décrit. Le nom *Allâh*, qui manifeste la synthèse de tous les Noms (*al-ism al-jâmi’*) ne représente pas le dieu particulier des musulmans. En affirmant l’unicité de Dieu, ceux-ci ont la conscience immédiate qu’Il est le Dieu de tous les hommes, comme cela est rapporté à de nombreuses reprises dans le Coran&nbsp;: 
+La multiplicité des Noms divins représente le miroir de l’Essence divine qui ne peut être saisie en Elle-même, mais seulement dans le reflet de Ses qualités. À travers Ses Noms, c’est Dieu Lui-même qui Se décrit. Le nom *Allâh*, qui manifeste la synthèse de tous les Noms (*al-ism al-jâmi’*) ne représente pas le dieu particulier des musulmans. En affirmant l’unicité de Dieu, ceux-ci ont la conscience immédiate qu’Il est le Dieu de tous les hommes, comme cela est rapporté à de nombreuses reprises dans le Coran&nbsp;: 
 
 > Dites&nbsp;: «&nbsp;nous croyons à Dieu et à ce qu’Il a fait descendre sur nous, à ce qu’Il a fait descendre sur Abraham, Ismaël, Isaac, Jacob et les Tribus, à ce qui a été donné à Moïse et à Jésus, à ce qui a été donné aux prophètes de la part de leur Seigneur&nbsp;; nous ne faisons de différence entre aucun d’eux, et nous sommes soumis à Dieu&nbsp;».[^9]
 
@@ -60,7 +60,7 @@ Mais, dès lors que le monothéisme est unique, pourquoi existe- t-il diverses r
 
 C’est en se fondant sur la convergence dans le Dieu unique que chaque tradition a reconnu et confirmé les Révélations qui l’ont précédée, comme elle a, dans le même temps, annoncé la Révélation successive. La diversité des traditions est donc providentielle, même si elle peut apparaître comme une épreuve, surtout en des temps où la réalité de l’unicité divine s’est voilée dans le c&oelig;ur des hommes. On lit dans le Coran&nbsp;: 
 
->  A chacun d’entre vous, Nous avons donné une Loi et une Voie. Si Dieu l’avait voulu, Il aurait fait de vous une seule communauté. Mais Il a voulu vous éprouver par le don qu’Il vous a fait. Rivalisez entre vous dans les bonnes actions. Votre retour à tous se fera vers Dieu. C’est alors qu’Il vous informera à propos de vos désaccords.[^13]
+>  À chacun d’entre vous, Nous avons donné une Loi et une Voie. Si Dieu l’avait voulu, Il aurait fait de vous une seule communauté. Mais Il a voulu vous éprouver par le don qu’Il vous a fait. Rivalisez entre vous dans les bonnes actions. Votre retour à tous se fera vers Dieu. C’est alors qu’Il vous informera à propos de vos désaccords.[^13]
 
 Il ressort nettement de ces considérations que l’exclusivisme intégriste n’est pas du tout fondé du point de vue doctrinal.
 
@@ -86,7 +86,7 @@ Si le soleil du *tawhîd* dissipe les ténèbres de l’ignorance et éclaire le
 
 Dans la transparence cristalline du réceptacle prophétique, la pureté incolore de la lumière divine se réfracte dans la pureté de la parole coranique&nbsp;; le Prophète est l’isthme, *barzakh*, à travers lequel le mystère infini et insondable de Dieu fait irruption dans la réalité finie de Sa manifestation. C’est pour cela qu’il est dit que la Révélation représente une nouvelle création.
 
-Nous voudrions aussi rappeler que le terme «&nbsp;prophétie&nbsp;» doit être compris, dans l’islam, selon un sens beaucoup plus profond que la conception qui a cours actuellement en Occident. Cette dernière prend sa source chez les devins de l’antiquité plutôt que dans le prophétisme biblique et évangélique. A la question qui lui était posée au sujet du caractère du Prophète, sa femme, ‘A’ishah, répondit&nbsp;: «&nbsp;son caractère était comme le Coran&nbsp;», témoignant ainsi de l’identité intérieure du Prophète avec le Livre révélé. Une telle identité apparaît de façon encore plus surprenante quand le Prophète dit de lui-même&nbsp;: 
+Nous voudrions aussi rappeler que le terme «&nbsp;prophétie&nbsp;» doit être compris, dans l’islam, selon un sens beaucoup plus profond que la conception qui a cours actuellement en Occident. Cette dernière prend sa source chez les devins de l’antiquité plutôt que dans le prophétisme biblique et évangélique. À la question qui lui était posée au sujet du caractère du Prophète, sa femme, ‘A’ishah, répondit&nbsp;: «&nbsp;son caractère était comme le Coran&nbsp;», témoignant ainsi de l’identité intérieure du Prophète avec le Livre révélé. Une telle identité apparaît de façon encore plus surprenante quand le Prophète dit de lui-même&nbsp;: 
 
 > celui qui me voit, voit la Vérité (*man ra’ânî fa-qad ra’â-l-haqq*).
 
