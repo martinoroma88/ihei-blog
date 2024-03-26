@@ -38,7 +38,6 @@ Ibn Arabî, le plus grand des maîtres, enseigne quelques unes des caractéristi
 
 *Vincit Omnia Veritas*. C’est la connaissance de la vérité qui est la condition , de la sincérité véritable. Ceux qui sont trompés plus ou moins consciemment par le *Dajjâl* ont oublié que cette vérité vivante sera manifestée, à la fin des temps, par la descente, «&nbsp;près du minaret blanc à l’Est de Damas&nbsp;», de notre Seigneur Jésus, Esprit de Dieu, qui viendra, en jugeant comme un arbitre équitable (*hakum ‘adi*), manifester la réunion de l’autorité spirituelle (*hukm*) et du pouvoir temporel (*amr*) en leur principe commun, puisqu’il portera un vêtement de deux couleurs. Il réalisera spirituellement toute la connaissance possible. En effet, ne dit-on pas que le «&nbsp;parfum de son souffle (*rîh an-nafas*) ira aussi loin que le regard&nbsp;»[^35] Puisse Dieu nous aider à nous inspirer de ce souffle vivifiant.
 
-[^1]: Bukhârî.
 [^2]: Coran 33&nbsp;: 72.
 [^3]: René Guenon, *Initiation et réalisation spirituelle*, Éditions Traditionnelles, p. 96.
 [^4]: Coran 3&nbsp;: 103.
