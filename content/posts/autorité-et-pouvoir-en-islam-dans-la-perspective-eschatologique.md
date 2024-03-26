@@ -82,7 +82,7 @@ Ibn Arabî, le plus grand des maîtres, enseigne quelques unes des caractéristi
 
 [^22]: Coran 17&nbsp;: 85.
 
-[^23]: Cette tradition ne se trouve pas dans les recueils canoniques. Elle est citée notamment par Ibn Khaldûn dans sa *Muqaddimah*, 3e partie, Chap.28.
+[^23]: Cette tradition ne se trouve pas dans les recueils canoniques. Elle est citée notamment par Ibn Khaldûn dans sa *Muqaddimah*, 3<sup>e</sup> partie, Chap.28.
 
 [^24]: Ibn Mâjah.
 
