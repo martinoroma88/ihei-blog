@@ -1,7 +1,7 @@
 ---
 titre: Muhammad et les chrétiens
 vedette: false
-date: 2024-03-27T16:05:58.865Z
+date: 2010-03-10T16:05:58.865Z
 auteur: Abd-al-Qayyoum Guerre-Genton
 category: Dialogue interreligieux
 ---
