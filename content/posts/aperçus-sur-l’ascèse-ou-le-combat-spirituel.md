@@ -3,6 +3,7 @@ titre: Aperçus sur l’ascèse ou le combat spirituel
 vedette: false
 date: 2007-09-21T20:14:11.329Z
 auteur: AbdAllah Yahya Darolles
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711575846/8381266_dscn4319_t9t0iu.jpg
 category: Islam en pratique
 ---
 S’il est aujourd’hui un terme particulièrement galvaudé, c’est bien celui de *jihâd* et l’appréhension de la réalité qu’il exprime est, par voie de conséquence, des plus délicates. Il est vrai que, de manière générale, la traduction d’une langue sacrée en langue commune, comme le sont les langues occidentales actuelles, s’avère être une entreprise difficile dans la mesure où ces dernières manquent de termes appropriés et sont fort peu métaphysiques, alors que le Coran, comme tout texte sacré, et selon la Tradition Prophétique a un sens extérieur (*zahir*) et un sens intérieur (*batin*). Si nous ne devons nullement en négliger le sens apparent, il nous appartient pourtant d’ouvrir notre cœur à la perception des «&nbsp;allusions subtiles&nbsp;» que chaque verset recèle en nombre inépuisable.
