@@ -1,8 +1,9 @@
 ---
 titre: L’Universalité du monothéisme abrahamique
 vedette: false
-date: 2024-03-27T15:52:16.332Z
+date: 2013-02-28T15:52:16.332Z
 auteur: Shaykh Abd al-Wahid Pallavicini
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711555429/dialogo1-500x372_vigcqz.jpg
 category: Dialogue interreligieux
 ---
 Pour me référer aux Prophètes communs aux trois Révélations que sont le judaïsme, le christianisme et l’islam, nous devons avant tout noter que leur identité n’est pas différente&nbsp;: chaque Prophète est unique et le même pour tous, ce qui change en réalité, c’est l’interprétation qu’on en donne selon les expressions théologiques de telle ou telle Révélation.
