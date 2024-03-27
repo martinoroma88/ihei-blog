@@ -3,6 +3,7 @@ titre: L’alchimie du Bonheur
 vedette: false
 date: 2012-09-27T20:47:07.517Z
 auteur: IHEI
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711577030/pngtree-bismillah-in-kufi-calligraphy-png-image_14378_tet2qr.jpg
 category: Soufisme et Spiritualités
 ---
 Comme nous l’avons entendu, l’Alchimie du Bonheur est un itinéraire de connaissance qui implique une transformation, de la réalité de l’existence individuelle à la réalité de cette «&nbsp;supra-personnalité&nbsp;», c’est-à-dire l’archétype selon lequel Dieu a façonné l’homme à Sa ressemblance. 
