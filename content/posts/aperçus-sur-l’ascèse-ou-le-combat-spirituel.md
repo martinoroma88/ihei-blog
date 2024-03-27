@@ -1,7 +1,7 @@
 ---
 titre: Aperçus sur l’ascèse ou le combat spirituel
 vedette: false
-date: 2024-03-27T21:14:11.329Z
+date: 2007-09-21T20:14:11.329Z
 auteur: AbdAllah Yahya Darolles
 category: Islam en pratique
 ---
