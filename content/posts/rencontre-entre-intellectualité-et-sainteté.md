@@ -46,3 +46,7 @@ De telles conceptions lui vaudront d’être accusé d’apostasie, de syncréti
 Ces forces, que René Guénon appelait la contre-tradition, sont d’autant plus actives maintenant que presque plus personne ne croit en Dieu, et encore moins au diable. Ainsi ce dernier est-il libre d’opérer non seulement en dehors des structures des différentes formes religieuses, mais aussi en leur sein, en essayant de fausser la conception de leur équivalence pour bâtir d’aberrants mélanges syncrétistes, non seulement doctrinaux mais aussi rituels, conduits par de faux maîtres.
 
 Le Shaykh Ahmad al-’Alawî lui-même ne fut pas exempt d’attaques et de critiques, à cause de son universalisme et de sa capacité à vérifier la sacralité d’autres formes religieuses sans pour autant s’éloigner de l’orthodoxie de la Loi islamique, malgré les remarques qui lui furent adressées à cet égard par les habituels docteurs de la loi. Ainsi, quand on lui reprocha un jour que son *tasbîh*, son chapelet, rappelait la forme d’une croix, le Shaykh se leva en ouvrant les bras à la hauteur des épaules et demanda : «&nbsp;Et nous&nbsp;? A quelle forme ressemblons-nous&nbsp;?&nbsp;»
+
+[^1]: *Le Symbolisme de la Croix*, Editions Véga.
+[^2]: Cité par Martin Lings dans *A Moslem Saint of the Twentieth Century*, Allen & Unwin, Londres, 1961. Une traduction est parue récemment sous le titre : *Un Saint soufi du vingtième siècle*, Le Seuil, Paris.
+[^3]: *Ibid*.
