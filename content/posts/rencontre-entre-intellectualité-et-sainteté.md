@@ -3,6 +3,7 @@ titre: Rencontre entre intellectualité et sainteté
 vedette: false
 date: 2003-05-20T19:24:07.952Z
 auteur: Shaykh Abd-al-Wahid Pallavicini
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711573915/23630_1378908468930_1118447655_31130490_7167228_n_zams8o.jpg
 category: Soufisme et Spiritualités
 ---
 L’association entre René Guénon et le Shaykh Ahmad al-‘Alâwî (que Dieu soit satisfait d’eux) n’est certainement pas arbitraire, parce que ces deux personnalités furent contemporaines et eurent l’occasion, sinon de se rencontrer personnellement, du moins de correspondre entre Mostaganem et Le Caire. Si nous ne savons presque rien du contenu de leurs rapports épistolaires, nous connaissons bien la réaction que ces deux hommes exceptionnels provoquèrent, non seulement de la part de leurs compatriotes, mais aussi de ceux qui eurent la chance de les connaître personnellement pendant leur vie.
