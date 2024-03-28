@@ -4,6 +4,7 @@ vedette: false
 date: 2005-07-15T10:34:10.763Z
 url: ""
 auteur: AbdAllah Yahya Darolles
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711642697/1711642608736_q4vnan.jpg
 category: Soufisme et Spiritualités
 annexes: []
 ---
