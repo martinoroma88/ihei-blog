@@ -5,7 +5,7 @@ date: 2008-10-31T10:43:56.708Z
 auteur: Abd al-Wadoud Yahya Gouraud
 category: Islam en pratique
 ---
-> En vérité, Nous avons proposé le dépôt sacré aux Cieux, à la Terre et aux montagnes, mais tous refusèrent d’en assumer la responsabilité, et en furent effrayés. C’est l’homme qui s’en chargea, car il est injuste et ignorant. (33&nbsp;: 72)
+> En vérité, Nous avons proposé le dépôt sacré aux Cieux, à la Terre et aux montagnes, mais tous refusèrent d’en assumer la responsabilité, et en furent effrayés. C’est l’homme qui s’en chargea, car il est injuste et ignorant. (133&nbsp;: 72)
 
 Dieu a confié à l’être humain, en la personne d’Adam, le «&nbsp;dépôt sacré&nbsp;» qui constitue sa particularité dans la création, et dont «&nbsp;les cieux, la terre et les montagnes n’ont pas voulu se charger&nbsp;», non pas par opposition ou par désobéissance envers Dieu, mais par crainte du poids d’une telle responsabilité. Dieu est bien *al-Mu’min*, «&nbsp;le Croyant&nbsp;», Celui qui fait confiance en l’homme, auprès duquel Il a mis ce dépôt sacré.
 
