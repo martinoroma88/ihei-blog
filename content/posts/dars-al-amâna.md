@@ -5,7 +5,7 @@ date: 2008-10-31T10:43:56.708Z
 auteur: Abd al-Wadoud Yahya Gouraud
 category: Islam en pratique
 ---
-> En vérité, Nous avons proposé le dépôt sacré aux Cieux, à la Terre et aux montagnes, mais tous refusèrent d’en assumer la responsabilité, et en furent effrayés. C’est l’homme qui s’en chargea, car il est injuste et ignorant. (133&nbsp;: 72)
+> En vérité, Nous avons proposé le dépôt sacré aux Cieux, à la Terre et aux montagnes, mais tous refusèrent d’en assumer la responsabilité, et en furent effrayés. C’est l’homme qui s’en chargea, car il est injuste et ignorant.[^1]
 
 Dieu a confié à l’être humain, en la personne d’Adam, le «&nbsp;dépôt sacré&nbsp;» qui constitue sa particularité dans la création, et dont «&nbsp;les cieux, la terre et les montagnes n’ont pas voulu se charger&nbsp;», non pas par opposition ou par désobéissance envers Dieu, mais par crainte du poids d’une telle responsabilité. Dieu est bien *al-Mu’min*, «&nbsp;le Croyant&nbsp;», Celui qui fait confiance en l’homme, auprès duquel Il a mis ce dépôt sacré.
 
@@ -75,3 +75,17 @@ Certains commentaires des savants, comme le Shaykh Ahmad ibn Idris, mettent l’
 Dieu a donc confié à l’homme le dépôt sacré, par lequel il pourra, s’il reste fidèle, accéder aux plus hauts degrés spirituels, qu’aucune autre créature ne saurait atteindre. Si l’homme ne trahit pas la confiance divine, Dieu le fera ainsi entrer dans Son paradis où il lui sera donné de voir Sa face, et d’être vivifié par Dieu éternellement. Y a-t-il chose plus noble et plus élevée que celle-là&nbsp;? Quelle perte, quel échec pour celui qui se détourne du Royaume éternel et de la Grâce divine, par trahison envers le dépôt sacré en se perdant dans les vanités du monde éphémère, en troquant la demeure éternelle contre ce bas-monde périssable qui ne vaut, aux yeux de Dieu, pas plus que l’aile d’un moustique.
 
  Que Dieu fasse que nous soyons de ceux qui sont fidèles à Lui et au dépôt sacré&nbsp;!
+
+[^1]: Coran 133&nbsp;: 72.
+
+
+[^2]: 
+[^3]: 
+[^4]: 
+[^5]: 
+[^6]: 
+[^7]: 
+[^8]: 
+[^9]: 
+[^10]: 
+[^11]:
