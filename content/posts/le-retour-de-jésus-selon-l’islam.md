@@ -3,6 +3,7 @@ titre: Le retour de Jésus selon l’islam
 vedette: false
 date: 2012-12-04T22:16:43.650Z
 auteur: Yahya Pallavicini
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711644407/sky-night-star-milky-way-atmosphere-galaxy-138227-pxhere.com_rcsn0a.jpg
 category: Islam en pratique
 ---
 Il demeure encore peu connu, de nos jours, que la figure de Jésus occupe dans la Tradition islamique une place tout à fait unique et exceptionnelle. L’islam reconnaît non seulement la première venue de Jésus, mais fait de sa seconde venue à la fin des temps un élément fondamental de sa doctrine eschatologique. En effet, le retour de Jésus constitue, selon l’islam, un événement majeur de l’eschatologie universelle, marquant l’avènement de l’Heure dernière de ce monde, le Jour de la Résurrection où Dieu réunira l’humanité pour le Jugement dernier. 
