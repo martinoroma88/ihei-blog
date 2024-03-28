@@ -3,6 +3,7 @@ titre: Les musulmans face à la maladie
 vedette: false
 date: 2006-04-12T10:55:58.568Z
 auteur: Abd al-Qouddous Jibril Gouraud
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1603650879/samples/landscapes/nature-mountains.jpg
 category: Islam en pratique
 ---
 ![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1711540160/basmala7_qguk4q.jpg)
