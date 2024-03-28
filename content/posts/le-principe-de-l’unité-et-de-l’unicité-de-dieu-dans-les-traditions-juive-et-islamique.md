@@ -4,6 +4,7 @@ titre: Le principe de l’Unité et de l’Unicité de Dieu dans les traditions 
 vedette: false
 date: 2012-12-09T22:05:10.134Z
 auteur: Shaykh Abd-al-Wâhid Pallavicini
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711642338/1711642212224_acbtil.jpg
 category: Dialogue interreligieux
 ---
 ###### *Au nom de Dieu, le Tout-Miséricordieux, le Très-Miséricordieux*
