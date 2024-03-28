@@ -3,6 +3,7 @@ titre: Muhammad et les chrétiens
 vedette: false
 date: 2010-03-10T16:05:58.865Z
 auteur: Abd-al-Qayyoum Guerre-Genton
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711643627/sunset-4120824_1280_qtuvfs.jpg
 category: Dialogue interreligieux
 ---
 Le Coran cite de nombreux prophètes, depuis Adam le premier d’entre eux, jusqu’à Muhammad le sceau de la prophétie (*‘alayhimu-s-salâm*). Si le livre sacré de l’islam récapitule et confirme ainsi les messages divins précédents qui sont tous considérés comme des révélations islamiques, Jésus tient, parmi les messagers, une place toute particulière.
