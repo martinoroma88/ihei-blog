@@ -13,9 +13,9 @@ Les commentateurs ont beaucoup écrit sur la nature de cette *amâna* qui est le
 
 D’ailleurs, *amâna* et *îmân*, la foi, sont deux termes de la même racine en arabe&nbsp;: ainsi, les êtres humains ont reçu la foi en dépôt, de par leur nature spontanément tournée vers Dieu (la *fitra*). Au fur et à mesure que les siècles s’écoulent, l’Homme perd progressivement cette foi qui fit l’objet d’un pacte originel (*al-mîthâq*), conclu entre Dieu et lui, ainsi que cela est attesté dans le Coran par le verset fort connu&nbsp;: «&nbsp;Ne suis-Je pas votre Seigneur&nbsp;?&nbsp;» Les hommes répondirent&nbsp;: «&nbsp;Certes, nous en témoignons&nbsp;!&nbsp;» Les hommes, depuis la création d’Adam, sont les héritiers du dépôt sacré. Ils ont conclu avec Dieu le pacte initial. Mais tout au long de l’histoire, les hommes se sont montrés orgueilleux et ignorants, et ont oublié leur nature spirituelle originelle selon laquelle Dieu créa Adam avant sa sortie du Jardin. Aussi, dans Sa miséricorde, Dieu choisit-Il des prophètes pour révéler Sa lumière et rappeler aux hommes cet engagement. Ces prophètes envoyés par Dieu n’ont eu pour seul message que l’affirmation inlassable de l’unicité divine, le *tawhîd*. L’islam se présente comme un ultime rappel de cette vérité, qui constitue la religion immuable (*dîn qayyim*).
 
-Dépôt de la foi, ou dépôt des prescriptions légales, ce qui est ainsi proposé aux cieux, à la terre et aux montagnes leur semble trop pesant. L’homme accepte alors cette charge dont il ne mesure pas toute la portée, et se révèle *zhalûm jahûl*, transgresseur du pacte et ignorant de tout ce que cette charge impliquait. Selon une autre interprétation, c’est parce qu’il est injuste envers lui-même et ignorant de la portée de ses actes que l’homme accepte cette redoutable mission. L’injustice ou «&nbsp;l’obscurcissement&nbsp;» consiste à ne pas mettre les choses à leur place. Une fois la responsabilité acceptée, l’effort difficile consiste à s’y tenir fermement et à remplir ses engagements. A peine s’était-il chargé du dépôt sacré (entre le temps du ‘asr et la tombée de la nuit, selon Ibn ‘Abbas) qu’Adam commit l’acte de désobéissance qui entraîna sa chute du Paradis. C’est pourquoi, dans un autre verset, Dieu nous révèle&nbsp;:
+Dépôt de la foi, ou dépôt des prescriptions légales, ce qui est ainsi proposé aux cieux, à la terre et aux montagnes leur semble trop pesant. L’homme accepte alors cette charge dont il ne mesure pas toute la portée, et se révèle *zhalûm jahûl*, transgresseur du pacte et ignorant de tout ce que cette charge impliquait. Selon une autre interprétation, c’est parce qu’il est injuste envers lui-même et ignorant de la portée de ses actes que l’homme accepte cette redoutable mission. L’injustice ou «&nbsp;l’obscurcissement&nbsp;» consiste à ne pas mettre les choses à leur place. Une fois la responsabilité acceptée, l’effort difficile consiste à s’y tenir fermement et à remplir ses engagements. A peine s’était-il chargé du dépôt sacré (entre le temps du *‘asr* et la tombée de la nuit, selon Ibn ‘Abbas) qu’Adam commit l’acte de désobéissance qui entraîna sa chute du Paradis. C’est pourquoi, dans un autre verset, Dieu nous révèle&nbsp;:
 
-> Nous avions fait une recommandation à Adam avant sa chute, mais il l’oublia. Et Nous ne lui avons trouvé aucune ferme résolution. (20&nbsp;: 115)
+> Nous avions fait une recommandation à Adam avant sa chute, mais il l’oublia. Et Nous ne lui avons trouvé aucune ferme résolution.[^2]
 
 #### I
 
@@ -79,7 +79,9 @@ Dieu a donc confié à l’homme le dépôt sacré, par lequel il pourra, s’il
 [^1]: Coran 133&nbsp;: 72.
 
 
-[^2]: 
+[^2]: Coran 20&nbsp;: 115.
+
+
 [^3]: 
 [^4]: 
 [^5]: 
