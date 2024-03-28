@@ -23,13 +23,13 @@ Dépôt de la foi, ou dépôt des prescriptions légales, ce qui est ainsi propo
 
 ###### 1. La confiance du Propriétaire envers le dépositaire, qui ne doit pas la trahir&nbsp;:
 
-> Ô vous qui croyez&nbsp;! Ne trahissez pas Dieu et le Prophète, car ce serait trahir sciemment la confiance placée en vous&nbsp;! Sachez que vos richesses et vos enfants ne sont qu’une épreuve pour vous, et qu’auprès de Dieu il y a de magnifiques récompenses&nbsp;![^3] ()
+> Ô vous qui croyez&nbsp;! Ne trahissez pas Dieu et le Prophète, car ce serait trahir sciemment la confiance placée en vous&nbsp;! Sachez que vos richesses et vos enfants ne sont qu’une épreuve pour vous, et qu’auprès de Dieu il y a de magnifiques récompenses&nbsp;![^3]
 
 «&nbsp;sciemment&nbsp;», c’est-à-dire «&nbsp;alors que vous savez parfaitement&nbsp;»&nbsp;; vous savez que c’est Dieu qui vous a confié ce dépôt sacré, quel est l’engagement que vous avez pris avec Lui, et quelles sont vos obligations vis-à-vis de Lui.
 
 ###### 2. La responsabilité du dépositaire qui doit préserver le dépôt, et le faire fructifier&nbsp;:
 
-> Bienheureux, en vérité, sont les croyants \[...] qui respectent les dépôts qui leur sont confiés ainsi que leurs engagements, et qui s’acquittent régulièrement de leurs prières&nbsp;! Ce sont ceux-là les véritables héritiers auxquels reviendra le Paradis pour l’éternité. (23&nbsp;: 1-11)
+> Bienheureux, en vérité, sont les croyants \[...] qui respectent les dépôts qui leur sont confiés ainsi que leurs engagements, et qui s’acquittent régulièrement de leurs prières&nbsp;! Ce sont ceux-là les véritables héritiers auxquels reviendra le Paradis pour l’éternité.[^4]
 
 le respect des dépôts fait partie des qualités des croyants&nbsp;; il est cité juste avant le devoir de s’acquitter régulièrement des prières rituelles, c’est-à-dire qu’il va de paire avec la foi et la pratique religieuse. Les autres qualités mentionnées au début de cette sourate sont&nbsp;: prier avec recueillement et humilité, dédaigner toute futilité, s’acquitter de la *zakat*, s’abstenir de tout rapport charnel en dehors du mariage. Telles sont les qualités de la foi qui conduisent, par la grâce de Dieu, au Bonheur éternel dans l’Au-delà.
 
@@ -37,9 +37,9 @@ le respect des dépôts fait partie des qualités des croyants&nbsp;; il est cit
 
 Car 
 
-> Dieu vous a prescrit de restituer les dépôts à leurs propriétaires, et de vous montrer équitables quand vous êtes appelés à juger vos semblables. C’est là une noble mission que Dieu vous exhorte à remplir. Dieu entend tout, voit tout. (4&nbsp;: 58)
+> Dieu vous a prescrit de restituer les dépôts à leurs propriétaires, et de vous montrer équitables quand vous êtes appelés à juger vos semblables. C’est là une noble mission que Dieu vous exhorte à remplir. Dieu entend tout, voit tout.[^5]
 
-Ainsi le Prophète disait&nbsp;: «&nbsp;Rends le dépôt à celui qui te l’a confié, et ne trahis pas celui qui t’a trahi&nbsp;!&nbsp;» (Abu Dawud)
+Ainsi le Prophète disait&nbsp;: «&nbsp;Rends le dépôt à celui qui te l’a confié, et ne trahis pas celui qui t’a trahi&nbsp;!&nbsp;»[^6]
 
 Il faut bien comprendre que le dépôt n’appartient qu’à son propriétaire, et non au dépositaire. Celui-ci en est seulement l’usufruitier. Il en va ainsi pour toutes choses ici-bas&nbsp;: rien ne nous appartient réellement car tout vient de Dieu, et est entre Ses mains. Nous en profitons avec Sa permission pour ce monde et surtout en vue de l’Autre.
 
@@ -53,7 +53,9 @@ De même, lors de la reconstruction de la Kaaba par les Quraysh, un vif différe
 
 #### III
 
-Le Prophète nous enseigne la relation étroite qui existe entre la foi et le dépôt&nbsp;: «&nbsp;N’a point de foi celui qui n’est pas digne de confiance&nbsp;; n’a point de religion celui qui ne tient pas ses engagements.&nbsp;» (Ahmad) Tout ce qui est contraire à la *amâna* constitue un manque de foi&nbsp;: dévoiler le secret de son ami, espionner les gens en épiant leur intimité et leurs défauts, la médisance, la corruption, le mensonge, la trahison, l’hypocrisie. Dans un autre hadith, le Prophète nous met en garde et nous informe que «&nbsp;les signes distinctifs de l’hypocrite sont au nombre de trois&nbsp;: lorsqu’il relate quelque chose il ment&nbsp;; lorsqu’il promet il ne tient pas sa promesse&nbsp;; et si on lui confie un dépôt il se montre déloyal&nbsp;» (Bukhari et Muslim)
+Le Prophète nous enseigne la relation étroite qui existe entre la foi et le dépôt&nbsp;: «&nbsp;N’a point de foi celui qui n’est pas digne de confiance&nbsp;; n’a point de religion celui qui ne tient pas ses engagements.&nbsp;»[^7] Tout ce qui est contraire à la *amâna* constitue un manque de foi&nbsp;: dévoiler le secret de son ami, espionner les gens en épiant leur intimité et leurs défauts, la médisance, la corruption, le mensonge, la trahison, l’hypocrisie. Dans un autre hadith, le Prophète nous met en garde et nous informe que 
+
+> les signes distinctifs de l’hypocrite sont au nombre de trois&nbsp;: lorsqu’il relate quelque chose il ment&nbsp;; lorsqu’il promet il ne tient pas sa promesse&nbsp;; et si on lui confie un dépôt il se montre déloyal.[^8]
 
 Le dépôt sacré confié par Dieu à l’être humain contient en principe toutes sortes de dépôts qui impliquent des responsabilités dont il faudra rendre compte le Jour de la Résurrection&nbsp;:
 
@@ -66,11 +68,13 @@ Le dépôt sacré confié par Dieu à l’être humain contient en principe tout
 * les biens publics et privés qui ne doivent pas être détournés ou spoliés
 * les responsabilités professionnelles et l’autorité politique
 
-C’est non seulement la base d’une communauté fraternelle et d’une société soudée, où confiance réciproque et partage règnent, mais également l’une des clés du salut, du bonheur, et de la réussite ici-bas et dans l’Au-delà.  Il est dit qu’à la fin des temps, la foi et la fidélité se retireront des cœurs, tandis que les épreuves et les tentations augmenteront, parce que l’homme aura démontré l’injustice et l’ignorance dont il est capable, en ne sachant pas respecter le dépôt sacré de Dieu. Un bédouin demanda en effet au Prophète&nbsp;: «&nbsp;Quand l’Heure dernière viendra-t-elle&nbsp;? –&nbsp;Lorsque le dépôt sacré sera perdu, répondit le Prophète, alors attends-toi à voir l’Heure.&nbsp;» (Bukhari) 
+C’est non seulement la base d’une communauté fraternelle et d’une société soudée, où confiance réciproque et partage règnent, mais également l’une des clés du salut, du bonheur, et de la réussite ici-bas et dans l’Au-delà.  Il est dit qu’à la fin des temps, la foi et la fidélité se retireront des cœurs, tandis que les épreuves et les tentations augmenteront, parce que l’homme aura démontré l’injustice et l’ignorance dont il est capable, en ne sachant pas respecter le dépôt sacré de Dieu. Un bédouin demanda en effet au Prophète&nbsp;: 
+
+Quand l’Heure dernière viendra-t-elle&nbsp;? –&nbsp;Lorsque le dépôt sacré sera perdu, répondit le Prophète, alors attends-toi à voir l’Heure.[^9]
 
 Certains commentaires des savants, comme le Shaykh Ahmad ibn Idris, mettent l’accent sur le fait que le «&nbsp;dépôt sacré&nbsp;» ainsi proposé et confié par Dieu à l’homme est une fonction extraordinaire et magnifique. Seul un être créé «&nbsp;dans la forme et la disposition les plus parfaites&nbsp;» (selon l’expression coranique *fî ahsani taqwîm* dans la sourate 95&nbsp;: 4) tel que l’homme a la capacité d’assumer cette responsabilité. Toutes les autres créatures ont une nature et une capacité insuffisantes pour supporter la charge du «&nbsp;dépôt sacré&nbsp;». Aussi les cieux, la terre et les montagnes refusèrent-ils de s’en charger, et en furent effrayés. Comme Dieu a doté l’homme, en le créant, «&nbsp;de la forme et de la disposition les plus parfaites&nbsp;», l’homme est capable de s’en charger. On pourrait comparer ce dépôt à un vêtement large et long qui va parfaitement et seulement à l’homme. Quand on lui propose ce vêtement l’homme l’accepte, il s’y plaît, et s’en sert. Il en va de même avec le dépôt sacré&nbsp;: quand l’homme ne se montre pas infidèle, par abus de confiance, envers Dieu par rapport au dépôt confié, alors celui-ci lui sera de la plus grande utilité, et il en profitera considérablement. Dans ce sens, on comprend alors la fin du verset&nbsp;: «&nbsp;L’homme était injuste et ignorant&nbsp;», c’est-à-dire avant de se charger du dépôt sacré, car après cela, on sait que Dieu lui a donné la connaissance en lui enseignant les noms de toutes choses, noms que l’homme a ensuite appris aux anges. Il faut donc considérer toute la noblesse de l’essence humaine quand l’homme se montre fidèle au dépôt sacré et ne trahit pas la confiance de Dieu, qui l’a créé d’abord dans la meilleure des formes et des constitutions.
 
-> Puis Nous l’avons ramené au plus bas de l’échelle, exception faite de ceux qui ont la foi et pratiquent les œuvres pieuses&nbsp;: ils auront une rétribution illimitée&nbsp;! (95&nbsp;: 5-6)
+> Puis Nous l’avons ramené au plus bas de l’échelle, exception faite de ceux qui ont la foi et pratiquent les œuvres pieuses&nbsp;: ils auront une rétribution illimitée&nbsp;![^10]
 
 Dieu a donc confié à l’homme le dépôt sacré, par lequel il pourra, s’il reste fidèle, accéder aux plus hauts degrés spirituels, qu’aucune autre créature ne saurait atteindre. Si l’homme ne trahit pas la confiance divine, Dieu le fera ainsi entrer dans Son paradis où il lui sera donné de voir Sa face, et d’être vivifié par Dieu éternellement. Y a-t-il chose plus noble et plus élevée que celle-là&nbsp;? Quelle perte, quel échec pour celui qui se détourne du Royaume éternel et de la Grâce divine, par trahison envers le dépôt sacré en se perdant dans les vanités du monde éphémère, en troquant la demeure éternelle contre ce bas-monde périssable qui ne vaut, aux yeux de Dieu, pas plus que l’aile d’un moustique.
 
@@ -85,11 +89,14 @@ Dieu a donc confié à l’homme le dépôt sacré, par lequel il pourra, s’il
 [^3]: Coran 8&nbsp;: 27-28.
 
 
-[^4]: 
-[^5]: 
-[^6]: 
-[^7]: 
-[^8]: 
-[^9]: 
-[^10]: 
-[^11]:
+[^4]: Coran 23&nbsp;: 1-11.
+
+
+[^5]: Coran 4&nbsp;: 58.
+
+
+[^6]: Abu Dawud.
+[^7]: Ahmad.
+[^8]: Bukhari et Muslim.
+[^9]: Bukhari.
+[^10]: Coran 95&nbsp;: 5-6.
