@@ -23,7 +23,7 @@ Dépôt de la foi, ou dépôt des prescriptions légales, ce qui est ainsi propo
 
 ###### 1. La confiance du Propriétaire envers le dépositaire, qui ne doit pas la trahir&nbsp;:
 
-> Ô vous qui croyez&nbsp;! Ne trahissez pas Dieu et le Prophète, car ce serait trahir sciemment la confiance placée en vous&nbsp;! Sachez que vos richesses et vos enfants ne sont qu’une épreuve pour vous, et qu’auprès de Dieu il y a de magnifiques récompenses&nbsp;! (8&nbsp;: 27-28)
+> Ô vous qui croyez&nbsp;! Ne trahissez pas Dieu et le Prophète, car ce serait trahir sciemment la confiance placée en vous&nbsp;! Sachez que vos richesses et vos enfants ne sont qu’une épreuve pour vous, et qu’auprès de Dieu il y a de magnifiques récompenses&nbsp;![^3] ()
 
 «&nbsp;sciemment&nbsp;», c’est-à-dire «&nbsp;alors que vous savez parfaitement&nbsp;»&nbsp;; vous savez que c’est Dieu qui vous a confié ce dépôt sacré, quel est l’engagement que vous avez pris avec Lui, et quelles sont vos obligations vis-à-vis de Lui.
 
@@ -82,7 +82,9 @@ Dieu a donc confié à l’homme le dépôt sacré, par lequel il pourra, s’il
 [^2]: Coran 20&nbsp;: 115.
 
 
-[^3]: 
+[^3]: Coran 8&nbsp;: 27-28.
+
+
 [^4]: 
 [^5]: 
 [^6]: 
