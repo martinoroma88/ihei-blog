@@ -24,7 +24,7 @@ Le combat spirituel est conduit pour Dieu Seul, dans l’unique souhait d’êtr
 
 C’est ainsi qu’il est dit, dans l’Évangile, à propos de Jésus, Sceau de la Sainteté et modèle spirituel en Islam&nbsp;: «&nbsp;Ils furent tous remplis de colère dans la synagogue, lorsqu’ils entendirent ces choses et le menèrent jusqu’au sommet de la montagne sur laquelle leur ville était bâtie, afin de le précipiter en bas. Mais Jésus, passant au milieu d’eux, s’en alla.&nbsp;» De même, il est dit, dans le Coran, qu’Ibrâhîm ayant brisé les idoles de son peuple, Dieu le sauva de la persécution et du feu, symbole des passions de l’âme duelle et c’est ainsi que ce feu fut, pour lui «&nbsp;fraîcheur et paix&nbsp;».  
 
-Cette noblesse divine est donc, dans son excellence, l’apanage des prophètes et particulièrement de Muhammad qui, selon la Tradition prophétique, a rappelé avoir «&nbsp;été envoyé pour parfaire la noblesse du comportement», conformément à l’invitation de l’Ange Gabriel&nbsp;:
+Cette noblesse divine est donc, dans son excellence, l’apanage des prophètes et particulièrement de Muhammad qui, selon la Tradition prophétique, a rappelé avoir «&nbsp;été envoyé pour parfaire la noblesse du comportement&nbsp;», conformément à l’invitation de l’Ange Gabriel&nbsp;:
 
 > Ô Muhammad, je t’ai apporté l’excellence du comportement, (elle consiste en ce) que tu pardonnes à celui qui a été injuste envers toi&nbsp;; que tu rendes visite à celui qui s’est détourné&nbsp;; que tu t’écartes de celui qui fait preuve d’incompréhension à ton égard, et que tu pratiques le bien envers celui qui agit envers toi par le mal.
 
