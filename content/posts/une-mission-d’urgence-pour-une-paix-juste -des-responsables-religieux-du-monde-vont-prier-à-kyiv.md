@@ -33,7 +33,7 @@ Les membres de la délégation incluront&nbsp;:
 
 **Imam Yahya Pallavicini**, président de l’IHEI (Institut des Hautes Études Islamiques), président de la COREIS (Communauté Religieuse Islamique-Italie) et coordinateur de EULEMA, le conseil européen des responsables musulmans
 
-**Sœur Sheila Kinsey**, FCJM, co-secrétaire exécutive de la Commission pour la justice, la paix et l’intégrité de la création au sein de l’Union des supérieurs généraux (congrégations religieuses masculines) et de l’Union internationale des supérieures générales (congrégations religieuses féminines), Eglise catholique, Rome
+**Sœur Sheila Kinsey**, FCJM, co-secrétaire exécutive de la Commission pour la justice, la paix et l’intégrité de la création au sein de l’Union des supérieurs généraux (congrégations religieuses masculines) et de l’Union internationale des supérieures générales (congrégations religieuses féminines), Église catholique, Rome
 
 **Lord Maurice Glasman**, pair du parti Travailliste (R-U) et directeur de Common Good Foundation
 
@@ -55,7 +55,7 @@ Les membres de la délégation incluront&nbsp;:
 
 **Barbara Wien**, université américaine (USA)
 
-**Alberto Capannini**, membre de Comunità Papa Giovanni XXIII - Operazione Colomba (Italie)
+**Alberto Capannini**, membre de Comunità Papa Giovanni XXIII — Operazione Colomba (Italie)
 
 **Aleksander Temkin**, co-fondateur de Europe, a Patient Association (Pologne)
 
