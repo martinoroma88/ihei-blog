@@ -17,7 +17,7 @@ category: Il Messaggio - Le Message
 *Ahmad Abd al-Waliyy Vincenzo*</br>
 **Donne, ambiente, e cultura nell’islam</br>**
 *Farida Peruzzi*</br>
-**Quo vadis Ecclesia&nbsp;? La cultura della pace e del dialogo oggi</br>**
+**Quo vadis Ecclesia? La cultura della pace e del dialogo oggi</br>**
 *Abd al-Ghafur Masotti*</br>
 **Science et religion aujourd’hui&nbsp;: perspectives islamiques</br>**
 *Abd al-Haqq Ismaïl Guiderdoni*</br>
