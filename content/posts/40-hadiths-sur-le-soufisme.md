@@ -18,4 +18,4 @@ category: Soufisme et Spiritualités
 
 *[Mille ans après la mort d’Al-Sulami, l’héritage de l’historien du soufisme et maître spirituel en lumière](https://www.saphirnews.com/Mille-ans-apres-la-mort-d-Al-Sulami-l-heritage-de-l-historien-du-soufisme-et-maitre-spirituel-en-lumiere_a28517.html)*
 
-Commande
+[Commande](mailto:commande@ihei-asso.org)
