@@ -5,7 +5,7 @@ ordre: 1
 ---
 [](https://www.canva.com/design/DAF9UONVCPU/Qul4n_QM3FGItD8E2BGDRg/view?utm_content=DAF9UONVCPU&utm_campaign=designshare&utm_medium=link&utm_source=editor)[Présentation](https://www.canva.com/design/DAF9UONVCPU/Qul4n_QM3FGItD8E2BGDRg/view?utm_content=DAF9UONVCPU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-**[Promouvoir le patrimoine intellectuel et spirituel de l'islam](https://www.franceculture.fr/emissions/questions-dislam/linstitut-des-hautes-etudes-islamiques),** Émission de France Culture "Questions d'Islam", interview par Ghaleb Bencheikh, 28/03/2021
+**[Promouvoir le patrimoine intellectuel et spirituel de l'islam](https://www.franceculture.fr/emissions/questions-dislam/linstitut-des-hautes-etudes-islamiques),** Émission de France Culture “Questions d'Islam”, interview par Ghaleb Bencheikh, 28/03/2021
 
 Créé en 1994 à l’initiative d’un groupe d’intellectuels français musulmans, l’Institut des Hautes Études Islamiques a vocation à&nbsp;:
 
