@@ -47,29 +47,29 @@ La mission du Christ n’est pas achevée puisqu’il doit redescendre à la fin
 
 Toutes les religions évoquent l’eschatologie et prédisent la venue d’une figure exceptionnelle pour la préparer et l’accompagner. Mais seuls les chrétiens et les musulmans s’accordent sur le nom du Messie&nbsp;: ils disent que ce sera Jésus. Ainsi Jésus le Christ n’est pas seulement celui qui tout à la fois rapproche et sépare les chrétiens et les musulmans. Il est aussi celui qui les rassemblera à la fin des temps. Mais l’eschatologie est trop sublime pour que l’on essaye d’en décrypter les arcanes. Les débats théologiques entre chrétiens et musulmans à propos de Jésus ont peut-être comme signification providentielle qu’ils nous empêchent réciproquement d’en dire trop sur le Christ dont le mystère doit encore s’accomplir. «&nbsp;Comment ferez-vous lorsque le fils de Marie reviendra et que votre *imâm* sera l’un des vôtres&nbsp;?&nbsp;» avertissait le Prophète Muhammad. Saurons-nous faire passer alors notre foi en Dieu avant notre adhésion routinière à notre confession&nbsp;? Dans cette perspective, il faut toujours se rappeler que le dialogue islamo-chrétien revêt une telle signification eschatologique qu’il devra inévitablement se transformer un jour en une entente véritable, dans le sens d’une convergence vers cet instant unique où, tout au bout du temps et au seuil de l’éternité, les chrétiens et les musulmans fidèles à leurs dogmes orthodoxes respectifs, qui disent des choses très différentes sur Jésus, sauront pourtant le reconnaître «&nbsp;en esprit et vérité&nbsp;».
 
-[^1]: Cor. 14&nbsp;:4.
-[^2]: Cor. 2&nbsp;:253.
+[^1]: Cor. 14&nbsp;: 4.
+[^2]: Cor. 2&nbsp;: 253.
 [^3]: Voir par exemple Denise Masson, *Monothéisme coranique et monothéisme biblique*, doctrines comparées, Desclée de Brouwer, Paris, 1976.
 [^4]: Du côté chrétien, on pourra consulter les ouvrages de la collection «&nbsp;Jésus et Jésus-Christ&nbsp;», Desclée de Brouwer&nbsp;: Roger Arnaldez, *Jésus fils de Marie prophète de l’islam*, Paris, 1980, et *Jésus dans la pensée musulmane*, Paris, 1988, ainsi que Maurice Borrmans, *Jésus et les musulmans aujourd'hui*, Paris, 1996. Du côté musulman, on trouvera une abondante littérature, souvent de compilation. Citons par exemple A. Alem, *Mohammad dans la Bible et Jésus dans le Coran*, éditions Dâr el-Azhar, Paris, 1989.
 [^5]: Mohamed Talbi et Olivier Clément, *Un respect têtu*, Nouvelle Cité, Paris, 1989. Plus récemment, voir aussi Rachid Benzine et Christian Delorme, *Nous avons tant de choses à nous dire*, Albin Michel, Paris, 1997.
-[^6]: Cor. 3&nbsp;:36.
-[^7]: Cor. 3&nbsp;:42.
-[^8]: Cor. 19&nbsp;:17.
-[^9]: Cor. 19&nbsp;:30-33.
+[^6]: Cor. 3&nbsp;: 36.
+[^7]: Cor. 3&nbsp;: 42.
+[^8]: Cor. 19&nbsp;: 17.
+[^9]: Cor. 19&nbsp;: 30-33.
 [^10]: Voir la *sîrah* du Prophète. En particulier, Martin Lings, *Le Prophète Muhammad, Sa vie d’après les sources les plus anciennes*, Seuil, Paris, 1986.
-[^11]: Cor. 2&nbsp;:87.
-[^12]: Cor. 5&nbsp;:46.
-[^13]: Cor. 5:&nbsp;114.
-[^14]: Cor. 3&nbsp;:45.
-[^15]: Cor. 3&nbsp;:59.
-[^16]: Cor. 9&nbsp;:30.
-[^17]: Cor. 19&nbsp;:35.
-[^18]: Cor. 112&nbsp;:3.
-[^19]: Cor. 5&nbsp;73.
-[^20]: Cor. 5&nbsp;:116.
-[^21]: Cor. 4&nbsp;:171.
-[^22]: Sur le *tahrîf*, voir Jean-Marie Gaudeul et Robert Caspar, «&nbsp;Textes de la tradition musulmane concernant le *tahrîf* (falsification) des Écritures&nbsp;», Islamochristiana n°6, PISAI.
-[^23]: Cor. 3&nbsp;:55.
-[^24]: Cor. 4&nbsp;:157.
-[^25]: Cor. 43&nbsp;:61.
-[^26]: Cor. 4&nbsp;:159.
+[^11]: Cor. 2&nbsp;: 87.
+[^12]: Cor. 5&nbsp;: 46.
+[^13]: Cor. 5&nbsp;: 114.
+[^14]: Cor. 3&nbsp;: 45.
+[^15]: Cor. 3&nbsp;: 59.
+[^16]: Cor. 9&nbsp;: 30.
+[^17]: Cor. 19&nbsp;: 35.
+[^18]: Cor. 112&nbsp;: 3.
+[^19]: Cor. 5&nbsp;: 73.
+[^20]: Cor. 5&nbsp;: 116.
+[^21]: Cor. 4&nbsp;: 171.
+[^22]: Sur le *tahrîf*, voir Jean-Marie Gaudeul et Robert Caspar, «&nbsp;Textes de la tradition musulmane concernant le *tahrîf* (falsification) des Écritures&nbsp;», *Islamochristiana* n°6, PISAI.
+[^23]: Cor. 3&nbsp;: 55.
+[^24]: Cor. 4&nbsp;: 157.
+[^25]: Cor. 43&nbsp;: 61.
+[^26]: Cor. 4&nbsp;: 159.
