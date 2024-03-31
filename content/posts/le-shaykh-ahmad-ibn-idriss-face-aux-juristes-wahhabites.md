@@ -70,7 +70,9 @@ En s’efforçant de passer outre l’apparence des formes pour ramener chaque c
 
 [^3]:  Coran, XVIII, 60 - 82.
 
-[^4]:  Shaykh Abd-al-Wahid Pallavicini&nbsp;: *L’islam intérieur*, Ed. Christian de Bartillat, 1995, pp. 88 - 90. [^5]:  Hasan Ibn Ahmad Akish ad-Damadi&nbsp;: «&nbsp;Munazarat Ahmad Ibn Idris maâ fuqahaa Asir&nbsp;», in Bernard Radtke, John O’Kane, Knut S. Vikor, R. S. O’Fahey, T*he exoteric Ahmad Ibn Idris, A sufi’s critique of the madhahib and the Wahhabis, Four Arabic texts with translation and commentary*, Brill, 2000.
+[^4]:  Shaykh Abd-al-Wahid Pallavicini&nbsp;: *L’islam intérieur*, Ed. Christian de Bartillat, 1995, pp. 88 - 90.
+
+[^5]:  Hasan Ibn Ahmad Akish ad-Damadi&nbsp;: «&nbsp;Munazarat Ahmad Ibn Idris maâ fuqahaa Asir&nbsp;», in Bernard Radtke, John O’Kane, Knut S. Vikor, R. S. O’Fahey, T*he exoteric Ahmad Ibn Idris, A sufi’s critique of the madhahib and the Wahhabis, Four Arabic texts with translation and commentary*, Brill, 2000.
 
 [^6]:  Yahya Sergio Yahe Pallavicini&nbsp;: «&nbsp;La responsabilité des musulmans européens dans le monde contemporain&nbsp;», in *Les Cahiers de l’Institut des Hautes Études Islamiques*, n° 14, année 2002, pp. 89 - 90.
 
