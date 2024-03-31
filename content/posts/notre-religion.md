@@ -25,7 +25,7 @@ De même, la finalité du jeûne du Ramadan n’est pas tant de tester notre end
 
 Je vous demande alors&nbsp;: que valent les formes religieuses&nbsp;? Qui est le plus légitime entre le juif, le chrétien ou le musulman&nbsp;? Ne serait-ce pas, tout simplement, le croyant sincère&nbsp;? 
 
-Oublions les mots, rappelons-nous leur sens. En réalité le Juif sincère et fidèle à la religion de Moïse est musulman —&nbsp;celui qui se soumet librement à la volonté de Dieu&nbsp;—, le Chrétien sincère et fidèle à la religion de Jésus est musulman —&nbsp;celui qui se soumet librement à la volonté de Dieu&nbsp;— et le Musulman sincère et fidèle à la religion de Muhammad est musulman —&nbsp;celui qui se soumet librement à la volonté de Dieu—&nbsp;.
+Oublions les mots, rappelons-nous leur sens. En réalité le Juif sincère et fidèle à la religion de Moïse est musulman —&nbsp;celui qui se soumet librement à la volonté de Dieu&nbsp;—, le Chrétien sincère et fidèle à la religion de Jésus est musulman —&nbsp;celui qui se soumet librement à la volonté de Dieu&nbsp;— et le Musulman sincère et fidèle à la religion de Muhammad est musulman —&nbsp;celui qui se soumet librement à la volonté de Dieu&nbsp;—.
 
 Rappelons-nous qui nous sommes véritablement au lieu de nous laisser distraire par les formes ou les mots. *Islâm* vient de *salâm* —&nbsp;la Paix&nbsp;— et la Paix est la religion d’Adam, Abraham, Moïse, Jésus et Muhammad. Le prophète Muhammad ne nous a-t-il pas appris à ne faire aucune différence entre les prophètes&nbsp;? 
 
