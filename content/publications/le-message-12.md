@@ -11,7 +11,7 @@ Monothéisme abrahamique et fraternité spirituelle</br>**
 *Ahmad Abd al-Waliyy Vincenzo*</br>
 **Sull’ Idolatria</br>**
 *Alessio Piacentini*</br>
-**Perché l’islam dopo il Cristianismo&nbsp;?</br>**
+**Perché l’islam dopo il Cristianismo?</br>**
 *Ahmad Abd al-Qouddous Panetta*</br>
 **La Tradition orthodossa</br>**
 *Igûmeno Andrea Wade*</br>
@@ -40,7 +40,7 @@ Monothéisme abrahamique et fraternité spirituelle</br>**
 *Abd as-Sabour Turrini*</br>
 **L’ultimo richiamo de Giovanni Paolo II**</br>
 *Ibrâhîm Spina*</br>
-**What is European islam&nbsp;?**</br>
+**What is European islam?**</br>
 *Shaykh Abd al-Wâhid Pallavicini*</br>
 
 ###### Attualità</br>
