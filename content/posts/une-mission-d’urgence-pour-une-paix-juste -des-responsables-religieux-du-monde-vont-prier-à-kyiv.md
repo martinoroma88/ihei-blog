@@ -30,33 +30,18 @@ Les participants effectuent cette visite au nom d’une communauté internationa
 Les membres de la délégation incluront&nbsp;:
 
 **Révérende émérite Jo Bailey Wells**, évêque anglicane de Dorking, R-U, représentante de l’Eglise d’Angleterre et soutenue par l’archevêque de Canterbury</br>
-
 **Imam Yahya Pallavicini**, président de l’IHEI (Institut des Hautes Études Islamiques), président de la COREIS (Communauté Religieuse Islamique-Italie) et coordinateur de EULEMA, le conseil européen des responsables musulmans</br>
-
 **Sœur Sheila Kinsey**, FCJM, co-secrétaire exécutive de la Commission pour la justice, la paix et l’intégrité de la création au sein de l’Union des supérieurs généraux (congrégations religieuses masculines) et de l’Union internationale des supérieures générales (congrégations religieuses féminines), Église catholique, Rome</br>
-
 **Lord Maurice Glasman**, pair du parti Travailliste (R-U) et directeur de Common Good Foundation</br>
-
 **Révérende Mae Elise Cannon**, directrice exécutive de Churches for Middle East Peace (USA)</br>
-
 **Michele Dunne**, OFS, directrice exécutive de Franciscan Action Network (USA)</br>
-
 **Imam Shaykh Ibrahim Mogra**, Religions pour la Paix (R-U)</br>
-
 **Rose Marie Berger,** haut-responsable, Sojourners (USA)</br>
-
 **Jose Casanova**, chercheur, Berkley Center for Religion, Peace and the World Affairs, université de Georgetown (USA)</br>
-
 **Sara Prand**i, membre de Stopthewarnow (Italie)</br>
-
 **Maura Galati**, membre de Stopthewarnow (Italie)</br>
-
 **Eli S. McCarthy**, université de Georgetown (USA)</br>
-
 **Barbara Wien**, université américaine (USA)</br>
-
 **Alberto Capannini**, membre de Comunità Papa Giovanni XXIII — Operazione Colomba (Italie)</br>
-
 **Aleksander Temkin**, co-fondateur de Europe, a Patient Association (Pologne)</br>
-
 **Mateusz Piotrowski**, président de Europe, a Patient Association (Pologne)
