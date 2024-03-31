@@ -62,6 +62,6 @@ Quant aux musulmans vivant en Europe, ils doivent mener sereinement leur réflex
 [^12]: Cor. 2&nbsp;: 256.
 [^13]: Cor 6&nbsp;: 38.
 [^14]: Coran 75&nbsp;: 36.
-[^15]: Mohammad Hashim Kamali, *Principles of islamic Jurisprudence*, Revised Edition, Islamic Texts Society,Cambidge,1991,p.281.
+[^15]: Mohammad Hashim Kamali, *Principles of islamic Jurisprudence*, Revised Edition, Islamic Texts Society, Cambidge,1991,p.281.
 [^16]: Sur le *takhayyur*, voir notamment Noël J.Coulson, *Histoire du Droit Islamique*, PUF, p. 117 sq.
 [^17]: Coran 21&nbsp;: 107.
