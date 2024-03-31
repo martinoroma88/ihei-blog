@@ -185,7 +185,7 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 [^57]: *al-mustanad al-il&acirc;h&icirc;*, le point d’appui en Dieu de toute réalité créée.
 [^58]: Dieu conna&icirc;t le mystère et l’apparence des choses. Il est *‘&acirc;lim al-ghayb wa-sh- shah&acirc;dah*. Cor. 59&nbsp;: 22.
 [^59]: Cor. 19&nbsp;: 17.
-[^60]: *Ibn ‘Arab&icirc;*, in *Mishk&acirc;t al-Anw&acirc;r*. Trad. M. Vals&acirc;n, *La Niche des Lumières*, p. 100. Les Editions de l’Oeuvre.
+[^60]: *Ibn ‘Arab&icirc;*, in *Mishk&acirc;t al-Anw&acirc;r*. Trad. M. Vals&acirc;n, *La Niche des Lumières*, p. 100. Les Éditions de l’Œuvre.
 [^61]: *Fut&ucirc;h&acirc;t* II 603.14. Tras. W. Chittick, in *Les Illuminations de la Mecque*, p. 242. Sindbad.
 [^62]: *Fut&ucirc;h&acirc;t* II 214.7. Trad. op. cit. p. 244. Ibn ‘Arab&icirc; explique ailleurs qu’il y a aussi une racine divine à la pauvreté et au rabaissement.
 [^63]: *Fut&ucirc;h&acirc;t* II 214.23. Trad. op. cit. p. 246.
