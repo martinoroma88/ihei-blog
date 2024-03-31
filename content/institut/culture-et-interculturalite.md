@@ -27,7 +27,7 @@ En particulier, un partenariat avec le Musée de Gap et Monum (Ministère de la 
 
 ***Les Cahiers de l’I.H.E.I.***
 
-A compter de l’année 1995, l’I.H.E.I. a édité une revue trimestrielle, Les  [Cahiers de l’Institut des Hautes Études Islamiques](/publications/les-cahiers/ "Cahiers de l’Institut des Hautes Etudes Islamiques"), permettant la publication de ses travaux et des actes des colloques qu’il organisait, à commencer par le colloque de 1995 à La Sorbonne sur «&nbsp;L’identité du Dieu unique du christianisme et de l’islam&nbsp;», dont les actes composent le premier numéro. 
+A compter de l’année 1995, l’I.H.E.I. a édité une revue trimestrielle, [Les Cahiers de l’Institut des Hautes Études Islamiques](/publications/les-cahiers/ "Cahiers de l’Institut des Hautes Etudes Islamiques"), permettant la publication de ses travaux et des actes des colloques qu’il organisait, à commencer par le colloque de 1995 à La Sorbonne sur «&nbsp;L’identité du Dieu unique du christianisme et de l’islam&nbsp;», dont les actes composent le premier numéro. 
 
 Les articles publiés dans ces Cahiers portent sur plusieurs champs&nbsp;: 
 
