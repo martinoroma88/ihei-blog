@@ -55,7 +55,7 @@ Les difficultés éprouvées par la communauté musulmane à s’organiser rapid
 [^4]: Il convient de rappeler ici que, dans la branche du shî’isme duodécimain, l’espérance du gouvernement de l’Imâm fut reportée à la fin des temps, lors de la grande Occultation (ghaybah) du XII<sup>e</sup> Imâm en 941. La conception «&nbsp;théologico-politique&nbsp;» fut donc entièrement résorbée dans sa seule dimension «&nbsp;théologique&nbsp;». La branche du shî’isme septimain, ou ismaélisme, a continué à prêcher que l’Imâm devait être le chef spirituel et temporel de la communauté. L’ismaélisme vit son triomphe historique avec l’établissement de l’anti-Califat fâtimide au début du X<sup>e</sup> siècle. La puissance temporelle des ismaéliens disparut presque complètement à partir de la fin du XII<sup>e</sup> siècle.
 [^5]: Hadîth mutawâtir.
 [^6]: Voir à ce propos les remarques de Jacques Berque dans *Relire le Coran*, Albin Michel.
-[^7]: Sur ce processus, voir l’Histoire du droit islamique, N.J. Coulson, PUF.
+[^7]: Sur ce processus, voir *l’Histoire du droit islamique*, N.J. Coulson, PUF.
 [^8]: Voir N.J. Coulson, op. cit.
 [^9]: Hadîth mutawâtir.
 [^10]: Coran 72&nbsp;: 18.
