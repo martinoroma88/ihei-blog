@@ -60,7 +60,7 @@ Mais, dès lors que le monothéisme est unique, pourquoi existe-t-il diverses re
 
 C’est en se fondant sur la convergence dans le Dieu unique que chaque tradition a reconnu et confirmé les Révélations qui l’ont précédée, comme elle a, dans le même temps, annoncé la Révélation successive. La diversité des traditions est donc providentielle, même si elle peut apparaître comme une épreuve, surtout en des temps où la réalité de l’unicité divine s’est voilée dans le c&oelig;ur des hommes. On lit dans le Coran&nbsp;: 
 
->  À chacun d’entre vous, Nous avons donné une Loi et une Voie. Si Dieu l’avait voulu, Il aurait fait de vous une seule communauté. Mais Il a voulu vous éprouver par le don qu’Il vous a fait. Rivalisez entre vous dans les bonnes actions. Votre retour à tous se fera vers Dieu. C’est alors qu’Il vous informera à propos de vos désaccords.[^13]
+> À chacun d’entre vous, Nous avons donné une Loi et une Voie. Si Dieu l’avait voulu, Il aurait fait de vous une seule communauté. Mais Il a voulu vous éprouver par le don qu’Il vous a fait. Rivalisez entre vous dans les bonnes actions. Votre retour à tous se fera vers Dieu. C’est alors qu’Il vous informera à propos de vos désaccords.[^13]
 
 Il ressort nettement de ces considérations que l’exclusivisme intégriste n’est pas du tout fondé du point de vue doctrinal.
 
