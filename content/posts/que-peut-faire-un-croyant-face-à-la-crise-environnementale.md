@@ -14,7 +14,7 @@ annexes:
 
 Alors que les effets de la crise environnementale deviennent de plus en plus sensibles, et que se multiplient les appels à un changement radical de nos pratiques, tant individuelles que collectives, chacun se demande ce qu’il peut faire, à son niveau, dans un contexte où une grande partie du problème est systémique.
 
-Les croyants, en particulier, ont-ils une façon spécifique de comprendre l’origine de la crise –*&nbsp;*une crise en grande partie spirituelle*&nbsp;*–, de proposer des solutions, et de donner l’exemple par une véritable *conversion&nbsp;*?
+Les croyants, en particulier, ont-ils une façon spécifique de comprendre l’origine de la crise —&nbsp;une crise en grande partie spirituelle&nbsp;—, de proposer des solutions, et de donner l’exemple par une véritable *conversion&nbsp;*?
 
 L’Institut des Hautes Études Islamiques (IHEI) et l’Institut de Science et de Théologie des Religions (ISTR) de Paris organisent, avec le soutien du KAICIID Dialogue Centre, une table-ronde réunissant des représentants du judaïsme, du christianisme et de l’islam, pour voir comment une théologie de la création peut être transformée en actes concrets.
 
