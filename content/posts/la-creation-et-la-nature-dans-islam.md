@@ -51,7 +51,7 @@ Ainsi le monde physique est-il situé en dessous des degrés du monde psychique,
 
 Dieu crée l’homme pour l’investir d’une responsabilité particulière dans la Création. Selon les mots mêmes du Coran 
 
-> ton Seigneur confia aux anges&nbsp;: «&nbsp;Je vais établir sur la Terre un représentant (*khalîfa*).&nbsp;» Ils dirent&nbsp;: «&nbsp;Vas-tu y placer quelqu’un qui y mettra le désordre et y répandra le sang, quand nous sommes là à Te sanctifier et à Te glorifier&nbsp;?&nbsp;» Dieu dit&nbsp;: «&nbsp;En vérité, Je sais ce que vous ne savez pas&nbsp;!&nbsp;» 
+> Ton Seigneur confia aux anges&nbsp;: «&nbsp;Je vais établir sur la Terre un représentant (*khalîfa*).&nbsp;» Ils dirent&nbsp;: «&nbsp;Vas-tu y placer quelqu’un qui y mettra le désordre et y répandra le sang, quand nous sommes là à Te sanctifier et à Te glorifier&nbsp;?&nbsp;» Dieu dit&nbsp;: «&nbsp;En vérité, Je sais ce que vous ne savez pas&nbsp;!&nbsp;» 
 
 Dieu connaît en effet le mystère de l’homme, qui seul dans la Création est capable de se déplacer le long de l’échelle verticale des états multiples de l’être, de monter vers Dieu, mais aussi de descendre et de s’éloigner de son Créateur.
 
