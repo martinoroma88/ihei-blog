@@ -10,7 +10,7 @@ Dans la langue arabe, le mot *tawhîd* dérive de *wahhada*, qui signifie affirm
 
 Selon les mots du Shaykh at-Tâdilî, la science du *tawhîd* 
 
->  est la plus élevée et la plus parfaite des sciences. Elle est le fondement de toutes les sciences et de toutes les compréhensions&nbsp;; elle est leur source et leur but puisque toutes les sciences en dérivent. Toutes les sciences se séparent de leur «&nbsp;compagnon&nbsp;» quand celui- ci abandonne ce bas monde. Seule la science de la doctrine de l’unicité accompagne son compagnon dans la demeure de l’au-delà.
+>  est la plus élevée et la plus parfaite des sciences. Elle est le fondement de toutes les sciences et de toutes les compréhensions&nbsp;; elle est leur source et leur but puisque toutes les sciences en dérivent. Toutes les sciences se séparent de leur «&nbsp;compagnon&nbsp;» quand celui-ci abandonne ce bas monde. Seule la science de la doctrine de l’unicité accompagne son compagnon dans la demeure de l’au-delà.
 
 Dans l’économie spirituelle de la Révélation islamique, le premier des cinq piliers de la tradition, la *shahâdah* ou témoignage de foi, s’énonce ainsi&nbsp;: 
 
@@ -40,7 +40,7 @@ C’est pour cette raison que le Coran dit que l’on ne peut affirmer que «&nb
 
 La multiplicité des Noms divins représente le miroir de l’Essence divine qui ne peut être saisie en Elle-même, mais seulement dans le reflet de Ses qualités. À travers Ses Noms, c’est Dieu Lui-même qui Se décrit. Le nom *Allâh*, qui manifeste la synthèse de tous les Noms (*al-ism al-jâmi’*) ne représente pas le dieu particulier des musulmans. En affirmant l’unicité de Dieu, ceux-ci ont la conscience immédiate qu’Il est le Dieu de tous les hommes, comme cela est rapporté à de nombreuses reprises dans le Coran&nbsp;: 
 
-> Dites&nbsp;: «&nbsp;nous croyons à Dieu et à ce qu’Il a fait descendre sur nous, à ce qu’Il a fait descendre sur Abraham, Ismaël, Isaac, Jacob et les Tribus, à ce qui a été donné à Moïse et à Jésus, à ce qui a été donné aux prophètes de la part de leur Seigneur&nbsp;; nous ne faisons de différence entre aucun d’eux, et nous sommes soumis à Dieu&nbsp;».[^9]
+> Dites&nbsp;: «&nbsp;nous croyons à Dieu et à ce qu’Il a fait descendre sur nous, à ce qu’Il a fait descendre sur Abraham, Ismaël, Isaac, Jacob et les Tribus, à ce qui a été donné à Moïse et à Jésus, à ce qui a été donné aux prophètes de la part de leur Seigneur&nbsp;; nous ne faisons de différence entre aucun d’eux, et nous sommes soumis à Dieu.&nbsp;»[^9]
 
 La vérité divine de l’unité informe tous les degrés de la réalité et tous les domaines de la manifestation. Sur le plan des attributs, c’est à travers les Noms divins de *al-Ahad* et *al-Wâhid* que sont suggérés respectivement les aspects de l’Unité de l’Essence divine en Elle-même et du Principe de la multiplicité de l’existence comme manifestation des Noms et qualités de Dieu. Il est significatif qu’*al-Ahad* et *al-Wâhid* participent tous deux d’une unique racine verbale qui est aussi, comme nous l’avons dit, celle du mot *tawhîd*.
 
@@ -54,7 +54,7 @@ La synthèse des dimensions de la transcendance et de l’immanence représente 
 
 Par ailleurs, la définition du mot *tawhîd* peut être normalement rendue par le terme «&nbsp;monothéisme&nbsp;», qui est utilisé dans les langues européennes pour désigner une religion qui croit en un Dieu unique et absolu. En conséquence, il faut ajouter que, si le monothéisme lui-même est unique, il ne peut y avoir qu’un seul monothéisme et non trois monothéismes, comme on le dit souvent, de façon erronée, en se référant aux trois religions qui dérivent de la descendance abrahamique.
 
-Mais, dès lors que le monothéisme est unique, pourquoi existe- t-il diverses religions&nbsp;? Le Principe, Dieu Lui-même, a en Lui diverses relations. Il existe donc la possibilité ontologique que la miséricorde divine manifeste dans l’unicité du «&nbsp;monothéisme&nbsp;» différentes Révélations, en raison de l’adaptation nécessaire d’une même Vérité aux possibilités de compréhension des hommes en des époques et des lieux différents. Selon une expression d’Ibn Arabî, 
+Mais, dès lors que le monothéisme est unique, pourquoi existe-t-il diverses religions&nbsp;? Le Principe, Dieu Lui-même, a en Lui diverses relations. Il existe donc la possibilité ontologique que la miséricorde divine manifeste dans l’unicité du «&nbsp;monothéisme&nbsp;» différentes Révélations, en raison de l’adaptation nécessaire d’une même Vérité aux possibilités de compréhension des hommes en des époques et des lieux différents. Selon une expression d’Ibn Arabî, 
 
 > Dieu a parlé \[...] par une Parole éternelle, sans commencement et sans fin, comme il en est de tous Ses autres Attributs, tels que Sa Science, Sa Volonté et Sa Puissance. C’est par elle qu’Il a parlé à Moïse et Il l’a appelée Thora&nbsp;; c’est par elle qu’Il a parlé à David et Il l’a appelée Psaumes, à Jésus et Il l’a appelée Évangile, à Muhammad et Il l’a appelée «&nbsp;Descente&nbsp;» et «&nbsp;Discrimination&nbsp;» —&nbsp;que les Prières de Dieu et Son Salut soient sur lui et sur eux tous&nbsp;![^12]
 
