@@ -19,11 +19,11 @@ L’année hégirienne renvoie à l’hégire, en arabe *hijra*, qui signifie «
 
 il sortit de la maison. Dieu détourna leurs regards en sorte qu’il passa au milieu d’eux inaperçu et poursuivit son chemin sans être inquiété. Se glissant hors d’atteinte de ses ennemis qui encerclaient sa maison, le Prophète rejoignit Abû Bakr. Tous deux quittèrent La Mecque à dos de chameau, suivis par un troupeau de moutons qui recouvraient leurs traces. Ils se cachèrent dans une grotte du mont Thawr, à plusieurs kilomètres au sud de la ville, alors que ‘Abd Allâh, le fils d’Abû Bakr, ramenait les chameaux. Dans la maison du Prophète, les conspirateurs tombèrent sur ‘Alî et se rendirent compte qu’ils avaient été bernés. Un groupe parti à sa recherche parvint jusqu’à la grotte mais ne put l’inspecter car un acacia miraculeusement et soudainement poussé là en obstruait l’entrée&nbsp;; d’ailleurs, la présence à l’entrée d’une toile d’araignée et d’un nid de colombe contenant un œuf, semblait prouver que personne n’y était entré. Le Coran parle de cet épisode miraculeux&nbsp;:
 
-> Si vous ne voulez pas prêter assistance au Prophète, Dieu lui a déjà prêté la Sienne lorsque, chassé par les négateurs et se trouvant dans la grotte avec son seul compagnon, il disait à celui-ci&nbsp;: «&nbsp;Ne sois pas triste&nbsp;! Dieu est avec nous.&nbsp;» Dieu étendit alors sur lui Sa grande paix, envoya à son secours des troupes invisibles, faisant ainsi échec aux négateurs et assurant le triomphe de la Parole divine, car Dieu est Puissant et Sage. (9&nbsp;: 40)
+> Si vous ne voulez pas prêter assistance au Prophète, Dieu lui a déjà prêté la Sienne lorsque, chassé par les négateurs et se trouvant dans la grotte avec son seul compagnon, il disait à celui-ci&nbsp;: «&nbsp;Ne sois pas triste&nbsp;! Dieu est avec nous.&nbsp;» Dieu étendit alors sur lui Sa grande paix, envoya à son secours des troupes invisibles, faisant ainsi échec aux négateurs et assurant le triomphe de la Parole divine, car Dieu est Puissant et Sage.[^2]
 
 Après s’être cachés pendant plusieurs jours, le Prophète et Abû Bakr continuèrent leur route à dos de chameau avec un guide bédouin et alimentés en vivres par la fille de Abû Bakr, Asmâ’. Pendant un trajet qui dura de dix à quatorze jours environ (sur une distance de 450 à 500 kilomètres), fut révélé le verset coranique&nbsp;:
 
-> Celui qui t’a donné le Coran te ramènera sûrement là où tu aspires à faire retour. (28&nbsp;: 85)
+> Celui qui t’a donné le Coran te ramènera sûrement là où tu aspires à faire retour.[^3]
 
 Soixante-dix musulmans mecquois environ émigrèrent à Yathrib en même temps que le Prophète. Ce sont les premiers authentiques *muhâjirûn* (émigrants). D’autres les imitèrent au cours des années suivantes. «&nbsp;Le dernier *muhâjir*&nbsp;», d’après les propres paroles du Prophète, fut un de ses oncles, al-‘Abbâs, qui rejoignit les rangs musulmans alors que ceux-ci avançaient pour prendre La Mecque, donc bien après. L’Hégire advint en 622, probablement le 17 septembre. Seize années plus tard, en 637, le calife ‘Umar ibn al-Khattâb officialisa la coutume du Prophète de dater les événements à partir de l’Hégire. L’an 622 est ainsi devenu le point de départ de l’ère islamique.
 
@@ -49,8 +49,11 @@ Nous sommes aujourd’hui le 5 de Muharram, le premier mois de l’année islami
 
 [^1]: Cor. 36&nbsp;: 9.
 
-[^2]: 
-[^3]: 
+[^2]: Cor. 9&nbsp;: 40.
+
+[^3]: Cor. 28&nbsp;: 85.
+
+
 [^4]: 
 [^5]: 
 [^6]: 
