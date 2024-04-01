@@ -190,7 +190,7 @@ Récupérer pleinement cette aspiration totale à Dieu est peut-être la derniè
 
 [^41]: Coran 2&nbsp;: 152.
 
-[^42]: Abû Dâwûd et Tirmîdhî. Le texte mentionne &nbsp;: «&nbsp;Il vous incombe de suivre ma sunnah et celle des califes bien guidés qui suivent la bonne voie&nbsp;; mordez-y à pleines dents&nbsp;! Et prenez garde aux choses nouvelles, car toute nouveauté est une innovation (bid‘ah), toute innovation est égarement, et l’égarement conduit en Enfer.&nbsp;»
+[^42]: Abû Dâwûd et Tirmîdhî. Le texte mentionne &nbsp;: «&nbsp;Il vous incombe de suivre ma sunnah et celle des califes bien guidés qui suivent la bonne voie&nbsp;; mordez-y à pleines dents&nbsp;! Et prenez garde aux choses nouvelles, car toute nouveauté est une innovation (*bid‘ah*), toute innovation est égarement, et l’égarement conduit en Enfer.&nbsp;»
 
 [^43]: Muslim, ‘ilm 15, zakât 69, Nasâ’î, zakât 64, etc.
 
