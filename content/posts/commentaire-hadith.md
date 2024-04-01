@@ -27,7 +27,7 @@ Celui-ci consiste à connaître Dieu —&nbsp;qu’Il soit exalté et magnifié.
 
 > Tu es le Premier et il n’y a rien avant Toi, le Dernier et il n’y a rien après Toi, etc.
 
-Quant à la connaissance, elle consiste à effacer totalement l’être créé de sa contemplation, et à ne tourner sa face que vers Dieu.[^3] «&nbsp;Où que vous vous tourniez, là est la face de Dieu[^4]&nbsp;». C’est cela le capital, par lequel adviennent les dévoilements.
+Quant à la connaissance, elle consiste à effacer totalement l’être créé de sa contemplation, et à ne tourner sa face que vers Dieu.[^3] «&nbsp;Où que vous vous tourniez, là est la face de Dieu&nbsp;».[^4] C’est cela le capital, par lequel adviennent les dévoilements.
 
 **L’intellect est l’origine de ma religion**, *wa-l-‘aqlu açlu dînî*&nbsp;: l’intellect est le principe de tout bien, et Dieu n’accorde pas à un serviteur de grâce plus grande que l’intellect. Par lui, \[le serviteur] fait la séparation entre la vérité et l’erreur, entre la foi et l’infidélité&nbsp;; par lui, il distingue le licite de l’illicite&nbsp;; par lui, il saisit les choses qui plaisent à Dieu et celles qui Le courroucent. Il est la source de toute grâce. Et la connaissance qui est l’assise de la foi, est qu’il n’y a pas d’acte de connaissance sans lui.
 
@@ -67,7 +67,7 @@ Le chagrin est à la mesure de l’immensité de ce dont on s’attriste. Le cha
 
 **La science est mon arme**, *wa-l-‘ilmu silâhî*&nbsp;: la science est le fondement de la connaissance, et le fondement de tout bien. Grâce à elle l’on atteint dans le c&oelig;ur l’immensité de Dieu, par la vertu de la méditation, comme le dit Dieu&nbsp;: «&nbsp;Tirez un enseignement, ô vous qui détenez les regards&nbsp;!&nbsp;»[^14] Et cela ne peut se produire que par la science.
 
-**La patience est ma provision de route**, *wa-ç-çabru zâdî*&nbsp;: le serviteur voyage dans ses souffles et ses regards[^15], et sa provision de route dans son voyage consiste à suivre les ordres et les interdictions.[^16] Cela ne peut s’accomplir pour lui que par la patience. S’il ne patiente pas, il se conduit lui-même vers ce qui courrouce Dieu.
+**La patience est ma provision de route**, *wa-ç-çabru zâdî*&nbsp;: le serviteur voyage dans ses souffles et ses regards,[^15] et sa provision de route dans son voyage consiste à suivre les ordres et les interdictions.[^16] Cela ne peut s’accomplir pour lui que par la patience. S’il ne patiente pas, il se conduit lui-même vers ce qui courrouce Dieu.
 
 **La satisfaction est mon trophée**, *wa-r-ridâ ghanîmatî*&nbsp;: le plus grand trophée consiste à se satisfaire du partage de Dieu.[^17] L’on trouve dans l’*Entretien Intime*&nbsp;: 
 
@@ -117,7 +117,7 @@ Dieu est Celui qui préserve et Celui qui guide. Que Dieu prie sur notre maître
 
 Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’année 1320 de l’hégire.[^33] Sur ceux qui ont émigré, sur la famille \[du Prophète] et sur ses compagnons, la meilleure des prières et la plus parfaite des salutations. \[Cette lettre] fut mise par écrit par le serviteur méprisable, le pauvre envers la générosité de Dieu, Muhammad al-Yamanî Ibn ‘Alî al-Idrîsî.[^34]
 
-[^1]:  C’est un disciple du ShaykhAhmad Ibn Idrîs qui parle.
+[^1]:  C’est un disciple du Shaykh Ahmad Ibn Idrîs qui parle.
 [^2]:  Cette ville se situe dans le sud du Yémen. Le Shaykh arriva à Zabîd en 1827-1828 pour une brève visite, puis s’y installa ensuite pendant neuf mois, en 1828-1829. Voir R.S. O’Fahey, in *Enigmatic Saint*, p. 83-88.
 [^3]:  La connaissance *ma’rifah* fondamentale est celle de Dieu, Principe et Fin dernière. Le Shaykh prend soin de rappeler que ces «&nbsp;définitions&nbsp;» ou «&nbsp;délimitations&nbsp;» de Dieu qui ont été données par la Révélation coranique et la Tradition prophétique sont en fait des négations de toute limite&nbsp;: Dieu est le Premier, c’est-à-dire Celui avant qui il n’y a rien, etc. La véritable connaissance de Dieu est apophatique. Nous n’y accédons pas par un savoir positif, mais en nous séparant de la connaissance positive du créé, qui est notre voile.
 [^4]:  Coran 2&nbsp;: 115.
