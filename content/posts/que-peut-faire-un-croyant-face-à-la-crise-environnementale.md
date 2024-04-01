@@ -21,7 +21,7 @@ L’Institut des Hautes Études Islamiques (IHEI) et l’Institut de Science et 
 Intervenants*&nbsp;*:
 
 * Gabriel Hagaï, rabbin orthodoxe
-* Elena Lasida, théologienne chrétienne
+* Élena Lasida, théologienne chrétienne
 * Abd al-Haqq Guiderdoni, astrophysicien, directeur de l’IHEI
 
 [Vidéo](https://www.youtube.com/watch?v=SBqaedLVY6Y&list=PL8SfYzzX-i3mkGbTu8i3NQImIy736sDWb)
