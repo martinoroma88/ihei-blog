@@ -70,7 +70,7 @@ Pour considérer les mêmes choses dans une perspective géométrique, on peut r
 
 La Révélation islamique manifeste la réalité universelle de l’amour divin à travers Ses Noms *ar-Rahmân*, le Tout-Miséricordieux, et *ar-Rahîm*, le Très-Miséricordieux, qui dérivent tous deux de la *rahmah*, la miséricorde, dont la racine évoque *ar-rahim*, la matrice maternelle. Selon une tradition prophétique&nbsp;: 
 
->  Dieu a divisé la miséricorde en cent parts. Il en a conservé quatre-vingt dix-neuf auprès de Lui et en a fait descendre une sur terre. C’est grâce à cette part que les créatures se font mutuellement miséricorde et que la jument écarte son sabot de son poulain, de peur de l’atteindre.[^15]
+> Dieu a divisé la miséricorde en cent parts. Il en a conservé quatre-vingt dix-neuf auprès de Lui et en a fait descendre une sur terre. C’est grâce à cette part que les créatures se font mutuellement miséricorde et que la jument écarte son sabot de son poulain, de peur de l’atteindre.[^15]
 
 Aux temps du Prophète, l’adjectif *rahmân* n’était plus guère utilisé. Le message coranique vient en renouveler le sens. Aussi le Nom *ar-Rahmân* constitue-t-il le signe caractéristique de la révélation coranique, comme peut l’être, pour les juifs, le Nom divin ineffable, *ha-shem*, et, pour les chrétiens, le Nom du Père. 
 
