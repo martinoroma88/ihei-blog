@@ -10,7 +10,7 @@ Dans la langue arabe, le mot *tawhîd* dérive de *wahhada*, qui signifie affirm
 
 Selon les mots du Shaykh at-Tâdilî, la science du *tawhîd* 
 
->  est la plus élevée et la plus parfaite des sciences. Elle est le fondement de toutes les sciences et de toutes les compréhensions&nbsp;; elle est leur source et leur but puisque toutes les sciences en dérivent. Toutes les sciences se séparent de leur «&nbsp;compagnon&nbsp;» quand celui-ci abandonne ce bas monde. Seule la science de la doctrine de l’unicité accompagne son compagnon dans la demeure de l’au-delà.
+> est la plus élevée et la plus parfaite des sciences. Elle est le fondement de toutes les sciences et de toutes les compréhensions&nbsp;; elle est leur source et leur but puisque toutes les sciences en dérivent. Toutes les sciences se séparent de leur «&nbsp;compagnon&nbsp;» quand celui-ci abandonne ce bas monde. Seule la science de la doctrine de l’unicité accompagne son compagnon dans la demeure de l’au-delà.
 
 Dans l’économie spirituelle de la Révélation islamique, le premier des cinq piliers de la tradition, la *shahâdah* ou témoignage de foi, s’énonce ainsi&nbsp;: 
 
@@ -18,21 +18,21 @@ Dans l’économie spirituelle de la Révélation islamique, le premier des cinq
 
 Il traduit, sur le plan formel, la vérité du *tawhîd*. Ce témoignage représente le principe de toute affirmation doctrinale et se reflète dans les différents aspects rituels de l’islam. La répétition incessante de cette vérité pénètre toute la vie du musulman, qui n’est autre que la mise en &oelig;uvre de ce symbole à travers tout le corps rituel de la tradition, en conférant un caractère de sacralité à chaque moment de la vie. Dans une grande mesure, tout le cadre traditionnel n’est que le support pour retrouver dans chaque moment et dans chaque dimension la présence d’une telle vérité&nbsp;: 
 
->  C’est à Dieu qu’appartiennent l’Orient et l’Occident. Où que vous vous tourniez, là est la Face de Dieu.[^1]
+> C’est à Dieu qu’appartiennent l’Orient et l’Occident. Où que vous vous tourniez, là est la Face de Dieu.[^1]
 
 La *shahâdah*, symbole de l’Unicité divine, s’appuie, dans sa formulation, sur l’union indissoluble des dimensions de transcendance et d’immanence divines qui sont représentées par ses deux parties constitutives «&nbsp;il n’y a pas de dieu si ce n’est Dieu&nbsp;» et «&nbsp;Muhammmad est l’envoyé de Dieu&nbsp;». Dieu est incomparablement éloigné de toute réalité finie, comme le suggère, dans la doctrine islamique, la définition du *tanzîh* qui signifie littéralement «&nbsp;dépouillé de tout attribut&nbsp;»&nbsp;: «&nbsp;Il n’y a pas de dieu si ce n’est Lui. Toute chose périt sauf Sa Face.&nbsp;»[^2] Toutefois, le Coran nous confirme que Dieu est aussi «&nbsp;plus proche de l’homme que la veine de son cou&nbsp;».[^3] Dans un autre verset, il est dit&nbsp;: 
 
->  Ô vous les croyants, cherchez à répondre à Dieu et à Son messager lorsqu’il vous appelle à ce qui vous donne la vie, et sachez que Dieu se place entre l’homme et son c&oelig;ur.[^4] 
+> Ô vous les croyants, cherchez à répondre à Dieu et à Son messager lorsqu’il vous appelle à ce qui vous donne la vie, et sachez que Dieu se place entre l’homme et son c&oelig;ur.[^4] 
 
 C’est dans cette perspective de la Révélation que se situe l’aspect complémentaire de la «&nbsp;similitude&nbsp;» ou de l’«&nbsp;immanence&nbsp;» divine, *tashbîh*, sur lequel se fondent le symbolisme et la pratique rituelle.
 
 Si le texte sacré rappelle, d’une part, que l’Essence de Dieu est inépuisable et incomparable, de l’autre, il répète que «&nbsp;Dieu est chaque jour à l’&oelig;uvre&nbsp;».[^5] Il façonne à chaque instant la création à l’image de Ses attributs. Selon les mots du Coran, 
 
->  Il est Dieu, le Créateur, le Producteur, Celui qui donne la forme. À Lui sont les plus beaux noms. Tout ce qui est dans les cieux et sur la terre chante Sa louange. Il est le Puissant, le Sage.[^6]
+> Il est Dieu, le Créateur, le Producteur, Celui qui donne la forme. À Lui sont les plus beaux noms. Tout ce qui est dans les cieux et sur la terre chante Sa louange. Il est le Puissant, le Sage.[^6]
 
 Dieu comprend en Lui toute la multiplicité, exprimée par la diversité de Ses noms, qui doit être entendue en un sens qualitatif et non quantitatif. 
 
->  Il n’y a pas d’entretien à trois où Il ne soit le Quatrième, ni à cinq où Il ne soit le Sixième.[^7]
+> Il n’y a pas d’entretien à trois où Il ne soit le Quatrième, ni à cinq où Il ne soit le Sixième.[^7]
 
 C’est pour cette raison que le Coran dit que l’on ne peut affirmer que «&nbsp;Dieu est le troisième de trois&nbsp;», dans le sens que l’unicité de Dieu ne saurait être scindée en une série numérique quantitative, mais reste une, malgré la multiplicité des relations (*nisab*). Selon les mots du Shaykh Abd-al-Wâhid Yahyâ, René Guénon, 
 
