@@ -110,7 +110,7 @@ Pour conclure, nous voudrions dire que, du point de vue de l’Islam, il ne saur
 [^8]:  René Guénon, *Le Symbolisme de la Croix*, p. 59.
 [^9]:  Coran 2&nbsp;: 136.
 [^10]:  Coran 42&nbsp;: 11.
-[^11]:  Ibn Arabî, *La Profession de Foi*, Trad. R. Deladrière, Editions Orientales, p. 98.
+[^11]:  Ibn Arabî, *La Profession de Foi*, Trad. R. Deladrière, Éditions Orientales, p. 98.
 [^12]:  op. cit. p. 98.
 [^13]:  Coran 5&nbsp;: 48.
 [^14]:  Coran 2&nbsp;: 163.
