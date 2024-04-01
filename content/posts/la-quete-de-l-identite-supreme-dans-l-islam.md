@@ -47,7 +47,7 @@ Ainsi l’autre monde existe déjà. Le Prophète ne disait-il pas&nbsp;: «&nbs
 
 > Le ciel a gémi sous le poids de son fardeau et il a raison. Il n’y a pas au ciel la place de quatre doigts sans qu’un ange ne s’y trouve, posant le front par terre.
 
-Une tradition prophétique bien connue définit ainsi la perfection contemplative (al-ihsân)&nbsp;:
+Une tradition prophétique bien connue définit ainsi la perfection contemplative (*al-ihsân*)&nbsp;:
 
 > Adore Dieu comme si tu Le voyais, car si tu ne Le vois pas, Lui, Il te voit.
 
