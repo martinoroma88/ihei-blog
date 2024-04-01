@@ -27,7 +27,7 @@ Le travail de l’Esprit, c’est-à-dire du souffle (*ar-rûh*) que Dieu jeta d
 
 Le modèle éminent de sainteté est, pour les musulmans, le Prophète Muhammad. «&nbsp;En vérité, dit le Coran, vous avez dans l’Envoyé de Dieu un modèle excellent (*uswatan hasanatan*).&nbsp;»[^18] L’Envoyé de Dieu n’est qu’un homme, mais un homme impeccable, qui, après avoir parfaitement recouvré la nature spirituelle selon laquelle Adam fut créé par Dieu (*al-fitrah*), est entré dans la dimension ontologique suprême de la servitude spirituelle (*al-‘ubûdah*). Il a pu se vider de lui-même et accueillir, dans le silence de la Nuit du destin (*laylat al-qadr*), vingt-septième nuit du mois de Ramadân, la descente totale de la Parole divine qui est modèle de la création première et promesse de la création à venir, celle du jour de la résurrection. Le Prophète illettré (*an-nabî al-ummî*), porteur de la parole de Dieu devenue Livre (*kitâb*), est le miracle fondateur de l’islam (*mu‘jizah*). Quand on interrogea ‘A’ishah, l’épouse du Prophète, à propos du caractère de celui-ci, elle répondit simplement&nbsp;:
 
-> Son caractère était comme le Coran.[^19](Muslim.)
+Son caractère était comme le Coran.[^19]
 
 Pénétré par la prière, par le souvenir de Dieu, le saint est, à l’image du Prophète, un Coran vivant. Certains saints le deviennent non seulement de façon symbolique, mais aussi dans leur apparence extérieure, dans la mesure où ils ne parlent plus qu’en citant des versets du texte sacré.
 
@@ -146,6 +146,7 @@ Récupérer pleinement cette aspiration totale à Dieu est peut-être la derniè
 [^17]: Bukhârî, Ibn Mâjah.
 
 [^18]: Coran 33&nbsp;: 21.
+[^19]: Muslim.
 
 [^20]: Coran 3&nbsp;: 32.
 
