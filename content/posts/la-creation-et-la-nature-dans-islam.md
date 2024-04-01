@@ -75,7 +75,7 @@ Plusieurs arguments sont avancés dans ce contexte. Le premier repose sur le pos
 
 Ce premier argument s’appuie sur des données statistiques qui évalueraient à cinq millions d’années l’espérance de vie moyenne pour une espèce. Pour les tenants de cette théorie
 
-> le fait qu’il y ait à notre époque une intensification du processus d’extinction, lié aux activités des sociétés humaines ou au «&nbsp;succès&nbsp;» de l’espèce humaine si, l’on préfère prendre les chose sous cet angle plus positif, n’est absolument pas douteux.
+> le fait qu’il y ait à notre époque une intensification du processus d’extinction, lié aux activités des sociétés humaines ou au «&nbsp;succès&nbsp;» de l’espèce humaine, si l’on préfère prendre les chose sous cet angle plus positif, n’est absolument pas douteux.
 
 Un deuxième argument, largement plus alarmiste, met l’accent sur l’accélération de ce processus d’extinction auquel nous assistons qui veut
 
