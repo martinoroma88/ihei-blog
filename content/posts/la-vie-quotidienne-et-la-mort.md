@@ -49,15 +49,15 @@ La tradition islamique attend comme «&nbsp;annonce de l’Heure&nbsp;» le reto
 
 > En ces temps très particuliers qui semblent “mettre en crise” les religions elles-mêmes, nous avons la responsabilité d’intervenir et de savoir transformer en bien cette “crise” qui nous touche tous&nbsp;; crise dans le sens étymologique du terme, qui est celui de “jugement”, moment de vérité inhérent au dévoilement même de la nature réelle des choses.[^7]
 
-Quelles sont les aides sur lesquelles l’homme d’aujourd’hui peut compter&nbsp;? Il peut sembler singulier que ce soit précisément les saints qui, par leur exemple, nous rappellent la possibilité de trouver, dès cette vie, la paix en réalisant la connaissance de notre Seigneur, Al-Hayy, le Vivant, et Al-Qayyûm, le Subsistant par Lui-même.
+Quelles sont les aides sur lesquelles l’homme d’aujourd’hui peut compter&nbsp;? Il peut sembler singulier que ce soit précisément les saints qui, par leur exemple, nous rappellent la possibilité de trouver, dès cette vie, la paix en réalisant la connaissance de notre Seigneur, *Al-Hayy*, le Vivant, et *Al-Qayyûm*, le Subsistant par Lui-même.
 
 Cette renaissance spirituelle à laquelle nous sommes tous appelés, chacun bénéficiant des moyens qui sont propres à la religion à laquelle il appartient, sera d’autant plus vraie et sincère que l’on réussira à réaliser que «&nbsp;toute chose périt, à l’exception de Sa Face.&nbsp;»[^8]
 
 [^1]: René Guénon, *L’erreur Spirite*, deuxième partie&nbsp;: «&nbsp;Examen des théories spirites&nbsp;» chapitre 3&nbsp;: «&nbsp;immortalité et survivance&nbsp;», Les éditions traditionnelles, Paris 1984.
 [^2]: Al-Ghazali, *La perle précieuse, voyage dans l’au-delà*, édition d’Ennour 2006.
-[^3]: Coran 13, 26.
-[^4]: Coran 42, 36-37.
-[^5]: Coran 45, 21-22.
-[^6]: Coran 29, 20.
+[^3]: Coran 13&nbsp;: 26.
+[^4]: Coran 42&nbsp;: 36-37.
+[^5]: Coran 45&nbsp;: 21-22.
+[^6]: Coran 29&nbsp;: 20.
 [^7]: Abd al-Wâhid Pallavicini, *L’Islam interiore*, Il Sagiattore, Milan 2002.
-[^8]: Coran 28, 88.
+[^8]: Coran 28&nbsp;: 88.
