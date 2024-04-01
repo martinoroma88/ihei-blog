@@ -66,7 +66,7 @@ Il ressort nettement de ces considérations que l’exclusivisme intégriste n�
 
 Pour considérer les mêmes choses dans une perspective géométrique, on peut relever comment un triangle diffère d’un carré ou d’un cercle, bien que ces trois figures puissent être tracées sur le même plan et avoir le même centre. D’une manière semblable, les traditions religieuses sont caractérisées par une forme précise qui semble exclure toutes les autres, mais elles tirent pourtant leur réalité du même plan qui les manifeste, le plan de la miséricorde et de l’amour divins, comme elles ont toutes leur centre dans le Dieu unique.
 
->  Votre Dieu est un Dieu unique. Il n’y a pas de dieu si ce n’est Lui, le Tout-Miséricordieux, le Très-Miséricordieux.[^14]
+> Votre Dieu est un Dieu unique. Il n’y a pas de dieu si ce n’est Lui, le Tout-Miséricordieux, le Très-Miséricordieux.[^14]
 
 La Révélation islamique manifeste la réalité universelle de l’amour divin à travers Ses Noms *ar-Rahmân*, le Tout-Miséricordieux, et *ar-Rahîm*, le Très-Miséricordieux, qui dérivent tous deux de la *rahmah*, la miséricorde, dont la racine évoque *ar-rahim*, la matrice maternelle. Selon une tradition prophétique&nbsp;: 
 
