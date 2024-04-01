@@ -48,7 +48,7 @@ De la même façon, selon une expression doctrinale bien connue, la conception d
 
 Chaque fois qu’un tel équilibre est rompu, on risque fort de tomber, d’un côté, dans l’abstraction mentale, de l’autre, dans le «&nbsp;panthéisme&nbsp;», et toute hérésie peut, en définitive, être rapportée à l’une de ces deux tendances. C’est à travers des attestations apparemment inconciliables que le Coran nous appelle à la nécessité de maintenir cet équilibre&nbsp;: «&nbsp;Rien n’est semblable à Lui, et Il est Celui qui entend et qui sait.&nbsp;»[^10] Ibn Arabî s’exprime à ce propos, en témoignant d’une polarisation des aspects divins qui se multiplient comme en une série de miroirs se faisant face&nbsp;: 
 
->  L’éloignement ne l’empêche pas d’entendre, car Il est le Proche (*al-Qarîb*), et la proximité ne L’empêche pas de voir car Il est l’Éloigné (*al-Ba’îd*).[^11]
+> L’éloignement ne l’empêche pas d’entendre, car Il est le Proche (*al-Qarîb*), et la proximité ne L’empêche pas de voir car Il est l’Éloigné (*al-Ba’îd*).[^11]
 
 La synthèse des dimensions de la transcendance et de l’immanence représente donc l’équilibre spirituel exprimé dans le *tawhîd*. Malheureusement, il arrive souvent qu’*Allâh* soit identifié comme un dieu spécifique à l’islam, qui présenterait seulement l’aspect de transcendance. Cela ne correspond en aucune manière à la doctrine orthodoxe. Au contraire, c’est souvent contre une telle déviation que la doctrine islamique a dû se défendre.
 
