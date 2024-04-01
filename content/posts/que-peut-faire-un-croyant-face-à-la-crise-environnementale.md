@@ -9,7 +9,7 @@ annexes:
   - url: https://res.cloudinary.com/genesi-communication-design/image/upload/v1634333946/ISTR_table_ronde_Paris_oct._2021_shwcay.png
     titre: Que peut faire un croyant face à la crise environnementale ?
 ---
-**Que peut faire un croyant face à la crise environnementale&nbsp;?**
+**Que peut faire un croyant face à la crise environnementale&nbsp;?**</br>
 ***Pour une théologie de la création mise en actes.***
 
 Alors que les effets de la crise environnementale deviennent de plus en plus sensibles, et que se multiplient les appels à un changement radical de nos pratiques, tant individuelles que collectives, chacun se demande ce qu’il peut faire, à son niveau, dans un contexte où une grande partie du problème est systémique.
