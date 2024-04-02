@@ -6,7 +6,7 @@ auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619986067/ihei/quran-drawing-29_yfg4sk.jpg
 category: Soufisme et Spiritualités
 ---
-Nous voici arrivés au mois de Shawwal. Le mois de Ramadan s’en est allé. «&nbsp;Ramadân karîm&nbsp;! que Ramadan te soit généreux&nbsp;!&nbsp;». Ce sont les vœux que les musulmans, de par le monde, se présentent traditionnellement les uns aux autres lors de la venue de ce mois béni.
+Nous voici arrivés au mois de Shawwal. Le mois de Ramadan s’en est allé. «&nbsp;*Ramadân karîm*&nbsp;! que Ramadan te soit généreux&nbsp;!&nbsp;». Ce sont les vœux que les musulmans, de par le monde, se présentent traditionnellement les uns aux autres lors de la venue de ce mois béni.
 Ramadan offre chaque année des dons extraordinaires en quantité incalculable et en qualité incomparable, dont nous n’avons que très peu conscience. Cependant, même si le mois de Ramadan doit nécessairement s’achever, la Générosité divine, quant à elle, ne cesse jamais.
 
 C’est pourquoi lorsqu’on leur dit&nbsp;: «&nbsp;Ramadân karîm&nbsp;» certains répondent&nbsp;: «&nbsp;Allâhu akram, Allah est encore plus généreux&nbsp;!&nbsp;», en écho aux premiers versets révélés au Prophète ()&nbsp;:
