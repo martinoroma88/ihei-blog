@@ -80,7 +80,7 @@ Certains savants ont commenté ce hadith en disant que la vigne fut appelée *ka
 
 Ceux-là rendent grâce à Allah de Sa Générosité, et cherchent à honorer Sa Noblesse. Ils reconnaissent les signes de la Bonté et de la Beauté d’al-Karîm, et en témoignent, authentiquement et dignement, à travers leur manière d’être, leur paroles et leurs actes. Ceux qui ne donnent pas de faux témoignages&nbsp;; et qui, lorsqu’ils passent près d’une frivolité, s’en écartent noblement (*kirâman*).[^18]
 
-Ceux-là ne se laissent pas détourner ou distraire par les futilités et vulgarités liées à ce bas-monde, ils poursuivent leur chemin sur la voie de l’*ihsân*, concentrant leur orientation et leur aspiration uniquement vers Allah, «&nbsp;comme s’ils Le voyaient&nbsp;». A ceux qui agissent de la meilleure manière est réservée la meilleure (récompense), et même davantage&nbsp;:[^19] ils auront la joie suprême de contempler Sa Noble Face (*wahjuhu al-karîm*).
+Ceux-là ne se laissent pas détourner ou distraire par les futilités et vulgarités liées à ce bas-monde, ils poursuivent leur chemin sur la voie de l’*ihsân*, concentrant leur orientation et leur aspiration uniquement vers Allah, «&nbsp;comme s’ils Le voyaient&nbsp;». À ceux qui agissent de la meilleure manière est réservée la meilleure (récompense), et même davantage&nbsp;:[^19] ils auront la joie suprême de contempler Sa Noble Face (*wahjuhu al-karîm*).
 
 [^1]: Cor. 96&nbsp;: 3-5.
 
