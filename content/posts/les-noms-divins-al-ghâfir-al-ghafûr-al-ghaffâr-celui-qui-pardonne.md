@@ -62,7 +62,7 @@ Suivant le modèle prophétique, certains maîtres spirituels ont l’habitude d
 
 Allah dit&nbsp;:
 
-> Celui qui commet une mauvaise action, ou se montre injuste envers lui-même, puis demande pardon à Allah, il trouvera Allah grand-pardonneur, miséricordieux. (4&nbsp;: 110)
+> Celui qui commet une mauvaise action, ou se montre injuste envers lui-même, puis demande pardon à Allah, il trouvera Allah grand-pardonneur, miséricordieux.[^4]
 
 L’imam *al-Qushayri* précise qu’au début du verset le verbe «&nbsp;commet une mauvaise action&nbsp;» indique une action, tandis qu’ensuite le verbe «&nbsp;demande pardon&nbsp;» indique une parole. Observons comment Allah nous a ainsi facilité les choses en acceptant de notre part une simple parole, pourvu qu’elle soit sincère, pour nous pardonner ainsi une mauvaise action. Mais surtout, le plus étonnant et le plus merveilleux, nous apprend ce verset, c’est que si l’on demande pardon à Allah, on Le trouvera&nbsp;!
 
@@ -71,6 +71,4 @@ L’imam *al-Qushayri* précise qu’au début du verset le verbe «&nbsp;commet
 [^2]: Cor. 33&nbsp;: 72.
 [^3]: Cor. 7&nbsp;: 23.
 
-
-[^1]:
-[^1]:
+[^4]: Cor. 4&nbsp;: 110.
