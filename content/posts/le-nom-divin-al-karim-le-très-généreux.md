@@ -26,7 +26,7 @@ La Noblesse et la Générosité sont chez Lui des Qualités sublimes, des Attrib
 
 > Que soit exalté Allah, le Souverain, le Réel&nbsp;! Nul dieu en dehors de Lui, le Seigneur du noble Trône (*rabbu al-‘arsh al-karîm*)&nbsp;![^5]
 >
-> Voici une Récitation noble (*qur’ân karîm*), dans une écriture cachée, ne la touchent que les purifiés. [^6]
+> Voici une Récitation noble (*qur’ân karîm*), dans une écriture cachée, ne la touchent que les purifiés.[^6]
 >
 > Ceci est la parole d’un noble Messager (*rasûl karîm*), doué d’une grande force, et ayant un rang élevé auprès du Maître du Trône, obéi, là-haut, et digne de confiance.[^7]
 >
