@@ -36,9 +36,9 @@ Ceux qui espionnent les défauts des autres, médisent en leur absence, se venge
 
 Un proverbe chinois dit que celui qui contemple les eaux obscures et troubles manque les eaux claires et limpides. Le fait de voir les mauvais côtés des choses au détriment de leurs bons côtés, de souligner la laideur au détriment de la beauté, d’insister sur le mal au détriment du bien, ce sont là des attitudes et un état d’esprit qui traduisent une profonde ignorance sur la réalité de la création. C’est d’ailleurs souvent parce qu’on a soi-même l’âme troublée et obscurcie qu’on voit davantage le mal, comme si cette maladie de l’âme altérait la vision de la réalité. Mais cet état d’esprit et cette attitude négative sont une marque flagrante d’ingratitude et d’impolitesse envers Allah, Lui qui est le Beau, le Bien, le Parfait et le Vrai Absolus. Certains sages enseignent que la laideur, le mal, l’imperfection et l’erreur n’ont pas d’existence réelle, ils n’existent qu’en mode négatif, en tant qu’ils manifestent un vide, une privation, un manque, manque de beauté, de bien, de perfection et de vérité.
 
-Et c’est ce même manque qui apparaît précisément dans les manquements, les fautes et les erreurs que l’être humain commet inévitablement par ignorance, ingratitude et oubli d’Allah. Il est vraiment très injuste et très ignorant&nbsp;![^2] () dit le Coran à propos de l’homme. Heureusement, le Prophète () enseigne comment transformer ces vices en vertus&nbsp;: «&nbsp;Tous les fils d’Adam font des erreurs, mais les meilleurs fautifs sont ceux qui se repentent inlassablement.&nbsp;» L’être humain n’est pas condamné à rester dans son injustice et son ignorance congénitales, à condition qu’il revienne vers Allah, Lui qui est le plus Juste et le plus Savant, Lui qui est la source de toute Justice et de toute Connaissance. Ainsi firent *Adam* et *Hawa* après avoir désobéi à leur Seigneur, ils se tournèrent vers Lui repentants&nbsp;:
+Et c’est ce même manque qui apparaît précisément dans les manquements, les fautes et les erreurs que l’être humain commet inévitablement par ignorance, ingratitude et oubli d’Allah. Il est vraiment très injuste et très ignorant&nbsp;![^2] dit le Coran à propos de l’homme. Heureusement, le Prophète () enseigne comment transformer ces vices en vertus&nbsp;: «&nbsp;Tous les fils d’Adam font des erreurs, mais les meilleurs fautifs sont ceux qui se repentent inlassablement.&nbsp;» L’être humain n’est pas condamné à rester dans son injustice et son ignorance congénitales, à condition qu’il revienne vers Allah, Lui qui est le plus Juste et le plus Savant, Lui qui est la source de toute Justice et de toute Connaissance. Ainsi firent *Adam* et *Hawa* après avoir désobéi à leur Seigneur, ils se tournèrent vers Lui repentants&nbsp;:
 
-> Seigneur, nous nous sommes fait du tort à nous-mêmes, si Tu ne nous pardonnes pas et ne nous fais pas miséricorde, nous sommes perdus.(7&nbsp;: 23)
+> Seigneur, nous nous sommes fait du tort à nous-mêmes, si Tu ne nous pardonnes pas et ne nous fais pas miséricorde, nous sommes perdus.[^3]
 
 Il appartient ainsi à l’être humain d’implorer le pardon d’Allah pour qu’Il recouvre ses manques, son ignorance, son injustice et son ingratitude, par Ses qualités de beauté, de connaissance, de justice et de gratitude&nbsp;; pour qu’Il transforme ses mauvaises actions en bonnes actions&nbsp;; pour qu’Il l’aide à reconnaître le bien et la miséricorde qu’Il a mis en toute chose&nbsp;; pour qu’Il lui fasse voir la Vérité et lui accorde de s’y conformer, et lui fasse voir la fausseté et lui accorde de l’éviter, comme l’enseigne le Prophète&nbsp;: *Allâhumma arinâ al-Haqqa haqqan wa-rzuqnâ ittibâ‘ahu wa arinâ al- bâTila bâTilan wa-rzuqnâ ijtinâbahu*.
 
@@ -68,8 +68,9 @@ L’imam *al-Qushayri* précise qu’au début du verset le verbe «&nbsp;commet
 
 [^1]: Cor. 3&nbsp;: 133.
 
-
 [^2]: Cor. 33&nbsp;: 72.
-[^1]:
+[^3]: Cor. 7&nbsp;: 23.
+
+
 [^1]:
 [^1]:
