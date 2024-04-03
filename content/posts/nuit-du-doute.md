@@ -20,13 +20,13 @@ Hadîth&nbsp;: «&nbsp;Jeûnez à sa vision (c’est-à-dire du *hilâl*) et rom
 > Le croissant se forme peu de temps après la nouvelle lune (NL), qui est le moment où nous ne voyons que la face de la lune non éclairée par le soleil. La NL est prévisible par calcul. Le croissant se forme de 15 à 20 heures après cette NL, mais il apparaît d’abord de façon partielle à cause des irrégularités à la surface de la lune (montagnes). Ce moment est difficile à prévoir avec exactitude. En revanche, on sait par d’innombrables observations, qu’il est très difficile, sinon impossible, de voir le croissant moins de 15 heures après la nouvelle lune, et qu’il faut en général attendre au moins 20 heures après la NL. Donc on peut prévoir quand le croissant devient «&nbsp;visible&nbsp;» là aussi par le calcul. 
 >
 > Mais il existe trois options&nbsp;: 
->
-> 1. On décide de déclencher le mois dès que le croissant est potentiellement 
->
->    «&nbsp;visible&nbsp;» (même si personne ne le voit). Cela permet une prévision parfaite du calendrier lunaire islamique. On interprète ainsi la vision (*ru’yah*) comme une vision «&nbsp;par la pensée&nbsp;». 
-> 2. On refuse toute prévision par le calcul et on attend une vision oculaire. Le problème est&nbsp;: Est-on bien sûr d’avoir vu le *hilâl* et pas autre chose (un nuage, ou une traînée de jet, par exemple)&nbsp;? 
-> 3. On attend une vision oculaire mais on accepte la vérification par le calcul, pour être sûr que c’est bien le *hilâl* qui a été vu. 
->
+
+1. On décide de déclencher le mois dès que le croissant est potentiellement 
+
+   «&nbsp;visible&nbsp;» (même si personne ne le voit). Cela permet une prévision parfaite du calendrier lunaire islamique. On interprète ainsi la vision (*ru’yah*) comme une vision «&nbsp;par la pensée&nbsp;». 
+2. On refuse toute prévision par le calcul et on attend une vision oculaire. Le problème est&nbsp;: Est-on bien sûr d’avoir vu le *hilâl* et pas autre chose (un nuage, ou une traînée de jet, par exemple)&nbsp;? 
+3. On attend une vision oculaire mais on accepte la vérification par le calcul, pour être sûr que c’est bien le *hilâl* qui a été vu. 
+
 > Les trois options peuvent donner des résultats différents, d’où les désaccords au sein de la *ummah*. À cela s’ajoute le fait que certains privilégient la vision locale, ou vision du pays (*ru’yat-al-bilâd*), alors que d’autres voudraient que tous les musulmans du monde jeûnent en même temps, une idée nouvelle née de la globalisation et du développement des moyens de communication.
 
 ***3. La France doit-elle suivre d’autres pays musulmans&nbsp;?*** 
