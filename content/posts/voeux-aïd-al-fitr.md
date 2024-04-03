@@ -14,6 +14,6 @@ Dans la gratitude à Dieu pour les bénédictions de la prière et du jeûne, du
 
 ** *Aïd mubarak !***
 
-Yahya Pallavicini, Président IHEI
+Yahya Pallavicini, Président IHEI</br>
 
 Abd al-Haqq Guiderdoni, Directeur IHEI
