@@ -68,7 +68,7 @@ Il se peut même qu’Allah leur pardonne en acceptant leur repentir, ce qui sig
 
 Encore une fois, en cela comme en toute chose, vous avez dans le messager d’Allah un excellent modèle, pour ceux qui espèrent en Allah et dans le Jour dernier, et qui se rappellent Allah en abondance.
 
-En effet, d’après le shaykh Ahmad ibn Idris al-Fasi al-Hasani (), lorsque fut révélé le verset&nbsp;: Montre-toi indulgent (*khudh al-‘afw*), ordonne ce qui est conforme à la coutume, et détourne-toi des ignorants,[^4](7&nbsp;: 199) le Prophète demanda à l’ange Jibril ce que cela signifiait. Après avoir demandé à son Seigneur, Jibril lui répondit&nbsp;: «&nbsp;Allah t’ordonne de pardonner à celui qui t’a offensé, de donner à celui qui t’a privé, et d’entretenir des relations avec celui qui a rompu avec toi.&nbsp;»
+En effet, d’après le shaykh Ahmad ibn Idris al-Fasi al-Hasani (), lorsque fut révélé le verset&nbsp;: Montre-toi indulgent (*khudh al-‘afw*), ordonne ce qui est conforme à la coutume, et détourne-toi des ignorants,[^4] le Prophète demanda à l’ange Jibril ce que cela signifiait. Après avoir demandé à son Seigneur, Jibril lui répondit&nbsp;: «&nbsp;Allah t’ordonne de pardonner à celui qui t’a offensé, de donner à celui qui t’a privé, et d’entretenir des relations avec celui qui a rompu avec toi.&nbsp;»
 
 Le Prophète nous enseigne par son exemple le sacrifice de l’ego, l’effacement de soi, pour servir la Volonté d’Allah et témoigner concrètement de Ses Qualités.
 
@@ -86,8 +86,4 @@ Sache que le pardon d’Allah envers Ses serviteurs est quelque chose dont la si
 
 [^3]: Cor. 3&nbsp;: 133-134.
 
-
-[^4]: 
-[^5]: 
-[^6]: 
-[^7]:
+[^4]: Cor. 7&nbsp;: 199.
