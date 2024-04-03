@@ -16,7 +16,7 @@ Le Prophète annonce qu’Allah «&nbsp;a fixé dans le mois de Ramadan une nuit
 
 Il nous reste encore une nuit impaire de ce mois pour veiller, chercher et nous préparer à trouver, *in-sha’Allah*, cette nuit, *Laylat al-Qadr*.
 
-On rapporte à ce sujet que ‘Aïcha (), l’épouse bien-aimée de notre Prophète bien-aimé (), lui avait demandé&nbsp;: «&nbsp;Ô messager de Dieu, si jamais je sais quelle nuit est *Laylat al-Qadr*, que devrais-je dire&nbsp;?&nbsp;» Il répondit&nbsp;: *«&nbsp;Dis&nbsp;: "Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu ‘annî. Allâhumma, Tu es Celui qui effaces (les fautes) par Ton pardon, Tu aimes le pardon, efface (mes fautes)."*&nbsp;» (Tirmidhi)
+On rapporte à ce sujet que ‘Aïcha (), l’épouse bien-aimée de notre Prophète bien-aimé (), lui avait demandé&nbsp;: «&nbsp;Ô messager de Dieu, si jamais je sais quelle nuit est *Laylat al-Qadr*, que devrais-je dire&nbsp;?&nbsp;» Il répondit&nbsp;: *«&nbsp;Dis&nbsp;: ”Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu ‘annî. Allâhumma, Tu es Celui qui effaces (les fautes) par Ton pardon, Tu aimes le pardon, efface (mes fautes).*“&nbsp;» (Tirmidhi)
 
 On peut imaginer que ‘Aïcha avait posé cette question au Prophète lors des dix derniers jours d’un mois de Ramadan. Je ne dis pas «&nbsp;comme celui-ci&nbsp;», parce que chaque mois de Ramadan est unique et différent des autres, chaque mois de Ramadan renouvelle miraculeusement la descente des dons inépuisables d’Allah.
 
@@ -52,11 +52,11 @@ La racine ‘*ayn-fa-waw* signifie effacer les traces, le superflu, éliminer, r
 
 Le Nom *al-‘Afuww* est proche du Nom *al-Ghafûr*, mais le premier est plus intense que le second. Il y a une différence entre la *maghfira* d’Allah et Son ‘*afw*. La *maghfira* est synonyme de *sitr*, elle recouvre et cache les fautes, laideurs et imperfections individuelles, tandis que le ‘*afw* est synonyme de *mahw*, il les efface complètement. L’action d’effacer est donc plus intense que l’action de recouvrir.
 
-> Toute épreuve qui vous afflige est le fruit de ce que vos mains ont perpétré, et encore Il ne tient pas compte (*ya‘fû*) de nombre de vos méfaits. (42&nbsp;: 30)
+> Toute épreuve qui vous afflige est le fruit de ce que vos mains ont perpétré, et encore Il ne tient pas compte (*ya‘fû*) de nombre de vos méfaits.[^1]
 
 On remarque, par ailleurs, que le Nom divin *al-‘Afuww* n’est jamais employé seul mais il l’est, soit avec le Nom divin *al-Ghafûr*, soit avec le Nom divin coranique *al-Qadîr*.
 
-> Que vous fassiez du bien ouvertement ou discrètement ou encore que vous pardonniez (*ya‘fû*) un mal, Allah s’est bel et bien révélé Indulgent (‘*afuwwan*) Tout-Puissant (*qadîran*). (4&nbsp;: 149)
+> Que vous fassiez du bien ouvertement ou discrètement ou encore que vous pardonniez (*ya‘fû*) un mal, Allah s’est bel et bien révélé Indulgent (‘*afuwwan*) Tout-Puissant (*qadîran*).[^2]
 
 Ce verset met en rapport et en correspondance la qualité d’*al-‘Afuww* avec l’attitude de Ses serviteurs&nbsp;: ceux qui passent outre et pardonnent les offenses qu’on leur a faites, comme si elles n’existaient plus à leurs yeux, revêtissent ainsi cette qualité divine, et ils verront leurs propres fautes effacées.
 
@@ -64,11 +64,11 @@ Dans son commentaire sur les plus beaux Noms d’Allah, l’imam al-Ghazali expl
 
 Il se peut même qu’Allah leur pardonne en acceptant leur repentir, ce qui signifie qu’Il efface leurs mauvaises actions. Car, selon le hadith, «&nbsp;celui qui se repent de sa faute est comme s’il n’avait pas commis de faute&nbsp;». C’est là le summum de l’effacement.
 
-> Concourez au pardon de votre Seigneur, et à un Jardin large comme les cieux et la terre, préparé pour les *muttaqîn*, ceux qui se prémunissent par Allah, qui dépensent dans l'aisance et dans l’adversité, qui dominent leur rage et pardonnent à autrui (*al-‘âfîna ‘an al-nâs*) —&nbsp;car Allah aime les bienfaisants. (3&nbsp;: 133-134)
+> Concourez au pardon de votre Seigneur, et à un Jardin large comme les cieux et la terre, préparé pour les *muttaqîn*, ceux qui se prémunissent par Allah, qui dépensent dans l'aisance et dans l’adversité, qui dominent leur rage et pardonnent à autrui (*al-‘âfîna ‘an al-nâs*) —&nbsp;car Allah aime les bienfaisants.[^3]
 
 Encore une fois, en cela comme en toute chose, vous avez dans le messager d’Allah un excellent modèle, pour ceux qui espèrent en Allah et dans le Jour dernier, et qui se rappellent Allah en abondance.
 
-En effet, d’après le shaykh Ahmad ibn Idris al-Fasi al-Hasani (), lorsque fut révélé le verset&nbsp;: Montre-toi indulgent (*khudh al-‘afw*), ordonne ce qui est conforme à la coutume, et détourne-toi des ignorants (7&nbsp;: 199), le Prophète demanda à l’ange Jibril ce que cela signifiait. Après avoir demandé à son Seigneur, Jibril lui répondit&nbsp;: «&nbsp;Allah t’ordonne de pardonner à celui qui t’a offensé, de donner à celui qui t’a privé, et d’entretenir des relations avec celui qui a rompu avec toi.&nbsp;»
+En effet, d’après le shaykh Ahmad ibn Idris al-Fasi al-Hasani (), lorsque fut révélé le verset&nbsp;: Montre-toi indulgent (*khudh al-‘afw*), ordonne ce qui est conforme à la coutume, et détourne-toi des ignorants,[^4](7&nbsp;: 199) le Prophète demanda à l’ange Jibril ce que cela signifiait. Après avoir demandé à son Seigneur, Jibril lui répondit&nbsp;: «&nbsp;Allah t’ordonne de pardonner à celui qui t’a offensé, de donner à celui qui t’a privé, et d’entretenir des relations avec celui qui a rompu avec toi.&nbsp;»
 
 Le Prophète nous enseigne par son exemple le sacrifice de l’ego, l’effacement de soi, pour servir la Volonté d’Allah et témoigner concrètement de Ses Qualités.
 
@@ -76,6 +76,18 @@ Ces quelques commentaires permettent de mieux saisir l’ampleur et l’intensit
 
 Au-delà des expressions et des conceptions, l’imam al-Qushayri rappelle&nbsp;:
 
-> Sache que le pardon d’Allah envers Ses serviteurs est quelque chose dont la signification profonde ne peut être saisie complètement à l’aide des expressions du langage.
->
+Sache que le pardon d’Allah envers Ses serviteurs est quelque chose dont la signification profonde ne peut être saisie complètement à l’aide des expressions du langage.
+
 > *Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu annâ*
+
+[^1]: Cor. 42&nbsp;: 30.
+
+[^2]: Cor. 4&nbsp;: 149.
+
+[^3]: Cor. 3&nbsp;: 133-134.
+
+
+[^4]: 
+[^5]: 
+[^6]: 
+[^7]:
