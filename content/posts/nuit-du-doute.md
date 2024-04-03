@@ -12,7 +12,7 @@ category: Islam en pratique
 
 > Les sources scripturaires recommandent de commencer à jeûner au début du mois, lors de la vision (*ru’yah*) du croissant de lune (*hilâl*).
 
-Coran II 185&nbsp;: «&nbsp;Quiconque d’entre vous sera témoin (*shahida*) du mois (*shahr*), qu’il le passe en jeûnant.&nbsp;» 
+Coran II, 185&nbsp;: «&nbsp;Quiconque d’entre vous sera témoin (*shahida*) du mois (*shahr*), qu’il le passe en jeûnant.&nbsp;» 
 Hadîth&nbsp;: «&nbsp;Jeûnez à sa vision (c’est-à-dire du *hilâl*) et rompez le jeûne (à la fin du mois) à sa vision.&nbsp;» 
 
 ***2. Peut-on prévoir avec certitude la vision du croissant de lune&nbsp;?*** 
