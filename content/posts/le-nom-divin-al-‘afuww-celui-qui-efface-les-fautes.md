@@ -42,7 +42,7 @@ L’invocation prophétique est un enseignement à part entière, une inspiratio
 
 En même temps, il transmettait toujours ce qui était le plus utile et le plus adapté aux besoins spirituels de ses interlocuteurs. Le Prophète enseigne la méthode qui conduit au plus grand bien en ce monde et dans l’autre. Il transmet une parole synthétique et entièrement suffisante.
 
-> *Dis&nbsp;: Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu ‘annî.*
+> *Dis&nbsp;:* «&nbsp;*Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu ‘annî.*&nbsp;»
 
 Le Prophète oriente le sens et la portée de cette demande vers Allah en tant que ‘*Afuww*. Il invite à L’invoquer par l’intermédiaire de Son Nom *al-‘Afuww*, comme expression de l’Essence, de la Qualité et de l’Action divines. Cette triple dimension apparaît dans l’articulation de la racine ‘*ayn-fa-waw* sous trois formes distinctes&nbsp;: ‘*afuww* indique le Nom, ‘*afw* indique la Qualité, *u‘fu* indique l’Action. Et la relation qui lie ces trois aspects n’est autre que l’Amour, *tuhibbu*. Allah aime être Grand-Pardonneur, Il aime le Pardon, et Il aime Pardonner.
 
