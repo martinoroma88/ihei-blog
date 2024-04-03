@@ -16,7 +16,7 @@ Le Prophète annonce qu’Allah «&nbsp;a fixé dans le mois de Ramadan une nuit
 
 Il nous reste encore une nuit impaire de ce mois pour veiller, chercher et nous préparer à trouver, *in-sha’Allah*, cette nuit, *Laylat al-Qadr*.
 
-On rapporte à ce sujet que ‘Aïcha (), l’épouse bien-aimée de notre Prophète bien-aimé (), lui avait demandé&nbsp;: «&nbsp;Ô messager de Dieu, si jamais je sais quelle nuit est *Laylat al-Qadr*, que devrais-je dire&nbsp;?&nbsp;» Il répondit&nbsp;: *«&nbsp;Dis&nbsp;: ”Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu ‘annî. Allâhumma, Tu es Celui qui effaces (les fautes) par Ton pardon, Tu aimes le pardon, efface (mes fautes).*“&nbsp;» (Tirmidhi)
+On rapporte à ce sujet que ‘Aïcha (), l’épouse bien-aimée de notre Prophète bien-aimé (), lui avait demandé&nbsp;: «&nbsp;Ô messager de Dieu, si jamais je sais quelle nuit est *Laylat al-Qadr*, que devrais-je dire&nbsp;?&nbsp;» Il répondit&nbsp;: *«&nbsp;Dis&nbsp;: “Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu ‘annî. Allâhumma, Tu es Celui qui effaces (les fautes) par Ton pardon, Tu aimes le pardon, efface (mes fautes).*”&nbsp;» (Tirmidhi)
 
 On peut imaginer que ‘Aïcha avait posé cette question au Prophète lors des dix derniers jours d’un mois de Ramadan. Je ne dis pas «&nbsp;comme celui-ci&nbsp;», parce que chaque mois de Ramadan est unique et différent des autres, chaque mois de Ramadan renouvelle miraculeusement la descente des dons inépuisables d’Allah.
 
