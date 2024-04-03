@@ -32,6 +32,5 @@ Aux yeux du musulman que je suis, une telle perspective a une grande valeur, car
 
 Paix au pape émérite Benoît&nbsp;!
 
-Yahya Pallavicini
-
+Yahya Pallavicini</br>
 Président de l’Institut des Hautes Études Islamiques
