@@ -43,7 +43,7 @@ Cette composition fait apparaître le nom de Dieu comme un élément qui n’ent
 
 (5) Le style *thuluth* représente une synthèse des deux tendances calligraphiques précédentes, kûfî et naskhî. Il développe harmonieusement les dimensions verticale et horizontale de l’écriture arabe&nbsp;: à la répétition incisive des verticales répond, dans le sens du courant horizontal, la mélodie des courbes amples et variées. Tout l’espace est rempli, les mots ne suivent pas forcément le sens de la lecture. Le style *thuluth* révèle l’équilibre entre la Transcendance et l’Immanence divines. Cette écriture est comme l’inlassable attestation de l’Unité et de l’Omniprésence de Dieu.
 
-(5/1) Basmala avec des hampes entrelacées. Toutes les lettres apparaissent ainsi liées entre elles, ne laissant aucun vide dans la parole de Dieu.
+(5/1) *Basmala* avec des hampes entrelacées. Toutes les lettres apparaissent ainsi liées entre elles, ne laissant aucun vide dans la parole de Dieu.
 
 (5/2) «&nbsp;Quant aux bienfaits que vous avez, ils viennent de Dieu.&nbsp;» (Coran 16&nbsp;: 53)
 
