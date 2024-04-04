@@ -67,7 +67,7 @@ Selon une tradition prophétique, la «&nbsp;perfection&nbsp;» contemplative co
 
 ![Calligraphie 7](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603658795/ihei/calligraphies/calligraphie-07_rdtquj.jpg "Calligraphie 7")
 
-7. Différentes calligraphies de la basmala en style *kûfî*, *naskhî*, *thuluth*, *dîwânî* et *kûfî* géométrique.
+7. Différentes calligraphies de la *basmala* en style *kûfî*, *naskhî*, *thuluth*, *dîwânî* et *kûfî* géométrique.
 
 ![Calligraphie 8](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603658795/ihei/calligraphies/calligraphie-08_me1aqy.jpg "Calligraphie 8")
 
