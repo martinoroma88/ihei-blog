@@ -29,7 +29,7 @@ Il s’agit du témoignage de l’Unicité divine, que l’on voit ici combiné 
 
 Les formes statiques du style *kûfî* sont renforcées par la forme carrée de la composition. Celle-ci représente un labyrinthe, symbole du voyage spirituel de l’homme vers Dieu au cours de l’existence. À première vue, la calligraphie semble incohérente et discontinue. En réalité, elle a un sens de lecture, donné par la parole même de Dieu, un sens concentrique qui indique le retour de l’homme vers le Centre divin. La calligraphie allie stabilité extérieure et mouvement intérieur, manifestations des Noms divins cités dans le verset&nbsp;: «&nbsp;L’immuable&nbsp;» (*al-Qayyûm*) et le «&nbsp;Vivant&nbsp;» (*al-Hayy*).
 
-(3/2) «&nbsp;Dieu&nbsp;», en noir et en blanc Dans cette calligraphie, qui rappelle le symbolisme du tissage, il n’y a pas de vide, de même que rien de ce qui est ne saurait être hors de la Réalité divine absolue.
+(3/2) «&nbsp;Dieu&nbsp;», en noir et en blanc. Dans cette calligraphie, qui rappelle le symbolisme du tissage, il n’y a pas de vide, de même que rien de ce qui est ne saurait être hors de la Réalité divine absolue.
 
 (4) Le style *naskhî* s’apparente à une écriture cursive dont l’allure est plus fluide, et qui fond les lettres en un seul mouvement continu, horizontal, qui correspond à la dimension du devenir et du changement. Son rythme mélodieux symbolise le flot inépuisable de la Parole coranique.
 
