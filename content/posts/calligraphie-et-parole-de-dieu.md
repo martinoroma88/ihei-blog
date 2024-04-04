@@ -37,7 +37,7 @@ Cette complémentarité des dimensions est particulièrement significative en ce
 
 La calligraphie témoigne de cette générosité divine dont le Coran est l’une des manifestations&nbsp;: 
 
-> C’est certainement un Coran généreux, dans un Livre bien gardé que seuls les purifiés touchent&nbsp;; une révélation de la part du Seigneur de l’Univers. Coran 56&nbsp;: 77-80.
+> C’est certainement un Coran généreux, dans un Livre bien gardé que seuls les purifiés touchent&nbsp;; une révélation de la part du Seigneur de l’Univers.[^4]
 
 Elle peut alors être un moyen pour aider l’artiste à s’approcher de la véritable Connaissance, la connaissance de Dieu pour laquelle l’Homme a été créé, en lui permettant, en quelque sorte, de s’élever suivant l’axe vertical du calame divin, à travers la Parole de Dieu, jusqu’à l’Unité initiale du *alif*.
 
@@ -53,29 +53,37 @@ Selon les enseignements des maîtres de l’ésotérisme islamique, ce point dia
 
 La forme horizontale du *bâ’* fait de cette lettre l’aspect complémentaire du *alif*, de telle sorte que la réunion des deux lettres représente le signe de la croix, symbole de l’union des complémentaires, que l’on retrouve dans toutes les Traditions. Il est remarquable que cette croix soit la forme que le corps du croyant assume au cours de la prière canonique, au moment même où il récite le Coran. En effet, lorsqu’il se tient debout, sa forme évoque celle de la lettre *alif*, tandis que la position horizontale de ses bras au-dessus du nombril fait apparaître la forme de la lettre *bâ’*. Le croyant qui récite participe ainsi à la révélation de la Parole divine, incarnant celle-ci et manifestant, dans cette position particulière, la réalité de ce que l’islam désigne comme l’«&nbsp;Homme universel&nbsp;», *al-insân al-kâmil*, archétype éternel de la Création et représentant de Dieu sur terre. Le croyant, ainsi traversé par la Parole de Dieu, ressemble aux lettres du Coran, supports du Verbe divin. De même que la révélation a actualisé les possibilités latentes des lettres arabes en les vivifiant, la Parole de Dieu qui nourrit l’homme, &oelig;uvre en lui et le transforme, permet à celui-ci de reconnaître en lui sa nature primordiale, *fitra*, que Dieu a créée «&nbsp;selon Sa forme&nbsp;».
 
-L’écriture arabe s’écrit de la droite vers la gauche&nbsp;: elle reflue du champ de l’action vers la région du c&oelig;ur, et décrit donc un mouvement allant de l’extérieur vers l’intérieur. Or, ce mouvement est l’inverse de celui de la Parole de Dieu qui est une extériorisation, une manifestation du Verbe. Les lettres du Coran, à travers leur forme même, tracent ainsi les multiples chemins du retour vers Dieu, qui s’effectue par une intériorisation de la Parole révélée, grâce au regard intérieur du c&oelig;ur, *baçîra*. Celui-ci doit accompagner, suivre ou précéder le regard extérieur, *baçar*, par lequel la beauté visuelle d’une &oelig;uvre calligraphiée peut être contemplée, car c’est au c&oelig;ur de l’homme que s’adresse avant tout la révélation. Le c&oelig;ur, que le Coran désigne par de nombreux noms, est le lieu de l’intuition intellectuelle, de la contemplation de la vérité, qui permet de rapporter les versets du Coran à leur Auteur unique, suivant le mouvement «&nbsp;inverse&nbsp;», *maqlûb*, mot de même racine que *qalb*, l’un des termes désignant le c&oelig;ur, de la «&nbsp;descente&nbsp;» de la Parole de Dieu, c’est-à-dire par un effort d’élévation spirituelle. En effet, si le Coran révèle que «&nbsp;la Parole de Dieu est la plus élevée&nbsp;» Coran 9&nbsp;: 40, le Prophète nous enseigne néanmoins que le meilleur *jihâd*, le meilleur effort dans la voie de Dieu, consiste à élever la Parole divine au-dessus de tout.
+L’écriture arabe s’écrit de la droite vers la gauche&nbsp;: elle reflue du champ de l’action vers la région du c&oelig;ur, et décrit donc un mouvement allant de l’extérieur vers l’intérieur. Or, ce mouvement est l’inverse de celui de la Parole de Dieu qui est une extériorisation, une manifestation du Verbe. Les lettres du Coran, à travers leur forme même, tracent ainsi les multiples chemins du retour vers Dieu, qui s’effectue par une intériorisation de la Parole révélée, grâce au regard intérieur du c&oelig;ur, *baçîra*. Celui-ci doit accompagner, suivre ou précéder le regard extérieur, *baçar*, par lequel la beauté visuelle d’une &oelig;uvre calligraphiée peut être contemplée, car c’est au c&oelig;ur de l’homme que s’adresse avant tout la révélation. Le c&oelig;ur, que le Coran désigne par de nombreux noms, est le lieu de l’intuition intellectuelle, de la contemplation de la vérité, qui permet de rapporter les versets du Coran à leur Auteur unique, suivant le mouvement «&nbsp;inverse&nbsp;», *maqlûb*, mot de même racine que *qalb*, l’un des termes désignant le c&oelig;ur, de la «&nbsp;descente&nbsp;» de la Parole de Dieu, c’est-à-dire par un effort d’élévation spirituelle. En effet, si le Coran révèle que «&nbsp;la Parole de Dieu est la plus élevée&nbsp;»,[^5] le Prophète nous enseigne néanmoins que le meilleur *jihâd*, le meilleur effort dans la voie de Dieu, consiste à élever la Parole divine au-dessus de tout.
 
 A l’image du Verbe divin, non proféré, la forme écrite du Texte sacré transmet le silence de la Parole de Dieu, ce silence de la «&nbsp;nuit de la valeur&nbsp;», *laylat al-qadr*, au cours de laquelle le Coran descendit sur le Prophète, et qui évoque le mystère ineffable de Dieu. L’artiste calligraphe, lorsqu’il écrit les versets coraniques sur un support vierge, reproduit symboliquement l’acte de Dieu lors de la révélation quand Il grava Sa Parole dans le c&oelig;ur purifié du Prophète. Celui-ci ne dira-t-il pas, après avoir reçu de l’ange Gabriel les premiers versets révélés&nbsp;: «&nbsp;C’est comme si ces mots avaient été gravés dans mon c&oelig;ur&nbsp;»&nbsp;? Dans son &oelig;uvre, le calligraphe doit ainsi chercher à se conformer au modèle prophétique&nbsp;: de même que le Prophète était *ummî*, «&nbsp;intellectuellement vierge&nbsp;», c’est-à-dire qu’il put recevoir les Paroles de Dieu et les transmettre sans interprétation individuelle, ni altération de sa part, le calligraphe doit réaliser un effort de transparence spirituelle, en se souvenant de l’Origine divine de ce qu’il écrit. Ainsi, la virginité spirituelle du Prophète, qui se manifestait également par le fait qu’il ne savait ni lire ni écrire, trouve son expression chez le calligraphe lorsque celui-ci se débarrasse de ses tendances passionnelles en abandonnant son attachement à la beauté purement formelle, et laisse sa plume être guidée par l’unique Artiste, *al-Muçawwir*, qui est l’un des noms de Dieu, dans la Tradition islamique.
 
-Cette pureté spirituelle du Prophète, qui le rendit capable de recevoir la «&nbsp;synthèse des paroles&nbsp;», *jawâmi‘ al-kalim*, révélées dans le Coran, rappelle d’ailleurs la virginité de Marie, dont le fils, Jésus-Christ, est pour l’islam «&nbsp;le messager de Dieu, Son Verbe qu’Il a lancé sur Marie et un esprit venant de Lui&nbsp;» Coran 4&nbsp;: 171. Le Coran raconte encore comment la Présence du Verbe divin imposa à Marie le silence, lorsque l’ange Gabriel (où l’enfant Jésus à peine né, selon certains commentaires fondés sur une lecture différente du verset) lui conseilla&nbsp;: 
+Cette pureté spirituelle du Prophète, qui le rendit capable de recevoir la «&nbsp;synthèse des paroles&nbsp;», *jawâmi‘ al-kalim*, révélées dans le Coran, rappelle d’ailleurs la virginité de Marie, dont le fils, Jésus-Christ, est pour l’islam «&nbsp;le messager de Dieu, Son Verbe qu’Il a lancé sur Marie et un esprit venant de Lui&nbsp;».[^6] Le Coran raconte encore comment la Présence du Verbe divin imposa à Marie le silence, lorsque l’ange Gabriel (où l’enfant Jésus à peine né, selon certains commentaires fondés sur une lecture différente du verset) lui conseilla&nbsp;: 
 
-> Si tu vois quelqu’un d’entre les humains, dis&nbsp;: «&nbsp;Assurément, j’ai voué un jeûne au Tout-Miséricordieux&nbsp;: je ne parlerai donc aujourd’hui à aucun être humain.&nbsp;[^4]»
+> Si tu vois quelqu’un d’entre les humains, dis&nbsp;: «&nbsp;Assurément, j’ai voué un jeûne au Tout-Miséricordieux&nbsp;: je ne parlerai donc aujourd’hui à aucun être humain.&nbsp;»[^7]
 
 Quand son peuple lui reprocha sa maternité exceptionnelle, elle désigna, sans dire mot, l’enfant qu’elle portait et qui lui rendit justice en se présentant&nbsp;: 
 
-> En vérité, je suis le serviteur de Dieu. Il m’a donné le Livre et a fait de moi un prophète.[^5]
+> En vérité, je suis le serviteur de Dieu. Il m’a donné le Livre et a fait de moi un prophète.[^8]
 
 Ces versets, qui, dans leur original arabe, sont imprégnés du rythme et de la mélodie propres au texte coranique, semblent, à l’instar de Marie désignant l’enfant Jésus, faire allusion à ce qui représente le caractère ineffable du Verbe de Dieu, Sa Présence dont Il est seul à pouvoir témoigner.
 
 Un art plastique comme la calligraphie peut servir à suggérer cette vérité que le Coran, dans toutes les dimensions de sa langue, porte en lui, de même que le signe muet de Marie provoque la manifestation du Verbe de Dieu. L’art de la calligraphie coranique offre à l’artiste la possibilité de méditer sur la Parole de Dieu, et, comme tout art véritablement sacré, lui permet de se concentrer sur la Présence divine, en s’appuyant sur des formes pour atteindre ce qui est au-delà de celles-ci. «&nbsp;La plume arrivée ici se brise&nbsp;», écrit le saint *Jalâl-ad-dîn Rûmî*. À l’image de Marie qui se tut en présence du Verbe divin, c’est à Dieu que reviennent les derniers mots&nbsp;: 
 
-> Quand bien même tous les arbres de la terre se changeraient en calames, quand bien même l’océan serait un océan d’encre où conflueraient sept autres océans, les Paroles de Dieu ne tariraient pas. En vérité, Dieu est Puissant et Sage.[^6]
+> Quand bien même tous les arbres de la terre se changeraient en calames, quand bien même l’océan serait un océan d’encre où conflueraient sept autres océans, les Paroles de Dieu ne tariraient pas. En vérité, Dieu est Puissant et Sage.[^9]
 
 Lire aussi : [Présentation et commentaire de quelques calligraphies](/articles/art-et-islam/presentation-et-commentaire-de-quelques-calligraphies)
 
 [^1]: Coran 10&nbsp;: 64.
 [^2]: Coran 18&nbsp;: 109.
 [^3]: Coran 96&nbsp;: 1-5.
-[^4]: Coran 19&nbsp;: 26.
-[^5]: Coran 19&nbsp;: 30.
-[^6]: Coran 31&nbsp;: 27.
+
+[^4]: Coran 56&nbsp;: 77-80.
+
+[^5]: Coran 9&nbsp;: 40.
+
+[^6]: Coran 4&nbsp;: 171.
+
+
+[^7]: Coran 19&nbsp;: 26.
+[^8]: Coran 19&nbsp;: 30.
+[^9]: Coran 31&nbsp;: 27.
