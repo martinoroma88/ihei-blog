@@ -136,8 +136,7 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^16]: «&nbsp;En vérité la meilleure des provisions de route est la piété (Cor. 2&nbsp;:197)&nbsp;».
 
-[^17]: 
-tit&nbsp;: «&nbsp;celui qui se connaît soi-même connaît son Seigneur&nbsp;».
+[^17]: C’est-à-dire du lot que Dieu nous a attribué, qui correspond à ce que nous sommes, ni plus ni moins. Toute insatisfaction de notre part est une illusion puisqu’elle méconna&icirc;t notre nature ontologique. C’est pourquoi il est dit&nbsp;: «&nbsp;celui qui se connaît soi-même connaît son Seigneur&nbsp;».
 
 [^18]: La vraie pauvreté est la pauvreté envers Dieu, non envers la création. Celui qui n’*a* rien peut rester attaché aux choses, alors que celui qui réalise qu’il n’*est* rien ne peut plus rien posséder et ne reste attaché qu’à Dieu.
 [^19]: Coran 70&nbsp;: 33.
