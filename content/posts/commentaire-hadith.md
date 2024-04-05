@@ -133,6 +133,10 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 [^14]: Coran 59&nbsp;: 2. Il s’agit de la science médiate et discursive, et non de l’intuition spirituelle immédiate. Le Shaykh insiste ici sur l’importance de la préparation doctrinale, fondement de la connaissance effective. L’intelligence doctrinale nous permet en effet d’avoir de Dieu l’idée la plus haute, en affirmant son incomparabilité. Puis le croyant s’aperçoit, dans une connaissance intuitive au-delà de la méditation, que son c&oelig;ur est capable de «&nbsp;contenir&nbsp;» l’immensité de Dieu (*‘azhamat All&acirc;h*), en conformité avec le célèbre hadith qudsi.
 
 [^15]: Le Shaykh fait de nouveau allusion à l’invocation des *awr&acirc;d*.
+
+[^16]: «&nbsp;En vérité la meilleure des provisions de route est la piété (Cor. 2&nbsp;:197)&nbsp;».
+
+[^17]: 
 tit&nbsp;: «&nbsp;celui qui se connaît soi-même connaît son Seigneur&nbsp;».
 
 [^18]: La vraie pauvreté est la pauvreté envers Dieu, non envers la création. Celui qui n’*a* rien peut rester attaché aux choses, alors que celui qui réalise qu’il n’*est* rien ne peut plus rien posséder et ne reste attaché qu’à Dieu.
