@@ -7,7 +7,7 @@ export default {
     htmlAttrs: {
       lang: 'fr'
     },
-    title: "IHEI Institut des Hautes Etudes Islamiques",
+    title: "IHEI Institut des Hautes Études Islamiques",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
