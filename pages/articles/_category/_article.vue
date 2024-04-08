@@ -33,7 +33,7 @@
       <Auteurs v-if="post.auteur" class="text-lighterblue text-sm" :author="post.auteur" icon />
       <p class="text-sm text-lighterblue font-sans space-x-3 items-center flex">
         <IconCalendar />
-        <span>{{$dateFns.format(post.date, 'dd mmmm yyyy')}}</span>
+        <span>{{$dateFns.format(post.date, 'dd-MM-yyyy')}}</span>
       </p>
       <Attachments v-if="post.annexes" :attachments="post.annexes" />
       <!-- Contenu -->
