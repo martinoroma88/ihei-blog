@@ -6,7 +6,7 @@
 			</div>
 			<div>
 				<!-- Title linked to page or to external url-->
-				<p class="text-sm text-lighterblue font-sans">{{$dateFns.format(p.date, 'dd mmmm yyyy')}}</p>
+				<p class="text-sm text-lighterblue font-sans">{{$dateFns.format(p.date, 'dd-MM-yyyy')}}</p>
 				<p v-if="p.url"><a class="link font-bold font-sans" :href="p.url" target="_blank">{{p.titre}}</a></p>
 				<p v-else><n-link class="link font-bold font-sans" :to="'/'+baseurl+'/'+p.categoryPopulated.slug+'/'+p.slug">{{p.titre}}</n-link></p>
 				<!-- Auteur/s -->
