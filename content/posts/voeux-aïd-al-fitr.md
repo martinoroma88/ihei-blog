@@ -6,7 +6,7 @@ auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604579457/ihei/couvertures/1590700148_sxtnow.png
 category: Islam en pratique
 ---
-*Assalamu ‘alaykum wa rahmatullah wa barakatuh* 
+*As-salamu ‘alaykum wa rahmatullah wa barakatuh* 
 
 La célébration de l’Aïd al-Fitr nous ramène à la racine de la *Fitrat Allah*, cette nature sacrée et primordiale de l’humanité. 
 
