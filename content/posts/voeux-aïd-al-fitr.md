@@ -1,6 +1,6 @@
 ---
 titre: Voeux Aïd al-Fitr
-vedette: false
+vedette: true
 date: 2022-05-04T07:47:00.892Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604579457/ihei/couvertures/1590700148_sxtnow.png
