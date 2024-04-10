@@ -12,8 +12,10 @@ La célébration de l’Aïd al-Fitr nous ramène à la racine de la *Fitrat Al
 
 Dans la gratitude à Dieu pour les bénédictions de la prière et du jeûne, du pardon et de la pureté, durant le mois de Ramadan, les membres de l’Institut des Hautes Études Islamiques vous présentent leurs vœux sincères de joie, de santé et de Paix.
 
-** *Aïd mubarak !***
+***Aïd mubarak&nbsp;!***
 
-Yahya Pallavicini, Président IHEI</br>
+# تَقَبَّلَ اللَّهُ مِنَّا وَمِنْكُمْ
 
-Abd al-Haqq Guiderdoni, Directeur IHEI
+# عِيد مُبَارَك
+
+Yahya Pallavicini, Président IHEI</br>Abd al-Haqq Guiderdoni, Directeur IHEI
