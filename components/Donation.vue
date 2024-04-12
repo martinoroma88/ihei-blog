@@ -9,14 +9,14 @@
       <div class="absolute inset-0" @click="toggle"></div>
       <div class="relative space-y-4 shadow-2xl rounded bg-white p-3 lg:p-6 m-3 border-blue border">
         <h1 class="text-azure">Pour faire un don</h1>
+        <p class="font-sans">Virement sur le compte bancaire Crédit Mutuel :</p>
+        <p>IBAN : FR76 1027 8090 7500 020 39290 104<br>
+        BIC : CMCI FR 2A</p>
+        <hr>
         <p class="font-sans">Règlement par chèque bancaire à l’ordre de :</p>
         <p><b>Institut des Hautes Études Islamiques</b><br>
         B.P. 136<br>
         05004 GAP CEDEX<br></p>
-        <hr>
-        <p class="font-sans">Virement sur le compte bancaire Crédit Mutuel :</p>
-        <p>IBAN : FR76 1027 8090 7500 020 39290 104<br>
-        BIC : CMCI FR 2A</p>
 
         <button @click="toggle" class="font-sans border-gray-700 border-2 font-bold text-lighterblue bg-white shadow rounded px-4 py-2 hover:border-gray-800 hover:shadow-lg hover:text-lightblue focus:shadow-none focus:border-gray-900 focus:text-blue transition duration-75">Fermer</button>
       </div>
