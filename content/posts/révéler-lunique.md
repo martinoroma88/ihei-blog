@@ -43,7 +43,7 @@ Nous ne voudrions pas ici faire le catalogue détaillé de ces erreurs qui repos
 * attribution d’une dimension ésotérique à des rites seulement exotériques&nbsp;;
 * double appartenance à des traditions différentes, même lorsqu’une des deux traditions est complète&nbsp;;
 * vision séparative de l’autorité spirituelle et du pouvoir temporel&nbsp;;
-* développement tout académique, théorique et imaginaire des aperçus donnes par René Guénon ou d’autres maitres&nbsp;;
+* développement tout académique, théorique et imaginaire des aperçus donnés par René Guénon ou d’autres maitres&nbsp;;
 * prétention à se réaliser individuellement et solitairement en dehors de tout rattachement régulier, de toute communauté et de toute maîtrise régulière, là où tous ces supports existent.
 
 Cette dernière erreur est encore accentuée par la prétention d’être des *âfrad*, des «&nbsp;solitaires en Dieu&nbsp;» alors que l’on n’est que des isolés, dans une individualité toute psychique. À cela s’ajoute encore la prétention à être rattaché directement à un centre caché, grâce à des investitures mystérieuses, prétention dont René Guénon évoquait l’imposture.
