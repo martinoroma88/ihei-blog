@@ -1,5 +1,5 @@
 ---
-titre: Révéler l'Unique
+titre: Révéler l’Unique
 vedette: true
 date: 2000-02-08T09:03:26.355Z
 auteur: AbdAllah Yahya Darolles
