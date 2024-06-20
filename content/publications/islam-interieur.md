@@ -1,5 +1,5 @@
 ---
-titre: L'Islam intérieur
+titre: L’Islam intérieur
 date: 2012-12-31T23:00:00.000Z
 auteur: Shaykh Abd al-Wahid Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604655253/ihei/couvertures/publications-3_qja2fa.jpg
