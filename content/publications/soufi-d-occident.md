@@ -1,5 +1,5 @@
 ---
-titre: Un Soufi d'Occident
+titre: Un Soufi d’Occident
 date: 2006-12-31T23:00:00.000Z
 url: /articles/soufisme-et-spiritualites/soufi-d-occident
 auteur: Imam Abd al-Halim Mahmûd
