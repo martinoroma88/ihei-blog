@@ -1,7 +1,7 @@
 ---
 titre: Les secrets des cinq piliers de l’islam
 date: 2018-12-31T23:00:00.000Z
-auteur: traduit par Jean Abd al-Wadoud Gouraud
+auteur: Sharani
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654416/ihei/couvertures/islam-en-pratique-9_pzayty.jpg
 category: Traductions
 ---
