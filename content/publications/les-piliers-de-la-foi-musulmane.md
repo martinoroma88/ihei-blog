@@ -1,7 +1,7 @@
 ---
 titre: Les Piliers de la Foi Musulmane
 date: 2008-12-31T23:00:00.000Z
-auteur: Abû Hâmid Al-Ghazâli
+auteur: Abû Hâmid Al-Ghazâlî
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604655254/ihei/couvertures/publications-7_p2jwlx.jpg
 category: Traductions
 ---
