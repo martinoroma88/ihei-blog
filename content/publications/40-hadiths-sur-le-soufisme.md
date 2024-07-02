@@ -1,7 +1,7 @@
 ---
 titre: 40 hadiths sur le soufisme
 date: 2021-10-08T21:05:33.929Z
-auteur: traduit et annoté par Jean Abd al-Wadoud Gouraud
+auteur: Abû ‘Abd al-Rahmân al-Sulamî
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1633727024/40_hadiths_sur_le_soufisme_hap8qc.png
 category: Traductions
 ---
