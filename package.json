@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "NODE_OPTIONS=--openssl-legacy-provider nuxt",
+    "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
@@ -14,13 +14,13 @@
     "@nuxtjs/google-fonts": "1.1.4",
     "@tailwindcss/typography": "^0.2.0",
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.6",
     "remark-footnotes": "^2.0.0",
     "vue-script2": "^2.1.0"
   },
   "devDependencies": {
     "@nuxtjs/date-fns": "^1.5.0",
-    "@nuxtjs/tailwindcss": "^3.1.0"
+    "@nuxtjs/tailwindcss": "^3.1.0",
+    "nuxt": "^3.12.4"
   },
   "keywords": [],
   "description": ""
