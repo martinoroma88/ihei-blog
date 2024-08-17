@@ -94,4 +94,3 @@ collections:
       - { label: 'Ordre', name: 'ordre', widget: 'number' }
       - { label: 'Couverture', name: 'couverture', widget: 'image', required: false }
       - { label: 'Corps du text', name: 'body', widget: 'markdown' }
-
