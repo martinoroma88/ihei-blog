@@ -47,7 +47,7 @@ Il précisa les choses mentionnées ci-dessus parce qu’elles prennent le c&oel
 
 Il est mentionné dans le hadîth&nbsp;: 
 
-> Le trésor du croyant est son Seigneur 
+> Le trésor du croyant est son Seigneur.
 
 et encore&nbsp;: 
 
