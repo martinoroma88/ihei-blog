@@ -19,11 +19,7 @@ On rapporte de notre seigneur ‘Alî —&nbsp;que Dieu recouvre de Grâce sa fa
 
 > J’ai interrogé l’Envoyé de Dieu —&nbsp;Que Dieu prie sur lui et le salue&nbsp;— à propos de sa tradition. Et il répondit&nbsp;: «&nbsp;La connaissance est mon capital&nbsp;; l’intellect est l’origine de ma religion&nbsp;; l’amour est mon assise&nbsp;; le désir est mon vaisseau&nbsp;; le souvenir de Dieu est mon compagnon intime&nbsp;; la confiance est mon trésor&nbsp;; le chagrin est mon camarade&nbsp;; la science est mon arme&nbsp;; la patience est ma provision de route&nbsp;; la satisfaction est mon trophée&nbsp;; la faiblesse est ma gloire&nbsp;; l’ascèse est ma profession&nbsp;; la certitude est ma force&nbsp;; la sincérité est mon intercesseur&nbsp;; l’obéissance me suffit&nbsp;; la guerre sainte est mon caractère&nbsp;; la fraîcheur de mon &oelig;il se trouve dans la prière canonique&nbsp;; ma préoccupation concerne ma communauté, et mon désir va vers mon Seigneur&nbsp;».
 
-On rapporte de notre seigneur ‘Alî —&nbsp;que Dieu recouvre de Grâce sa face et qu’Il soit satisfait de lui&nbsp;— qu’il disait&nbsp;: 
-
-> J’ai interrogé l’Envoyé de Dieu —&nbsp;que Dieu prie sur lui et le salue&nbsp;— à propos de sa tradition. Et il répondit&nbsp;: La connaissance est mon capital *al-ma’rifah ra’su mâlî*
-
-Celui-ci consiste à connaître Dieu —&nbsp;qu’Il soit exalté et magnifié. Dieu est le Premier et il n’y a rien avant Lui, le Dernier et il n’y a rien après Lui, l’Extérieur et il n’y a rien au-dessus de Lui, l’Intérieur et il n’y a rien en deçà de Lui. Cette délimitation est celle par laquelle Dieu Lui-même S’est délimité, comme cela nous a été rapporté par le Prophète, dans une de ses invocations&nbsp;: 
+**La connaissance est mon capital**, *al-ma’rifah ra’su mâlî*&nbsp;: Celui-ci consiste à connaître Dieu —&nbsp;qu’Il soit exalté et magnifié. Dieu est le Premier et il n’y a rien avant Lui, le Dernier et il n’y a rien après Lui, l’Extérieur et il n’y a rien au-dessus de Lui, l’Intérieur et il n’y a rien en deçà de Lui. Cette délimitation est celle par laquelle Dieu Lui-même S’est délimité, comme cela nous a été rapporté par le Prophète, dans une de ses invocations&nbsp;: 
 
 > Tu es le Premier et il n’y a rien avant Toi, le Dernier et il n’y a rien après Toi, etc.
 
