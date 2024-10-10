@@ -75,7 +75,7 @@ Le chagrin est à la mesure de l’immensité de ce dont on s’attriste. Le cha
 
 > —&nbsp;Qui est plus ascète que toi, ô un tel&nbsp;? Il répondit&nbsp;: —&nbsp;Tu es plus ascète que moi. —&nbsp;Comment cela&nbsp;? —&nbsp;Tu as renoncé aux Houris, aux palais et à ce qui dure, alors que j’ai renoncé à ce qui est éphémère parmi les choses de ce bas-monde.
 
-Considère cette exhortation que le Soufi a adressée à ce roi.
+Considère cette exhortation que le soufi a adressée à ce roi.
 
 **La certitude est ma force**, *wa-l-yaqînu quwwatî*&nbsp;: la certitude est la contemplation de la vérité. Dieu dit&nbsp;: Et ceux qui sont debout [*ou* fiables] par [*ou* dans] leur témoignage&nbsp;»[^19] —&nbsp;et l’on trouve aussi la lecture&nbsp;: «&nbsp;par leurs témoignages&nbsp;». La contemplation de la vérité est ce qu’ils disent, et ils restent debout par leur contemplation, contemplation après contemplation.[^20]
 
