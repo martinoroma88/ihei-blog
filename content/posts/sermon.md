@@ -1,7 +1,7 @@
 ---
 titre: "Sermon "
 vedette: true
-date: 2024-12-23T21:12:04.211Z
+date: 2024-12-20T21:43:44.527Z
 auteur: Imam Yahya Pallavicini
 category: Dialogue interreligieux
 ---
