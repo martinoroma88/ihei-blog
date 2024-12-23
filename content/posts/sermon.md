@@ -2,6 +2,7 @@
 titre: "Sermon "
 vedette: true
 date: 2024-12-23T21:12:04.211Z
+auteur: Imam Yahya Pallavicini
 category: Dialogue interreligieux
 ---
 #### **الحمد لله الحمد لله الحمد لله رب العالمين**\
