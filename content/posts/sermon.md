@@ -11,7 +11,7 @@ category: Dialogue interreligieux
 
 *Qāla innī ‘abdullāhi ātāniya al-kitāba wa ja‘alanī nabiyyan*&nbsp;*–*&nbsp;*wa ja‘alanī mubārakan ayna mā kuntu wa awSānī bi-SSalāti wa zzakāti mā dumtu Hayyan*&nbsp;*–*&nbsp;*wa barran biwālidatī wa lam yaj‘alnī jabbāran shaqiyyan*&nbsp;*–*&nbsp;*wa-ssalāmu ‘alayya yawma wulidtu wa yawma amūtu wa yawma ub‘athu Hayyan*&nbsp;*–*&nbsp;*dhālika ‘Isā bnu Maryama qawlu al-Haqqi alladhī fīhi yamtarūna*
 
-> «&nbsp;*Je suis le serviteur de Dieu, leur dit-il. Il m’a accordé les Écritures et a fait de moi un prophète et un être béni où que je me trouve, et Il m’a recommandé la prière et l’aumône tant que je serai en vie, ainsi que la piété filiale envers ma mère et Il n’a pas fait de moi un oppresseur scélérat. Et que la Paix soit sur moi le jour de ma naissance, le jour où je mourrai et le Jour où je serai ramené à la vie*&nbsp;*! Tel est Jésus fils de Marie, parole de Vérité qui fait pourtant l’objet de leurs doutes.*&nbsp;» Coran, sourate Marie XIX, 30-34
+> «&nbsp;*Je suis le serviteur de Dieu, leur dit-il. Il m’a accordé les Écritures et a fait de moi un prophète et un être béni où que je me trouve, et Il m’a recommandé la prière et l’aumône tant que je serai en vie, ainsi que la piété filiale envers ma mère et Il n’a pas fait de moi un oppresseur scélérat. Et que la Paix soit sur moi le jour de ma naissance, le jour où je mourrai et le Jour où je serai ramené à la vie*&nbsp;*! Tel est Jésus fils de Marie, parole de Vérité qui fait pourtant l’objet de leurs doutes.*&nbsp;» Coran, sourate Marie XIX. 30-34
 
 Ô croyants,
 
