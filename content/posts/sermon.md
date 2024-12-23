@@ -4,10 +4,10 @@ vedette: true
 date: 2024-12-23T21:12:04.211Z
 category: Dialogue interreligieux
 ---
-**الحمد لله الحمد لله الحمد لله رب العالمين**\
+#### **الحمد لله الحمد لله الحمد لله رب العالمين**\
 **والصلاة والسلام على سيدنا وحبيبنا وقرة عيوننا محمد رسول الله صلى الله عليه وعلى آله وصحبه وسلّم**
 
-**أما بعد فقال الله سبحانه وتعالى في كتابه الكريم**
+#### **أما بعد فقال الله سبحانه وتعالى في كتابه الكريم**
 
 *Qāla innī ‘abdullāhi ātāniya al-kitāba wa ja‘alanī nabiyyan*&nbsp;*–*&nbsp;*wa ja‘alanī mubārakan ayna mā kuntu wa awSānī bi-SSalāti wa zzakāti mā dumtu Hayyan*&nbsp;*–*&nbsp;*wa barran biwālidatī wa lam yaj‘alnī jabbāran shaqiyyan*&nbsp;*–*&nbsp;*wa-ssalāmu ‘alayya yawma wulidtu wa yawma amūtu wa yawma ub‘athu Hayyan*&nbsp;*–*&nbsp;*dhālika ‘Isā bnu Maryama qawlu al-Haqqi alladhī fīhi yamtarūna*
 
