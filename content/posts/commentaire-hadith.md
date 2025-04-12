@@ -35,7 +35,7 @@ Et quand Il attacha l’obéissance, et l’ordre et la défense, ce qui était 
 
 > Ô mon Dieu, en vérité je Te demande de T’aimer, et d’aimer celui qui T’aime, je Te demande d’accomplir les actes qui me feront parvenir à l’amour de Toi. Ô mon Dieu, fais que l’amour que j’ai pour Toi soit pour moi plus fort que moi-même, ma famille, et l’eau fraiche.
 
-Il précisa les choses mentionnées ci-dessus parce qu’elles prennent le c&oelig;ur mais détournent de Dieu. Si le serviteur ne s’occupe pas de Dieu, et s’occupe de ces choses, on peut craindre pour lui qu’il ne renie les bienfaits de Dieu —&nbsp;que Dieu nous en préserve&nbsp;!&nbsp;—
+Il précisa les choses mentionnées ci-dessus parce qu’elles prennent le c&oelig;ur mais détournent de Dieu. Si le serviteur ne s’occupe pas de Dieu, et s’occupe de ces choses, on peut craindre pour lui qu’il ne renie les bienfaits de Dieu —&nbsp;que Dieu nous en préserve&nbsp;!&nbsp;—.
 
 **Le désir est mon vaisseau**, *wa-sh-shawqu markabî*&nbsp;: l’homme est, dans son essence, le vaisseau de l’esprit, et le désir est le vent \[qui souffle sur] ce vaisseau. Tant que dure l’adhésion à Dieu, le vaisseau avance et le désir est sur l’amour.[^9] L’amour est l’inclination vers Dieu, et le désir consiste à accourir sans faire de halte. Certes l’inclination peut exister sans qu’existe le désir. C’est seulement quand le désir existe que l’on trouve nécessairement l’inclination.[^10]
 
