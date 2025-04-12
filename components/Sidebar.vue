@@ -22,7 +22,7 @@
     </div>
 
 		<Newsletter class="hidden lg:block" />
-		<Donation class="hidden lg:block" />
+		<!--<Donation class="hidden lg:block" />-->
 	</div>
 </template>
 
@@ -49,7 +49,7 @@ export default {
 
 <style>
 	#sidebar a {
-		@apply whitespace-no-wrap py-1;
+		@apply whitespace-nowrap py-1;
 		@screen lg {
 			@apply whitespace-normal;
 		}
