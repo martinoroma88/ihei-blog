@@ -11,8 +11,7 @@ Par l’Imâm Seigneurial et le Secours Universel, le Seigneur Ahmad Ibn Idrîs 
 
 Louange à Dieu Seigneur des Mondes, et que la prière et la paix soient sur notre Seigneur, notre aimé, la fraîcheur de nos yeux, Muhammad l’Envoyé de Dieu, que Dieu prie sur lui, sur sa famille et sur ses compagnons, et qu’Il répande sur eux la paix.
 
-Parmi les dons que Dieu \[nous] a octroyés se trouve la visite de notre Shaykh, le noble seigneur, le grand saint qui nous dépasse tous, le miracle des connaissances et la nouveauté des réalités subtiles, la mer gonflée de secrets et de lumières, Ahmad Ibn Idrîs al-Hasanî.[^1][^1]: C’est un disciple du Shaykh Ahmad Ibn Idrîs qui parle.
-Dieu nous en a fait profiter alors que nous nous dirigions vers la ville de Zabîd[^2] —&nbsp;que Dieu Exalté la garde, Lui qui crée et qui renouvelle&nbsp;— et le bénéfice total nous advint par lui. Il répandit les subtilités de ses sciences et manifesta les trésors de sa compréhension, comme autant de merveilles étonnantes.
+Parmi les dons que Dieu \[nous] a octroyés se trouve la visite de notre Shaykh, le noble seigneur, le grand saint qui nous dépasse tous, le miracle des connaissances et la nouveauté des réalités subtiles, la mer gonflée de secrets et de lumières, Ahmad Ibn Idrîs al-Hasanî.[^1] Dieu nous en a fait profiter alors que nous nous dirigions vers la ville de Zabîd[^2] —&nbsp;que Dieu Exalté la garde, Lui qui crée et qui renouvelle&nbsp;— et le bénéfice total nous advint par lui. Il répandit les subtilités de ses sciences et manifesta les trésors de sa compréhension, comme autant de merveilles étonnantes.
 
 Parmi tout cela se trouvait le discours sur cette noble et très importante tradition prophétique. Que Dieu le récompense, qu’Il renouvelle sur nous les bénédictions de ses sciences, et qu’Il nous en fasse profiter, ainsi que les musulmans, pendant sa vie et après sa mort.
 
@@ -114,7 +113,7 @@ Dieu est Celui qui préserve et Celui qui guide. Que Dieu prie sur notre maître
 
 Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’année 1320 de l’hégire.[^33] Sur ceux qui ont émigré, sur la famille \[du Prophète] et sur ses compagnons, la meilleure des prières et la plus parfaite des salutations. \[Cette lettre] fut mise par écrit par le serviteur méprisable, le pauvre envers la générosité de Dieu, Muhammad al-Yamanî Ibn ‘Alî al-Idrîsî.[^34]
 
-
+[^1]: C’est un disciple du Shaykh Ahmad Ibn Idrîs qui parle.
 [^2]: Cette ville se situe dans le sud du Yémen. Le Shaykh arriva à Zabîd en 1827-1828 pour une brève visite, puis s’y installa ensuite pendant neuf mois, en 1828-1829. Voir R.S. O’Fahey, in *Enigmatic Saint*, p. 83-88.
 [^3]: La connaissance *ma’rifah* fondamentale est celle de Dieu, Principe et Fin dernière. Le Shaykh prend soin de rappeler que ces «&nbsp;définitions&nbsp;» ou «&nbsp;délimitations&nbsp;» de Dieu qui ont été données par la Révélation coranique et la Tradition prophétique sont en fait des négations de toute limite&nbsp;: Dieu est le Premier, c’est-à-dire Celui avant qui il n’y a rien, etc. La véritable connaissance de Dieu est apophatique. Nous n’y accédons pas par un savoir positif, mais en nous séparant de la connaissance positive du créé, qui est notre voile.
 [^4]: Coran 2&nbsp;: 115.
