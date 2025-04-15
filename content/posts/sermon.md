@@ -5,11 +5,6 @@ date: 2024-12-20T21:43:44.527Z
 auteur: Imam Yahya Pallavicini
 category: Dialogue interreligieux
 ---
-#### **الحمد لله الحمد لله الحمد لله رب العالمين**
-
-**والصلاة والسلام على سيدنا وحبيبنا وقرة عيوننا محمد رسول الله صلى الله عليه وعلى آله وصحبه وسلّم**
-
-#### **أما بعد فقال الله سبحانه وتعالى في كتابه الكريم**
 
 *Qāla innī ‘abdullāhi ātāniya al-kitāba wa ja‘alanī nabiyyan*&nbsp;*–*&nbsp;*wa ja‘alanī mubārakan ayna mā kuntu wa awSānī bi-SSalāti wa zzakāti mā dumtu Hayyan*&nbsp;*–*&nbsp;*wa barran biwālidatī wa lam yaj‘alnī jabbāran shaqiyyan*&nbsp;*–*&nbsp;*wa-ssalāmu ‘alayya yawma wulidtu wa yawma amūtu wa yawma ub‘athu Hayyan*&nbsp;*–*&nbsp;*dhālika ‘Isā bnu Maryama qawlu al-Haqqi alladhī fīhi yamtarūna*
 
@@ -33,16 +28,6 @@ Enfin, ‘Isa ibn Maryam () invoque la présence de la Paix en trois stations&nb
 
 Telle est la vérité sur l’identité de ‘Isa ibn Maryam. Cette Parole de Vérité, c’est également sa fonction, celle d’être la Révélation vivante d’Allah et de transmettre la Paix, depuis le moment de sa naissance et au-delà.
 
-بارك الله لي ولكم في القرآن العظيم ونفعنا وإياكم بما فيه من الآيات والذكر الحكيم\
-أقول قولي هذا وأستغفر الله لي ولكم\
-فاستغفروه إنّه هو الغفور الرحيم
-
-الحمد لله والصلاة والسلام على رسول الله\
-أشهد أن لا إله إلا الله وحده لا شريك له وأشهد أنّ محمدا عبده ورسوله
-
-اللهم صلّ على محمد وعلى آل محمد كما صلّيت على إبراهيم وعلى آل إبراهيم في العالمين إنّك حميد مجيد\
-وبارك على محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم في العالمين إنّك حميد مجيد
-
 Abu Hurayra () transmet le propos suivant du prophète Muhammad ()&nbsp;: «&nbsp;En ce monde et dans l’Autre, de toute l’humanité, je suis le plus proche de ‘Isa fils de Maryam. Tous les prophètes sont des frères issus de mères différentes mais ils appartiennent à une religion unique, et aucun prophète n’a été envoyé entre ‘Isa et moi.&nbsp;» Rapporté avec quelques variantes par l’imam al-Bukhari et l’imam Muslim ().
 
 Chers frères et sœurs,
@@ -59,16 +44,6 @@ A travers cet enfantement, on peut reconnaître le prophète Muhammad (), purifi
 
 Qu’Allah et Son prophète nous aident à honorer cette relation avec les Maîtres de la vie intérieure et dans le discipulat suivant la règle de la compagnie spirituelle et dans l’excellence de la fraternité.
 
-اللهم اغفر للمسلمين والمسلمات والمؤمنين والمؤمنات الأحياء منهم والأموات
+[1]: «&nbsp;Allah met en garde contre l’action du doute, qui confond les certitudes et obscurcit l’évidence de Ses signes. Tel est le destin de ceux qui restent attachés à leur scepticisme malheureux et à la rébellion à l’encontre de la Vérité&nbsp;: au lieu de ne pas adhérer intégralement à la force du renouveau spirituel qui se manifestent à travers la découverte d’une conception plus élevée du Miséricordieux, ils préfèrent déformer la réalité en l’adaptant à leur propre niveau de compréhension antimétaphysique. Ce sont précisément les gens du doute qui s’opposent à la Parole de Vérité, provoquent les disputes et favorisent les factions discordantes.&nbsp;» (Y. Pallavicini, La Sura di Marie, 2010).
 
-إنّك يا مولانا سميع قريب مجيب الدعوات
-
-يا أرحم الراحمين يا رب العالمين
-
-قوموا إلى الصلاة
-
-إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُون
-
-\[1]: «&nbsp;Allah met en garde contre l’action du doute, qui confond les certitudes et obscurcit l’évidence de Ses signes. Tel est le destin de ceux qui restent attachés à leur scepticisme malheureux et à la rébellion à l’encontre de la Vérité&nbsp;: au lieu de ne pas adhérer intégralement à la force du renouveau spirituel qui se manifestent à travers la découverte d’une conception plus élevée du Miséricordieux, ils préfèrent déformer la réalité en l’adaptant à leur propre niveau de compréhension antimétaphysique. Ce sont précisément les gens du doute qui s’opposent à la Parole de Vérité, provoquent les disputes et favorisent les factions discordantes.&nbsp;» (Y. Pallavicini, La Sura di Marie, 2010).
-
-\[2]: Abu Yazid al-Bistami () enseigne&nbsp;: «&nbsp;La contraction (*qabD*) du cœur (*qalb*) est l’expansion (*basT*) de l’âme (*nafs*), et l’expansion du cœur est la contraction de l’âme.&nbsp;» La *nafs* se sauve à travers la contraction et le cœur est sauf grâce à l’expansion. Il en va ainsi, parce que l’amour va de pair avec la jalousie. *QabD* est le résultat de la colère d’Allah tandis que *basT* est le fruit de la compréhension réciproque, en effet les amants se comprennent réciproquement. On raconte que le prophète Yahya () s’émouvait depuis sa naissance, tandis que ‘Isa () souriait depuis sa naissance. À travers cette condition, le premier exprime la contraction, le second l’expansion. Lorsqu’ils se rencontrèrent, Yahya dit à ‘Isa&nbsp;: «&nbsp;Aurais-tu été préservé de la crainte de la séparation&nbsp;?&nbsp;» Et ‘Isa lui répondit&nbsp;: «&nbsp;Aurais-tu été privé de l’espoir dans le Miséricorde d’Allah&nbsp;? La réalité est que tes larmes ou ma joie ne peuvent rien changer à l’ordre d’Allah.&nbsp;» Tous les états de contraction et d’expansion, *qabD* et *basT*, amour et haine, extase et sobriété, dérivent d’Allah le Très-Haut. Rapporté par le shaykh al-Hujwiri ().
+[2]: Abu Yazid al-Bistami () enseigne&nbsp;: «&nbsp;La contraction (*qabD*) du cœur (*qalb*) est l’expansion (*basT*) de l’âme (*nafs*), et l’expansion du cœur est la contraction de l’âme.&nbsp;» La *nafs* se sauve à travers la contraction et le cœur est sauf grâce à l’expansion. Il en va ainsi, parce que l’amour va de pair avec la jalousie. *QabD* est le résultat de la colère d’Allah tandis que *basT* est le fruit de la compréhension réciproque, en effet les amants se comprennent réciproquement. On raconte que le prophète Yahya () s’émouvait depuis sa naissance, tandis que ‘Isa () souriait depuis sa naissance. À travers cette condition, le premier exprime la contraction, le second l’expansion. Lorsqu’ils se rencontrèrent, Yahya dit à ‘Isa&nbsp;: «&nbsp;Aurais-tu été préservé de la crainte de la séparation&nbsp;?&nbsp;» Et ‘Isa lui répondit&nbsp;: «&nbsp;Aurais-tu été privé de l’espoir dans le Miséricorde d’Allah&nbsp;? La réalité est que tes larmes ou ma joie ne peuvent rien changer à l’ordre d’Allah.&nbsp;» Tous les états de contraction et d’expansion, *qabD* et *basT*, amour et haine, extase et sobriété, dérivent d’Allah le Très-Haut. Rapporté par le shaykh al-Hujwiri ().
