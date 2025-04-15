@@ -16,8 +16,8 @@ module.exports = {
       }
     },
     fontFamily: {
-      "sans": ["Merriweather Sans", "sans serif"],
-      "serif": ['Merriweather', 'serif'],
+      "sans": ["Merriweather Sans", "Noto Sans Arabic", "sans-serif"],
+      "serif": ['Merriweather', "Noto Serif Arabic", 'serif'],
     },
     typography: (theme) => ({
       default: {

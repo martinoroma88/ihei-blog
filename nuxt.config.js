@@ -54,9 +54,16 @@ export default {
       "Merriweather": {
         wght: [400, 700],
         ital: [400]
+      },
+      "Noto Sans Arabic": {
+        wght: [400, 700]
+      },
+      "Noto Serif Arabic": {
+        wght: [400, 700]
       }
     },
-    display: "swap"
+    display: "swap",
+    subsets: ['latin', 'arabic']
   },
 
   generate: {
