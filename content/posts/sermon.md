@@ -1,17 +1,11 @@
 ---
-titre: "Sermon "
+titre: La naissance de Jésus fils de Marie
 vedette: false
 date: 2024-12-20T21:43:44.527Z
 auteur: Imam Yahya Pallavicini
 category: Dialogue interreligieux
 ---
-#### **الحمد لله الحمد لله الحمد لله رب العالمين**
-
-**والصلاة والسلام على سيدنا وحبيبنا وقرة عيوننا محمد رسول الله صلى الله عليه وعلى آله وصحبه وسلّم**
-
-#### **أما بعد فقال الله سبحانه وتعالى في كتابه الكريم**
-
-*Qāla innī ‘abdullāhi ātāniya al-kitāba wa ja‘alanī nabiyyan*&nbsp;*–*&nbsp;*wa ja‘alanī mubārakan ayna mā kuntu wa awSānī bi-SSalāti wa zzakāti mā dumtu Hayyan*&nbsp;*–*&nbsp;*wa barran biwālidatī wa lam yaj‘alnī jabbāran shaqiyyan*&nbsp;*–*&nbsp;*wa-ssalāmu ‘alayya yawma wulidtu wa yawma amūtu wa yawma ub‘athu Hayyan*&nbsp;*–*&nbsp;*dhālika ‘Isā bnu Maryama qawlu al-Haqqi alladhī fīhi yamtarūna*
+###### Sermon donné à la Mosquée al-Wahid, Milan.
 
 > «&nbsp;*Je suis le serviteur de Dieu, leur dit-il. Il m’a accordé les Écritures et a fait de moi un prophète et un être béni où que je me trouve, et Il m’a recommandé la prière et l’aumône tant que je serai en vie, ainsi que la piété filiale envers ma mère et Il n’a pas fait de moi un oppresseur scélérat. Et que la Paix soit sur moi le jour de ma naissance, le jour où je mourrai et le Jour où je serai ramené à la vie*&nbsp;*! Tel est Jésus fils de Marie, parole de Vérité qui fait pourtant l’objet de leurs doutes.*&nbsp;» Coran, sourate Marie XIX. 30-34
 
@@ -33,19 +27,9 @@ Enfin, ‘Isa ibn Maryam () invoque la présence de la Paix en trois stations&nb
 
 Telle est la vérité sur l’identité de ‘Isa ibn Maryam. Cette Parole de Vérité, c’est également sa fonction, celle d’être la Révélation vivante d’Allah et de transmettre la Paix, depuis le moment de sa naissance et au-delà.
 
-بارك الله لي ولكم في القرآن العظيم ونفعنا وإياكم بما فيه من الآيات والذكر الحكيم\
-أقول قولي هذا وأستغفر الله لي ولكم\
-فاستغفروه إنّه هو الغفور الرحيم
-
-الحمد لله والصلاة والسلام على رسول الله\
-أشهد أن لا إله إلا الله وحده لا شريك له وأشهد أنّ محمدا عبده ورسوله
-
-اللهم صلّ على محمد وعلى آل محمد كما صلّيت على إبراهيم وعلى آل إبراهيم في العالمين إنّك حميد مجيد\
-وبارك على محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم في العالمين إنّك حميد مجيد
-
 Abu Hurayra () transmet le propos suivant du prophète Muhammad ()&nbsp;: «&nbsp;En ce monde et dans l’Autre, de toute l’humanité, je suis le plus proche de ‘Isa fils de Maryam. Tous les prophètes sont des frères issus de mères différentes mais ils appartiennent à une religion unique, et aucun prophète n’a été envoyé entre ‘Isa et moi.&nbsp;» Rapporté avec quelques variantes par l’imam al-Bukhari et l’imam Muslim ().
 
-Chers frères et sœurs,
+*Chers frères et sœurs,*
 
 ‘Isa ibn Maryam (), Jésus fils de Marie, est le nom et le «&nbsp;patronyme&nbsp;» qu’Allah attribue à Jésus dans le Coran. Les quatre versets précédents où il est présenté décrivent sa nature ainsi que sa fonction marquée par le fait qu’Allah appelle ‘Isa «&nbsp;Parole de Vérité&nbsp;», *qawl al-Haqq*&nbsp;: une Parole miraculeuse qui se manifeste intégralement dans sa personne. De son berceau, le nouveau-né répond aux doutes des sceptiques et aux insinuations des mécréants. Ceux qui doutent de sa Vérité doutent que c’est ‘Isa qui leur parle depuis son berceau, ils doutent du miracle dont ils sont eux-mêmes témoins, ils doutent de la Vérité qui s’exprime en réponse à leurs allusions et critiques hâtives à l’endroit de Maryam et de son honneur, ils doutent de la Miséricorde supérieure qui transparaît de façon dynamique, incisive et vibrante à travers le silence de la mère et l’innocence d’un être immobile au berceau, ils doutent d’eux-mêmes et de ce qu’ils voient, entendent et comprennent.\[1]
 
@@ -53,21 +37,11 @@ En réalité, ‘Isa ibn Maryam () ne répond point en se plaçant au bas niveau
 
 Maryam a su maintenir la concentration dans sa retraite loin de la superficialité de son peuple, et dans le dialogue profond avec l’esprit fidèle, elle a su réaliser le secret du Pacte dans son retrait vers l’Orient et dans son jeûne des paroles, elle a su trouver la force et le soulagement grâce au tronc et aux fruits du palmier, à l’eau et à la voix intérieure de la Vérité.
 
-A travers cet enfantement, on peut reconnaître le prophète Muhammad (), purifié par les anges, contraint par l’esprit fidèle à se prononcer comme récitateur au cœur de sa retraite dans le culte sincère au Dieu Unique, migrant vers une oasis et une plantation de palmeraie ; il donne voix et fait entendre, comme ce nouveau-né, pendant vingt-trois ans, au cours de phases cycliques différentes, à la révélation du message d’Allah, et ce nonobstant les oppositions d’hypocrites, d’idolâtres et de polythéistes, adorateurs avec tant de faux doutes et de faux problèmes.\[2]
+À travers cet enfantement, on peut reconnaître le prophète Muhammad (), purifié par les anges, contraint par l’esprit fidèle à se prononcer comme récitateur au cœur de sa retraite dans le culte sincère au Dieu Unique, migrant vers une oasis et une plantation de palmeraie ; il donne voix et fait entendre, comme ce nouveau-né, pendant vingt-trois ans, au cours de phases cycliques différentes, à la révélation du message d’Allah, et ce nonobstant les oppositions d’hypocrites, d’idolâtres et de polythéistes, adorateurs avec tant de faux doutes et de faux problèmes.\[2]
 
 ‘Isa ibn Maryam () est également un signe (*āya*) pour les hommes, un acte de clémence d’Allah (*raHma*), un ordre du décret divin (*amr maqDī*) et un présage de l’Heure (‘*ilm li-s-sā‘a*). Depuis sa naissance, il continue à représenter un signe évident, une miséricorde constante, une règle orthodoxe d’obéissance et une mystérieuse imminence. Le prophète Muhammad () conclut le cycle de la prophétie, et il n’y a pas d’autre prophète avant lui si ce n'est ‘Isa, lui-même précédé d’une série d’envoyés et de messagers. La proximité entre ‘Isa et Muhammad () dans le service spirituel et dans le témoignage de la Paix s’accompagne de l’amour pour la Révélation comme Parole de Vérité. Si la façon de représenter et d’interpréter cette communication sacrée est différente selon l’art de la Providence, la religion est néanmoins unique, et il n’y a pas d’autre religion auprès d’Allah que l’observance de l’acceptation de Sa Volonté Suprême et Bénie.
 
 Qu’Allah et Son prophète nous aident à honorer cette relation avec les Maîtres de la vie intérieure et dans le discipulat suivant la règle de la compagnie spirituelle et dans l’excellence de la fraternité.
-
-اللهم اغفر للمسلمين والمسلمات والمؤمنين والمؤمنات الأحياء منهم والأموات
-
-إنّك يا مولانا سميع قريب مجيب الدعوات
-
-يا أرحم الراحمين يا رب العالمين
-
-قوموا إلى الصلاة
-
-إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُون
 
 \[1]: «&nbsp;Allah met en garde contre l’action du doute, qui confond les certitudes et obscurcit l’évidence de Ses signes. Tel est le destin de ceux qui restent attachés à leur scepticisme malheureux et à la rébellion à l’encontre de la Vérité&nbsp;: au lieu de ne pas adhérer intégralement à la force du renouveau spirituel qui se manifestent à travers la découverte d’une conception plus élevée du Miséricordieux, ils préfèrent déformer la réalité en l’adaptant à leur propre niveau de compréhension antimétaphysique. Ce sont précisément les gens du doute qui s’opposent à la Parole de Vérité, provoquent les disputes et favorisent les factions discordantes.&nbsp;» (Y. Pallavicini, La Sura di Marie, 2010).
 
