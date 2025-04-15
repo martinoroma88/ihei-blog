@@ -1,5 +1,5 @@
 ---
-titre: "Sermon "
+titre: Sermon du vendredu sur la naissance de Jésus fils de Marie
 vedette: false
 date: 2024-12-20T21:43:44.527Z
 auteur: Imam Yahya Pallavicini
