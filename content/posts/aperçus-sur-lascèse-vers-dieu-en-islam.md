@@ -14,7 +14,7 @@ Nous voudrions montrer ici que le soufisme (*taçawwuf*), la mystique islamique,
 
 > Dis&nbsp;: Si la mer était de l’encre pour écrire les paroles de mon Seigneur, la mer serait assurément tarie avant que ne tarissent les paroles de mon Seigneur, même si nous apportions encore la même quantité d’encre[^2].
 
-**L’islam&nbsp;: chemin vers Dieu**
+###### L’islam&nbsp;: chemin vers Dieu
 
 L’islam reconnaît donc pleinement la validité des révélations précédentes. On lit dans le Coran de nombreux versets en ce sens&nbsp;:
 
@@ -44,7 +44,7 @@ Les rites doivent être vivifiés par la foi et la foi doit être exhaussée au-
 
 > S’il se rapproche de Moi d’un empan, je me rapproche de lui d’une coudée ; et lorsqu’il s’approche de Moi d’une coudée, je me rapproche de lui d’une brasse. Et lorsqu’il vient vers Moi en marchant, je viens vers lui avec empressement[^17].
 
-**L’itinéraire mystique**
+###### L’itinéraire mystique
 
 Selon une image classique du soufisme, le chemin de Dieu part de la route commune, la Loi de Dieu destinée à tous (*shari‘ah*), pour atteindre la Réalité divine (*haqîqah*) en parcourant une voie (*tariqah*) qui apparaît alors comme le rayon d’une roue menant de la périphérie au centre. Cette voie est d’abord l’intériorisation incessante des rites et l’extériorisation de la foi qui doit devenir plus apparente, plus tangible. C’est par l’adhésion à la Parole de Dieu que le croyant peut aimer et connaître son Seigneur. Au cours de la prière, le croyant se nourrit de la Parole coranique. Il s’y rafraîchit, s’en vêt, s’y repose comme en un Jardin ombragé. Par l’aumône, entendue dans son sens large de *caritas*, il abandonne tout égoïsme et comprend que «&nbsp;nul n’est croyant s’il ne désire pas pour son frère ce qu’il désire pour lui-même&nbsp;»[^18]. Par le jeûne, il fait le sacrifice de ses passions, jeûne du corps, mais surtout jeûne de l’âme, des désirs, des images, des idoles. Par le pèlerinage, il comprend qu’il n’est en ce monde qu’un voyageur, un exilé qui retourne vers la Terre Bénie où il a vu le jour. La réponse à chaque prescription coranique est l’acceptation de l’ordre de Dieu et le renoncement aux apparences mondaines, le transfert progressif de ce bas-monde dans l’autre monde où tout puise son sens. L’amour réciproque du Seigneur et du serviteur se manifeste dans l’amour envers le Prophète Muhammad, l’aimé de Dieu, (*habîbu-llâh*), envoyé «&nbsp;comme une Miséricorde pour les mondes&nbsp;»[^19]. Par la conformité (*ittibâ*) à l’exemple prophétique, le croyant entre peu à peu dans l’intimité de la conversation entre Dieu et Son Envoyé, auquel le Coran ordonne de dire&nbsp;: «&nbsp;Si vous aimez Dieu, suivez-moi. Alors Dieu vous aimera&nbsp;»[^20]. Le prophète est ainsi l’isthme (*barzakh*) par lequel le Seigneur et le serviteur échangent leur amour (*mahabbah*).
 
@@ -72,7 +72,7 @@ Dans un *hadîth qudsî*, Dieu dit&nbsp;: «&nbsp;Je suis auprès de l’idée q
 
 > Aussi fais attention à ce qui vient d’être mentionné et agis en conséquence&nbsp;: donne à la nature divine son dû exact, de sorte que tu puisses être parmi ceux qui traitent leur Seigneur avec justice dans la connaissance qu’ils ont de Lui. Car Dieu est bien trop exalté pour être lié par quelque délimitation que ce soit, ou pour être restreint à une forme à l’exclusion des autres. De cette façon, tu pourras connaître pour toi-même l’universalité de la félicité de toute la création de Dieu, et la vaste étendue de cette Miséricorde qui embrasse toute chose[^33].
 
-**Le terme de la voie**
+###### Le terme de la voie
 
 Le terme de la Voie est la contemplation de la Face de Dieu. Certes, nul ne peut voir la Face de Dieu de son vivant. Mais le saint est précisément celui qui est déjà mort à lui-même pour la renaissance dans une vie nouvelle, celle de l’autre monde. Voilà la vraie vie auprès de laquelle celle-ci n’est qu’un jeu et une jouissance éphémère. Bien des mystiques ont chanté dans des poèmes magnifiques la béatitude provoquée par la vision de la Face de Dieu et la satisfaction réciproque du Seigneur et du serviteur. Sous l’emprise de la contemplation, ils témoignent qu’en fait c’est Dieu seul qui est contemplé, et c’est aussi Dieu seul qui contemple. Le témoignage porté sur Dieu par Son serviteur et par Dieu lui-même s’unit en une seule parole d’amour qui s’achève en un seul silence émerveillé.
 
