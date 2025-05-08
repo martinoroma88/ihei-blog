@@ -134,7 +134,7 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 [^19]: Coran 70&nbsp;: 33.
 [^20]: C’est la contemplation de Dieu qui nous maintient stables et droits dans l’existence.
 [^21]: Coran 47&nbsp;: 21.
-[^22]: Sa forme extérieure manifeste alors de façon parfaite sa signification intérieure. L’on peut s’étonner de l’anecdote rapportée où Ibn ‘Arabî, pourtant «&nbsp;le plus grand des maîtres &nbsp;», semble témoigner de son ignorance sur une question fondamentale. En fait, Ibn ‘Arabî montre qu’il connaît effectivement, et non simplement en théorie, la station de la sincérité, parce qu’en s’ouvrant à une connaissance nouvelle, ou simplement renouvelée, il manifeste sa totale disponibilité spirituelle.
+[^22]: Sa forme extérieure manifeste alors de façon parfaite sa signification intérieure. L’on peut s’étonner de l’anecdote rapportée où Ibn ‘Arabî, pourtant «&nbsp;le plus grand des maîtres&nbsp;», semble témoigner de son ignorance sur une question fondamentale. En fait, Ibn ‘Arabî montre qu’il connaît effectivement, et non simplement en théorie, la station de la sincérité, parce qu’en s’ouvrant à une connaissance nouvelle, ou simplement renouvelée, il manifeste sa totale disponibilité spirituelle.
 [^23]:  le *jihâd* n’est pas à proprement parler la «&nbsp;guerre sainte&nbsp;», mais tout effort accompli sur le chemin de Dieu.
 [^24]: Coran 96&nbsp;: 6-7.
 [^25]: Coran 35&nbsp;: 15.
