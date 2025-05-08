@@ -7,7 +7,7 @@ category: Dialogue interreligieux
 ---
 ###### Sermon donné à la Mosquée al-Wahid, Milan.
 
-> «&nbsp;*Je suis le serviteur de Dieu, leur dit-il. Il m'a accordé les Écritures et a fait de moi un prophète et un être béni où que je me trouve, et Il m'a recommandé la prière et l'aumône tant que je serai en vie, ainsi que la piété filiale envers ma mère et Il n'a pas fait de moi un oppresseur scélérat. Et que la Paix soit sur moi le jour de ma naissance, le jour où je mourrai et le Jour où je serai ramené à la vie*&nbsp;*! Tel est Jésus fils de Marie, parole de Vérité qui fait pourtant l'objet de leurs doutes.*&nbsp;» Coran, sourate Marie XIX. 30-34
+> «&nbsp;*Je suis le serviteur de Dieu, leur dit-il. Il m’a accordé les Écritures et a fait de moi un prophète et un être béni où que je me trouve, et Il m’a recommandé la prière et l’aumône tant que je serai en vie, ainsi que la piété filiale envers ma mère et Il n’a pas fait de moi un oppresseur scélérat. Et que la Paix soit sur moi le jour de ma naissance, le jour où je mourrai et le Jour où je serai ramené à la vie*&nbsp;*! Tel est Jésus fils de Marie, parole de Vérité qui fait pourtant l’objet de leurs doutes.*&nbsp;» Coran, sourate Marie XIX. 30-34
 
 Ô croyants,
 
