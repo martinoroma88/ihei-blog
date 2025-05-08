@@ -1,11 +1,11 @@
 <template>
   <div class="my-grid">
     <aside>
-      <h1 class="lg:hidden mb-4">Tous les articles</h1>
+      <h1 class="lg:hidden mb-4">Actualités</h1>
       <Sidebar
         :categories="categories"
         baseurl="articles"
-        :main="{ url: '/', title: 'Tous les articles' }"
+        :main="{ url: '/', title: 'Actualités' }"
       />
     </aside>
 
