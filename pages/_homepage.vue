@@ -10,7 +10,7 @@
     </aside>
 
     <div class="md:col-span-3 space-y-10">
-      <div v-if="page === 1 && vedette"
+      <div v-if="vedette"
         class="leading-relaxed rounded bg-gray-200 overflow-hidden font-sans text-lighterblue relative z-0"
       >
         <img
@@ -41,41 +41,19 @@
         </div>
       </div>
       <Articles :posts="posts" baseurl="articles" />
-      <Pagination :perPage="perPage" :page="page" :posts="totalPosts" />
     </div>
   </div>
 </template>
 
 <script>
-const PER_PAGE = 6;
-
 export default {
   async asyncData({ $content, params, error }) {
-    const perPage = PER_PAGE;
-    const page = params.homepage ? parseInt(params.homepage) : 1;
-    let totalPosts = (await $content("posts").where({vedette: { $ne: true}}).fetch()).length;
-    const skip = PER_PAGE * (page - 1);
-
-    if (!page) return error({statusCode: 404});
-
-    let posts = await $content("posts")
-      .where({vedette: { $ne: true}})
-      .only(["titre", "couverture", "url", "slug", "auteur", "category", "date"])
-      .sortBy("date", "desc")
-      .skip(skip)
-      .limit(perPage)
-      .fetch();
+    // Recupera categorie
     const categories = await $content("categories")
       .sortBy("ordre", "asc")
       .fetch();
-    if (!posts.length) return error({statusCode: 404});
 
-    posts.forEach((p, i) => {
-      let c = categories.find((c) => p.category === c.titre);
-      p.categoryPopulated = c;
-    });
-
-    // handle vedette post    
+    // Recupera l'articolo in evidenza
     let vedette;
     vedette = await $content("posts").where({vedette : true}).fetch();
     vedette = vedette.length > 0 ? vedette[0] : false;
@@ -84,7 +62,24 @@ export default {
       vedette.categoryPopulated = fCategory;
     }
 
-    return { posts, vedette, categories, page, perPage, totalPosts };
+    // Recupera gli articoli selezionati per la homepage (massimo 6)
+    let posts = await $content("posts")
+      .where({
+        in_homepage: true,
+        vedette: { $ne: true }
+      })
+      .only(["titre", "couverture", "url", "slug", "auteur", "category", "date"])
+      .sortBy("date", "desc")
+      .limit(6)
+      .fetch();
+
+    // Popola le informazioni di categoria per ciascun post
+    posts.forEach((p) => {
+      let c = categories.find((c) => p.category === c.titre);
+      p.categoryPopulated = c;
+    });
+
+    return { posts, vedette, categories };
   }
 };
 </script>
