@@ -15,7 +15,6 @@
     "core-js": "^3.6.5",
     "nuxt": "^2.14.12",
     "postcss-import": "^14.0.2",
-    "remark-footnotes": "^3.0.0",
     "vue-script2": "^2.1.0"
   },
   "devDependencies": {

@@ -80,9 +80,7 @@ export default {
   // Content module configuration (https://go.nuxtjs.dev/config-content)
   content: {
     markdown: {
-      remarkPlugins: [
-        ['remark-footnotes', { inlineNotes: false }]
-      ]
+      remarkPlugins: []
     },
     nestedProperties: ["categories.souscategories"]
   },
