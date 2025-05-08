@@ -48,36 +48,58 @@
 <script>
 export default {
   async asyncData({ $content, params, error }) {
-    // Recupera categorie
+    // Recupera le categorie
     const categories = await $content("categories")
       .sortBy("ordre", "asc")
       .fetch();
 
-    // Recupera l'articolo in evidenza
-    let vedette;
-    vedette = await $content("posts").where({vedette : true}).fetch();
-    vedette = vedette.length > 0 ? vedette[0] : false;
-    if (vedette) {
-      const fCategory = categories.find(c => vedette.category === c.titre);
-      vedette.categoryPopulated = fCategory;
+    // Recupera la configurazione della homepage
+    let homepageConfig = await $content("homepage").fetch();
+    homepageConfig = homepageConfig.length > 0 ? homepageConfig[0] : null;
+    
+    if (!homepageConfig) {
+      return { posts: [], vedette: null, categories };
     }
 
-    // Recupera gli articoli selezionati per la homepage (massimo 6)
-    let posts = await $content("posts")
-      .where({
-        in_homepage: true,
-        vedette: { $ne: true }
-      })
-      .only(["titre", "couverture", "url", "slug", "auteur", "category", "date"])
-      .sortBy("date", "desc")
-      .limit(6)
-      .fetch();
+    // Recupera l'articolo in evidenza
+    let vedette = null;
+    if (homepageConfig.vedette) {
+      vedette = await $content("posts")
+        .where({ slug: homepageConfig.vedette })
+        .fetch();
+      vedette = vedette.length > 0 ? vedette[0] : null;
+      
+      if (vedette) {
+        const fCategory = categories.find(c => vedette.category === c.titre);
+        vedette.categoryPopulated = fCategory;
+      }
+    }
 
-    // Popola le informazioni di categoria per ciascun post
-    posts.forEach((p) => {
-      let c = categories.find((c) => p.category === c.titre);
-      p.categoryPopulated = c;
-    });
+    // Recupera gli articoli secondari
+    let posts = [];
+    if (homepageConfig.articles && homepageConfig.articles.length > 0) {
+      // Crea un array di slugs dagli articoli selezionati
+      const articleSlugs = homepageConfig.articles.map(item => item.article);
+      
+      // Recupera i dettagli completi di ciascun articolo
+      posts = await $content("posts")
+        .where({ slug: { $in: articleSlugs } })
+        .only(["titre", "couverture", "url", "slug", "auteur", "category", "date"])
+        .fetch();
+      
+      // Ordina gli articoli secondo l'ordine specificato nella configurazione
+      posts.sort((a, b) => {
+        const indexA = articleSlugs.indexOf(a.slug);
+        const indexB = articleSlugs.indexOf(b.slug);
+        return indexA - indexB;
+      });
+
+      // Popola le informazioni di categoria per ciascun post
+      posts.forEach((post) => {
+        const category = categories.find((c) => post.category === c.titre);
+        post.categoryPopulated = category;
+      });
+    }
 
     return { posts, vedette, categories };
   }
