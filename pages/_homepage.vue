@@ -21,7 +21,7 @@
         />
         <div v-else class="absolute inset-0 bg-lighterblue"></div>
         <div
-          class="inset-0 absolute bg-gradient-to-b from-transparent to-black opacity-25"
+          class="inset-0 absolute bg-gradient-to-b from-transparent to-black opacity-50"
         ></div>
         <div class="md:col-span-2 px-4 py-8 md:px-10 md:pt-40 md:pb-8 relative text-white">
           <div>
