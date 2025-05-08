@@ -62,10 +62,7 @@ export default {
 
 <style>
 .pagination-item {
-  @apply flex items-center justify-center px-1 h-10 transition duration-75;
-  @screen sm {
-    @apply px-2;
-  }
+  @apply flex items-center justify-center px-1 sm:px-2 h-10 transition duration-75;
 }
 .pagination-item--active {
   @apply text-lightblue font-bold cursor-default;

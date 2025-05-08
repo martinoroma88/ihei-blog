@@ -1,5 +1,15 @@
 // tailwind.config.js
 module.exports = {
+  mode: 'jit',
+  purge: [
+    './components/**/*.{vue,js}',
+    './layouts/**/*.vue',
+    './pages/**/*.vue',
+    './plugins/**/*.{js,ts}',
+    './nuxt.config.{js,ts}',
+    './content/**/*.md'
+  ],
+  darkMode: false,
   theme: {
     extend: {
       colors: {
@@ -20,13 +30,15 @@ module.exports = {
       "serif": ['Merriweather', "Noto Serif Arabic", 'serif'],
     },
     typography: (theme) => ({
-      default: {
+      DEFAULT: {
         css: {
           color: theme('colors.lightblue'),
         },
       },
     }),
-
+  },
+  variants: {
+    extend: {},
   },
   plugins: [require("@tailwindcss/typography")]
 };

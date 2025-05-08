@@ -91,8 +91,12 @@ export default {
       '@nuxt/content'
     ],
     postcss: {
-      preset: {
-        autoprefixer: {}
+      postcssOptions: {
+        plugins: {
+          'postcss-import': {},
+          'tailwindcss': {},
+          'autoprefixer': {}
+        }
       }
     }
   },
@@ -100,6 +104,6 @@ export default {
   tailwindcss: {
     configPath: '~/tailwind.config.js',
     exposeConfig: false,
-    config: {}
+    viewer: false
   }
 };

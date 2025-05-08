@@ -49,16 +49,10 @@ export default {
 
 <style>
 	#sidebar a {
-		@apply whitespace-nowrap py-1;
-		@screen lg {
-			@apply whitespace-normal;
-		}
+		@apply whitespace-nowrap py-1 lg:whitespace-normal;
 	} 
 	#sidebar .nuxt-link-active:not(.normal) {
-		@apply order-first font-bold text-lg;
-		@screen lg {
-			@apply mb-2 pb-2 border-b-2 border-lighterblue;
-		}
+		@apply order-first font-bold text-lg lg:mb-2 lg:pb-2 lg:border-b-2 lg:border-lighterblue;
 	}
 	#sidebar .nuxt-link-active:not(.normal):hover {
 		text-decoration: none;
@@ -71,9 +65,6 @@ export default {
 		display: flex !important;
 	}
 	#sidebar.showing .nuxt-link-active:not(.normal) {
-		@apply order-none;
-		@screen lg {
-			@apply order-first;
-		}
+		@apply order-none lg:order-first;
 	}
 </style>

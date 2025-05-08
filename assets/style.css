@@ -13,26 +13,14 @@ body, html {
 }
 
 .container {
-  @apply mx-auto p-4;
-  @screen lg {
-    @apply p-6
-  }
+  @apply mx-auto p-4 lg:p-6;
 }
 
 .my-grid {
-  @apply grid grid-cols-1 gap-10;
-  @screen md {
-    @apply grid-cols-4 gap-16;
-  }
+  @apply grid grid-cols-1 gap-10 md:grid-cols-4 md:gap-16;
 }
 .my-subgrid {
-  @apply grid gap-10 grid-cols-1;
-  @screen md {
-    @apply grid-cols-2;
-  }
-  @screen lg {
-    @apply grid-cols-3;
-  }
+  @apply grid gap-10 grid-cols-1 md:grid-cols-2 lg:grid-cols-3;
 }
 
 a:hover:not(.no-underline) {
@@ -48,29 +36,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  @apply text-2xl;
-  @screen lg {
-    @apply text-3xl;
-  }
+  @apply text-2xl lg:text-3xl;
 }
 h2 {
-  @apply text-xl;
-  @screen lg {
-    @apply text-2xl;
-  }
+  @apply text-xl lg:text-2xl;
 }
 h3 {
-  @apply text-lg;
-  @screen lg {
-    @apply text-xl;
-  }
+  @apply text-lg lg:text-xl;
 }
 
 h4 {
-  @apply text-base;
-  @screen lg {
-    @apply text-lg;
-  }
+  @apply text-base lg:text-lg;
 }
 
 input:focus, button:focus {
@@ -78,10 +54,7 @@ input:focus, button:focus {
 }
 
 aside {
-  @apply top-0;
-  @screen md {
-    @apply sticky z-50;
-  } 
+  @apply top-0 md:sticky md:z-50;
 }
 
 .checkbox {
