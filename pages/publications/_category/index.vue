@@ -6,7 +6,7 @@
 		</aside>
 		
 		<div class="md:col-span-3 space-y-10">
-			<nuxt-content v-if="category.body.children.length > 0" class="static font-serif text-lightblue underline-links leading-relaxed" :document="category" />
+			<nuxt-content v-if="category.body.children.length > 0" class="static font-sans text-lightblue underline-links leading-relaxed" :document="category" />
 			<Publications :posts="posts" baseurl="publications"/>
 		</div>
 	</div>
