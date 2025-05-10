@@ -15,7 +15,7 @@ Parmi les dons que Dieu \[nous] a octroyés se trouve la visite de notre Shaykh,
 
 Parmi tout cela se trouvait le discours sur cette noble et très importante tradition prophétique. Que Dieu le récompense, qu’Il renouvelle sur nous les bénédictions de ses sciences, et qu’Il nous en fasse profiter, ainsi que les musulmans, pendant sa vie et après sa mort.
 
-On rapporte de notre seigneur ‘Al&icircr; —&nbsp;que Dieu recouvre de Grâce sa face&nbsp;— qu’il disait&nbsp;: 
+On rapporte de notre seigneur ‘Al&icirc; —&nbsp;que Dieu recouvre de Grâce sa face&nbsp;— qu’il disait&nbsp;: 
 
 > J’ai interrogé l’Envoyé de Dieu —&nbsp;Que Dieu prie sur lui et le salue&nbsp;— à propos de sa tradition. Et il répondit&nbsp;: «&nbsp;La connaissance est mon capital&nbsp;; l’intellect est l’origine de ma religion&nbsp;; l’amour est mon assise&nbsp;; le désir est mon vaisseau&nbsp;; le souvenir de Dieu est mon compagnon intime&nbsp;; la confiance est mon trésor&nbsp;; le chagrin est mon camarade&nbsp;; la science est mon arme&nbsp;; la patience est ma provision de route&nbsp;; la satisfaction est mon trophée&nbsp;; la faiblesse est ma gloire&nbsp;; l’ascèse est ma profession&nbsp;; la certitude est ma force&nbsp;; la sincérité est mon intercesseur&nbsp;; l’obéissance me suffit&nbsp;; la guerre sainte est mon caractère&nbsp;; la fraîcheur de mon &oelig;il se trouve dans la prière canonique&nbsp;; ma préoccupation concerne ma communauté, et mon désir va vers mon Seigneur&nbsp;».
 
