@@ -31,7 +31,6 @@ Quant à la connaissance, elle consiste à effacer totalement l’être créé d
 
 Et quand Il attacha l’obéissance, et l’ordre et la défense, ce qui était saisi par l’entrave du chameau fut appelé intelligence.[^6] C’est ce qui attache les hommes à ce que Dieu aime et à ce qui Le satisfait.
 
-
 **L’amour est mon assise**, *wa-l-hubbu as&amacr;s&iamacr;&nbsp;*: l’amour est l’assise de la connaissance. Il est mentionné dans le had&imacr;th&nbsp;: «&nbsp;N’est-il pas vrai qu’il n’y a pas d’amour pour celui qui n’a pas d’amour pour Lui&nbsp;», c’est-à-dire pour Dieu&nbsp;? Et la réalité de l’amour est l’inclination. Celui qui n’a pas de penchant avec tout son être, l’amour s’en tient à distance. Le meilleur amour est que Dieu et Son Envoyé te soient plus dignes d’amour que tout le reste. «&nbsp;Dis&nbsp;: si vous aimez Dieu, suivez-moi&nbsp;; alors Dieu vous aimera&nbsp;».[^7] Il est désirable de suivre l’Envoyé de Dieu dans ses ordres et dans ses interdictions. Si le serviteur le suit et accomplit les ordres que Dieu aime, Dieu l’aime. Et si Dieu l’aime, sans aucun doute Il le rapprochera de Lui.[^8] Parmi les invocations de D&amacr;w&umacr;d (sur lui la bénédiction et la paix), l’on trouve&nbsp;: 
 
 > Ô mon Dieu, en vérité je Te demande de T’aimer, et d’aimer celui qui T’aime, je Te demande d’accomplir les actes qui me feront parvenir à l’amour de Toi. Ô mon Dieu, fais que l’amour que j’ai pour Toi soit pour moi plus fort que moi-même, ma famille, et l’eau fraiche.
