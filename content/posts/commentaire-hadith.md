@@ -24,7 +24,6 @@ On rapporte de notre seigneur ‘Al&imacr; —&nbsp;que Dieu recouvre de Grâce 
 
 > Tu es le Premier et il n’y a rien avant Toi, le Dernier et il n’y a rien après Toi, etc.
 
-
 Quant à la connaissance, elle consiste à effacer totalement l’être créé de sa contemplation, et à ne tourner sa face que vers Dieu.[^3] «&nbsp;Où que vous vous tourniez, là est la face de Dieu&nbsp;».[^4] C’est cela le capital, par lequel adviennent les dévoilements.
 
 
