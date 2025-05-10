@@ -49,7 +49,6 @@ Il est mentionné dans le had&imacr;th&nbsp;:
 
 > Le trésor du croyant est son Seigneur.
 
-
 et encore&nbsp;: 
 
 > Ô mon Dieu, personne ne peut enlever ce que Tu as donné, et personne ne peut donner ce que Tu as enlevé.
