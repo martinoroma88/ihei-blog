@@ -117,33 +117,33 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^1]: C’est un disciple du Shaykh Ahmad Ibn Idr&imacr;s qui parle.
 
-[^2]: Cette ville se situe dans le sud du Yémen. Le Shaykh arriva à Zab&imacr;d en 1827-1828 pour une brève visite, puis s’y installa ensuite pendant neuf mois, en 1828-1829. Voir R.S. O’Fahey, in Enigmatic Saint, p. 83-88.
+[^2]: Cette ville se situe dans le sud du Yémen. Le Shaykh arriva à Zab&imacr;d en 1827-1828 pour une brève visite, puis s’y installa ensuite pendant neuf mois, en 1828-1829. Voir R.S. O’Fahey, in *Enigmatic Saint,* p. 83-88.
 
-[^3]: La connaissance ma’rifah fondamentale est celle de Dieu, Principe et Fin dernière. Le Shaykh prend soin de rappeler que ces «&nbsp;définitions&nbsp;» ou «&nbsp;délimitations&nbsp;» de Dieu qui ont été données par la Révélation coranique et la Tradition prophétique sont en fait des négations de toute limite&nbsp;: Dieu est le Premier, c’est-à-dire Celui avant qui il n’y a rien, etc. La véritable connaissance de Dieu est apophatique. Nous n’y accédons pas par un savoir positif, mais en nous séparant de la connaissance positive du créé, qui est notre voile.
+[^3]: La connaissance *ma’rifah* fondamentale est celle de Dieu, Principe et Fin dernière. Le Shaykh prend soin de rappeler que ces «&nbsp;définitions&nbsp;» ou «&nbsp;délimitations&nbsp;» de Dieu qui ont été données par la Révélation coranique et la Tradition prophétique sont en fait des négations de toute limite&nbsp;: Dieu est le Premier, c’est-à-dire Celui avant qui il n’y a rien, etc. La véritable connaissance de Dieu est apophatique. Nous n’y accédons pas par un savoir positif, mais en nous séparant de la connaissance positive du créé, qui est notre voile.
 
 [^4]: Coran 2&nbsp;: 115.
 
 [^5]: L’intellect, «&nbsp;première des créations de Dieu &nbsp;» selon un had&imacr;th qui ne se trouve pas dans les recueils canoniques, mesure, par son «&nbsp;mouvement vers Dieu &nbsp;», puis son «&nbsp;éloignement&nbsp;», les possibilités de manifestation et trace ainsi l’axe métaphysique du monde selon lequel Dieu agira. Par ce double mouvement, vers le haut puis vers le bas de la feuille, le calame dessine la lettre alif, première de l’alphabet.
 
-[^6]: Le Shaykh explique la signification spirituelle de l’intellect ’aql à partir de la racine du mot qui signifie «&nbsp;lier&nbsp;» ou «&nbs;rattacher&nbsp;». Il n’y a pas de foi îm&amacr;n sans connaissance ma’rifah, et il n’y a pas de connaissance sans intellect.
+[^6]: Le Shaykh explique la signification spirituelle de l’intellect *’aql* à partir de la racine du mot qui signifie «&nbsp;lier&nbsp;» ou «&nbs;rattacher&nbsp;». Il n’y a pas de foi îm&amacr;n sans connaissance *ma’rifah*, et il n’y a pas de connaissance sans intellect.
 
 [^7]: Coran 3&nbsp;: 31.
 
-[^8]: L’amour mahabbah nous amène à la connaissance de Dieu. L’imitation du Prophète Muhammad, qui constitue métaphysiquement l’isthme barzakh entre Dieu al-Haqq et la création al-khalq, permet au croyant d’aimer Dieu et ainsi de Le connaître. C’est donc la pratique de la Loi révélée, mise en &oelig;uvre sous le contrôle de l’intellect, qui permet d’accéder à la connaissance.
+[^8]: L’amour *mahabbah* nous amène à la connaissance de Dieu. L’imitation du Prophète Muhammad, qui constitue métaphysiquement l’isthme *barzakh* entre Dieu *al-Haqq* et la création *al-khalq*, permet au croyant d’aimer Dieu et ainsi de Le connaître. C’est donc la pratique de la Loi révélée, mise en &oelig;uvre sous le contrôle de l’intellect, qui permet d’accéder à la connaissance.
 
-[^9]: L’adhésion à Dieu at-ta’alluq est l’attitude spirituelle synthétique de l’Homme Parfait, créé à partir d’une «&nbsp;adhérence&nbsp;» ’alaq. Voir Cor. 96&nbsp;: 2.
+[^9]: L’adhésion à Dieu *at-ta’alluq* est l’attitude spirituelle synthétique de l’Homme Parfait, créé à partir d’une «&nbsp;adhérence&nbsp;» *’alaq*. Voir Cor. 96&nbsp;: 2.
 
-[^10]: Le Shaykh dévoile petit à petit la logique secrète du had&imacr;th. Il n’y a pas de connaissance sans amour, pas d’amour sans inclination mayl. Mais la meilleure inclination est celle qui est animée par le désir shawq qui consiste à «&nbsp;accourir sans halte&nbsp;» wuq&umacr;f.
+[^10]: Le Shaykh dévoile petit à petit la logique secrète du had&imacr;th. Il n’y a pas de connaissance sans amour, pas d’amour sans inclination *mayl*. Mais la meilleure inclination est celle qui est animée par le désir *shawq* qui consiste à «&nbsp;accourir sans halte&nbsp;» *wuq&umacr;f*.
 
-[^11]: Depuis l’instant de notre naissance, chacun de nos souffles nous rapproche de Dieu. Ce chemin de la vie doit être parcouru avec amour et désir. Mais cet énoncé fait surtout référence au voyage dans les souffles anf&amacr;s lors de l’invocation des *awr&amacr;d* donnés par le Shaykh. L’invocateur se rapproche de Dieu «&nbsp;dans chaque regard et dans chaque souffle f&iamacr; kulli lamḥatin wa nafas&nbsp;», en maintenant dans son c&oelig;ur le compagnon de voyage du souvenir de Dieu. Le souffle est alors le vent du désir qui meut le vaisseau humain, en le faisant tanguer d’un bord à l’autre comme dans l’invocation, et avancer sans trêve vers Dieu. L’état spirituel de l’invocateur consiste en effet à voyager d’une théophanie à l’autre, sans s’arrêter dans une théophanie particulière, afin de goûter la bénédiction du renouvellement incessant des théophanies.
+[^11]: Depuis l’instant de notre naissance, chacun de nos souffles nous rapproche de Dieu. Ce chemin de la vie doit être parcouru avec amour et désir. Mais cet énoncé fait surtout référence au voyage dans les souffles *anf&amacr;s* lors de l’invocation des *awr&amacr;d* donnés par le Shaykh. L’invocateur se rapproche de Dieu «&nbsp;dans chaque regard et dans chaque souffle *f&iamacr; kulli lamḥatin wa nafas*&nbsp;», en maintenant dans son c&oelig;ur le compagnon de voyage du souvenir de Dieu. Le souffle est alors le vent du désir qui meut le vaisseau humain, en le faisant tanguer d’un bord à l’autre comme dans l’invocation, et avancer sans trêve vers Dieu. L’état spirituel de l’invocateur consiste en effet à voyager d’une théophanie à l’autre, sans s’arrêter dans une théophanie particulière, afin de goûter la bénédiction du renouvellement incessant des théophanies.
 
-[^12]: «&nbsp;Celui ne croit pas au T&amacr;gh&umacr;t et croit en Dieu a saisi l’anse la plus solide et sans fêlure (Cor. 2&nbsp;: 256)&nbsp;». Cette «&nbsp;anse la plus solide et sans fêlure al-’urwat al-wuthq&amacr; l&amacr;-nfiç&amacr;ma lah&amacr;&nbsp;» est l’attachement à la voie droite par la foi en Dieu. «&nbsp;Accrochez-vous à la corde de Dieu et ne vous divisez pas (Cor. 3&nbsp;: 103)&nbsp;».
+[^12]: «&nbsp;Celui ne croit pas au T&amacr;gh&umacr;t et croit en Dieu a saisi l’anse la plus solide et sans fêlure (Cor. 2&nbsp;: 256)&nbsp;». Cette «&nbsp;anse la plus solide et sans fêlure *al-’urwat al-wuthq&amacr; l&amacr;-nfiç&amacr;ma lah&amacr;*&nbsp;» est l’attachement à la voie droite par la foi en Dieu. «&nbsp;Accrochez-vous à la corde de Dieu et ne vous divisez pas (Cor. 3&nbsp;: 103)&nbsp;».
 
-[^13]: Les théophanies de l’invocation ne cessent de se renouveler et d’échapper à chaque souffle. Le c&oelig;ur est le réceptacle spirituel de cette succession des théophanies puisqu’il peut seul les accepter toutes sans s’arr&ecirc;ter à aucune en particulier. Le chagrin et le regret décrits par le Shaykh caractérisent le désir et la consternation (al-walah) du c&oelig;ur qui découvre Dieu sous Son Nom All&amacr;h (de m&ecirc;me «&nbsp;racine&nbsp;» que walah). Voir Ibn ’At&amacr;’ All&amacr;h, in Traité sur le Nom All&amacr;h, p. 99.
+[^13]: Les théophanies de l’invocation ne cessent de se renouveler et d’échapper à chaque souffle. Le c&oelig;ur est le réceptacle spirituel de cette succession des théophanies puisqu’il peut seul les accepter toutes sans s’arr&ecirc;ter à aucune en particulier. Le chagrin et le regret décrits par le Shaykh caractérisent le désir et la consternation (*al-walah*) du c&oelig;ur qui découvre Dieu sous Son Nom All&amacr;h (de m&ecirc;me «&nbsp;racine&nbsp;» que *walah*). Voir Ibn ’At&amacr;’ All&amacr;h, in *Traité sur le Nom All&amacr;h*, p. 99.
 
-[^14]: Coran 59&nbsp;: 2. Il s’agit de la science médiate et discursive, et non de l’intuition spirituelle immédiate. Le Shaykh insiste ici sur l’importance de la préparation doctrinale, fondement de la connaissance effective. L’intelligence doctrinale nous permet en effet d’avoir de Dieu l’idée la plus haute, en affirmant son incomparabilité. Puis le croyant s’aperçoit, dans une connaissance intuitive au-delà de la méditation, que son c&oelig;ur est capable de «&nbsp;contenir&nbsp;» l’immensité de Dieu (’azhamat All&amacr;h), en conformité avec le célèbre had&imacr;th qudsî.
+[^14]: Coran 59&nbsp;: 2. Il s’agit de la science médiate et discursive, et non de l’intuition spirituelle immédiate. Le Shaykh insiste ici sur l’importance de la préparation doctrinale, fondement de la connaissance effective. L’intelligence doctrinale nous permet en effet d’avoir de Dieu l’idée la plus haute, en affirmant son incomparabilité. Puis le croyant s’aperçoit, dans une connaissance intuitive au-delà de la méditation, que son c&oelig;ur est capable de «&nbsp;contenir&nbsp;» l’immensité de Dieu (*’azhamat All&amacr;*h), en conformité avec le célèbre had&imacr;th qudsî.
 
-[^15]: Le Shaykh fait de nouveau allusion à l’invocation des awr&imacr;d.
+[^15]: Le Shaykh fait de nouveau allusion à l’invocation des *awr&imacr;d*.
 
 [^16]: «&nbsp;En vérité la meilleure des provisions de route est la piété (Cor. 2&nbsp;: 197)&nbsp;».
 
@@ -175,8 +175,8 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^31]: Il s’agit du célèbre had&imacr;th quds&imacr; rapporté dans al-Bukh&amacr;r&imacr;&nbsp;: «&nbsp;Rien ne rapproche plus Mon serviteur de Moi que ce que J’aime par dessus tout, les actes obligatoires. Mon serviteur ne cesse de s’approcher de Moi par les actes surérogatoires jusqu’à ce que Je l’aime&nbsp;; et quand Je l’aime, Je suis l’ouïe avec laquelle il entend, la vue avec laquelle il voit, la main avec laquelle il saisit fortement et le pied avec lequel il marche&nbsp;».
 
-[^32]: Par le tanz&imacr;h, l’affirmation de la Transcendance et de l’Incomparabilité de Dieu.
+[^32]: Par le *tanz&imacr;h*, l’affirmation de la Transcendance et de l’Incomparabilité de Dieu.
 
 [^33]: C’est-à-dire en 1902.
 
-[^34]: Il s’agit du petit fils de Muhammad al-Qutb, fils aîné du Shaykh Ahmad Ibn Idr&imacr;s. Muhammad al Yaman&imacr; (1876-1923) fonda, contre les Ottomans, un royaume idr&imacr;side au Yémen. Voir R.S. O’Fahey, in Enigmatic Saint, p. 122-125.
+[^34]: Il s’agit du petit fils de Muhammad al-Qutb, fils aîné du Shaykh Ahmad Ibn Idr&imacr;s. Muhammad al Yaman&imacr; (1876-1923) fonda, contre les Ottomans, un royaume idr&imacr;side au Yémen. Voir R.S. O’Fahey, in *Enigmatic Saint*, p. 122-125.
