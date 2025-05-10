@@ -172,7 +172,7 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^30]: Coran 50&nbsp;: 16.
 
-[^31]: Il s’agit du célèbre had&icirc;th quds&icirc; rapporté dans al-Bukh*&acirc*;r&icirc;&nbsp;: «&nbsp;Rien ne rapproche plus Mon serviteur de Moi que ce que J’aime par dessus tout, les actes obligatoires. Mon serviteur ne cesse de s’approcher de Moi par les actes surérogatoires jusqu’à ce que Je l’aime&nbsp;; et quand Je l’aime, Je suis l’ouïe avec laquelle il entend, la vue avec laquelle il voit, la main avec laquelle il saisit fortement et le pied avec lequel il marche&nbsp;».
+[^31]: Il s’agit du célèbre had&icirc;th quds&icirc; rapporté dans al-Bukh&acirc;r&icirc;&nbsp;: «&nbsp;Rien ne rapproche plus Mon serviteur de Moi que ce que J’aime par dessus tout, les actes obligatoires. Mon serviteur ne cesse de s’approcher de Moi par les actes surérogatoires jusqu’à ce que Je l’aime&nbsp;; et quand Je l’aime, Je suis l’ouïe avec laquelle il entend, la vue avec laquelle il voit, la main avec laquelle il saisit fortement et le pied avec lequel il marche&nbsp;».
 
 [^32]: Par le *tanz&icirc;h*, l’affirmation de la Transcendance et de l’Incomparabilité de Dieu.
 
