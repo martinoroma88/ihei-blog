@@ -120,7 +120,7 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^4]: Coran 2&nbsp;: 115.
 
-[^5]: L’intellect, «&nbsp;première des créations de Dieu &nbsp;» selon un had&imacr;th qui ne se trouve pas dans les recueils canoniques, mesure, par son «&nbsp;mouvement vers Dieu &nbsp;», puis son «&nbsp;éloignement&nbsp;», les possibilités de manifestation et trace ainsi l’axe métaphysique du monde selon lequel Dieu agira. Par ce double mouvement, vers le haut puis vers le bas de la feuille, le calame dessine la lettre alif, première de l’alphabet.
+[^5]: L’intellect, «&nbsp;première des créations de Dieu &nbsp;» selon un had&imacr;th qui ne se trouve pas dans les recueils canoniques, mesure, par son «&nbsp;mouvement vers Dieu &nbsp;», puis son «&nbsp;éloignement&nbsp;», les possibilités de manifestation et trace ainsi l’axe métaphysique du monde selon lequel Dieu agira. Par ce double mouvement, vers le haut puis vers le bas de la feuille, le calame dessine la lettre *alif*, première de l’alphabet.
 
 [^6]: Le Shaykh explique la signification spirituelle de l’intellect *’aql* à partir de la racine du mot qui signifie «&nbsp;lier&nbsp;» ou «&nbs;rattacher&nbsp;». Il n’y a pas de foi îm&amacr;n sans connaissance *ma’rifah*, et il n’y a pas de connaissance sans intellect.
 
