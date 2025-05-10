@@ -41,7 +41,6 @@ Il précisa les choses mentionnées ci-dessus parce qu’elles prennent le c&oel
 
 **Le souvenir de Dieu est mon compagnon intime**, *wa dhikru-Ll&amacr;hi an&imacr;s&imacr;&nbsp;*: il est mentionné dans le had&imacr;th&nbsp;: «&nbsp;Ô mon Dieu, Tu es le Compagnon de voyage et le Successeur dans la famille&nbsp;». Le voyageur n’a pas de compagnie familière dans son voyage, sinon celle du Compagnon. Il est mentionné dans le had&imacr;th&nbsp;: «&nbsp;Il n’y a pas de souffle par lequel soupire l’homme sans qu’il ne progresse d’un pas vers la Vie Dernière&nbsp;». Les souffles sont le voyage, et quand le souvenir de Dieu se trouve présent, il est le compagnon familier dans ce voyage.[^11] Quel excellent compagnon de voyage&nbsp;! Combien excellent est ce souvenir de Dieu qui lui est devenu familier dans son voyage&nbsp;!
 
-
 **La confiance est mon trésor**, *wa-th-thiqatu kanz&imacr;&nbsp;*: il est mentionné dans le had&imacr;th&nbsp;: 
 
 
