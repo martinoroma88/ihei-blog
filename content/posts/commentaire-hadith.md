@@ -5,7 +5,7 @@ auteur: Abd al-Haqq Ismaïl Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584952/ihei/couvertures/soufisme-et-spiritualites-6_tmmwky.jpg
 category: Soufisme et Spiritualités
 ---
-Par l’Im&amacr;m Seigneurial et le Secours Universel, le Seigneur Ahmad Ibn Idr&imacr;s al-Hasan&imacr; al-Idr&imacr;s&imacr;, que Dieu sanctifie son secret. Am&imacr;n.
+Par l’Im&amacr;m Seigneurial et le Secours Universel, le Seigneur Ahmad Ibn Idr&imacr;s al-[](<>)Ḥasan&imacr; al-Idr&imacr;s&imacr;, que Dieu sanctifie son secret. Am&imacr;n.
 
 **Au Nom de Dieu le Miséricordieux dans la Transcendance, le Miséricordieux dans l’Immanence**
 
