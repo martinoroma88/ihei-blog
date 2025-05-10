@@ -52,7 +52,8 @@ Il est mentionné dans le had&imacr;th&nbsp;:
 et encore&nbsp;: 
 
 > Ô mon Dieu, personne ne peut enlever ce que Tu as donné, et personne ne peut donner ce que Tu as enlevé.
-> Rien ne demeure avec le serviteur que la confiance totale en Dieu. Quand Dieu ne nous donne pas ce qui est entre nos mains ni ce qui est entre les mains d’autrui, nous ne pouvons rien prendre.
+
+Rien ne demeure avec le serviteur que la confiance totale en Dieu. Quand Dieu ne nous donne pas ce qui est entre nos mains ni ce qui est entre les mains d’autrui, nous ne pouvons rien prendre.
 
 **Le chagrin est mon camarade**, *wa-l-huznu rafîqî&nbsp;*: il est mentionné dans le had&imacr;th&nbsp;: 
 
