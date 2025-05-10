@@ -11,7 +11,7 @@ Par l’Im&amacr;m Seigneurial et le Secours Universel, le Seigneur Ahmad Ibn Id
 
 Louange à Dieu Seigneur des Mondes, et que la prière et la paix soient sur notre Seigneur, notre aimé, la fraîcheur de nos yeux, Muhammad l’Envoyé de Dieu, que Dieu prie sur lui, sur sa famille et sur ses compagnons, et qu’Il répande sur eux la paix.
 
-Parmi les dons que Dieu \[nous] a octroyés se trouve la visite de notre Shaykh, le noble seigneur, le grand saint qui nous dépasse tous, le miracle des connaissances et la nouveauté des réalités subtiles, la mer gonflée de secrets et de lumières, Ahmad Ibn Idr&imacr;s al-Hasan&imacr;.[^1] Dieu nous en a fait profiter alors que nous nous dirigions vers la ville de Zab&imacr;d[^2] —&nbsp;que Dieu Exalté la garde, Lui qui crée et qui renouvelle&nbsp;— et le bénéfice total nous advint par lui. Il répandit les subtilités de ses sciences et manifesta les trésors de sa compréhension, comme autant de merveilles étonnantes.
+Parmi les dons que Dieu \[nous] a octroyés se trouve la visite de notre Shaykh, le noble seigneur, le grand saint qui nous dépasse tous, le miracle des connaissances et la nouveauté des réalités subtiles, la mer gonflée de secrets et de lumières, Ahmad Ibn Idr&imacr;s al-Ḥasan&imacr;.[^1] Dieu nous en a fait profiter alors que nous nous dirigions vers la ville de Zab&imacr;d[^2] —&nbsp;que Dieu Exalté la garde, Lui qui crée et qui renouvelle&nbsp;— et le bénéfice total nous advint par lui. Il répandit les subtilités de ses sciences et manifesta les trésors de sa compréhension, comme autant de merveilles étonnantes.
 
 Parmi tout cela se trouvait le discours sur cette noble et très importante tradition prophétique. Que Dieu le récompense, qu’Il renouvelle sur nous les bénédictions de ses sciences, et qu’Il nous en fasse profiter, ainsi que les musulmans, pendant sa vie et après sa mort.
 
@@ -126,7 +126,7 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^7]: Coran 3&nbsp;: 31.
 
-[^8]: L’amour *mahabbah* nous amène à la connaissance de Dieu. L’imitation du Prophète Muhammad, qui constitue métaphysiquement l’isthme *barzakh* entre Dieu *al-Haqq* et la création *al-khalq*, permet au croyant d’aimer Dieu et ainsi de Le connaître. C’est donc la pratique de la Loi révélée, mise en &oelig;uvre sous le contrôle de l’intellect, qui permet d’accéder à la connaissance.
+[^8]: L’amour *mahabbah* nous amène à la connaissance de Dieu. L’imitation du Prophète Muhammad, qui constitue métaphysiquement l’isthme *barzakh* entre Dieu *al-Ḥaqq* et la création *al-khalq*, permet au croyant d’aimer Dieu et ainsi de Le connaître. C’est donc la pratique de la Loi révélée, mise en &oelig;uvre sous le contrôle de l’intellect, qui permet d’accéder à la connaissance.
 
 [^9]: L’adhésion à Dieu *at-ta’alluq* est l’attitude spirituelle synthétique de l’Homme Parfait, créé à partir d’une «&nbsp;adhérence&nbsp;» *’alaq*. Voir Cor. 96&nbsp;: 2.
 
