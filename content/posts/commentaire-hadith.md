@@ -128,7 +128,7 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^8]: L’amour *mahabbah* nous amène à la connaissance de Dieu. L’imitation du Prophète Muhammad, qui constitue métaphysiquement l’isthme *barzakh* entre Dieu *al-Haqq* et la création *al-khalq*, permet au croyant d’aimer Dieu et ainsi de Le connaître. C’est donc la pratique de la Loi révélée, mise en &oelig;uvre sous le contrôle de l’intellect, qui permet d’accéder à la connaissance.
 
-[^9]: L’adhésion à Dieu *at-ta’alluq* est l’attitude spirituelle synthétique de l’Homme Parfait, créé à partir d’une «&nbsp;adhérence&nbsp;» *’alaq*. Voir Cor. 96&nbsp;: 2.
+[^9]: L’adhésion à Dieu *at-ta’alluq* est l’attitude spirituelle synthétique de l’Homme Parfait, créé à partir d’une «&nbsp;adhérence&nbsp;» *‘alaq*. Voir Cor. 96&nbsp;: 2.
 
 [^10]: Le Shaykh dévoile petit à petit la logique secrète du had&icirc;th. Il n’y a pas de connaissance sans amour, pas d’amour sans inclination *mayl*. Mais la meilleure inclination est celle qui est animée par le désir *shawq* qui consiste à «&nbsp;accourir sans halte&nbsp;» *wuq&ucirc;f*.
 
