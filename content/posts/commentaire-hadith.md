@@ -43,7 +43,6 @@ Il précisa les choses mentionnées ci-dessus parce qu’elles prennent le c&oel
 
 **La confiance est mon trésor**, *wa-th-thiqatu kanz&imacr;&nbsp;*: il est mentionné dans le had&imacr;th&nbsp;: 
 
-
 > Nul d’entre vous ne croit tant que ce qui est dans la Main de Dieu n’est pas pour lui plus solide que ce qui est dans sa main.[^12]
 
 Il est mentionné dans le had&imacr;th&nbsp;: 
