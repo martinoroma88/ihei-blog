@@ -35,11 +35,9 @@ Et quand Il attacha l’obéissance, et l’ordre et la défense, ce qui était 
 
 > Ô mon Dieu, en vérité je Te demande de T’aimer, et d’aimer celui qui T’aime, je Te demande d’accomplir les actes qui me feront parvenir à l’amour de Toi. Ô mon Dieu, fais que l’amour que j’ai pour Toi soit pour moi plus fort que moi-même, ma famille, et l’eau fraiche.
 
-
 Il précisa les choses mentionnées ci-dessus parce qu’elles prennent le c&oelig;ur mais détournent de Dieu. Si le serviteur ne s’occupe pas de Dieu, et s’occupe de ces choses, on peut craindre pour lui qu’il ne renie les bienfaits de Dieu —&nbsp;que Dieu nous en préserve&nbsp;!&nbsp;—
 
 **Le désir est mon vaisseau**, *wa-sh-shawqu markab&imacr;&nbsp;*: l’homme est, dans son essence, le vaisseau de l’esprit, et le désir est le vent \[qui souffle sur] ce vaisseau. Tant que dure l’adhésion à Dieu, le vaisseau avance et le désir est sur l’amour.[^9] L’amour est l’inclination vers Dieu, et le désir consiste à accourir sans faire de halte. Certes l’inclination peut exister sans qu’existe le désir. C’est seulement quand le désir existe que l’on trouve nécessairement l’inclination.[^10]
-
 
 **Le souvenir de Dieu est mon compagnon intime**, *wa dhikru-Ll&amacr;hi an&imacr;s&imacr;&nbsp;*: il est mentionné dans le had&imacr;th&nbsp;: «&nbsp;Ô mon Dieu, Tu es le Compagnon de voyage et le Successeur dans la famille&nbsp;». Le voyageur n’a pas de compagnie familière dans son voyage, sinon celle du Compagnon. Il est mentionné dans le had&imacr;th&nbsp;: «&nbsp;Il n’y a pas de souffle par lequel soupire l’homme sans qu’il ne progresse d’un pas vers la Vie Dernière&nbsp;». Les souffles sont le voyage, et quand le souvenir de Dieu se trouve présent, il est le compagnon familier dans ce voyage.[^11] Quel excellent compagnon de voyage&nbsp;! Combien excellent est ce souvenir de Dieu qui lui est devenu familier dans son voyage&nbsp;!
 
