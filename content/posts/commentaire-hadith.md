@@ -166,7 +166,7 @@ Ici finit la lettre bénie. Sa copie fut achevée le vendredi 2 Muharram de l’
 
 [^27]: Coran 35&nbsp;: 8.
 
-[^28]: La communauté de l’appel est l’humanité dans son ensemble, appelée à la soumission à Dieu. La communauté de la réponse est celle des musulmans stricto sensu. Le Shaykh rappelle que le Prophète est une miséricorde universelle et que son souci s’adresse à l’humanité entière.
+[^28]: La communauté de l’appel est l’humanité dans son ensemble, appelée à la soumission à Dieu. La communauté de la réponse est celle des musulmans *stricto sensu*. Le Shaykh rappelle que le Prophète est une miséricorde universelle et que son souci s’adresse à l’humanité entière.
 
 [^29]: Coran 21&nbsp;: 107.
 
