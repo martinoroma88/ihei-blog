@@ -25,7 +25,7 @@ On rapporte de notre seigneur ‘Al&icirc; —&nbsp;que Dieu recouvre de Grâce 
 
 Quant à la connaissance, elle consiste à effacer totalement l’être créé de sa contemplation, et à ne tourner sa face que vers Dieu.[^3] «&nbsp;Où que vous vous tourniez, là est la face de Dieu&nbsp;».[^4] C’est cela le capital, par lequel adviennent les dévoilements.
 
-**L’intellect est l’origine de ma religion**, *wa-l-‘aqlu açlu d&imacr;n&imacr;&nbsp;*: l’intellect est le principe de tout bien, et Dieu n’accorde pas à un serviteur de grâce plus grande que l’intellect. Par lui, \[le serviteur] fait la séparation entre la vérité et l’erreur, entre la foi et l’infidélité&nbsp;; par lui, il distingue le licite de l’illicite&nbsp;; par lui, il saisit les choses qui plaisent à Dieu et celles qui Le courroucent. Il est la source de toute grâce. Et la connaissance qui est l’assise de la foi, est qu’il n’y a pas d’acte de connaissance sans lui.
+**L’intellect est l’origine de ma religion**, *wa-l-‘aqlu açlu d&icirc;n&icirc;&nbsp;*: l’intellect est le principe de tout bien, et Dieu n’accorde pas à un serviteur de grâce plus grande que l’intellect. Par lui, \[le serviteur] fait la séparation entre la vérité et l’erreur, entre la foi et l’infidélité&nbsp;; par lui, il distingue le licite de l’illicite&nbsp;; par lui, il saisit les choses qui plaisent à Dieu et celles qui Le courroucent. Il est la source de toute grâce. Et la connaissance qui est l’assise de la foi, est qu’il n’y a pas d’acte de connaissance sans lui.
 
 > Quand Dieu créa l’intellect, Il lui dit «&nbsp;approche-toi&nbsp;» et il s’approcha, puis Il lui dit «&nbsp;recule&nbsp;» et il recula.[^5]
 
