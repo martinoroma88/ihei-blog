@@ -102,10 +102,7 @@ La fraîcheur de mon &oelig;il se trouve dans la prière canonique, *wa qurratu 
 
 **Et mon désir va vers mon Seigneur**, *wa shawq&imacr; il&amacr; Rabb&imacr;&nbsp;*: Dieu a dit&nbsp;: «&nbsp;Nous sommes plus proche de lui que la veine de son cou&nbsp;».[^30] S’il en est ainsi, comment y aurait-il le désir&nbsp;? Il en est de même dans le texte de celui qui dit&nbsp;: 
 
-> Il est étonnant que je soupire après eux,\br
-> Que je demande sans cesse après eux alors qu’ils sont avec moi,\br
-> Que mon &oelig;il les pleure, eux qui sont dans ma pupille,\br
->  Et que mon c&oelig;ur les désire alors qu’ils sont entre mes côtes.
+> Il est étonnant que je soupire après eux,<br> Que je demande sans cesse après eux alors qu’ils sont avec moi,<br> Que mon &oelig;il les pleure, eux qui sont dans ma pupille,<br>  Et que mon c&oelig;ur les désire alors qu’ils sont entre mes côtes.
 
 Et ce désir, chacun le reçoit selon sa capacité. Si celle-ci le peut, le désir devient désir ardent et amour passionné, et s’il devient désir ardent et amour passionné, l’homme est absent à l’objet de son désir comme le Fou de Layl&amacr;, qui lui dit&nbsp;: «&nbsp;Écarte-toi de moi&nbsp;! L’amour que j’éprouve pour toi me distrait de toi&nbsp;». Cela fait partie de l’errance de l’amour&nbsp;: le fait de se tourner vers elle la lui rendait inutile. Il s’agit là de la station de l’extinction. La réalité de l’extinction est l’union. «&nbsp;Et si Je l’aime, Je suis l’oue par laquelle il entend, etc.&nbsp;»,[^31] comme il Lui convient. Ce qui est visé ainsi n’est pas ce qu’imagine celui qui n’a pas la vision intérieure, à propos de ce dont notre Maître s’est purifié[^32] et qui est infidélité et errance. L’union que mentionnent les hommes de Dieu —&nbsp;que Dieu soit satisfait d’eux&nbsp;— est une affaire de goût. Il n’est pas possible de l’expliquer. Elle fait partie des sciences gustatives et non des sciences livresques.
 
