@@ -26,11 +26,12 @@ Poème écrit par Shaykh Ibrâhîm ibn Ibrâhîm al-Laqqânî (m. 1041/1631)
 > Est un devoir exigeant claire exposition.
 
 > Les longs écrits ont émoussé les résolutions
+
 > Aussi doit-on à ce sujet synthétiser.
 
 > Voici donc un poème que j’ai intitulé
 > «&nbsp;la Perle Précieuse de l’Unicité&nbsp;»
->
+
 > Espérant de Dieu Son acceptation
 > Qu’il soit utile à ceux qui désirent Sa rétribution&nbsp;!
 
