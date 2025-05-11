@@ -254,7 +254,7 @@ Poème écrit par Shaykh Ibrâhîm ibn Ibrâhîm al-Laqqânî (m. 1041/1631)
 > Il est impossible de trouver chez eux une attitude contraire.
 
 
-> Ce qui est de l’ordre du possible les concernant&nbsp;: manger\
+> Ce qui est de l’ordre du possible les concernant&nbsp;: manger
 
 
 > et s’accoupler avec les femmes, dans le respect des lois sacrées.\
