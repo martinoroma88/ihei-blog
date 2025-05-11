@@ -167,7 +167,7 @@ Poème écrit par Shaykh Ibrâhîm ibn Ibrâhîm al-Laqqânî (m. 1041/1631)
 > La révélation nous enseigne Ses Noms
 
 
-> Et Ses attributs aussi, alors préserve la tradition&nbsp;!\
+> Et Ses attributs aussi, alors préserve la tradition&nbsp;!
 
 
 > Toute référence scripturaire donnant l’illusion d’une ressemblance\
