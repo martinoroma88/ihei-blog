@@ -72,22 +72,22 @@ Il existe diverses versions des récits de l’Ascension nocturne, dont les plus
 
 Enfin, il faut rappeler que le voyage effectué par le Prophète est le modèle de la réalisation spirituelle, dans la mesure où il symbolise l’intégration de l’échelle des états multiples de l’être par la connaissance. Les soufis, à l’instar d’Ibn ‘Arabî, ont parcouru à leur tour, en plus ou moins grande partie, le chemin ouvert par Muhammad. C’est ici et maintenant que Dieu peut nous ravir par surprise, comme Il a convoqué le Prophète, si nous savons vraiment être, selon ce que les maîtres nous enseignent, les «&nbsp;fils de l’instant&nbsp;» (*banû-l-waqt*) totalement présents à la Volonté divine.
 
-[^1]: Cor. XVII&nbsp;: 1.
+[^1]: Coran 27&nbsp;: 1.
 [^2]: Cf. René Guénon, *Le symbolisme de la croix*, Guy Trédaniel Éditeur, Paris, 1996.
 [^3]: Où, selon certaines traditions, il visite Hébron, le Sinaï et Bethléem respectivement associés aux figures prophétiques d’Ibrâhîm, Mûsâ et ‘Isâ.
-[^4]: Cor. LII&nbsp;: 4.
-[^5]: Cor. LIII&nbsp;: 1-18.
-[^6]: Cor. XVII&nbsp;: 60.
+[^4]: Coran 52&nbsp;: 4.
+[^5]: Coran 53&nbsp;: 1-18.
+[^6]: Coran 17&nbsp;: 60.
 [^7]: *An-nafs* désigne la personne humaine, dans sa dimension formelle, corps et âme étant étroitement liés. En revanche, l’esprit est un don de Dieu. Il ne s’agit pas d’un esprit appartenant à chaque être humain, mais de l’esprit de Dieu présent en chaque être humain. La réalisation spirituelle consiste à transformer le corps-âme par l’esprit.
 [^8]: Bukhârî, Muslim, Tirmidhî, Ibn Mâjah.
 [^9]: Tabarî XV&nbsp;: 13. Les arguments de Tabarî sont les suivants : 1) Si le Prophète n’avait pas été emmené corporellement, l’événement n’aurait pas eu la valeur de preuve de sa mission prophétique «&nbsp;diurne&nbsp;». 2) Le Coran dit bien que Dieu a fait voyager «&nbsp;Son serviteur&nbsp;», et non «&nbsp;l’esprit de Son serviteur&nbsp;». 3) Le Prophète était monté sur *al-Burâq*. Or une monture est utilisée pour porter les corps, non les esprits.
-[^10]: Cor. XIX&nbsp;: 57.
-[^11]: Cor. IV&nbsp;: 158&nbsp;: «&nbsp;Dieu l’a élevé vers Lui.&nbsp;»
+[^10]: Coran 19&nbsp;: 57.
+[^11]: Coran 4&nbsp;: 158&nbsp;: «&nbsp;Dieu l’a élevé vers Lui.&nbsp;»
 [^12]: Notons toutefois que ‘Isâ redescendra à la fin des temps comme «&nbsp;signe de l’Heure&nbsp;». Enfin, al-Khidr est l’initiateur susceptible de se manifester en n’importe quel lieu et à n’importe quel moment, pour délivrer le message de connaissance d’une «&nbsp;science d’auprès de Dieu&nbsp;» (*‘ilm ladunnî*).
 [^13]: Muslim et Tirmidhî.
 [^14]: Muslim.
 [^15]: Tirmidhî.
-[^16]: Cor. XLII&nbsp;: 11.
-[^17]: Cor. VI&nbsp;: 103.
-[^18]: Cor. XCIV&nbsp;: 1-2.
+[^16]: Coran 42&nbsp;: 11.
+[^17]: Coran 6&nbsp;: 103.
+[^18]: Coran 94&nbsp;: 1-2.
 [^19]: Muslim, Tirmidhî, Abû Dâwûd, Ibn Mâjah et an-Nasa’î.
