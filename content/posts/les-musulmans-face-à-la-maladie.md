@@ -14,12 +14,10 @@ C’est par cette invocation que chaque musulman et musulmane rythment leur exis
 
 Il est peut-&ecir;tre nécessaire de rappeler que la maladie, en islam, n’est pas envisagée, avant tout, comme une punition ou une épreuve injuste qui accablerait le croyant ou la croyante mais que la maladie fait partie des conditions de l’existence d’ici-bas. Par celle-ci, l’homme et la femme trouvent une occasion de se rapprocher de leur Seigneur, en étant ramener parfois aux choses les plus essentielles, les plus vitales selon le degré de la maladie. Il s’agit alors d’un temps propice à la méditation, au recueillement, à la prière dans l’attente d’une guérison qui ne dépend pas des seules compétences du médecin ou de l’observance attentive du traitement.
 
-> Vous ne savez pas ce qui vous est le plus utile. Coran 4&nbsp;: 11
->
 > Que le délai mis à t’accorder ce que tu as demandé par des prières insistantes ne cause
 > pas ton désespoir&nbsp;; l’exaucement de tes prières t'es garanti pour les choses qu’Il a choisi
 > de t’accorder, et non pas pour celles que tu as choisies pour toi-même&nbsp;; et elles te seront
-> accordées au moment où Il le veut, et non pas au moment que tu souhaites.
+> accordées au moment où Il le veut, et non pas au moment que tu souhaites.[^2]
 
 Un had&icir;th (tradition prophétique) dit que Dieu n’a jamais fait descendre un mal sans faire descendre un remède contre lui.[^2] S’il existe donc un remède à chaque maladie, le musulman doit s’efforcer de se soigner avec la conscience que l’issue de la maladie n’est connue et ne dépend que de Dieu. Le remède évoqué dans cette tradition prophétique est avant tout spirituel car si le corps ou l’âme est malade et peut dans certains cas rester dans cet état indéfiniment, l’esprit quant à lui doit rester confiant dans le décret divin. En effet, le Coran exhorte les croyants à se purifier en gardant la constance dans la prière rituelle. Il en va de même pour la demande de pardon à Dieu aussi bien pour les fautes commises que pour l’oubli de notre réelle nature, qui fait de l’homme avant tout un lieutenant de Dieu sur terre voué à l’adoration et à la connaissance du Très-Haut. «&nbsp;N’est-ce pas au souvenir de Dieu que les cœurs s’apaisent&nbsp;» rapporte le Coran et «&nbsp;Dieu est auprès de l’idée que l’homme se fait de Lui&nbsp;». Aussi, même malade, le croyant doit garder une certaine sobriété, une force spirituelle, une tension métaphysique, afin de Louer son Seigneur et ne pas se laisser submergé par les idées qu’il se fait de la maladie, de sa gravité ou de son issue.
 
@@ -50,8 +48,10 @@ L’islam met l’accent sur le respect de la sacralité du corps qui a droit à
 > Souvenez-vous de Moi, Je Me souviendrai de vous. Remerciez-Moi et ne soyez pas ingrat envers Moi&nbsp;! Ô les croyants&nbsp;! Cherchez secours dans la patience et la prière. En vérité, Dieu est avec ceux qui sont patients. Et ne dites pas de ceux qui sont tués dans le chemin de Dieu qu’ils sont morts. Au contraire ils sont vivants, mais vous n’en avez pas conscience. Nous vous éprouverons très certainement par un peu de peur, de faim et des pertes de biens, d’âmes et de récoltes. Et fais la bonne annonce à ceux qui sont patients, qui disent, quand un malheur les atteint&nbsp;: «&nbsp;En vérité, nous appartenons à Dieu, et à Lui nous retournons.&nbsp;» Ceux-là reçoivent des prières de leur Seigneur. Ceux-là sont les biens guidés.
 
 [^1]: Cor. 23&nbps;: 115-116.
-[^2]: Bukhârî.
-[^3]: Bukhârî et Musl&icirc;m.
-[^4]: Coran 2&nbsp;: 286.
 
-[^5]: Cor. 10&nbsp;: 56.
+[^2]: Ibn Atta Allah.
+[^3]: Bukhârî.
+[^4]: Bukhârî et Musl&icirc;m.
+[^5]: Coran 2&nbsp;: 286.
+
+[^6]: Cor. 10&nbsp;: 56.
