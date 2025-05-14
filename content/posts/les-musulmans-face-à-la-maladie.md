@@ -52,8 +52,10 @@ L’islam met l’accent sur le respect de la sacralité du corps qui a droit à
 > Souvenez-vous de Moi, Je Me souviendrai de vous. Remerciez-Moi et ne soyez pas ingrat envers Moi&nbsp;! Ô les croyants&nbsp;! Cherchez secours dans la patience et la prière. En vérité, Dieu est avec ceux qui sont patients. Et ne dites pas de ceux qui sont tués dans le chemin de Dieu qu’ils sont morts. Au contraire ils sont vivants, mais vous n’en avez pas conscience. Nous vous éprouverons très certainement par un peu de peur, de faim et des pertes de biens, d’âmes et de récoltes. Et fais la bonne annonce à ceux qui sont patients, qui disent, quand un malheur les atteint&nbsp;: «&nbsp;En vérité, nous appartenons à Dieu, et à Lui nous retournons.&nbsp;» Ceux-là reçoivent des prières de leur Seigneur. Ceux-là sont les biens guidés.
 
 [^1]: Cor. 23&nbsp;: 115-116.
-[^2]: Ibn Atta Allah.
+[^2]: ‘Ibn ‘Atâ Allâh al-Iskandarî.
 [^3]: Bukhârî.
 [^4]: Bukhârî et Musl&icirc;m.
 [^5]: Coran 2&nbsp;: 286.
-[^6]: Cor. 10&nbsp;: 56.
+[^6]: ‘Ibn ‘Atâ Allâh al-Iskandarî.
+
+[^7]: ‘Ibn ‘Atâ Allâh al-Iskandarî.
