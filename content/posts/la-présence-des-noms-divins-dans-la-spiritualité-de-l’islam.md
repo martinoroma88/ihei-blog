@@ -81,36 +81,36 @@ La mention du Nom de Dieu polit le cœur et nettoie l’âme des «&nbsp;pensée
 > Souvenez-vous de Moi, Je me souviendrai de vous.[^34]
 
 [^1]: Cette tradition se trouve, par exemple, dans les recueils de Bukhârî et Muslim.
-[^2]: Cor. 6&nbsp;: 91.
-[^3]: Cor. 49&nbsp;: 23.
+[^2]: Coran 6&nbsp;: 91.
+[^3]: Coran 49&nbsp;: 23.
 [^4]: La tradition est rapportée avec plusieurs variantes par Suyûtî dans *Al-Jâmi’ aç-çaghîr*.
-[^5]: Cor. 50&nbsp;: 16.
-[^6]: Cor. 8&nbsp;: 24.
-[^7]: Cor. 57&nbsp;: 4.
-[^8]: Cor. 42&nbsp;: 11.
-[^9]: Cor. 59&nbsp;: 22-24.
+[^5]: Coran 50&nbsp;: 16.
+[^6]: Coran 8&nbsp;: 24.
+[^7]: Coran 57&nbsp;: 4.
+[^8]: Coran 42&nbsp;: 11.
+[^9]: Coran 59&nbsp;: 22-24.
 [^10]: Tirmidhî.
-[^11]: Cor. 57&nbsp;: 3.
-[^12]: Cor. 2&nbsp;: 115.
-[^13]: Cor. 7&nbsp;: 156.
-[^14]: Cor. 6&nbsp;: 59.
+[^11]: Coran 57&nbsp;: 3.
+[^12]: Coran 2&nbsp;: 115.
+[^13]: Coran 7&nbsp;: 156.
+[^14]: Coran 6&nbsp;: 59.
 [^15]: Coran 17&nbsp;: 110.
 [^16]: Bukhârî et Muslim.
-[^17]: Cor. 6&nbsp;: 12.
+[^17]: Coran 6&nbsp;: 12.
 [^18]: Bukhârî et Muslim.
 [^19]: Cette tradition ne se trouve pas dans les recueils canoniques, mais elle est souvent citée par les soufis.
 [^20]: *Fuçûç al-Hikam*, Trad. Titus Burckhardt, *La Sagesse des Prophètes*, Albin Michel, Paris.
-[^21]: Cor. 51&nbsp;: 56.
+[^21]: Coran 51&nbsp;: 56.
 [^22]: *Al-Futûhât al-Makkiyyah* II 396.30. Trad. William Chittick, *The Sufi Path of Knowledge*, SUNY.
 [^23]: id. II 203.3.
 [^24]: Tirmidhî et Ibn Mâjah.
-[^25]: Cor. 15&nbsp;: 85.
+[^25]: Coran 15&nbsp;: 85.
 [^26]: Tirmidhî.
 [^27]: Bukhârî.
 [^28]: Muslim.
-[^29]: Cor. 68&nbsp;: 4.
-[^30]: Cor. 29&nbsp;: 45.
+[^29]: Coran 68&nbsp;: 4.
+[^30]: Coran 29&nbsp;: 45.
 [^31]: Tirmidhî.
 [^32]: Tirmidhî.
-[^33]: Cor. 13&nbsp;: 28.
-[^34]: Cor. 2&nbsp;: 152.
+[^33]: Coran 13&nbsp;: 28.
+[^34]: Coran 2&nbsp;: 152.
