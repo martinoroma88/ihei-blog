@@ -38,6 +38,6 @@ Preuve de la portée de l’événement, la présence des délégations national
 
 ![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1664536473/6335e815875e3c165d34a8d5_fy8pdd.jpg "Shaykh Ali Jumua intervient à la Conférence du Caire")
 
-A la lumière des temps que le monde et l’Europe traversent actuellement, la Conférence du Caire a permis de réaffirmer le rôle d’une **composante sapientielle** de l’Islam au service utile de la société, en faveur d’un bien commun et d’une synergie retrouvée entre les peuples, dans la recherche commune de vérité, de justice et de valeurs partagées.
+À la lumière des temps que le monde et l’Europe traversent actuellement, la Conférence du Caire a permis de réaffirmer le rôle d’une **composante sapientielle** de l’Islam au service utile de la société, en faveur d’un bien commun et d’une synergie retrouvée entre les peuples, dans la recherche commune de vérité, de justice et de valeurs partagées.
 
 Ce fut enfin une occasion précieuse pour les représentants de la COREIS et de l’IHEI présents de renouveler une syntonie avec le peuple égyptien musulman qui a su maintenir une **sensibilité pour les maîtres spirituels et les différentes cultures islamiques qui ont enrichi l’Histoire de l’Égypte**.
