@@ -53,7 +53,7 @@ Quelles sont les aides sur lesquelles l’homme d’aujourd’hui peut compter&n
 
 Cette renaissance spirituelle à laquelle nous sommes tous appelés, chacun bénéficiant des moyens qui sont propres à la religion à laquelle il appartient, sera d’autant plus vraie et sincère que l’on réussira à réaliser que «&nbsp;toute chose périt, à l’exception de Sa Face.&nbsp;»[^8]
 
-[^1]: René Guénon, *L’erreur Spirite*, deuxième partie&nbsp;: «&nbsp;Examen des théories spirites&nbsp;» chapitre 3&nbsp;: «&nbsp;immortalité et survivance&nbsp;», Les éditions traditionnelles, Paris 1984.
+[^1]: René Guénon, *L’erreur Spirite*, deuxième partie&nbsp;: «&nbsp;Examen des théories spirites&nbsp;» chapitre 3&nbsp;: «&nbsp;immortalité et survivance&nbsp;», Les Éditions traditionnelles, Paris 1984.
 [^2]: Al-Ghazali, *La perle précieuse, voyage dans l’au-delà*, édition d’Ennour 2006.
 [^3]: Coran 13&nbsp;: 26.
 [^4]: Coran 42&nbsp;: 36-37.
