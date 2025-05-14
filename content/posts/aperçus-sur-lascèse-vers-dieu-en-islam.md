@@ -94,45 +94,45 @@ Cette rencontre avec notre Seigneur est proprement le Jour de la Résurrection, 
 
 Wa-llâhu a ‘lam&nbsp;!
 
-[^1]: Coran L&nbsp;: 16.
-[^2]: Cor. XVIII&nbsp;: 109.
-[^3]: Cor. III&nbsp;: 84.
-[^4]: Cor. XXIX&nbsp;: 46.
+[^1]: Coran 50&nbsp;: 16.
+[^2]: Coran 18&nbsp;: 109.
+[^3]: Coran 3&nbsp;: 84.
+[^4]: Coran 29&nbsp;: 46.
 [^5]: Muslim.
-[^6]: Ce hadîth ne se trouve pas dans les recueils canoniques, mais Ibn ‘Arabî le considère authentique, par « dévoilement intuitif ».
+[^6]: Ce hadîth ne se trouve pas dans les recueils canoniques, mais Ibn ‘Arabî le considère authentique, par «&nbsp;dévoilement intuitif&nbsp;».
 [^7]: Bukhâri et Muslim.
-[^8]: Cor. VII&nbsp;: 156.
+[^8]: Coran 7&nbsp;: 156.
 [^9]: Bukhâri et Muslim.
 [^10]: Muslim.
 [^11]: Bukhâri.
-[^12]: Cor. II&nbsp;: 284.
+[^12]: Coran 2&nbsp;: 284.
 [^13]: Muslim.
-[^14]: Cor. VI&nbsp;: 54.
+[^14]: Coran 6&nbsp;: 54.
 [^15]: Muslim.
 [^16]: Bukhâri et Muslim.
 [^17]: Bukhâri.
 [^18]: Bukhâri et Muslim.
-[^19]: Cor. XXI&nbsp;: 107.
-[^20]: Cor. III&nbsp;: 32.
+[^19]: Coran 21&nbsp;: 107.
+[^20]: Coran 3&nbsp;: 32.
 [^21]: Bukhâri.
-[^22]: Cor. XXXIX&nbsp;: 45.
-[^23]: Cor. II&nbsp;: 152.
+[^22]: Coran 29&nbsp;: 45.
+[^23]: Coran 2&nbsp;: 152.
 [^24]: Tirmidhî.
-[^25]: Cor. XV&nbsp;: 99.
-[^26]: Cor. XXXV&nbsp;: 28.
-[^27]: Cor. LVIII&nbsp;: 11.
+[^25]: Coran 15&nbsp;: 99.
+[^26]: Coran 35&nbsp;: 28.
+[^27]: Coran 58&nbsp;: 11.
 [^28]: Bukhâri.
-[^29]: René Guenon, *La Métaphysique orientale*, Éditions traditionnelles, p. 14.
-[^30]: Bukh. et Mus.
-[^31]: Bukh. et Mus.
+[^29]: René Guénon, *La Métaphysique orientale*, Éditions traditionnelles, p. 14.
+[^30]: Bukhâri et Muslim.
+[^31]: Bukhâri et Muslim.
 [^32]: Ibn Arabî, *Les Illuminations de la Mecque*, trad. sous la direction de M. Chodkiewicz, Sindbad, p. 184.
 [^33]: Ibn Arabî, op. cit., p. 181.
 [^34]: Al-Bistânmî, *Les Dits des Bîstâmî*, trad. Abdelwahab Meddeb, Fayard, p. 40.
-[^35]: Cor. XXVIII&nbsp;: 88.
+[^35]: Coran 28&nbsp;: 88.
 [^36]: Ibn Arabî, *La Sagesse des Prophètes*, trad. T. Burckhardt, Albin Michel, p. 48.
 [^37]: Rûmi, *Le Livre du Dedans*, trad. E. de Vitray-Meyerovitch, Sindbad.
 [^38]: Ibn Arabî, *Les Illuminations de la Mecque*, op. cit., p. 116.
-[^39]: Cor. XX&nbsp;: 114.
+[^39]: Coran 20&nbsp;: 114.
 [^40]: Al-Ghazâlî, *Lettre à un Disciple*, trad. F. Jabre, Beyrouth.
-[^41]: Cor. V&nbsp;: 48.
-[^42]: Mus.
+[^41]: Coran 5&nbsp;: 48.
+[^42]: Muslim.
