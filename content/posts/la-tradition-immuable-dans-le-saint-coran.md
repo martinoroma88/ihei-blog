@@ -43,22 +43,22 @@ En attendant ce jour, nous devons nous efforcer de suivre l’injonction coraniq
 > Où sont ceux qui se sont aimés les uns les autres par Ma Majesté&nbsp;? Aujourd’hui Je les couvrirai de Mon Ombre, en ce Jour où il n’y a plus d’autre Ombre que la Mienne.
 
 [^1]: Muslim. Le Prophète suit là le conseil du Coran 46&nbsp;: 13-14.
-[^2]: Cor. 98&nbsp;: 5.
-[^3]: Cor. 30&nbsp;: 30.
-[^4]: Cor. 10&nbsp;: 64.
+[^2]: Coran 98&nbsp;: 5.
+[^3]: Coran 30&nbsp;: 30.
+[^4]: Coran 10&nbsp;: 64.
 [^5]: Jacqueline Chabbi, *Le Seigneur des Tribus - L’Islam de Mahomet, Noêsis*, Paris, 1997. J. Chabbi pose comme préalable à son travail le principe suivant&nbsp;: «&nbsp;Toute vision universalisante ou abusivement “musulmane” du texte sacré est considérée comme relevant de l’extrapolation ou de la rétroprojection.&nbsp;» (p. 22) Cela revient à poser la question en fonction de la réponse que l’on veut obtenir.
-[^6]: Cor. 106&nbsp;: 3.
+[^6]: Coran 106&nbsp;: 3.
 [^7]: Pour reprendre la classification du *fiqh* classique.
 [^8]: Selon l’heureuse expression de Jacques Berque dans *Relire le Coran*, Albin Michel, Paris, 1993.
 [^9]: C’est la méthode proposée par l’étude de J. Chabbi. Bien évidemment, l’ordre chronologique des versets est celui qui est conservé par la tradition islamique classique. Une indépendance totale de la méthode historique par rapport aux sources classiques est donc impossible.
-[^10]: Cor. 7&nbsp;: 172.
-[^11]: Cor. 14&nbsp;: 4
-[^12]: Cor. 42&nbsp;: 14.
-[^13]: Cor. 3&nbsp;: 54 et 8&nbsp;: 30.
-[^14]: Cor. 33&nbsp;: 62, 35&nbsp;: 43 et 48&nbsp;: 23.
-[^15]: Cor. 6&nbsp;: 25.
-[^16]: Cor. 3&nbsp;: 64.
-[^17]: Cor. 29&nbsp;: 46.
-[^18]: Cor. 29&nbsp;: 46
-[^19]: Cor. 42&nbsp;: 15.
-[^20]: Cor. 5&nbsp;: 48.
+[^10]: Coran 7&nbsp;: 172.
+[^11]: Coran 14&nbsp;: 4
+[^12]: Coran 42&nbsp;: 14.
+[^13]: Coran 3&nbsp;: 54 et 8&nbsp;: 30.
+[^14]: Coran 33&nbsp;: 62, 35&nbsp;: 43 et 48&nbsp;: 23.
+[^15]: Coran 6&nbsp;: 25.
+[^16]: Coran 3&nbsp;: 64.
+[^17]: Coran 29&nbsp;: 46.
+[^18]: Coran 29&nbsp;: 46
+[^19]: Coran 42&nbsp;: 15.
+[^20]: Coran 5&nbsp;: 48.
