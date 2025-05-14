@@ -52,13 +52,13 @@ Ce n’est que de cette manière que le musulman, immigré ou non, se découvrir
 
 Nous sommes aujourd’hui le 5 de Muharram, le premier mois de l’année islamique, correspondant au 2 janvier 2009. Il est bon de signaler à nos frères et sœurs que mercredi prochain correspondra au jour de ‘Ashura, pour lequel un jeûne non-obligatoire est recommandé par le Prophète. Le jour qui précède (ou qui suit) peut aussi être jeûné pour accomplir l’intention que le Prophète avait eu, avant que Dieu ne le rappelle à Lui. Il a dit&nbsp;: Dieu pardonne les péchés d’une année passée à quiconque jeûne le jour de ‘Ashura.[^10] Le Prophète jeûna ce jour-là et recommanda de le jeûner en disant&nbsp;: &nbsp;Si je suis encore vivant l’année prochaine, et si Dieu le veut, je jeûnerai aussi le 9<sup>e</sup> de Muharram.&nbsp;» De manière générale, selon la sunna, le mois de *Muharram* est, après *Ramadan*, le meilleur mois de jeûne.
 
-[^1]: Cor. 36&nbsp;: 9.
-[^2]: Cor. 9&nbsp;: 40.
+[^1]: Coran 36&nbsp;: 9.
+[^2]: Coran 9&nbsp;: 40.
 [^3]: Cor. 28&nbsp;: 85.
 [^4]: Bukhari.
 [^5]: Bukhari et Muslim.
-[^6]: Cor. 51&nbsp;: 50.
-[^7]: Cor. 37&nbsp;: 99.
+[^6]: Coran 51&nbsp;: 50.
+[^7]: Coran 37&nbsp;: 99.
 [^8]: Bukhari et Muslim.
-[^9]: Cor. 2&nbsp;: 185.
+[^9]: Coran 2&nbsp;: 185.
 [^10]: Muslim.
