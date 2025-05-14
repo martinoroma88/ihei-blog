@@ -35,7 +35,7 @@ Les formes statiques du style *kûfî* sont renforcées par la forme carrée de 
 
 ![Calligraphie 4](https://res.cloudinary.com/genesi-communication-design/image/upload/v1603651910/ihei/calligraphies/calligraphie-04_rpal4i.jpg "Calligraphie 4")
 
-(4/1) «&nbsp;Dieu possède les clefs de l’Invisible que Lui seul connaît parfaitement. Il connaît ce qui est sur la terre et dans la mer. Nulle feuille ne tombe sans qu’Il le sache. Il n’y a pas un grain dans les ténèbres de la terre, ni rien de vert ou de desséché, qui ne soit consigné dans un Livre explicite.&nbsp;»[^4] (Coran 6&nbsp;: 59)
+(4/1) «&nbsp;Dieu possède les clefs de l’Invisible que Lui seul connaît parfaitement. Il connaît ce qui est sur la terre et dans la mer. Nulle feuille ne tombe sans qu’Il le sache. Il n’y a pas un grain dans les ténèbres de la terre, ni rien de vert ou de desséché, qui ne soit consigné dans un Livre explicite.&nbsp;»[^4]
 
 Cette composition fait apparaître le nom de Dieu comme un élément qui n’entre pas dans le mouvement du verset calligraphié. Cette indépendance du nom divin affirme la transcendance et l’immutabilité de Dieu, tandis que la Parole divine renvoie à Son immanence dans le temps et l’espace, soulignée par le style *naskhî*.
 
@@ -45,7 +45,7 @@ Cette composition fait apparaître le nom de Dieu comme un élément qui n’ent
 
 (5/1) *Basmala* avec des hampes entrelacées. Toutes les lettres apparaissent ainsi liées entre elles, ne laissant aucun vide dans la parole de Dieu.
 
-(5/2) «&nbsp;Quant aux bienfaits que vous avez, ils viennent de Dieu.&nbsp;» (Coran 16&nbsp;: 53)
+(5/2) «&nbsp;Quant aux bienfaits que vous avez, ils viennent de Dieu.&nbsp;»[^5]
 
 L’ampleur et la courbure des lettres semblent ici manifester l‘expansion de l’âme, dans la satisfaction et la reconnaissance à l’égard des bienfaits de Dieu.
 
@@ -134,6 +134,8 @@ Un art plastique comme la calligraphie peut servir à suggérer cette vérité q
 [^3]: Coran 2&nbsp;: 255.
 
 [^4]: Coran 6&nbsp;: 59.
+
+[^5]: Coran 16&nbsp;: 53.
 
 [^6]: Coran 96&nbsp;: 1-5.
 [^7]: Coran 56&nbsp;: 77-80.
