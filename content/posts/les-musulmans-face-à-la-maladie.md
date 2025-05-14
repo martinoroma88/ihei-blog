@@ -31,8 +31,11 @@ Mais d’une manière générale, quelque soit la maladie et sa gravité, il est
 
 Tout au long de la vie, Dieu éduque Son serviteur et le purifie au rythme des évènements diverses et variés, pour éprouver sa sincérité et faire entrer Son serviteur dans un état de proximité qu'Il a décrété de toute éternité.
 
-Rien n’est plus profitable au cœur que l’isolement&nbsp;; par lui, il entre dans l’arène de la
-méditation.
+> Rien n’est plus profitable au cœur que l’isolement&nbsp;; par lui, il entre dans l’arène de la
+> méditation.
+>
+> Le meilleur de tes instants est celui où tu es conscient de ton besoin (de Dieu) et tu es
+> ramené à la réalité de ton humble condition.
 
 En effet, dans l’état de faiblesse, il s’opère un véritable dépouillement que le croyant doit s’efforcer de maintenir par la suite dans sa vie de tous les jours (même s’il n’est plus malade) en revêtant l’habit par excellence, la crainte révérencielle de Dieu, comme il est appelé dans le Coran. Il ne s’agit pas par là d’une fatalité ou d’une acceptation passive de son destin mais de reconnaître dans celui-ci le Vouloir divin, les bienfaits de Dieu, même si ceux-ci n’apparaissent pas immédiatement ou ne correspondent pas à l’attente que l’on s’était faite. En effet, nul ne sait où, quand et comment il mourra, ni même comment il vivra, et le malade doit être conscient, nous dirions même certain, serein que la réalité qui est en lui et qui l’entoure n’est pas conditionnée par sa capacité à comprendre les choses. Dans ce moment délicat et fragile qu’est la maladie, l’homme ou la femme apprend à connaître son âme et il est dit que celui qui connaît son âme connaît son Seigneur. 
 
