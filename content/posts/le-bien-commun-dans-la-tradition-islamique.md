@@ -57,7 +57,7 @@ Quant aux musulmans vivant en Europe, ils doivent mener sereinement leur réflex
 [^7]: Coran21&nbsp;: 107.
 [^8]: Coran22&nbsp;: 78.
 [^9]: Coran 2&nbsp;: 185.
-[^10]: IbnMâjah.
+[^10]: Ibn Mâjah.
 [^11]: Ibn al-Qayyim. Cité par Mohammad Hashim Kamali, *Principles of Islamic Jurisprudence*, Revised Edition, Islamic Texts Society, Cambidge, 1991, p. 269.
 [^12]: Cor. 2&nbsp;: 256.
 [^13]: Cor 6&nbsp;: 38.
