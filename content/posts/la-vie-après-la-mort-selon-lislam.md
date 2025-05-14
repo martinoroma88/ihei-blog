@@ -70,11 +70,11 @@ Il est donc demandé, au musulman vertueux, de disposer à l’extinction de sa 
 
 La vie dans ce monde est donc liée à la vie dans l’Autre monde. La mort représente la frontière entre les mondes, la chute d’un voile et l’accès à la Réalité. L’homme d’aujourd’hui craint la mort et évite les discours qui la mentionnent, ou ne parle que pour mettre sous silence sa conscience ou pour revendiquer le Jour du Jugement d’avoir écouté une conférence à son sujet. L’ultime sens qu’abandonne le défunt est en fait l’audition, parce que la vue disparaît au moment où l’esprit se sépare du cœur. Et c’est pourquoi le Prophète a dit&nbsp;: «&nbsp;Répétez à vos morts le témoignage qu’il n’y a pas de dieu si ce n’est Dieu et que Muhammad est son Envoyé&nbsp;»
 
-[^1]: Cor. 2&nbsp;: 156.
-[^2]: Cor. 24&nbsp;: 48.
-[^3]: Cor. 17&nbsp;: 25.
-[^4]: Cor. 18&nbsp;: 49.
-[^5]: Cor. 24&nbsp;: 24.
-[^6]: Cor. 21&nbsp;: 107.
+[^1]: Coran 2&nbsp;: 156.
+[^2]: Coran 24&nbsp;: 48.
+[^3]: Coran 17&nbsp;: 25.
+[^4]: Coran 18&nbsp;: 49.
+[^5]: Coran 24&nbsp;: 24.
+[^6]: Coran 21&nbsp;: 107.
 
-[^7]: Cor. 3&nbsp;: 185.
+[^7]: Coran 3&nbsp;: 185.
