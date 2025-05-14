@@ -133,6 +133,6 @@ Wa-llâhu a ‘lam&nbsp;!
 [^37]: Rûmi, *Le Livre du Dedans*, trad. E. de Vitray-Meyerovitch, Sindbad.
 [^38]: Ibn Arabî, *Les Illuminations de la Mecque*, op. cit., p. 116.
 [^39]: Coran 20&nbsp;: 114.
-[^40]: Al-Ghazâlî, *Lettre à un Disciple*, trad. F. Jabre, Beyrouth.
+[^40]: Al-Ghazalî, *Lettre à un Disciple*, trad. F. Jabre, Beyrouth.
 [^41]: Coran 5&nbsp;: 48.
 [^42]: Muslim.
