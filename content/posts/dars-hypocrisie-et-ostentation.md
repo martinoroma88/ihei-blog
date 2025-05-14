@@ -52,7 +52,7 @@ Toutes ces traditions prophétiques et paroles des Anciens montrent combien sont
 [^2]: Coran 9&nbsp;: 67.
 [^3]: Coran 4&nbsp;: 142.
 [^4]: Coran 4&nbsp;: 145-146.
-[^5]:  Ahmad.
+[^5]: Ahmad.
 [^6]: Muslim.
 [^7]: Coran 107&nbsp;: 4-7.
 [^8]: Muslim.
