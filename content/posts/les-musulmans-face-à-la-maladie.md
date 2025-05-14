@@ -34,7 +34,7 @@ L’islam met l’accent sur le respect de la sacralité du corps qui a droit à
 
 [^1]: Cor. 23&nbps;: 115-116.
 [^2]: Bukhârî.
-[^3]: Bukhârî et Muslm
+[^3]: Bukhârî et Musl&icirc;m.
 [^4]: Coran 2&nbsp;: 286.
 
 [^5]: Cor. 10&nbsp;: 56.
