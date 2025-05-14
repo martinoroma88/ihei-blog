@@ -5,7 +5,7 @@ auteur: Yahya Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-4_hexnhw.jpg
 category: Islam et République
 ---
-A Bruxelles, lors de la Conférence christiano-musulmane, l’imam Yahya Pallavicini, Président de l’IHEI et vice-président de COREIS (Communauté religieuse islamique) italienne, a rappelé la nécessité de protéger tous les symboles religieux&nbsp;: 
+À Bruxelles, lors de la Conférence christiano-musulmane, l’imam Yahya Pallavicini, Président de l’IHEI et vice-président de COREIS (Communauté religieuse islamique) italienne, a rappelé la nécessité de protéger tous les symboles religieux&nbsp;: 
 
 > Interdire la visibilité des symboles religieux dans les espaces publics au nom d’une laïcité radicale, qui bornerait la religion à la seule sphère privée pour éviter la présence d’éléments religieux dans la culture européenne contemporaine, est un extrémisme anti-cléricale et une phobie du sacré très inquiétant.
 
