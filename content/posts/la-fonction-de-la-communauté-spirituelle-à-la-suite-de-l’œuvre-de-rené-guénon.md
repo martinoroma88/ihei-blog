@@ -34,9 +34,9 @@ Ce qui a sans doute manqué à beaucoup de ceux qui se sont sentis appelés à c
 
 [^1]: Cet article est d’abord paru en traduction dans la revue roumaine *Memra*, puis, en version originale, dans les Études Traditionnelles en 1973.
 [^2]: Cité par Al-Ghazâlî dans *Ayyuhâ-l-walad*, trad. Toufic Sabbagh, *Lettre au disciple*, Beyrouth, 1969, p. 38.
-[^3]: Cor. 24&nbsp;: 35.
+[^3]: Coran 24&nbsp;: 35.
 [^4]: René Guénon, *Orient et Occident*, Éditions Véga, Paris, p. 180.
-[^5]: Cor. 14&nbsp;: 37.
-[^6]: Cor. 2&nbsp;: 127-128.
-[^7]: Cor. 58&nbsp;: 7.
-[^8]: Cor. 31&nbsp;: 16.
+[^5]: Coran 14&nbsp;: 37.
+[^6]: Coran 2&nbsp;: 127-128.
+[^7]: Coran 58&nbsp;: 7.
+[^8]: Coran 31&nbsp;: 16.
