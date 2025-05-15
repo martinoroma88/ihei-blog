@@ -92,7 +92,7 @@ Ainsi l’ordre coranique «&nbsp;Dis&nbsp;: mon Seigneur, augmente ma science !
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cette rencontre avec notre Seigneur est proprement le Jour de la Résurrection, où nos œuvres et notre foi seront estimées à leur juste valeur. Car la raison d’être de notre vie terrestre est ce moment eschatologique. Alors, nous tous, juifs, chrétiens, et musulmans, comme tous les croyants sincères des autres religions orthodoxes, nous serons rassemblés afin que le sens caché de notre vie, des épreuves et des joies que nous avons connues, devienne manifeste. Selon la promesse coranique.[^41] Dieu nous renseignera enfin sur les raisons de nos différences, de la multitude des communautés religieuses, et de la Grâce surabondante de sa Révélation. Attendons avec espérance. Plus nous nous rapprocherons de Dieu, et plus nous serons proches alors les uns des autres, sous son ombre majestueuse et bienveillante, en cette heure qui se hâte vers nous où, selon le hadîth, il n’y aura plus d’autre ombre que la sienne.[^42]
 
-Wa-llâhu a ‘lam&nbsp;!
+*Wa-llâhu a ‘lam&nbsp;!*
 
 [^1]: Coran 50&nbsp;: 16.
 [^2]: Coran 18&nbsp;: 109.
