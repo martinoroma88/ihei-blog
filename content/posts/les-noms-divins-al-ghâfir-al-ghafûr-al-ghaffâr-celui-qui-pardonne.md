@@ -66,9 +66,9 @@ Allah dit&nbsp;:
 
 L’imam *al-Qushayri* précise qu’au début du verset le verbe «&nbsp;commet une mauvaise action&nbsp;» indique une action, tandis qu’ensuite le verbe «&nbsp;demande pardon&nbsp;» indique une parole. Observons comment Allah nous a ainsi facilité les choses en acceptant de notre part une simple parole, pourvu qu’elle soit sincère, pour nous pardonner ainsi une mauvaise action. Mais surtout, le plus étonnant et le plus merveilleux, nous apprend ce verset, c’est que si l’on demande pardon à Allah, on Le trouvera&nbsp;!
 
-[^1]: Cor. 3&nbsp;: 133.
+[^1]: Coran 3&nbsp;: 133.
 
-[^2]: Cor. 33&nbsp;: 72.
-[^3]: Cor. 7&nbsp;: 23.
+[^2]: Coran 33&nbsp;: 72.
+[^3]: Coran 7&nbsp;: 23.
 
-[^4]: Cor. 4&nbsp;: 110.
+[^4]: Coran 4&nbsp;: 110.
