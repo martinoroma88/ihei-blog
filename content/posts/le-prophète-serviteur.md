@@ -94,7 +94,7 @@ Le Qur’&acirc;n, descendu synthétiquement au cours de la nuit de la capacité
 
 > J’étais à c&ocirc;té de Muhammad quand la Présence divine (as-sak&icirc;nah) vint sur lui. Sa jambe tomba sur la mienne si lourdement que je craignis qu’elle en f&ucirc;t brisée. Quand il recouvra ses esprits, il me dit&nbsp;: ‘Ecris’, et je transcrivis la sourate an-nis&acirc;.[^67]
 
-‘Abd Allah Ibn ‘Amr rapporte, pour sa part, un autre événement&nbsp;: «&nbsp;La sourate *al-m&acirc;’idah* fut révélée par l’Envoyé de Dieu alors qu’il se trouvait sur son chameau. La b&ecirc;te ne put plus le porter, de sorte qu’il dut en descendre&nbsp;».[^68] La Révélation s’accompagne de phénomènes impromptus&nbsp;: «&nbsp;A certains moments, dit le Prophète, elle m’arrive pareille au tintement d’une clochette et c’est pour moi la plus pénible. Puis la Révélation s’interrompt, et alors seulement je saisis ce que l’Ange m’a transmis. D’autres fois, l’Ange se montre à moi sous une forme humaine, il me parle et je retiens ce qu’il m’a dit&nbsp;»[^69]. ‘A’ishah ajoute&nbsp;: «&nbsp;Certains jours que le froid était très vif, je vis le Prophète recevoir la Révélation&nbsp;; au moment où elle cessait, le front du Prophète ruisselait de sueur&nbsp;»[^70]. Ibn ‘Abb&acirc;s raconte encore&nbsp;: «&nbsp;L’Envoyé de Dieu essayait de calmer la souffrance que lui inspirait la Révélation, et c’est dans ce but qu’il remuait les lèvres.[^71] (...) Ce fut dans ces circonstances que Dieu fit descendre ce verset&nbsp;: “Ne remue pas ta langue pour h&acirc;ter la Révélation. En vérité c’est à Nous qu’il appartient de la rassembler et de la réciter. Quand Nous la récitons, suis sa récitation. Puis c’est Nous qui la rendrons explicite”.&nbsp;»[^72] C’est Dieu, en effet, qui est le premier Lecteur du Qur’&acirc;n. Et lorsque le croyant lit le Qur’&acirc;n, c’est encore Dieu qui est le seul Lecteur, comme au jour initial.
+‘Abd Allah Ibn ‘Amr rapporte, pour sa part, un autre événement&nbsp;: «&nbsp;La sourate *al-m&acirc;’idah* fut révélée par l’Envoyé de Dieu alors qu’il se trouvait sur son chameau. La b&ecirc;te ne put plus le porter, de sorte qu’il dut en descendre&nbsp;».[^68] La Révélation s’accompagne de phénomènes impromptus&nbsp;: «&nbsp;A certains moments, dit le Prophète, elle m’arrive pareille au tintement d’une clochette et c’est pour moi la plus pénible. Puis la Révélation s’interrompt, et alors seulement je saisis ce que l’Ange m’a transmis. D’autres fois, l’Ange se montre à moi sous une forme humaine, il me parle et je retiens ce qu’il m’a dit&nbsp;»[^69]. ‘A’ishah ajoute&nbsp;: «&nbsp;Certains jours que le froid était très vif, je vis le Prophète recevoir la Révélation&nbsp;; au moment où elle cessait, le front du Prophète ruisselait de sueur&nbsp;»[^70]. Ibn ‘Abb&acirc;s raconte encore&nbsp;: «&nbsp;L’Envoyé de Dieu essayait de calmer la souffrance que lui inspirait la Révélation, et c’est dans ce but qu’il remuait les lèvres.[^71](...) Ce fut dans ces circonstances que Dieu fit descendre ce verset&nbsp;: “Ne remue pas ta langue pour h&acirc;ter la Révélation. En vérité c’est à Nous qu’il appartient de la rassembler et de la réciter. Quand Nous la récitons, suis sa récitation. Puis c’est Nous qui la rendrons explicite”.&nbsp;»[^72] C’est Dieu, en effet, qui est le premier Lecteur du Qur’&acirc;n. Et lorsque le croyant lit le Qur’&acirc;n, c’est encore Dieu qui est le seul Lecteur, comme au jour initial.
 
 Le Prophète avait coutume de s’envelopper dans un manteau, en particulier au moment de la descente du Qur’&acirc;n, pour cacher le trouble dans lequel elle le jetait. Ce manteau représente sa contenance spirituelle au point que *al-Muddaththir*, le Rev&ecirc;tu, est le premier des noms par lesquels Dieu interpelle Son Prophète dans le déploiement de la Parole coranique. Par la suite. Dieu l’apostrophera en des termes voisins&nbsp;: «&nbsp; toi qui est enveloppé (*al-Muzammil*)&nbsp;! Tiens-toi debout en prière une grande part de la nuit, la moitié, un peu moins ou davantage, et récite avec soin le Qu’r&acirc;n.&nbsp;»[^73] Le manteau symbolise la réceptivité de la substance originelle dont est tissée la création, et à laquelle s’identifie l’aspect passif de l’Homme Universel. L’enveloppement dans le manteau manifeste ce secret. La réalité intérieure recouvre alors l’extérieur. La nature du Prophète est intimement symbolisée par ce manteau, comme cela appara&icirc;t dans un had&icirc;th où Ab&ucirc; Hurayrah demande au Prophète&nbsp;: «&nbsp;“&ocirc; Envoyé de Dieu, j’ai entendu un grand nombre de *ah&acirc;d&icirc;th* de toi et je les oublie”. —&nbsp;“Etends ton manteau”, me répondit-il. Je l’étendis. Il fit le geste de plonger dans ce manteau avec sa main et, cela fait, il me dit&nbsp;: “Rassemble ton manteau”. Je le rassemblai, et depuis je n’ai pas oublié un seul had&icirc;th.&nbsp;»[^74] C’est ainsi que Ab&ucirc; Hurayrah devint, par une gr&acirc;ce divine, le conservateur des secrets de la sunnah, et le plus important rapporteur du had&icirc;th.[^75] Le manteau du Prophète illettré (*umm&icirc;*), parce qu’il manifeste la fonction prophétique d’instaurateur de la sunnah (*Muq&icirc;m as-sunnah*), est donc symbole de préservation de la communauté islamique (*ummah*).
 
@@ -128,96 +128,96 @@ Telle est la doctrine exotérique de l’Islam. Mais pour l’ésotérisme islam
 
 [^1]: Ce Had&icirc;th, souvent cité par Ibn ‘Arab&icirc; et les auteurs du Soufisme, ne se trouve pas dans les recueils canoniques.
 [^2]: *Fuç&ucirc;c al Hikam*. Trad. T. Burckhardt, *La sagesse des Prophètes*, p. 22, Albin Michel.
-[^3]: Cor. 51&nbsp;: 56.
+[^3]: Coran 51&nbsp;: 56.
 [^4]: Ibn ‘Abb&acirc;s est l’un des premiers commentateurs du Qur’&acirc;n.
 [^5]: II fut disciple de Sadr ad-D&icirc;n al-Q&ucirc;naw&icirc;, l’un des disciples de Ibn ‘Arab&icirc;.
-[^6]: Cor. 15&nbsp;: 21.
+[^6]: Coran 15&nbsp;: 21.
 [^7]: ‘Abd ar-Razz&acirc;q al-Q&acirc;sh&acirc;n&icirc; fut disciple de Mu’ayyad ad-D&icirc;n Jand&icirc;, lui-m&ecirc;me disciple de Sadr ad-D&icirc;n al-Q&ucirc;naw&icirc;.
 [^8]: *Içtil&acirc;h&acirc;t as-S&ucirc;fiyyah*. Trad. Nabil Sawfat, *A glossary of Sufi Technical*. Terms, p. 3, The Octagon Press.
 [^9]: *Al-Fut&ucirc;h&acirc;t al-Makkiyyah* II 396.30. Trad. W. Chittick, In *The Sufi Path of Knowledge*, SUNY.
-[^10]: Cor. 17&nbsp;: 110.
+[^10]: Coran 17&nbsp;: 110.
 [^11]: Bukh&acirc;r&icirc; et Tirmidh&icirc;.
 [^12]: *Fut&ucirc;h&acirc;t* II 203.3.
 [^13]: Trimidh&icirc; et Ibn M&acirc;jah.
-[^14]: Cor. 15&nbsp;: 85.
+[^14]: Coran 15&nbsp;: 85.
 [^15]: Tirmidh&icirc;. La variante «&nbsp;alors qu’Adam était entre l’eau et l’argile&nbsp;», qui ne se trouve pas dans les recueils canoniques, est souvent citée par les soufis.
 [^16]: Bukh&acirc;r&icirc;.
 [^17]: Muslim.
-[^18]: Cor. 68&nbsp;: 4.
-[^19]: Cor. 40&nbsp;: 35.
+[^18]: Coran 68&nbsp;: 4.
+[^19]: Coran 40&nbsp;: 35.
 [^20]: Tirmidh&icirc;.
 [^21]: Dans le Tradition hindoue, ces deux p&ocirc;les sont *Purusha* et *Prakriti*. Voir R. Guénon, *L’homme et son devenir selon la Védanta*. Editions Traditionnelles.
-[^22]: Cor. 30&nbsp;: 27.
-[^23]: Cor 24&nbsp;: 35.
-[^24]: Cor. 33&nbsp;: 46.
-[^25]: Cor. 49&nbsp;: 21.
+[^22]: Coran 30&nbsp;: 27.
+[^23]: Coran 24&nbsp;: 35.
+[^24]: Coran 33&nbsp;: 46.
+[^25]: Coran 49&nbsp;: 21.
 [^26]: Le mot *r&ucirc;h*, esprit ou souffle, est féminin en arabe et évoque la réceptivité à l’ordre divin (*al-amr*). 
-[^27]: Cor. 2&nbsp;: 286.
-[^28]: Cor. 97&nbsp;: 3. Mille mois lunaires représentent symboliquement la durée de la vie humaine.
+[^27]: Coran 2&nbsp;: 286.
+[^28]: Coran 97&nbsp;: 3. Mille mois lunaires représentent symboliquement la durée de la vie humaine.
 [^29]: Bukh&acirc;r&icirc; et Muslim.
-[^30]: Cor. 63&nbsp;: 7.
+[^30]: Coran 63&nbsp;: 7.
 [^31]: Les *Dal&acirc;’il al-Khayr&acirc;t* recensent 201 noms du Prophète.
 [^32]: Le traité, souvent attribué à Ibn ‘Arab&icirc;, semble en fait avoir été écrit par al-Maqd&icirc;s&icirc;.
 [^33]: *Shajarat al-Kawn*. Trad. M. Gloton, *L’Arbre du Monde*, p. 101. Les Deux Océans.
-[^34]: Cor. 21&nbsp;: 107.
-[^35]: Cor. 3&nbsp;: 31.
-[^36]: Cor. 18&nbsp;: 60.
-[^37]: Cor. 18&nbsp;: 110.
-[^38]: Cor. 14&nbsp;: 10.
-[^39]: Cor. 94&nbsp;: 1.
-[^40]: Cor. 95&nbsp;: 4-5.
-[^41]: Cor. 38&nbsp;: 71 et 15&nbsp;: 28.
-[^42]: Cor. 15&nbsp;: 29.
-[^43]: Cor. 38&nbsp;: 75.
+[^34]: Coran 21&nbsp;: 107.
+[^35]: Coran 3&nbsp;: 31.
+[^36]: Coran 18&nbsp;: 60.
+[^37]: Coran 18&nbsp;: 110.
+[^38]: Coran 14&nbsp;: 10.
+[^39]: Coran 94&nbsp;: 1.
+[^40]: Coran 95&nbsp;: 4-5.
+[^41]: Coran 38&nbsp;: 71 et 15&nbsp;: 28.
+[^42]: Coran 15&nbsp;: 29.
+[^43]: Coran 38&nbsp;: 75.
 [^44]: Fuç&ucirc;ç. Trad. op. cit. p. 133.
 [^45]: Fuç&ucirc;ç. Trad op. cit. p. 24.
-[^46]: Cor. 7&nbsp;: 14-17.
+[^46]: Coran 7&nbsp;: 14-17.
 [^47]: Tirmidh&icirc;.
-[^48]: Cor. 2&nbsp;: 119.
-[^49]: Cor. 2&nbsp;: 97.
+[^48]: Coran 2&nbsp;: 119.
+[^49]: Coran 2&nbsp;: 97.
 [^50]: Tirmidh&icirc;.
 [^51]: Bukh&acirc;r&icirc;.
 [^52]: Muslim.
-[^53]: Cor. 29&nbsp;: 56.
-[^54]: «&nbsp;Si l’on disposait dans cette Terre le Tr&ocirc;ne et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se rel&acirc;cher” (Cor. 21&nbsp;: 20)&nbsp;». *Fut&ucirc;h&acirc;t* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel.
-[^55]: Cor. 9&nbsp;: 129 et de nombreux autres versets.
-[^56]: Cor. 40&nbsp;: 7.
+[^53]: Coran 29&nbsp;: 56.
+[^54]: «&nbsp;Si l’on disposait dans cette Terre le Tr&ocirc;ne et ce qu’il englobe, le Piédestal, les Cieux, les Terres, les réalités les plus inférieures, les Jardins Paradisiaques sans exception et les Feux infernaux, tout cela s’y trouverait comme l’anneau placé dans le désert&nbsp;! Cette Terre contient des réalités étonnantes et étranges dont on ne peut estimer l’importance et les intelligences en restent subjuguées. En chaque souffle Dieu crée en cette Terre des Mondes qui “célèbrent Sa Gloire nuit et jour sans se rel&acirc;cher” (Coran 21&nbsp;: 20)&nbsp;». *Fut&ucirc;h&acirc;t* I 126. Trad. M. Gloton, in *L’Arbre du Monde*, p. 133, cf. aussi H. Corbin, *Corps Spirituel et Terre Céleste*. Buchet-Chastel.
+[^55]: Coran 9&nbsp;: 129 et de nombreux autres versets.
+[^56]: Coran 40&nbsp;: 7.
 [^57]: *al-mustanad al-il&acirc;h&icirc;*, le point d’appui en Dieu de toute réalité créée.
 [^58]: Dieu conna&icirc;t le mystère et l’apparence des choses. Il est *‘&acirc;lim al-ghayb wa-sh- shah&acirc;dah*. Cor. 59&nbsp;: 22.
-[^59]: Cor. 19&nbsp;: 17.
+[^59]: Coran 19&nbsp;: 17.
 [^60]: *Ibn ‘Arab&icirc;*, in *Mishk&acirc;t al-Anw&acirc;r*. Trad. M. Vals&acirc;n, *La Niche des Lumières*, p. 100. Les Éditions de l’Œuvre.
 [^61]: *Fut&ucirc;h&acirc;t* II 603.14. Tras. W. Chittick, in *Les Illuminations de la Mecque*, p. 242. Sindbad.
 [^62]: *Fut&ucirc;h&acirc;t* II 214.7. Trad. op. cit. p. 244. Ibn ‘Arab&icirc; explique ailleurs qu’il y a aussi une racine divine à la pauvreté et au rabaissement.
 [^63]: *Fut&ucirc;h&acirc;t* II 214.23. Trad. op. cit. p. 246.
-[^64]: Cor. 96&nbsp;: 1-5.
+[^64]: Coran 96&nbsp;: 1-5.
 [^65]: Bukh&acirc;r&icirc;.
-[^66]: Cor. 74&nbsp;: 1-5.
+[^66]: Coran 74&nbsp;: 1-5.
 [^67]: Ibn Handal et Ab&ucirc; D&acirc;w&ucirc;d.
 [^68]: Ibn Handal.
 [^69]: Bukh&acirc;r&icirc;.
 [^70]: Bukh&acirc;r&icirc;.
 [^71]: Bukh&acirc;r&icirc;.
-[^72]: Cor. 75&nbsp;: 16-19.
-[^73]: Cor. 73&nbsp;: 1-4.
+[^72]: Coran 75&nbsp;: 16-19.
+[^73]: Coran 73&nbsp;: 1-4.
 [^74]: Bukh&acirc;r&icirc;.
 [^75]: D’après Ibn al-Jawz&icirc;, il aurait transmis 5374 *ah&acirc;d&icirc;th*&nbsp;! Sa mémoire était prodigieuse.
-[^76]: Cor. 93&nbsp;: 1-3.
+[^76]: Coran 93&nbsp;: 1-3.
 [^77]: Bukh&acirc;r&icirc; et Muslim.
 [^78]: On sait que la racine RHM de *Rahmah*, l’Amour divin, se retrouve dans *rahim*, la matrice maternelle.
 [^79]: Bukh&acirc;r&icirc;.
 [^80]: Muslim.
 [^81]: Bukh&acirc;r&icirc; et Ibn M&acirc;jah.
-[^82]: Cor. 33&nbsp;: 56.
+[^82]: Coran 33&nbsp;: 56.
 [^83]: Tirmidh&icirc;.
 [^84]: Bukh&acirc;r&icirc;.
 [^85]: Bukh&acirc;r&icirc; et Muslim. Il y a plusieurs variantes de ce had&icirc;th.
-[^86]: Cor. 4&nbsp;: 97.
+[^86]: Coran 4&nbsp;: 97.
 [^87]: Médine restera la capitale du Califat sous les quatre premiers califes, les bien-guidés (*ar-R&acirc;shid&ucirc;n*).
 [^88]: Rappelons que Muhammad est, pour les musulmans, le Consolateur (*Parakletos*) annoncé dans l’Évangile selon St Jean.
-[^89]: Cor. 79&nbsp;: 6.
-[^90]: Cor. 79&nbsp;: 7.
-[^91]: Cor. 17&nbsp;: 79.
+[^89]: Coran 79&nbsp;: 6.
+[^90]: Coran 79&nbsp;: 7.
+[^91]: Coran 17&nbsp;: 79.
 [^92]: Bukh&acirc;r&icirc;.
 [^93]: Tirmidh&icirc;, Ab&ucirc; D&acirc;w&ucirc;d et An-Nas&acirc;’&icirc;.
-[^94]: Cor. 2&nbsp;: 282.
+[^94]: Coran 2&nbsp;: 282.
 [^95]: Ab&ucirc; D&acirc;w&ucirc;d.
