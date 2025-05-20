@@ -6,7 +6,7 @@ auteur: Shaykh Abd al-Wahid Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1747732410/Pallavicini_sdw4lv.jpg
 category: Dialogue interreligieux
 ---
-Selon la tradition islamique, parler de «&nbsp;haine entre les religions&nbsp;» pourrait sembler inconcevable, car les religions sont considérées comme différentes révélations, apportées par le même et unique Dieu, aux hommes, dans des lieux, des époques et des modalités différentes, à travers ses Prophètes, depuis Adam, premier homme, mais aussi premier Prophète islamique, suivi par tous les Prophètes comme Noé, Abraham, Mo&ioelig;se, Jésus (que la paix soit sur eux) jusqu’à Muhammad (la Prière et la Bénédiction de Dieu soient sur lui).
+Selon la tradition islamique, parler de «&nbsp;haine entre les religions&nbsp;» pourrait sembler inconcevable, car les religions sont considérées comme différentes révélations, apportées par le même et unique Dieu, aux hommes, dans des lieux, des époques et des modalités différentes, à travers ses Prophètes, depuis Adam, premier homme, mais aussi premier Prophète islamique, suivi par tous les Prophètes comme Noé, Abraham, Mo&ielig;se, Jésus (que la paix soit sur eux) jusqu’à Muhammad (la Prière et la Bénédiction de Dieu soient sur lui).
 
 Si Dieu est Un et le même pour tous les hommes, selon l’acception propre au monothéisme abrahamique, Il n’a certainement pas voulu que ces derniers méconnaissent son Omnipotence en adorant leur propre forme religieuse, au lieu d’essayer de la transcender, non par un transformisme trop cohérent, mais en effectuant une pure et vraie «&nbsp;transformation&nbsp;».
 
