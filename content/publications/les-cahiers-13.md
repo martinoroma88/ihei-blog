@@ -1,6 +1,6 @@
 ---
 titre: Les Cahiers 13
-soustitre: L'actualité de la Tradition et la présence de l'Islam en Europe
+soustitre: L’actualité de la Tradition et la présence de l’Islam en Europe
 date: 2020-09-13
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125409/ihei/couvertures/c13_ugjzbr.jpg
 annexes:
