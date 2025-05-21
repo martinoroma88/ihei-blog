@@ -1,6 +1,6 @@
 ---
 titre: Les Cahiers 10
-soustitre: "L'engagement spirituel : contemplation et action"
+soustitre: "L’engagement spirituel : contemplation et action"
 date: 2020-09-10
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125409/ihei/couvertures/c10_id4ax7.jpg
 annexes:
