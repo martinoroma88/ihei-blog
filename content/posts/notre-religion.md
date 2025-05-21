@@ -45,7 +45,7 @@ Le *Jihâd* est une obligation pour le musulman, mais qu'est ce que le *jihâd*&
 
 Le Prophète a-t-il combattu les juifs parce qu’ils étaient juifs&nbsp;? Certes non, il n’a combattu que des groupes qui avaient trahi leurs engagements, et seulement en raison de cette trahison. Le Prophète ne jugeait-il pas entre ceux qui le lui demandaient selon la Torah et non selon le Coran&nbsp;? Alors pourquoi ces actes iniques et ces mauvaises paroles sur les juifs&nbsp;? 
 
-Soyons unis entre croyants sincères, juifs, chrétiens et musulmans, tous fils d'Abraham. Dans l’attente de la seconde venue du Messie, celui que nous, musulmans, appelons l'Esprit de Dieu, ‘Issa, Jésus, espérons que croyants et non-croyants veuillent bien ouvrir leur c&oelig;ur à cette perspective imminente.
+Soyons unis entre croyants sincères, juifs, chrétiens et musulmans, tous fils d’Abraham. Dans l’attente de la seconde venue du Messie, celui que nous, musulmans, appelons l’Esprit de Dieu, ‘Issa, Jésus, espérons que croyants et non-croyants veuillent bien ouvrir leur c&oelig;ur à cette perspective imminente.
 
 Notre religion est de paix, d’amour et de sincérité.
 Paix à tous.
