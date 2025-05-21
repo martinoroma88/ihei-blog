@@ -1,6 +1,6 @@
 ---
 titre: Les Cahiers 14
-soustitre: La nature et l'art, symboles de l'Esprit
+soustitre: La nature et l’art, symboles de l’Esprit
 date: 2020-09-14
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1606125409/ihei/couvertures/c14_xjdd7z.jpg
 annexes:
