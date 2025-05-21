@@ -47,5 +47,5 @@ Le Prophète a-t-il combattu les juifs parce qu’ils étaient juifs&nbsp;? Cert
 
 Soyons unis entre croyants sincères, juifs, chrétiens et musulmans, tous fils d'Abraham. Dans l’attente de la seconde venue du Messie, celui que nous, musulmans, appelons l'Esprit de Dieu, ‘Issa, Jésus, espérons que croyants et non-croyants veuillent bien ouvrir leur c&oelig;ur à cette perspective imminente.
 
-Notre religion est de paix, d'amour et de sincérité.
+Notre religion est de paix, d’amour et de sincérité.
 Paix à tous.
