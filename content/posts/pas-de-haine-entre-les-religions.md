@@ -1,7 +1,7 @@
 ---
 titre: Pas de haine entre les religions !
 vedette: false
-date: 1992-08-10T08:07:07.071Z
+date: 1994-08-15T08:07:07.071Z
 auteur: Shaykh Abd al-Wahid Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1747732410/Pallavicini_sdw4lv.jpg
 category: Dialogue interreligieux
