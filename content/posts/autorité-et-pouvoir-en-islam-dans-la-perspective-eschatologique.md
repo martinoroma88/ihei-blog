@@ -59,26 +59,26 @@ Ibn Arabî, le plus grand des maîtres, enseigne quelques unes des caractéristi
 
 [^11]: Coran 42&nbsp;: 38.
 [^12]: voir à ce propos les exemples donnés dans *Principles of Islamic Jurisprudence*, Mohammad Hashim Kamali, Islamic Texts Society, p.54s.
-[^13]: Bukhârî.
+[^13]: Bukh&acirc;r&icirc;.
 [^14]: Coran 4&nbsp;: 59.
-[^15]: Bukhârî, Muslim.
-[^16]: Abu Dâwûd, Tirmidhî.
-[^17]: Bukhârî, Muslim.
+[^15]: Bukh&acirc;r&icirc;, Muslim.
+[^16]: Abu D&acirc;wûd, Tirmidh&icirc;.
+[^17]: Bukh&acirc;r&icirc;, Muslim.
 [^18]: Muslim.
-[^19]: Bukhârî.
-[^20]: Bukhârî.
-[^21]: Bukhârî.
+[^19]: Bukh&acirc;r&icirc;.
+[^20]: Bukh&acirc;r&icirc;.
+[^21]: Bukh&acirc;r&icirc;.
 [^22]: Coran 17&nbsp;: 85.
-[^23]: Cette tradition ne se trouve pas dans les recueils canoniques. Elle est citée notamment par Ibn Khaldûn dans sa *Muqaddimah*, 3<sup>e</sup> partie, Chap.28.
-[^24]: Ibn Mâjah.
-[^25]: Abu Dâwûd.
-[^26]: Bukhârî, Muslim.
+[^23]: Cette tradition ne se trouve pas dans les recueils canoniques. Elle est citée notamment par Ibn Khald&ucirc;n dans sa *Muqaddimah*, 3<sup>e</sup> partie, Chap.28.
+[^24]: Ibn M&acirc;jah.
+[^25]: Abu D&acirc;w&ucirc;d.
+[^26]: Bukh&acirc;r&icirc;, Muslim.
 [^27]: Coran 20&nbsp;: 114.
-[^28]: Bukhârî, Muslim.
+[^28]: Bukh&acirc;r&icirc;, Muslim.
 [^29]: Cité par Albert Hourani, *La pensée arabe et l’Occident*, Naufal, p. 14. 
 [^30]: Op. cit. p. 15.
-[^31]: Dont, bien sûr, l’exemple de l’Émir Abd-al-Qâdir au siècle dernier. 
-[^32]: Bukhârî, Muslim.
+[^31]: Dont, bien sûr, l’exemple de l’Émir Abd-al-Q&acirc;dir au siècle dernier. 
+[^32]: Bukh&acirc;r&icirc;, Muslim.
 [^33]: Coran 13&nbsp;: 11.
-[^34]: Fulûhât-al-Makkiyyah. Trad. J.W.Morris, *Les illuminations de la Mecque*, Sindbad, p.121-123.
+[^34]: Ful&ucirc;h&acirc;t-al-Makkiyyah. Trad. J.W.Morris, *Les illuminations de la Mecque*, Sindbad, p.121-123.
 [^35]: Muslim.
