@@ -53,5 +53,5 @@ Ces forces, que René Guénon appelait la contre-tradition, sont d’autant plus
 Le Shaykh Ahmad al-’Alawî lui-même ne fut pas exempt d’attaques et de critiques, à cause de son universalisme et de sa capacité à vérifier la sacralité d’autres formes religieuses sans pour autant s’éloigner de l’orthodoxie de la Loi islamique, malgré les remarques qui lui furent adressées à cet égard par les habituels docteurs de la loi. Ainsi, quand on lui reprocha un jour que son *tasbîh*, son chapelet, rappelait la forme d’une croix, le Shaykh se leva en ouvrant les bras à la hauteur des épaules et demanda : «&nbsp;Et nous&nbsp;? A quelle forme ressemblons-nous&nbsp;?&nbsp;»
 
 [^1]: *Le Symbolisme de la Croix*, Éditions Véga.
-[^2]: Cité par Martin Lings dans *A Moslem Saint of the Twentieth Century*, Allen & Unwin, Londres, 1961. Une traduction est parue récemment sous le titre : *Un Saint soufi du vingtième siècle*, Le Seuil, Paris.
+[^2]: Cité par Martin Lings dans *A Moslem Saint of the Twentieth Century*, Allen & Unwin, Londres, 1961. Une traduction est parue récemment sous le titre&nbsp;: *Un Saint soufi du vingtième siècle*, Le Seuil, Paris.
 [^3]: *Ibid*.
