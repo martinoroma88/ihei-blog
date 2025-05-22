@@ -21,8 +21,6 @@ Le Comité, composé de leaders religieux et intellectuels **chrétiens, musulma
 
 Dans ce sens, nous offrons ci-après, en avant-première, une réflexion du Président de l’IHEI, l’Imam Yahya Pallavicini, et celle de Abd al-Wadoud Gouraud, membre de l’IHEI et membre d’honneur de l’Organisation mondiale des diplômés de l’Université al-Azhar, qui **seront toutes deux publiées au Caire** en arabe sur *Sawt al-Azhar* («&nbsp;La voix d’al-Azhar&nbsp;»), **l’hebdomadaire de la grande mosquée-université** présidée par **Ahmad al-Tayyeb**.
 
-
-
 ##### **Découvrir la fraternité dans l’invocation du Dieu unique**
 
 La CO.RE.IS (Communauté Religieuse Islamique) Italienne a reçu l’invitation du Haut-Comité pour la Fraternité Humaine à participer à la journée mondiale de prière et de jeûne pour l’humanité promue par le pape François et le grand-imam et cheikh al-Azhar Ahmad al-Tayyeb.
@@ -33,7 +31,7 @@ Le document sur la Fraternité Humaine et cette invitation à la prière et au j
 
 ***Symbolique***, car le Haut-Comité pour la Fraternité Humaine a inclus également un rabbin comme représentant de la communauté juive et, par conséquent, cette invitation trouve sa source dans le souvenir de la fraternité en Dieu Unique au sein de la famille du prophète Ibrahim, et s’adresse à tous les croyants et à toutes les créatures du monde.
 
-***Historique***, car cette initiative répond à **l’appel originel de Dieu aux hommes**, contenu dans le Saint Coran : «&nbsp;Ne suis-Je pas votre Seigneur&nbsp;?&nbsp;» (*a lastu bi-Rabbikum* - VII&nbsp;: 172), et manifeste le sens profond du temps et de la vie, qui doit être honorée dans le souvenir de notre lien au Seigneur et dans l’invocation de Dieu parce que «&nbsp;tout revient à Lui&nbsp;» (Coran XI&nbsp;: 123).
+***Historique***, car cette initiative répond à **l’appel originel de Dieu aux hommes**, contenu dans le Saint Coran&nbsp;: «&nbsp;Ne suis-Je pas votre Seigneur&nbsp;?&nbsp;» (*a lastu bi-Rabbikum* —&nbsp;VII&nbsp;: 172), et manifeste le sens profond du temps et de la vie, qui doit être honorée dans le souvenir de notre lien au Seigneur et dans l’invocation de Dieu parce que «&nbsp;tout revient à Lui&nbsp;» (Coran XI&nbsp;: 123).
 
 ***Spirituelle***, car elles font redécouvrir les affinités et **les similitudes mais aussi les différences providentielles de méthode et de langage rituel du jeûne et de la prière** entre les croyants de chaque communauté religieuse. Nous trouvons ainsi, avec le respect d’une méthode différente, une intention, une fraternité et une finalité commune.
 
@@ -41,9 +39,7 @@ Dans une humanité qui trop souvent pense à l’individu uniquement ou principa
 
 Ce témoignage est celui-là même que notre bien-aimé prophète Muhammad nous a enseignée par l’exemple de sa vie à Médine et à La Mecque, et que nous nous efforçons de suivre et d’interpréter au cœur de l’Europe contemporaine, en dialogue avec les communautés de croyants et les représentants des Institutions.
 
-Imam Yahya Pallavicini, Président, Institut des Hautes Etudes Islamiques, Président, Communauté Religieuse Islamique (COREIS) Italienne, Ambassadeur ISESCO pour le Dialogue entre les Civilisations, Rabat, Membre exécutif du WMCC (World Muslim Communities Council), Abu Dhabi
-
-
+Imam Yahya Pallavicini, Président, Institut des Hautes Études Islamiques, Président, Communauté Religieuse Islamique (COREIS) Italienne, Ambassadeur ISESCO pour le Dialogue entre les Civilisations, Rabat, Membre exécutif du WMCC (World Muslim Communities Council), Abu Dhabi
 
 ##### **Rivalisez entre vous dans les œuvres de Bien**
 
@@ -61,8 +57,8 @@ Dieu seul connaît la raison d’être profonde des **différences apparentes en
 
 Dans cette attente, il appartient alors aux **croyants dans le Créateur Unique de converger ensemble vers Lui**, chacun suivant sa loi et sa voie propres, en s’entraidant dans la vertu et la piété, et en s’enjoignant les uns les autres à la vérité et à la patience, **dans le respect mutuel et l’ouverture spirituelle, sans hostilité ni présomption**.
 
-> Rivalisez entre vous dans les œuvres de bien ! » de ce monde et de l’Autre, en les consacrant sincèrement à Dieu, et en reconnaissant en Lui la Source de tout bien. C’est ainsi que les bienfaisants pourront contempler et servir le Bien absolu et éternel, toujours plus beau, plus vrai et plus haut que ce qu’ils peuvent comprendre, dire et faire, et qu’ils pourront devenir témoins, interprètes et transmetteurs de Sa Miséricorde infinie, qu’Il ne cesse de répandre sur Ses créatures.
+> «&nbsp;Rivalisez entre vous dans les œuvres de bien&nbsp;!&nbsp;» de ce monde et de l’Autre, en les consacrant sincèrement à Dieu, et en reconnaissant en Lui la Source de tout bien. C’est ainsi que les bienfaisants pourront contempler et servir le Bien absolu et éternel, toujours plus beau, plus vrai et plus haut que ce qu’ils peuvent comprendre, dire et faire, et qu’ils pourront devenir témoins, interprètes et transmetteurs de Sa Miséricorde infinie, qu’Il ne cesse de répandre sur Ses créatures.
 >
-> Ceux qui luttent en Nous, Nous les guidons sur Nos chemins. Dieu est avec les bienfaisants.(Coran XXIX&nbsp;: 69)
+> Ceux qui luttent en Nous, Nous les guidons sur Nos chemins. Dieu est avec les bienfaisants.(Coran 29&nbsp;: 69)
 
-Abd al-Wadoud Yahya Gouraud, Membre de l’Institut des Hautes Études Islamiques, France, Membre du Conseil des guides religieux, COREIS Italienne, Membre d’honneur de l’Organisation mondiale des diplômés de l’Université al-Azhar
+Abd al-Wadoud Yahya Gouraud, Membre de l’Institut des Hautes Études Islamiques, France, Membre du Conseil des guides religieux, COREIS Italienne, Membre d’honneur de l’Organisation mondiale des diplômés de l’Université al-Azhar.
