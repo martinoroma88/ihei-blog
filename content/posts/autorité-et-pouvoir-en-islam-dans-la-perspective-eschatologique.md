@@ -63,6 +63,8 @@ Puisse Dieu nous aider à nous inspirer de ce souffle vivifiant.
 
 [^12]: voir à ce propos les exemples donnés dans *Principles of Islamic Jurisprudence*, Mohammad Hashim Kamali, Islamic Texts Society, p.54s.
 
+[^13]: Bukhârî.
+
 [^14]: Coran 4&nbsp;: 59.
 
 [^15]: Bukhârî, Muslim.
