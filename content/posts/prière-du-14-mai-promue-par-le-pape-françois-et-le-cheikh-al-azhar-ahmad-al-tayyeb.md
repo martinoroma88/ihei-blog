@@ -47,7 +47,7 @@ Imam Yahya Pallavicini, Président, Institut des Hautes Études Islamiques, Pré
 
 **L’appel du pape François et du grand-imam d’al-Azhar** à consacrer la journée du 14 mai à la prière, au jeûne et aux actes de miséricorde en faveur de l’humanité pour faire face à la pandémie du Covid-19, **réalise à nos yeux les finalités du verset coranique**&nbsp;:
 
-A chacun d’entre vous Nous avons assigné une Loi et une Voie. Si Dieu l’avait voulu, Il aurait de vous une seule communauté, mais Il a voulu vous éprouver à travers ce qu’Il vous a donné. Alors rivalisez entre vous dans les œuvres de bien ! Vous retournerez tous à Dieu, Il vous informera alors à propos de ce en quoi vous divergez. (Coran V&nbsp;: 48)
+A chacun d’entre vous Nous avons assigné une Loi et une Voie. Si Dieu l’avait voulu, Il aurait de vous une seule communauté, mais Il a voulu vous éprouver à travers ce qu’Il vous a donné. Alors rivalisez entre vous dans les œuvres de bien&nbsp;! Vous retournerez tous à Dieu, Il vous informera alors à propos de ce en quoi vous divergez. (Coran V&nbsp;: 48)
 
 Dans Son infinie Miséricorde et Sagesse, Dieu a accordé à chaque communauté de la famille d’Abraham «&nbsp;une loi et une voie&nbsp;». Si Dieu l’avait voulu Il aurait établi une seule communauté, une seule loi sacrée et une seule voie spirituelle. Mais Il a voulu au contraire diversifier Ses dons en suscitant **diverses communautés de foi, lois religieuses et voies spirituelles qui toutes proviennent de Lui et ramènent à Lui**.
 
