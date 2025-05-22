@@ -14,7 +14,7 @@ En ces temps où la qualité authentique de la lumière semble être oubliée, n
 
 Nous ne pouvons que nous souvenir du «&nbsp;verset de la Lumière&nbsp;» dans le Coran&nbsp;:
 
-> *Allah est la Lumière des cieux et de la terre. Sa lumière est semblable à une niche où se trouve une lampe. La lampe est dans un récipient de cristal, et celui-ci ressemble à un astre de grand éclat*&nbsp;*; son combustible vient d’un arbre béni*&nbsp;*: un olivier ni oriental ni occidental dont l’huile semble éclairer sans même que le feu la touche. Lumière sur Lumière. Allah guide vers Sa lumière qui Il veut. Allah propose aux hommes des paraboles, et Allah est Omniscient.* (Coran, 24&nbsp;: 35)
+> *Allah est la Lumière des cieux et de la terre. Sa lumière est semblable à une niche où se trouve une lampe. La lampe est dans un récipient de cristal, et celui-ci ressemble à un astre de grand éclat*&nbsp;*; son combustible vient d’un arbre béni*&nbsp;*: un olivier ni oriental ni occidental dont l’huile semble éclairer sans même que le feu la touche. Lumière sur Lumière. Allah guide vers Sa lumière qui Il veut. Allah propose aux hommes des paraboles, et Allah est Omniscient.* (Coran 24&nbsp;: 35)
 
 Juifs, chrétiens et musulmans de la famille d’Abraham (paix sur lui) sont comme cet olivier béni&nbsp;: restons donc unis par nos racines spirituelles communes et vers l’élévation, en partageant la richesse et la diversité des branches, des feuilles, des fleurs et des fruits&nbsp;!
 
