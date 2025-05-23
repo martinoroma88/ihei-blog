@@ -28,7 +28,7 @@ Il nous a paru également utile, si ce n’est nécessaire, de préciser en quoi
 
 Dans un second temps, nous évoquerons l’origine et les manifestations de l’islamisme radical, contrefaisant l’islam authentique&nbsp;; puis les moyens qu’entend mettre en œuvre le projet du président de la République et ses limites&nbsp;; et enfin les propositions véritablement susceptibles de révéler un islam à la fois authentiquement spirituel et contributeur d’un vivre-ensemble harmonieux.
 
-#### I —&nbsp;L’islam une religion nécessairement compatible avec la laïcité et les valeurs républicaines
+#### I —&nbsp;L’islam, une religion nécessairement compatible avec la laïcité et les valeurs républicaines
 
 ##### L’islam, les religions et la laïcité
 
