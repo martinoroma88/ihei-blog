@@ -28,7 +28,7 @@ Il nous a paru également utile, si ce n’est nécessaire, de préciser en quoi
 
 Dans un second temps, nous évoquerons l’origine et les manifestations de l’islamisme radical, contrefaisant l’islam authentique&nbsp;; puis les moyens qu’entend mettre en œuvre le projet du président de la République et ses limites&nbsp;; et enfin les propositions véritablement susceptibles de révéler un islam à la fois authentiquement spirituel et contributeur d’un vivre-ensemble harmonieux.
 
-#### I —&nbsp; L’islam une religion nécessairement compatible avec la laïcité et les valeurs républicaines
+#### I —&nbsp;L’islam une religion nécessairement compatible avec la laïcité et les valeurs républicaines
 
 ##### L’islam, les religions et la laïcité
 
@@ -144,7 +144,7 @@ L’hypersensibilité et les réactions émotionnelles disproportionnées qu’o
 
 Au-delà, pourrait-on dire, pas plus le Prophète Muhammad, Lumière prophétique que Jésus, Verbe de Dieu, ou encore la Virginité mariale principielle, toutes manifestations du domaine spirituel, ne sauraient être caricaturables ou atteintes par une quelconque caricature, laquelle ne reflète jamais que les stéréotypes et les idées de son dessinateur.  On ne peut donc en réalité, pour un musulman, se poser la question de la compatibilité de l’islam avec la laïcité et les valeurs de la République, car être un bon citoyen français devrait résulter, de sa propre valeur spirituelle et non d’une adaptation seulement passive au milieu social, de même qu’être un bon musulman ne saurait justifier une quelconque attitude de rejet ou de révolte à l’égard de la société. 
 
-#### II —&nbsp; La prévention de l’islamisme radical&nbsp;: limites et perspectives
+#### II —&nbsp;La prévention de l’islamisme radical&nbsp;: limites et perspectives
 
 ##### L’islamisme radical, contrefaçon de l’Islam authentique
 
