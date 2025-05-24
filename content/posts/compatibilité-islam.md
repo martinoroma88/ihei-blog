@@ -275,6 +275,6 @@ Depuis le début de l’humanité, les religions proposent des réponses fondame
 
 **Il nous semble ainsi qu’il est possible, et même nécessaire, de présenter les différentes traditions spirituelles et les pratiques religieuses dans la société contemporaine, de façon sereine et constructive, dans le respect des sensibilités et des droits de chacun, pour favoriser des échanges véritablement enrichissants et un vivre-ensemble harmonieux.**
 
-[^1]: Yahya Pallavicini, «&nbsp;Il faut enseigner la différence entre explication et manipulation de la doctrine religieuse&nbsp;», Alma & Georges, 29/10/2020 (https://www3.unifr.ch/alma-georges/articles/2020/il-faut-enseigner-la-difference-entre-explication-et-manipulation-de-la-doctrine-religieuse).
-[^2]: Yahya Pallavicini, «&nbsp;Il faut enseigner la différence entre explication et manipulation de la doctrine religieuse&nbsp;», Alma & Georges, 29/10/2020 (https://www3.unifr.ch/alma-georges/articles/2020/il-faut-enseigner-la-difference-entre-explication-et-manipulation-de-la-doctrine-religieuse).
+[^1]: Yahya Pallavicini, «&nbsp;Il faut enseigner la différence entre explication et manipulation de la doctrine religieuse&nbsp;», Alma & Georges, 29/10/2020 (https://www.unifr.ch/alma-georges/articles/2020/il-faut-enseigner-la-difference-entre-explication-et-manipulation-de-la-doctrine-religieuse).
+[^2]: Yahya Pallavicini, «&nbsp;Il faut enseigner la différence entre explication et manipulation de la doctrine religieuse&nbsp;», Alma & Georges, 29/10/2020 (https://www.unifr.ch/alma-georges/articles/2020/il-faut-enseigner-la-difference-entre-explication-et-manipulation-de-la-doctrine-religieuse).
 [^3]: (http://blog.mondediplo.net/2014-06-30-Laicite-il-est-temps-de-se-ressaisir)
