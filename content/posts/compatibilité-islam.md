@@ -86,7 +86,7 @@ La laïcité telle qu’établie principalement par la loi du 9 décembre 1905 f
 
 En tout état de cause, pas plus la laïcité que les valeurs de la République, les libertés publiques et les droits fondamentaux qui en découlent ne sauraient être incompatibles ou en contradiction avec les principes de vie en société, tels que prescrits par l’islam.
 
-#### La convergence entre les valeurs républicaines et les principes islamiques de vie en société
+### La convergence entre les valeurs républicaines et les principes islamiques de vie en société
 
 Il apparaît nécessaire, au-delà de la compatibilité de l’islam avec une société laïque, de rappeler plus précisément cette même compatibilité entre les principes musulmans de vie en société, résultant d’ailleurs de la pratique des vertus, avec les valeurs républicaines, les libertés publiques et les droits fondamentaux.
 
@@ -167,7 +167,7 @@ Le wahhabisme et le salafisme inondent les librairies dites «&nbsp;islamiques&n
 
 Les formes de radicalisation violente qui ont frappé l’Europe, et particulièrement la France, sont un phénomène néanmoins complexe et multifactoriel qui a poussé des populations, jeunes en général, à rejoindre le prétendu «&nbsp;État islamique&nbsp;» ou à commettre des attentats sur le sol européen, sans oublier d’autres attentats, encore plus nombreux, commis en Afrique, en Asie ou au Maghreb, au sein des populations musulmanes, qui restent les premières victimes du terrorisme islamiste.
 
-#### Le projet gouvernemental et ses limites
+### Le projet gouvernemental et ses limites
 
 Le président de la République lui-même a fait le constat du «&nbsp;séparatisme&nbsp;» de l’État, ghettoïsant certaines populations dans des quartiers, sans perspective économique ou sociétale, avec un accès réduit aux services publics et, au-delà, à une vie normale. Cette ghettoïsation favorisant ce que le président a appelé le «&nbsp;séparatisme islamiste&nbsp;».
 
@@ -227,7 +227,7 @@ La connaissance et la compréhension de l’Islam souhaitées par le président 
 
 C’est cette vision et cette pratique d’un islam universel, spirituel et citoyen, partagé dans le cadre du dialogue interreligieux, respectueux, comme on l’a vu, des valeurs et des lois de la république, que notre Institut s’efforce de présenter et de représenter depuis plus d’une vingtaine d’années, à travers nombre d’articles de réflexion, de publications, de conférences, d’expositions et de collaborations, au sein de réseaux nationaux et internationaux.
 
-#### Rétrospectives et perspectives
+### Rétrospectives et perspectives
 
 Cette œuvre de «&nbsp;vivification&nbsp;» de la religion islamique, qui doit inspirer le travail indispensable d’approfondissement spirituel, intellectuel et théologique, mais aussi d’adéquation au vivre-ensemble dans une société républicaine, est conduite par des intellectuels musulmans français et européens, dans le cadre de centres d’études indépendants comme l’Institut des Hautes Études Islamiques ou encore la COREIS (Communauté Religieuse Islamique) Italienne, que les pouvoirs publics devraient avoir à cœur d’associer à une démarche comme celle entreprise par le président de la République.
 
