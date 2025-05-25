@@ -52,9 +52,7 @@ Aucun de ces éléments constitutifs de l’islam et de toute religion ne peut �
 
 #### *La révélation coranique confirme et protège la dignité des révélations précédentes*
 
-Contrairement à une idée répandue, l’islam reconnaît, respecte et valorise la diversité des religions.
-
-Si l’islam affirme à la fois l’unicité de Dieu et l’unicité d’une religion originelle et primordiale, il enseigne que celle-ci s’est déclinée, tout au long de l’histoire de l’humanité, sous des formes et des modalités diverses, en fonction des peuples et des contextes spatio-temporels où les Révélations successives se sont manifestées. En dépit des apparences, ces dernières sont donc l’expression d’une unité profonde, et ne sauraient aucunement être mises en opposition. Seul l’exclusivisme ou, à l’opposé, le syncrétisme, conduisent à méconnaître ou à nier ce principe d’unité dans la diversité.
+Contrairement à une idée répandue, l’islam reconnaît, respecte et valorise la diversité des religions. Si l’islam affirme à la fois l’unicité de Dieu et l’unicité d’une religion originelle et primordiale, il enseigne que celle-ci s’est déclinée, tout au long de l’histoire de l’humanité, sous des formes et des modalités diverses, en fonction des peuples et des contextes spatio-temporels où les Révélations successives se sont manifestées. En dépit des apparences, ces dernières sont donc l’expression d’une unité profonde, et ne sauraient aucunement être mises en opposition. Seul l’exclusivisme ou, à l’opposé, le syncrétisme, conduisent à méconnaître ou à nier ce principe d’unité dans la diversité.
 
 Conformément au verset cité plus haut, l’islam enjoint aux musulmans de croire à tous les Livres révélés et à tous les prophètes, sans distinction aucune. Nombreuses sont ainsi les références coraniques à Moïse, à Jésus et à la Vierge Marie.
 
