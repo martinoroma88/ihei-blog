@@ -47,7 +47,11 @@ Il précisa les choses mentionnées ci-dessus parce qu’elles prennent le c&oel
 
 **Le désir est mon vaisseau**, *wa-sh-shawqu markab&icirc;&nbsp;*: l’homme est, dans son essence, le vaisseau de l’esprit, et le désir est le vent \[qui souffle sur] ce vaisseau. Tant que dure l’adhésion à Dieu, le vaisseau avance et le désir est sur l’amour.[^9] L’amour est l’inclination vers Dieu, et le désir consiste à accourir sans faire de halte. Certes l’inclination peut exister sans qu’existe le désir. C’est seulement quand le désir existe que l’on trouve nécessairement l’inclination.[^10]
 
+## Le souvenir de Dieu est mon compagnon intime
+
 **Le souvenir de Dieu est mon compagnon intime**, *wa dhikru-Ll&acirc;hi an&icirc;s&icirc;&nbsp;*: il est mentionné dans le had&icirc;th&nbsp;: «&nbsp;Ô mon Dieu, Tu es le Compagnon de voyage et le Successeur dans la famille&nbsp;». Le voyageur n’a pas de compagnie familière dans son voyage, sinon celle du Compagnon. Il est mentionné dans le had&icirc;th&nbsp;: «&nbsp;Il n’y a pas de souffle par lequel soupire l’homme sans qu’il ne progresse d’un pas vers la Vie Dernière&nbsp;». Les souffles sont le voyage, et quand le souvenir de Dieu se trouve présent, il est le compagnon familier dans ce voyage.[^11] Quel excellent compagnon de voyage&nbsp;! Combien excellent est ce souvenir de Dieu qui lui est devenu familier dans son voyage&nbsp;!
+
+## La confiance est mon trésor
 
 **La confiance est mon trésor**, *wa-th-thiqatu kanz&icirc;&nbsp;*: il est mentionné dans le had&icirc;th&nbsp;: 
 
@@ -63,15 +67,23 @@ et encore&nbsp;:
 
 Rien ne demeure avec le serviteur que la confiance totale en Dieu. Quand Dieu ne nous donne pas ce qui est entre nos mains ni ce qui est entre les mains d’autrui, nous ne pouvons rien prendre.
 
+## Le chagrin est mon camarade
+
 **Le chagrin est mon camarade**, *wa-l-huznu raf&icirc;q&icirc;&nbsp;*: il est mentionné dans le had&icirc;th&nbsp;: 
 
 > Celui qui regrette quelque chose de la Vie dernière, si cette chose lui vient, il se rapproche du paradis d’un parcours de mille ans, et celui qui regrette quelque chose de ce monde-ci, si cette chose lui vient, il se rapproche du feu d’un parcours de mille ans.
 
 Le chagrin est à la mesure de l’immensité de ce dont on s’attriste. Le chagrin et le regret s’exercent en direction de ce qui a échappé. Quand le regret s’exerce en direction des théophanies qui nous ont échappé, quel bon regret&nbsp;![^13]
 
+## La science est mon arme
+
 **La science est mon arme**, *wa-l-‘ilmu sil&acirc;h&icirc;&nbsp;*: la science est le fondement de la connaissance, et le fondement de tout bien. Grâce à elle l’on atteint dans le c&oelig;ur l’immensité de Dieu, par la vertu de la méditation, comme le dit Dieu&nbsp;: «&nbsp;Tirez un enseignement, ô vous qui détenez les regards&nbsp;!&nbsp;»[^14] Et cela ne peut se produire que par la science.
 
+## La patience est ma provision de route
+
 **La patience est ma provision de route**, *wa-ç-çabru z&acirc;d&icirc;&nbsp;*: le serviteur voyage dans ses souffles et ses regards,[^15] et sa provision de route dans son voyage consiste à suivre les ordres et les interdictions.[^16] Cela ne peut s’accomplir pour lui que par la patience. S’il ne patiente pas, il se conduit lui-même vers ce qui courrouce Dieu.
+
+## La satisfaction est mon trophée
 
 **La satisfaction est mon trophée**, *wa-r-rid&acirc; ghan&icirc;mat&icirc;&nbsp;*: le plus grand trophée consiste à se satisfaire du partage de Dieu.[^17] L’on trouve dans l’Entretien Intime&nbsp;: 
 
