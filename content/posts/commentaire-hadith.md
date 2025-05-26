@@ -19,11 +19,15 @@ On rapporte de notre seigneur ‘Al&icirc; —&nbsp;que Dieu recouvre de Grâce 
 
 > J’ai interrogé l’Envoyé de Dieu —&nbsp;Que Dieu prie sur lui et le salue&nbsp;— à propos de sa tradition. Et il répondit&nbsp;: «&nbsp;La connaissance est mon capital&nbsp;; l’intellect est l’origine de ma religion&nbsp;; l’amour est mon assise&nbsp;; le désir est mon vaisseau&nbsp;; le souvenir de Dieu est mon compagnon intime&nbsp;; la confiance est mon trésor&nbsp;; le chagrin est mon camarade&nbsp;; la science est mon arme&nbsp;; la patience est ma provision de route&nbsp;; la satisfaction est mon trophée&nbsp;; la faiblesse est ma gloire&nbsp;; l’ascèse est ma profession&nbsp;; la certitude est ma force&nbsp;; la sincérité est mon intercesseur&nbsp;; l’obéissance me suffit&nbsp;; la guerre sainte est mon caractère&nbsp;; la fraîcheur de mon &oelig;il se trouve dans la prière canonique&nbsp;; ma préoccupation concerne ma communauté, et mon désir va vers mon Seigneur&nbsp;».
 
+## La connaissance est mon capital
+
 **La connaissance est mon capital**, *al-ma’rifah ra’su m&acirc;l&icirc;&nbsp;*: Celui-ci consiste à connaître Dieu —&nbsp;qu’Il soit exalté et magnifié. Dieu est le Premier et il n’y a rien avant Lui, le Dernier et il n’y a rien après Lui, l’Extérieur et il n’y a rien au-dessus de Lui, l’Intérieur et il n’y a rien en deçà de Lui. Cette délimitation est celle par laquelle Dieu Lui-même S’est délimité, comme cela nous a été rapporté par le Prophète, dans une de ses invocations&nbsp;: 
 
 > Tu es le Premier et il n’y a rien avant Toi, le Dernier et il n’y a rien après Toi, etc.
 
 Quant à la connaissance, elle consiste à effacer totalement l’être créé de sa contemplation, et à ne tourner sa face que vers Dieu.[^3] «&nbsp;Où que vous vous tourniez, là est la face de Dieu&nbsp;».[^4] C’est cela le capital, par lequel adviennent les dévoilements.
+
+## L’intellect est l’origine de ma religion
 
 **L’intellect est l’origine de ma religion**, *wa-l-‘aqlu açlu d&icirc;n&icirc;&nbsp;*: l’intellect est le principe de tout bien, et Dieu n’accorde pas à un serviteur de grâce plus grande que l’intellect. Par lui, \[le serviteur] fait la séparation entre la vérité et l’erreur, entre la foi et l’infidélité&nbsp;; par lui, il distingue le licite de l’illicite&nbsp;; par lui, il saisit les choses qui plaisent à Dieu et celles qui Le courroucent. Il est la source de toute grâce. Et la connaissance qui est l’assise de la foi, est qu’il n’y a pas d’acte de connaissance sans lui.
 
@@ -31,11 +35,15 @@ Quant à la connaissance, elle consiste à effacer totalement l’être créé d
 
 Et quand Il attacha l’obéissance, et l’ordre et la défense, ce qui était saisi par l’entrave du chameau fut appelé intelligence.[^6] C’est ce qui attache les hommes à ce que Dieu aime et à ce qui Le satisfait.
 
+## L’amour est mon assise
+
 **L’amour est mon assise**, *wa-l-hubbu as&acirc;s&icirc;&nbsp;*: l’amour est l’assise de la connaissance. Il est mentionné dans le had&icirc;th&nbsp;: «&nbsp;N’est-il pas vrai qu’il n’y a pas d’amour pour celui qui n’a pas d’amour pour Lui&nbsp;», c’est-à-dire pour Dieu&nbsp;? Et la réalité de l’amour est l’inclination. Celui qui n’a pas de penchant avec tout son être, l’amour s’en tient à distance. Le meilleur amour est que Dieu et Son Envoyé te soient plus dignes d’amour que tout le reste. «&nbsp;Dis&nbsp;: si vous aimez Dieu, suivez-moi&nbsp;; alors Dieu vous aimera&nbsp;».[^7] Il est désirable de suivre l’Envoyé de Dieu dans ses ordres et dans ses interdictions. Si le serviteur le suit et accomplit les ordres que Dieu aime, Dieu l’aime. Et si Dieu l’aime, sans aucun doute Il le rapprochera de Lui.[^8] Parmi les invocations de D&acirc;w&ucirc;d (sur lui la bénédiction et la paix), l’on trouve&nbsp;: 
 
 > Ô mon Dieu, en vérité je Te demande de T’aimer, et d’aimer celui qui T’aime, je Te demande d’accomplir les actes qui me feront parvenir à l’amour de Toi. Ô mon Dieu, fais que l’amour que j’ai pour Toi soit pour moi plus fort que moi-même, ma famille, et l’eau fraiche.
 
 Il précisa les choses mentionnées ci-dessus parce qu’elles prennent le c&oelig;ur mais détournent de Dieu. Si le serviteur ne s’occupe pas de Dieu, et s’occupe de ces choses, on peut craindre pour lui qu’il ne renie les bienfaits de Dieu —&nbsp;que Dieu nous en préserve&nbsp;!&nbsp;—
+
+## Le désir est mon vaisseau
 
 **Le désir est mon vaisseau**, *wa-sh-shawqu markab&icirc;&nbsp;*: l’homme est, dans son essence, le vaisseau de l’esprit, et le désir est le vent \[qui souffle sur] ce vaisseau. Tant que dure l’adhésion à Dieu, le vaisseau avance et le désir est sur l’amour.[^9] L’amour est l’inclination vers Dieu, et le désir consiste à accourir sans faire de halte. Certes l’inclination peut exister sans qu’existe le désir. C’est seulement quand le désir existe que l’on trouve nécessairement l’inclination.[^10]
 
@@ -69,7 +77,11 @@ Le chagrin est à la mesure de l’immensité de ce dont on s’attriste. Le cha
 
 > Ô Moïse, si tu es satisfait de Moi, certes Je suis satisfait de toi, et si tu es en colère et n’es pas satisfait de Mon décret, tu rendras inévitable Ma colère.
 
+## La faiblesse est ma gloire
+
 **La faiblesse est ma gloire**, *wa-l-‘ajzu fakhr&icirc;&nbsp;*: la faiblesse est la reconnaissance qu’il n’y a de puissance et de force que par Dieu, l’Élevé, l’Immense. Le Prophète a dit&nbsp;: «&nbsp;La pauvreté est ma gloire et je m’en vante&nbsp;». La pauvreté est la disparition des choses hors du c&oelig;ur et l’emplissage de son espace par l’amour envers Dieu. C’est de cette pauvreté que l’Envoyé de Dieu se vante. La pauvreté, en tant qu’elle est pauvreté envers Dieu par le c&oelig;ur, est une pauvreté louable, dont on peut se vanter. Quant à la pauvreté contre laquelle on cherche refuge en Dieu, que le Prophète a accolée à l’infidélité, il a dit&nbsp;: «&nbsp;Ô mon Dieu, je prend refuge en Toi contre l’infidélité et la pauvreté&nbsp;». Et il a dit aussi&nbsp;: «&nbsp;Peu s’en faut que la pauvreté ne soit infidélité&nbsp;». Cette pauvreté est la disparition de la vérité hors du c&oelig;ur, et l’adhésion du c&oelig;ur aux choses qui le détournent de Dieu. Quand ces choses sont réduites à néant dans le c&oelig;ur et le c&oelig;ur se remplit de l’adhésion à Dieu, il s’agit là de la pauvreté dont se vante l’Envoyé de Dieu.[^18]
+
+## L’ascèse est ma profession
 
 **L’ascèse est ma profession**, *wa-z-zuhdu hirfat&icirc;&nbsp;*: l’ascèse est une dignité élevée et noble. Par elle, le c&oelig;ur n’adhère à aucune chose et, au contraire, il s’en détourne entièrement, il y renonce et il n’en prend que ce qui le rapproche de son Seigneur et Maître&nbsp;; par elle, il a fermement confiance en Dieu et n’entre dans son c&oelig;ur que son Maître. En vérité l’on trouve dans le had&icirc;th&nbsp;: «&nbsp;le trésor du croyant est son Seigneur&nbsp;». C’est cela le paradis par anticipation. Et celui qui a cet attribut, sa nourriture est la meilleure des nourritures, et son vêtement est le meilleur des vêtements. Celui qui s’occupe d’autre chose que son Maître perdure dans son châtiment. Celui qui s’approche de Dieu de tout son être et renonce à ce bas-monde, Dieu le lui soumet comme un domestique. En vérité il est mentionné dans le had&icirc;th quds&icirc;&nbsp;: «&nbsp;Ô toi, ce monde-ci, mets-toi au service de celui qui Me sert et asservis celui qui te sert&nbsp;». On dit à un saint&nbsp;: «&nbsp;—&nbsp;Pourquoi as-tu renoncé à ce bas-monde&nbsp;? Il répondit&nbsp;: Parce qu’il a renoncé à moi&nbsp;—&nbsp;». Un certain roi dit à un saint&nbsp;:
 
@@ -77,7 +89,11 @@ Le chagrin est à la mesure de l’immensité de ce dont on s’attriste. Le cha
 
 Considère cette exhortation que le soufi a adressée à ce roi.
 
+## La certitude est ma force
+
 **La certitude est ma force**, *wa-l-yaq&icirc;nu quwwat&icirc;&nbsp;*: la certitude est la contemplation de la vérité. Dieu dit&nbsp;: Et ceux qui sont debout \[ou fiables] par \[ou dans] leur témoignage&nbsp;»[^19] —&nbsp;et l’on trouve aussi la lecture&nbsp;: «&nbsp;par leurs témoignages&nbsp;». La contemplation de la vérité est ce qu’ils disent, et ils restent debout par leur contemplation, contemplation après contemplation.[^20]
+
+## La sincérité est mon camarade
 
 **La sincérité est mon camarade**, *wa-ç-çidqu shaf&icirc;’&icirc;&nbsp;*: quel bon intercesseur est la sincérité auprès de Dieu&nbsp;! Et qui est plus sincère que Dieu dans ce qu’Il raconte&nbsp;? À celui à qui Il a donné la sincérité, Dieu a donné Son attribut et Il l’a revêtu de Ses qualités. Aucune intercession ne sera plus importante que cela, pour celui qui est sincère dans son orientation vers son Seigneur et Maître. Le début de la voie vers Dieu est la sincérité, et la science que son Maître l’a créé seulement pour qu’il L’adore. Le serviteur ne cesse de se tourner vers Dieu dans l’adoration, en étant sincère. «&nbsp;S’ils sont sincères envers Dieu, cela est un bien pour eux&nbsp;».[^21] Le serviteur est sincère dans sa recherche de la science, et il sait pour quelle raison son Seigneur l’a créé. Il se tourne par tout son être, corps et âme. La sincérité est une épée qui ne rebondit pas, et un cheval de race qui ne bronche pas. Le *Qur’&acirc;n* ne défie l’imitation que parce qu’il est sincère. Un saint, dont le nom est Sayyid&icirc; Muhy&icirc;-d-d&icirc;n Ibn al-‘Arab&icirc;, rapporte qu’on lui demanda&nbsp;: «&nbsp;—&nbsp;Sais-tu par quoi il est advenu que le *Qur’&acirc;n* défie l’imitation&nbsp;? Il répondit&nbsp;: —&nbsp;Non. On lui dit&nbsp;: —&nbsp;Parce qu’il est sincère&nbsp;».[^22] Sois sincère et ton discours défiera l’imitation. Il t’appartient d’être sincère lorsque tu vis avec Dieu et avec la création. Ne vis dans l’intimité de Dieu que par la sincérité. N’accompagne la création que par la sincérité. La réalité de la sincérité se trouve dans l’orientation vers Dieu par tout son être. Le Prophète a dit&nbsp;: 
 
@@ -89,7 +105,11 @@ La recherche en question consiste à ce que l’homme considère chaque commande
 
 Cela courrouce Dieu et provoque le départ de la Providence. Il t’appartient d’être sincère dans ton rapport avec Dieu et avec la création. Le bien abondant viendra alors à toi, s’il plaît à Dieu.
 
+## L’obéissance me suffit
+
 **L’obéissance me suffit**, *wa-t&acirc;’atu hasb&icirc;&nbsp;*: c’est-à-dire est mon point d’honneur et ma suffisance. En vérité, pour qui obéit à Dieu, Dieu lui suffit contre tout mal et tout souci. Il est mentionné dans le had&icirc;th&nbsp;: «&nbsp;On épouse une femme pour quatre raisons : pour son argent, pour sa beauté, pour ce qui lui suffit, c’est-à-dire son honneur, et pour sa religion. Prends celle qui possède la religion et tes mains seront pleines de terre féconde&nbsp;», c’est-à-dire qu’elles saisiront la terre du Paradis et qu’elles s’y attacheront. Cette parole est une invocation vertueuse du Prophète et l’on trouve dans un autre had&icirc;th&nbsp;: «&nbsp;Celui qui prend une femme à cause de son argent, Dieu ne le fera croître qu’en pauvreté; celui qui prend une femme à cause de son renom, Dieu ne le fera croître qu’en humiliation&nbsp;; celui qui prend une femme à cause de sa beauté, Dieu ne le fera croître qu’en platitude&nbsp;; et celui qui prend une femme à cause de sa religion, il recevra d’elle et elle recevra de lui&nbsp;».
+
+## La guerre sainte est mon caractère
 
 **La guerre sainte est mon caractère**, *wa-l-jih&acirc;du khuluq&icirc;&nbsp;*: la guerre sainte est constituée de deux guerres saintes&nbsp;:[^23] la guerre sainte contre les infidèles, c’est-à-dire l’appel vers Dieu, et la guerre sainte contre l’âme pour l’appeler à la sincérité lorsqu’elle s’approche de Dieu. Le Prophète a dit&nbsp;: «&nbsp;Tout prophète a une profession et ma profession est la pauvreté et la guerre sainte&nbsp;». La pauvreté consiste à vider \[son] c&oelig;ur des choses et à le remplir de Dieu. Le Prophète n’a choisi la pauvreté que parce que ses vents ébranlent, et ne s’y maintient que l’homme parfait. En vérité, un certain homme donna à un saint un peu d’argent, qu’il posa sur les genoux de celui-ci alors qu’il était assis. Le saint lui dit&nbsp;: «&nbsp;—&nbsp;Tu as voulu par ton aumône que je sois inscrit sur le registre des riches et tu me laisseras demeurer cinq cents ans dans ma sueur alors que les pauvres seront au Paradis&nbsp;? Je n’en ai pas besoin&nbsp;». Puis il se leva et l’argent de l’aumône s’effondra. L’homme dit alors&nbsp;: «&nbsp;Je n’ai vu personne de plus majestueux que lui au moment où il abandonna l’aumône et se leva, ni de plus vil que moi au moment où j’ai essayé de la rattraper&nbsp;». Les hommes de Dieu craignent davantage la disparition de leur pauvreté que les riches ne craignent la disparition de leur richesse. Dieu a dit&nbsp;: «&nbsp;En vérité l’homme est rebelle, car il se voit riche&nbsp;».[^24] Et Il a dit aussi&nbsp;: «&nbsp;Ô vous les hommes, vous êtes les pauvres envers Dieu&nbsp;».[^25]
 
