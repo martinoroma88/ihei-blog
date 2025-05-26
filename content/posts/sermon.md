@@ -3,6 +3,7 @@ titre: La naissance de Jésus fils de Marie
 vedette: false
 date: 2024-12-20T21:43:44.527Z
 auteur: Imam Yahya Pallavicini
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1748259368/window-glass-religion-church-art-mosaic-476044-pxhere.com_z5cxn0.jpg
 category: Dialogue interreligieux
 ---
 ###### Sermon donné à la Mosquée al-Wahid, Milan.
