@@ -12,5 +12,3 @@ category: Traductions
 > *Né en 936 dans le Khorassan (région de l’actuel Iran), Abû ‘Abd al-Rahmân al-Sulamî est l’un des plus grands maîtres et saints de l’islam. Savant polyvalent formé auprès d’éminents théologiens de son époque, son œuvre couvre toutes les sciences islamiques traditionnelles&nbsp;: exégèse coranique, science du hadith, jurisprudence, théologie, soufisme, etc. Premier historien de la mystique musulmane, Sulamî se rattache à la lignée initiatique de maîtres illustres parmi les premiers soufis (Shiblî, Junayd, Hasan Basrî...). Il s’éteint le 3 novembre 1021 (412 de l’Hégire), dans sa ville natale de Nichapour.*
 
 (Extrait tiré de la quatrième de couverture)
-
-[Commande](https://librairiedelorient.fr/fr/livres/a-paraitre/les-quarante-hadiths-sur-le-soufisme.html)
