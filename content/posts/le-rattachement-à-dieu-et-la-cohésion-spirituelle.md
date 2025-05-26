@@ -84,6 +84,6 @@ Les deux termes rituels de *taraçç* et de *a‘alluq* sont susceptibles de rel
 [^38]: Martin Lings, *Un saint soufi du XX<sup>e</sup> siècle*, Ed. du Seuil, p. 214.
 [^39]: René Guénon, *Aperçus sur l’ésotérisme islamique et sur le taoïsme*, Gallimard, p. 70. 
 [^40]: Cor. 28&nbsp;: 88.
-[^41]: Sur l’analogie du cœur avec le livre et la coupe, qui contiennent tous deux la connaissance de la Doctrine, symboles regroupés dans le Mystère du Graal de l’ésotérisme chrétien, voir René Guénon, *Aperçus sur l’ésotérisme chrétien*, Editions traditionnelles, p. 101, 105 et passim. L’association de la lance de Longin à la coupe conservée par Joseph d’Arimathie nous ramène dans l’islam à celle de la lettre alif, considérée comme l’*Axis mundi*, et des lettres *bâ’* et *nûn*, qui correspondent au réceptacle, mais envisagé respectivement sous l’aspect cosmologique et l’aspect eschatologique.
+[^41]: Sur l’analogie du cœur avec le livre et la coupe, qui contiennent tous deux la connaissance de la Doctrine, symboles regroupés dans le Mystère du Graal de l’ésotérisme chrétien, voir René Guénon, *Aperçus sur l’ésotérisme chrétien*, Editions traditionnelles, p. 101, 105 et passim. L’association de la lance de Longin à la coupe conservée par Joseph d’Arimathie nous ramène dans l’islam à celle de la lettre *alif*, considérée comme l’*Axis mundi*, et des lettres *bâ’* et *nûn*, qui correspondent au réceptacle, mais envisagé respectivement sous l’aspect cosmologique et l’aspect eschatologique.
 [^42]: Kalâbâdhî, op. cit., p. 163.
 [^43]: Cor. 3&nbsp;: 32.
