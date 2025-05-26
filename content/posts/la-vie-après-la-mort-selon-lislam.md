@@ -1,5 +1,5 @@
 ---
-titre: La vie après la mort selon l'islam
+titre: La vie après la mort selon l’islam
 vedette: false
 date: 2013-05-30T18:22:19.337Z
 auteur: Yahya Pallavicini
