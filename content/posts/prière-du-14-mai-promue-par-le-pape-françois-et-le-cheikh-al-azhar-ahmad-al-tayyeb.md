@@ -21,7 +21,7 @@ Le Comité, composé de leaders religieux et intellectuels **chrétiens, musulma
 
 Dans ce sens, nous offrons ci-après, en avant-première, une réflexion du Président de l’IHEI, l’Imam Yahya Pallavicini, et celle de Abd al-Wadoud Gouraud, membre de l’IHEI et membre d’honneur de l’Organisation mondiale des diplômés de l’Université al-Azhar, qui **seront toutes deux publiées au Caire** en arabe sur *Sawt al-Azhar* («&nbsp;La voix d’al-Azhar&nbsp;»), **l’hebdomadaire de la grande mosquée-université** présidée par **Ahmad al-Tayyeb**.
 
-##### **Découvrir la fraternité dans l’invocation du Dieu unique**
+## Découvrir la fraternité dans l’invocation du Dieu unique
 
 La CO.RE.IS (Communauté Religieuse Islamique) Italienne a reçu l’invitation du Haut-Comité pour la Fraternité Humaine à participer à la journée mondiale de prière et de jeûne pour l’humanité promue par le pape François et le grand-imam et cheikh al-Azhar Ahmad al-Tayyeb.
 
@@ -41,7 +41,7 @@ Ce témoignage est celui-là même que notre bien-aimé prophète Muhammad nous 
 
 Imam Yahya Pallavicini, Président, Institut des Hautes Études Islamiques, Président, Communauté Religieuse Islamique (COREIS) Italienne, Ambassadeur ISESCO pour le Dialogue entre les Civilisations, Rabat, Membre exécutif du WMCC (World Muslim Communities Council), Abu Dhabi
 
-##### **Rivalisez entre vous dans les œuvres de Bien**
+## Rivalisez entre vous dans les œuvres de Bien
 
 **J’ai eu l’honneur de rencontrer le grand-imam d’al-Azhar Ahmad al-Tayyeb**, alors président de l’Université al-Azhar, à l’occasion de la première rencontre mondiale des diplômés d’al-Azhar, organisée en 2006 au Caire, où j’avais été invité à présenter une intervention au sujet de l’islam en France. Cette rencontre bénie s’est conclue avec la création de la Ligue mondiale des diplômés d’al-Azhar, à laquelle j’ai eu la surprise d’être intégré en tant que membre d’honneur de son conseil exécutif.
 
