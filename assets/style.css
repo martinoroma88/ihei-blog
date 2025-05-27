@@ -91,3 +91,32 @@ aside {
 .nuxt-content sup {
   @apply text-xs;
 }
+
+/* Lettrine (capolettera decorativa) */
+.nuxt-content > p:first-of-type::first-letter,
+.prose > p:first-of-type::first-letter,
+article > p:first-of-type::first-letter {
+  float: left;
+  font-size: 4.5rem;
+  line-height: 0.9;
+  margin-right: 0.1em;
+  margin-top: 0.1em;
+  margin-bottom: -0.1em;
+  font-weight: bold;
+  color: #00B5E2; /* colore azure del tema */
+  font-family: Georgia, serif;
+}
+
+/* Supporto per lettrine con stile più elaborato */
+.lettrine::first-letter {
+  float: left;
+  font-size: 4.5rem;
+  line-height: 0.9;
+  margin-right: 0.1em;
+  margin-top: 0.1em;
+  margin-bottom: -0.1em;
+  font-weight: bold;
+  color: #00B5E2;
+  font-family: Georgia, serif;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}

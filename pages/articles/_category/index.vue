@@ -2,7 +2,7 @@
 	<div class="my-grid">
 		<aside>
 			<h1 class="lg:hidden mb-4">{{category.titre}}</h1>
-			<Sidebar :categories="categories" baseurl="articles" :main="{url: '/', title: 'Tous les articles'}"/>
+			<Sidebar :categories="categories" baseurl="articles" :main="{url: '/', title: 'Actualités'}"/>
 		</aside>
 		
 		<div class="md:col-span-3 space-y-10">
