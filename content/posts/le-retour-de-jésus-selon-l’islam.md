@@ -16,7 +16,7 @@ L’islam déploie une riche prophétologie qui fonde l’histoire sacrée. Le r
 
 Ces prophètes sont ainsi considérés par l’islam comme des «&nbsp;prophètes islamiques&nbsp;», dont la succession est close par Muhammad, «&nbsp;sceau des prophètes&nbsp;» et porteur d’un message, le Coran, qui confirme et récapitule les précédents. Le texte du Coran mentionne vingt-sept de ces prophètes, depuis Adam, premier homme et premier prophète, en passant par de nombreux prophètes dits «&nbsp;bibliques&nbsp;», des prophètes «&nbsp;arabes&nbsp;», et quelques figures plus énigmatiques, comme le savant compagnon de Moïse. Pourtant, tous ces prophètes ne se présentent pas avec la même importance. «&nbsp;Ces envoyés, Nous en avons distingué certains au-dessus des autres&nbsp;» dit le Coran. Certaines figures s’imposent par le nombre et la richesse des histoires exemplaires que le texte coranique propose.
 
-#### I. Jésus selon l’islam
+## I. Jésus selon l’islam
 
 Ainsi en est-il de Jésus fils de Marie, sayyiduna ‘Isa ibn Maryam qui n’est pas un prophète islamique «&nbsp;comme les autres&nbsp;», parce que, depuis sa naissance miraculeuse jusqu’à son retour à la fin des temps, sa vie et sa fonction sont liées à l’Ordre métaphysique de l’existence universelle. 
 
@@ -46,7 +46,7 @@ Ailleurs, on peut lire&nbsp;:
 
 La tradition révélée de l’islam désigne Jésus fils de Marie comme *Rûh Allâh*, l’Esprit de Dieu qui, en tant que tel, ne peut être assurément tué ou crucifié, étant en Soi nécessairement immortel. Pour le Coran, le mystère de la figure de Jésus, dans sa première venue comme lors de son retour, ne saurait être interprété par une conception anthropomorphiste de la Réalité divine. En effet, seul peut être mortel ce qui est soumis à l’espace et au temps, comme l’est la forme du symbole qui ne doit pas être confondue avec le Principe ordonnateur, ni avec l’Essence divine. 
 
-#### II. La redescente de Jésus à la fin des temps
+## II. La redescente de Jésus à la fin des temps
 
 Toujours est-il que les musulmans et les chrétiens affirment que la scène de la crucifixion a été le théâtre d’un miracle —&nbsp;même s’ils sont en désaccord apparent sur la nature de ce miracle&nbsp;— et que Jésus le Christ est encore vivant auprès de Dieu. 
 
@@ -64,7 +64,7 @@ La descente du Christ, préparée par les combats spirituels de l’Imam Bien-gu
 
 Transporté dans un halo de lumière et enveloppé dans deux tuniques, Jésus descendra ainsi, posant ses mains sur les ailes de deux anges&nbsp;; et de sa chevelure ruisselleront des gouttes brillantes comme des perles, dont il oindra le visage de ceux qui, protégés par Dieu, auront su le reconnaître. Jésus, dont il est dit que «&nbsp;son souffle ira aussi loin que son regard&nbsp;», se rendra à Jérusalem pour rejoindre et suivre, dans la prière en commun de l’aube, le Mahdi, auquel il aura conféré l’ordre de conduire cette prière&nbsp;; puis il sortira alors pour combattre et vaincre finalement l’Antéchrist qui, en portant son regard borgne sur lui, «&nbsp;fondra comme fond le sel dans l’eau&nbsp;». Après quoi, Jésus et ses compagnons combattront également les hordes de Gog et Magog déferlant de toute part et dévastant tout sur leur passage. Jésus implorera Dieu contre eux, et Dieu les fera périr.
 
-**L’imam al-Mahdi**
+### L’imam al-Mahdi
 
 Le métaphysicien shaykh Abd al-Wahid Yahya, plus connu en Occident sous le nom de René Guénon, affirmait&nbsp;: ce redressement ne pourra être préparé 
 
@@ -78,7 +78,7 @@ Ibn ‘Arabi précisait que le Bien-Guidé, *al-mahdî*, de la tradition islamiq
 
 La fonction du Mahdi est inséparable de celle du sceau de la sainteté, elles sont concomitantes et complémentaires, et représentent deux aspects, extérieur et intérieur, d’un principe unique&nbsp;; du reste, un hadith précise expressément qu’«&nbsp;il n’est d’autre Mahdi que Jésus fils de Marie&nbsp;» 
 
-**Sceau de la sainteté**
+### Sceau de la sainteté
 
 Jésus compte parmi les «&nbsp;Rapprochés de Dieu&nbsp;». Selon les enseignements de certains maîtres spirituels, comme Muhammad est le «&nbsp;sceau des prophètes et des envoyés de Dieu&nbsp;», après lequel il n’y aura plus de prophètes ni de lois révélées par Dieu, Jésus sera dans sa seconde venue le «&nbsp;sceau de la sainteté universelle&nbsp;» initié depuis Adam. La sainteté est l’esprit et la dimension intérieure de la prophétie. Ibn ‘Arabi, le plus grand des maîtres de l’ésotérisme islamique, décrit la qualité du sceau de la sainteté universelle en ces termes&nbsp;:
 
@@ -100,7 +100,7 @@ Il est dit que Jésus sera enterré auprès du Prophète Muhammad qui exprimait 
 
 Ainsi, Jésus le Messie détruira l’imposture et l’erreur, manifestant la suprématie de la Parole et de l’Esprit de Dieu, pour rétablir la vérité, la justice et la paix. Quelque temps avant le Jugement dernier, Jésus établira sur terre un âge d’or, réunissant et guidant tous les croyants et les saints dans l’essence pure de l’adoration parfaite de l’Unique.  
 
-#### III. L’Esprit christique pour nos temps
+## III. L’Esprit christique pour nos temps
 
 Dans L’homme universel (*al-insân al-kâmil*), le shaykh Abd al-Karim al-Jili, au chapitre sur les signes annonciateurs de l’Heure (chap. 61), Jour de la grande Résurrection et du Jugement dernier, rappelle l’analogie entre le macrocosme et le microcosme, entre l’existence du monde terrestre et celle de l’être humain. Il explique ainsi que, aux signes de l’eschatologie universelle annonçant la «&nbsp;grande Heure&nbsp;», correspondent les signes de l’eschatologie individuelle qui regarde toute âme qui est vouée à la mort, la «&nbsp;petite heure&nbsp;», puis à la résurrection&nbsp;: «&nbsp;Sache que la petite heure de la résurrection présente des signes distinctifs et annonciateurs qui correspondent analogiquement aux signes annonciateurs et distinctifs de la grande heure dernière.&nbsp;» Le shaykh al-Jili énumère ainsi les signes de la fin des temps, tels qu’ils sont indiqués par la Tradition islamique, en indiquant leurs significations sur le plan de l’eschatologie individuelle. 
 
