@@ -18,23 +18,23 @@ Dépôt de la foi, ou dépôt des prescriptions légales, ce qui est ainsi propo
 
 > Nous avions fait une recommandation à Adam avant sa chute, mais il l’oublia. Et Nous ne lui avons trouvé aucune ferme résolution.[^2]
 
-#### I
+## I.
 
-##### Le dépôt sacré, comme tous les dépôts ici-bas, implique&nbsp;:
+Le dépôt sacré, comme tous les dépôts ici-bas, implique&nbsp;:
 
-###### 1. La confiance du Propriétaire envers le dépositaire, qui ne doit pas la trahir&nbsp;:
+### 1. La confiance du Propriétaire envers le dépositaire, qui ne doit pas la trahir&nbsp;:
 
 > Ô vous qui croyez&nbsp;! Ne trahissez pas Dieu et le Prophète, car ce serait trahir sciemment la confiance placée en vous&nbsp;! Sachez que vos richesses et vos enfants ne sont qu’une épreuve pour vous, et qu’auprès de Dieu il y a de magnifiques récompenses&nbsp;![^3]
 
 «&nbsp;sciemment&nbsp;», c’est-à-dire «&nbsp;alors que vous savez parfaitement&nbsp;»&nbsp;; vous savez que c’est Dieu qui vous a confié ce dépôt sacré, quel est l’engagement que vous avez pris avec Lui, et quelles sont vos obligations vis-à-vis de Lui.
 
-###### 2. La responsabilité du dépositaire qui doit préserver le dépôt, et le faire fructifier&nbsp;:
+### 2. La responsabilité du dépositaire qui doit préserver le dépôt, et le faire fructifier&nbsp;:
 
 > Bienheureux, en vérité, sont les croyants \[...] qui respectent les dépôts qui leur sont confiés ainsi que leurs engagements, et qui s’acquittent régulièrement de leurs prières&nbsp;! Ce sont ceux-là les véritables héritiers auxquels reviendra le Paradis pour l’éternité.[^4]
 
 le respect des dépôts fait partie des qualités des croyants&nbsp;; il est cité juste avant le devoir de s’acquitter régulièrement des prières rituelles, c’est-à-dire qu’il va de paire avec la foi et la pratique religieuse. Les autres qualités mentionnées au début de cette sourate sont&nbsp;: prier avec recueillement et humilité, dédaigner toute futilité, s’acquitter de la *zakat*, s’abstenir de tout rapport charnel en dehors du mariage. Telles sont les qualités de la foi qui conduisent, par la grâce de Dieu, au Bonheur éternel dans l’Au-delà.
 
-###### 3. Rendre finalement le dépôt à son Propriétaire&nbsp;:
+### 3. Rendre finalement le dépôt à son Propriétaire&nbsp;:
 
 Car 
 
@@ -44,7 +44,7 @@ Ainsi le Prophète disait&nbsp;: «&nbsp;Rends le dépôt à celui qui te l’a 
 
 Il faut bien comprendre que le dépôt n’appartient qu’à son propriétaire, et non au dépositaire. Celui-ci en est seulement l’usufruitier. Il en va ainsi pour toutes choses ici-bas&nbsp;: rien ne nous appartient réellement car tout vient de Dieu, et est entre Ses mains. Nous en profitons avec Sa permission pour ce monde et surtout en vue de l’Autre.
 
-#### II
+## II.
 
 La responsabilité du dépôt nécessite de la part du dépositaire, des qualités et des vertus vis-à-vis du propriétaire, du dépôt, et de soi-même&nbsp;: comme la sincérité, la fidélité, la fiabilité, la loyauté, l’honnêteté, l’intégrité, l’attention, la droiture, la vigilance, la prudence, le respect.
 
@@ -52,7 +52,7 @@ Toutes ces nobles qualités distinguaient justement le Prophète, et ce n’est 
 
 De même, lors de la reconstruction de la Kaaba par les Quraysh, un vif différent éclata entre les clans, chacun revendiquant l’honneur de soulever la Pierre noire et de la mettre à sa place. La situation reste dans une impasse pendant quatre ou cinq jours et la tension monta à tel point que déjà il se concluait des alliances et que des armes étaient préparées pour le combat. Le plus âgé de tous ceux qui se trouvait là proposa alors une solution&nbsp;: «&nbsp;Ô Quraysh, dit-il, prenez pour arbitrer votre litige le premier homme qui franchira le seuil de cette Mosquée.&nbsp;» Les Quraysh acceptèrent de suivre le conseil du vieillard, et le premier homme à pénétrer dans la mosquée l’enceinte sacrée fut Muhammad, qui venait de rentrer à La Mecque après quelque temps d’absence. En le voyant, tous reconnurent immédiatement et spontanément qu’il était la personne véritablement désignée pour cette mission, et son arrivée fut accueillie par des exclamations joyeuses et des murmures de satisfaction. Certains disaient&nbsp;: «&nbsp;C’est al-Amîn&nbsp;!&nbsp;» «&nbsp;C’est Muhammad, et nous nous en remettons à son verdict&nbsp;», reprenaient d’autres. Une fois mis au courant du litige, Muhammad demanda qu’on lui apporte un manteau, ce qui fut fait. L’ayant étendu par terre, il prit la Pierre noire et la déposa au milieu du vêtement&nbsp;: «&nbsp;Que chaque clan prenne en main le bord du manteau, dit-il, puis levez tous ensemble.&nbsp;» Lorsqu’ils eurent levé le vêtement à la bonne hauteur, Muhammad se saisit de la pierre et la plaça de ses propres mains dans l’angle mural. Le travail de construction reprit alors et le mur fut monté et complété au-dessus de la pierre jusqu’à la hauteur voulue.
 
-#### III
+## III.
 
 Le Prophète nous enseigne la relation étroite qui existe entre la foi et le dépôt&nbsp;: «&nbsp;N’a point de foi celui qui n’est pas digne de confiance&nbsp;; n’a point de religion celui qui ne tient pas ses engagements.&nbsp;»[^7] Tout ce qui est contraire à la *amâna* constitue un manque de foi&nbsp;: dévoiler le secret de son ami, espionner les gens en épiant leur intimité et leurs défauts, la médisance, la corruption, le mensonge, la trahison, l’hypocrisie. Dans un autre hadith, le Prophète nous met en garde et nous informe que 
 
@@ -61,13 +61,13 @@ Le Prophète nous enseigne la relation étroite qui existe entre la foi et le d�
 Le dépôt sacré confié par Dieu à l’être humain contient en principe toutes sortes de dépôts qui impliquent des responsabilités dont il faudra rendre compte le Jour de la Résurrection&nbsp;:
 
 * le *tawhîd*,
-* les *‘ibâdât* (ablutions, témoignage de foi, prière, jeûne, aumône, pèlerinage)
-* la famille et la bonne éducation des enfants
-* la parole (orale ou écrite) et la langue ainsi que tous les membres du corps
-* les conversations privées, dont il ne faut pas répéter les secrets
-* le conjoint, la femme en particulier, dont il faut préserver l’intimité et l’intégrité
-* les biens publics et privés qui ne doivent pas être détournés ou spoliés
-* les responsabilités professionnelles et l’autorité politique
+* les *‘ibâdât* (ablutions, témoignage de foi, prière, jeûne, aumône, pèlerinage),
+* la famille et la bonne éducation des enfants,
+* la parole (orale ou écrite) et la langue ainsi que tous les membres du corps,
+* les conversations privées, dont il ne faut pas répéter les secrets,
+* le conjoint, la femme en particulier, dont il faut préserver l’intimité et l’intégrité,
+* les biens publics et privés qui ne doivent pas être détournés ou spoliés,
+* les responsabilités professionnelles et l’autorité politique.
 
 C’est non seulement la base d’une communauté fraternelle et d’une société soudée, où confiance réciproque et partage règnent, mais également l’une des clés du salut, du bonheur, et de la réussite ici-bas et dans l’Au-delà.  Il est dit qu’à la fin des temps, la foi et la fidélité se retireront des cœurs, tandis que les épreuves et les tentations augmenteront, parce que l’homme aura démontré l’injustice et l’ignorance dont il est capable, en ne sachant pas respecter le dépôt sacré de Dieu. Un bédouin demanda en effet au Prophète&nbsp;: 
 
@@ -83,18 +83,13 @@ Dieu a donc confié à l’homme le dépôt sacré, par lequel il pourra, s’il
 
 [^1]: Coran 133&nbsp;: 72.
 
-
 [^2]: Coran 20&nbsp;: 115.
-
 
 [^3]: Coran 8&nbsp;: 27-28.
 
-
 [^4]: Coran 23&nbsp;: 1-11.
 
-
 [^5]: Coran 4&nbsp;: 58.
-
 
 [^6]: Abu Dawud.
 [^7]: Ahmad.
