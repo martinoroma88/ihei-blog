@@ -7,7 +7,7 @@ category: Islam en pratique
 ---
 Par la volonté d’Allah et Sa grâce, nous nous trouvons dans la dernière décade du mois béni de Ramadan. Après la première décade marquée par la Miséricorde, puis la deuxième marquée par le Pardon, nous voilà dans la dernière étape de l’itinéraire de transformation et de purification spirituelles, la phase de l’affranchissement du feu qui aboutit au salut de l’âme, lorsqu’on vient à Allah *bi qalbin salîm*, le c&oelig;ur sain et sauf&nbsp;:
 
-> Le Jour où ni biens ni enfants ne seront d’aucune utilité, sauf celui qui vient à Allah avec un coeur sain. Le Paradis sera rapproché de ceux qui se prémunissent par Allah *al-muttaqîn*.[^1]
+> Le Jour où ni biens ni enfants ne seront d’aucune utilité, sauf celui qui vient à Allah avec un cœur sain. Le Paradis sera rapproché de ceux qui se prémunissent par Allah *al-muttaqîn*.[^1]
 
 C’est ainsi que la vertu de la *taqwâ*, acquise notamment à l’aide du jeûne rituel, *la‘allakum tattaqûn*, opère en nous pour assainir le c&oelig;ur et assurer son intégrité spirituelle (*salâmat al-qalb*). C’est ainsi que les *muttaqîn* arrivent à Allah et accèdent à Son paradis.
 
@@ -25,7 +25,7 @@ Il ne s’agit pas tant, ou seulement, d’attendre cette nuit bénie, mais de s
 
 En nous aidant à réaliser la vertu de la *taqwâ*, le rite du jeûne, lui-même surnaturel, nous réapprend ce sens du mystère qui est précisément l’une des qualités des *muttaqîn*&nbsp;:
 
-> Alif Lam Mim. Voici le Livre qui ne porte aucun doute. Guidance pour les *muttaqîn*, ceux qui se prémunissent (par Allah), qui croient au Mystère non-manifesté, accomplissent la prière rituelle, et offrent une partie de la subsistance que Nous leur avons accordée.[^3]
+> Alif Lam Mim. Voici le Livre qui ne porte aucun doute. Guidance pour les muttaqîn, ceux qui se prémunissent (par Allah), qui croient au Mystère non-manifesté, accomplissent la prière rituelle, et offrent une partie de la subsistance que Nous leur avons accordée.[^3]
 
 Le jeûne, la prière et l’aumône nous préparent à trouver *Laylat al-Qadr* et certains de ses mystères&nbsp;: mystère du Coran descendu sur le dernier messager (), guidance pour les *muttaqîn*&nbsp;; mystère de la Révélation et de la prophétie&nbsp;; mystère de l’Éternité, du Temps, de la succession du jour et de la nuit&nbsp;; mystère de l’Esprit et des anges au service de l’Ordre divin&nbsp;; mystère du Destin&nbsp;; mystère de la Paix qui émane du Nom et de la Qualité d’Allah *al-Salâm*&nbsp;; mystère du *Qadr* qui émane des Noms et des Qualités d’Allah *al-Qâdir al-Muqtadir*.
 
@@ -63,7 +63,7 @@ Il y a une correspondance profonde entre la Descente synthétique du Coran à pa
 
 «&nbsp;C’est ainsi que sont inscrites les choses de toute éternité, explique l’imam al-Ghazali (dans son Livre de la Patience et de la Gratitude). Et c’est ainsi que les causes et les effets s’enchaînent, conformément à la disposition établie par le Seigneur des seigneurs et l’Agent des causes. Cela ne procède pas de faits fortuits, mais d’une volonté, d’une sagesse, d’une vérité établie et d’un ordre péremptoire que l’on définit en empruntant à la langue le terme de «&nbsp;décret&nbsp;», *al-Qadâ’*. On dit de ce décret qu’il est «&nbsp;aussi bref qu’un clin d’&oelig;il&nbsp;»[^6], ou plus prompt encore. Les mers des potentialités déferlèrent en vertu de ce Décret divin péremptoire selon les modalités préétablies. Pour définir la hiérarchie des choses décrétées, on emprunta à la langue le nom de «&nbsp;destin&nbsp;», *al-Qadar*. Le mot «&nbsp;décret&nbsp;» apparaît donc relatif à l’ordre unique et global, tandis que le mot «&nbsp;destin&nbsp;» est relatif au déploiement infini des choses dans leur singularité et temporalité. Il est dit que rien ne sort de ce décret et de ce destin.&nbsp;» 
 
-A ce sujet, le Prophète nous enseigne à «&nbsp;croire au Destin imparti en bien comme en mal&nbsp;», en faisant preuve de gratitude pour les bienfaits et de patience face aux épreuves, et à en montrant satisfaits du Décret souverain d’Allah. En même temps, il nous met en garde contre les recherches vaines et les débats stériles autour de la Prédestination qui reste un mystère insondable et ineffable, qu’aucun être humain ne peut percer.
+À ce sujet, le Prophète nous enseigne à «&nbsp;croire au Destin imparti en bien comme en mal&nbsp;», en faisant preuve de gratitude pour les bienfaits et de patience face aux épreuves, et à en montrant satisfaits du Décret souverain d’Allah. En même temps, il nous met en garde contre les recherches vaines et les débats stériles autour de la Prédestination qui reste un mystère insondable et ineffable, qu’aucun être humain ne peut percer.
 
 > Soyez sereins, dit-il, vous n’avez pas été créés pour cela. Quant à Allah, Il n’a pas de compte à rendre sur ce qu’Il fait, tandis qu’eux ont des comptes à rendre.[^7]
 
@@ -73,7 +73,7 @@ Le Prophète nous apprend à accepter sereinement le destin, et à nous soumettr
 
 Pendant que d’autres se perdent dans les dédales du *qadar* ou s’illusionnent sur leur propre *qudra*, les *muttaqîn* préfèrent suivre la compagnie du Prophète sur le chemin de l’existence qui les mène progressivement du *qadar* jusqu’auprès du Roi Tout-Puissant.
 
-> Certes, Nous avons créé toute chose selon une mesure. Notre Ordre ne tient qu’en un mot aussi bref qu’un clin d’œil. Déjà Nous avons anéanti tous vos semblables&nbsp;: y-t-il quelqu’un pour prendre cela en considération&nbsp;? Et tous leurs actes sont consignés dans les Ecritures. Toutes leurs actions d’importance ou minimes sont couchées par écrit. Ceux qui se sont prémunis par Allah, *al-muttaqîn*, se partagent entre des jardins et des fleuves, en un séjour dénué de frivolité auprès d’un Roi Tout-Puissant, *muqtadir*.[^8]
+> Certes, Nous avons créé toute chose selon une mesure. Notre Ordre ne tient qu’en un mot aussi bref qu’un clin d’œil. Déjà Nous avons anéanti tous vos semblables&nbsp;: y-a-t-il quelqu’un pour prendre cela en considération&nbsp;? Et tous leurs actes sont consignés dans les Ecritures. Toutes leurs actions d’importance ou minimes sont couchées par écrit. Ceux qui se sont prémunis par Allah, *al-muttaqîn*, se partagent entre des jardins et des fleuves, en un séjour dénué de frivolité auprès d’un Roi Tout-Puissant, *muqtadir*.[^8]
 
 Allah Se nomme Lui-même *al-Qâdir al-Muqtadir*, le Tout-Puissant. Selon l’imam al-Ghazali, *al-Qâdir al-Muqtadir* est celui qui peut agir s’il le veut, ou ne pas agir s’il le veut. Vouloir n’est pas une condition nécessaire pour Son pouvoir. Par exemple, Allah peut très bien faire surgir le Jour de la Résurrection à cet instant même. S’Il l’avait voulu, Il l’aurait fait. Cependant, Il ne le fait pas, parce qu’Il ne le veut pas. Et Il ne le veut pas parce que Sa science éternelle a déterminé un terme et un temps précis pour la Résurrection. Ce n’est donc pas une question de capacité, mais de volonté. Le Tout-Puissant absolu est Celui qui créé, invente et produit toute chose existante à partir du néant. Il est Seul Créateur, Inventeur et Producteur, et n’a nul besoin d’aide extérieure. C’est Allah.
 
