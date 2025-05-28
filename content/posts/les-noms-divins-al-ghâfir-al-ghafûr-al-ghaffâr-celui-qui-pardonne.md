@@ -46,7 +46,7 @@ Allah aime dispenser Son pardon et que l’homme revienne vers Lui et demande So
 
 > Par Celui qui détient mon âme entre Ses mains, si vous n’aviez point commis de fautes, Allah vous aurait emportés et vous aurait remplacés par un peuple de pécheurs qui Lui auraient demandé pardon, et auxquels Il aurait pardonné.
 
-Comble de grâce, Allah et Son prophète nous apprennent même comment il convient de demander la *maghfira*, à travers la pratique assidue de l’*istighfâr*. Parmi les nombreuses formules transmises, le Prophète enseigne notamment ce qu’il appelle *sayyid al-istighfâ*r, la «&nbsp;demande de pardon par excellence&nbsp;»&nbsp;:
+Comble de grâce, Allah et Son prophète nous apprennent même comment il convient de demander la *maghfira*, à travers la pratique assidue de l’*istighfâr*. Parmi les nombreuses formules transmises, le Prophète enseigne notamment ce qu’il appelle *sayyid al-istighfâr*, la «&nbsp;demande de pardon par excellence&nbsp;»&nbsp;:
 
 > *Allâhumma anta rabbî lâ ilâha illâ anta khalaqtanî wa anâ ‘abduka wa anâ ‘alâ ‘ahdika wa wa‘dika ma-stata‘tu, a‘ûdhu bika min sharri mâ sana‘tu, abû’u laka bi-ni‘matika ‘alayya wa abû’u bi-dhanbî fa-ghfir lî fa-innahu lâ yaghfiru-dh-dhunûba illâ anta*. Mon Dieu, Tu es mon Seigneur, il n’y a pas de divinité en dehors de Toi. Tu m’as créé, je suis Ton serviteur et je serai fidèle à Ton pacte et à Ta promesse autant que je le pourrai. Je Te demande de me préserver des méfaits que j’ai commis. Je reconnais les bienfaits dont Tu m’as gratifié et je reconnais mes péchés. Pardonne-moi car nul autre que Toi ne pardonne les péchés.
 
