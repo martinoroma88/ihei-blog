@@ -10,13 +10,13 @@ annexes: []
 ---
 ##### **Appel interreligieux au cessez-le-feu et à une paix durable au Moyen-Orient**
 
-Tandis que les **chrétiens** observent le **Carême** et les **musulmans** célèbrent le mois de **Ramadan**, le **Service des Jésuites pour les Réfugiés (JRS)** s’associe à la **Communauté Religieuse Islamique Italienne (COREIS)** pour solliciter un retour radical aux enseignements fondamentaux de nos religions respectives, qui exhortent à aimer l’unité au-dessus des divisions, dans le respect des différences, et à préserver constamment la dignité propre à la vie de la personne humaine.
+Tandis que les **chrétiens** observent le **Carême** et les **musulmans** célèbrent le mois de **Ramadan**, le **Service des Jésuites pour les Réfugiés (JRS)** s’associe à la **Communauté Religieuse Islamique (COREIS)** **Italienne** pour solliciter un retour radical aux enseignements fondamentaux de nos religions respectives, qui exhortent à aimer l’unité au-dessus des divisions, dans le respect des différences, et à préserver constamment la dignité propre à la vie de la personne humaine.
 
 Nous adressons cet appel pour un **cessez-le-feu immédiat à Gaza et pour la libération inconditionnelle de tous les otages capturés le 7 octobre 2023 en Israël**. L’engagement à nourrir et à soigner les blessures de notre humanité partagée nous pousse à pleurer et à prier pour toutes les victimes de la violence terrible qui sévit dans le monde, d’où qu’elles viennent.
 
 Durant ce temps de prière et de jeûne, nous appelons les croyants et toutes les personnes de bonne volonté à soutenir l’humanité partagée qui est si chère à notre foi, et en particulier à redoubler d’effort afin de parvenir à la **fin immédiate et définitive des violences de tout genre à Gaza qui permette aux juifs, aux chrétiens et aux musulmans de vivre pleinement le bienfait sacré du Carême, de Ramadan et des festivités religieuses de Eid al-fitr, Pâques et Pessah.**
 
-**JRS** et **COREIS** formulent l’espoir que cesse la souffrance d’innocents qui perdure, et que puisse s’ouvrir la possibilité d’un espace de dialogue et de sécurité réciproque. A cet effet, nous exhortons tous les acteurs politiques, gouvernements et autres, à soutenir activement un cessez-le-feu et l’ouverture de tels espaces pour ceux qui sont en mesure aujourd’hui d’imaginer un avenir non-violent.
+**JRS** et **COREIS** formulent l’espoir que cesse la souffrance d’innocents qui perdure, et que puisse s’ouvrir la possibilité d’un espace de dialogue et de sécurité réciproque. À cet effet, nous exhortons tous les acteurs politiques, gouvernements et autres, à soutenir activement un cessez-le-feu et l’ouverture de tels espaces pour ceux qui sont en mesure aujourd’hui d’imaginer un avenir non-violent.
 
 Nous appelons également à apporter tout le soutien possible aux personnes courageuses et saintes qui font l’expérience de la violence dans leur vie mais qui sont encore capables de penser à un tel avenir pour chacune et chacun dans la région. Ce sont eux les acteurs qui devraient être écoutés et renforcés dans cette situation.
 
@@ -24,7 +24,7 @@ Ensemble, nous exprimons notre solidarité à l’égard des victimes de la viol
 
 Ensemble, nous continuons à être inspirés par les propos du pape François et du grand-imam Ahmad al-Tayyeb dans le *[Document sur la Fraternité humaine pour la Paix mondiale et la Coexistence commune](https://www.vatican.va/content/francesco/fr/travels/2019/outside/documents/papa-francesco_20190204_documento-fratellanza-umana.html)* (2019), qui nous invite à
 
-> adopter la culture du dialogue comme chemin&nbsp; la collaboration commune comme conduite ; la connaissance réciproque comme méthode et critère
+> adopter la culture du dialogue comme chemin&nbsp;; la collaboration commune comme conduite&nbsp;; la connaissance réciproque comme méthode et critère
 
 et condamne
 
