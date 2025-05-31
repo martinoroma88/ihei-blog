@@ -15,7 +15,7 @@ C’est par cette invocation que chaque musulman et musulmane rythment leur exis
 Il est peut-&ecir;tre nécessaire de rappeler que la maladie, en islam, n’est pas envisagée, avant tout, comme une punition ou une épreuve injuste qui accablerait le croyant ou la croyante mais que la maladie fait partie des conditions de l’existence d’ici-bas. Par celle-ci, l’homme et la femme trouvent une occasion de se rapprocher de leur Seigneur, en étant ramener parfois aux choses les plus essentielles, les plus vitales selon le degré de la maladie. Il s’agit alors d’un temps propice à la méditation, au recueillement, à la prière dans l’attente d’une guérison qui ne dépend pas des seules compétences du médecin ou de l’observance attentive du traitement.
 
 > Que le délai mis à t’accorder ce que tu as demandé par des prières insistantes ne cause
-> pas ton désespoir&nbsp;; l’exaucement de tes prières t'est garanti pour les choses qu’Il a choisi
+> pas ton désespoir&nbsp;; l’exaucement de tes prières t’est garanti pour les choses qu’Il a choisi
 > de t’accorder, et non pas pour celles que tu as choisies pour toi-même&nbsp;; et elles te seront
 > accordées au moment où Il le veut, et non pas au moment que tu souhaites.[^2]
 
@@ -63,7 +63,5 @@ Un homme ou une femme pleinement religieux ne peuvent donc, à vrai dire, jamais
 [^6]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
 
 [^7]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
-
-
 
 [^8]: Cor. 7&nbsp;: 34.
