@@ -9,7 +9,7 @@ category: Soufisme et Spiritualités
 ---
 *Ô âme pacifiée —&nbsp;retourne à ton Seigneur satisfaisante et satisfaite —&nbsp;entre ainsi parmi Mes serviteurs —&nbsp;entre ainsi dans Mon Paradis.*
 
-Surat al-Fajr, L’Aube, 99*&nbsp;*: 27-30
+Surat al-Fajr, L’Aube, 99&nbsp;: 27-30
 
 Ô croyants, bienvenu à ce jumu’a sur le Ridwan, la satisfaction d’Allah, qui se reflète dans l’âme satisfaite et pacifiée. Tout âme fait retour à son Seigneur car en Vérité à Allah nous appartenons et à Lui nous faisons retour, *inna lillahi wa inna ilayhi raji’un*.
 
