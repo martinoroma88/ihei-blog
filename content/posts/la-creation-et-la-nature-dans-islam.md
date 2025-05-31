@@ -58,7 +58,7 @@ Dieu connaît en effet le mystère de l’homme, qui seul dans la Création est 
 
 Dieu crée l’homme selon la *fitrah*, la nature spirituelle originelle. L’homme est ainsi créé «&nbsp;selon la forme du Miséricordieux&nbsp;», c’est-à-dire qu’il a la possibilité de réaliser l’ensemble des Qualités divines. Sa position au sein de la Création n’est pas celle de la meilleure des créatures, mais la position de celui qui est, par sa constitution même, le dépositaire élu de tous les Noms (*al-asmâ’ kullahâ*) ou Qualités universelles qui appartiennent à Dieu. «&nbsp;Et Il enseigna à Adam tous les noms&nbsp;», poursuit le Coran.
 
-***L’homme est placé dans la Création.***
+## L’homme est placé dans la Création.
 
 Il revient à l’homme d’accomplir avec soumission et conscience cette destinée, et d’user du libre-arbitre inhérent à sa propre nature, pour exercer l’effort spirituel nécessaire dans l’œuvre d’adoration, qui le conduira, in-shâ’Allâh, si Dieu le veut, à la sainteté et justifiera pour un temps encore, l’existence du monde, qui n’a été créé et ne subsiste que pour cela. C’est en retrouvant en nous-mêmes notre *fitrah*, notre «&nbsp;nature&nbsp;» spirituelle originelle, grâce à la contemplation des symboles de Dieu dans la nature et avec l’aide et la pratique de la Révélation, que, à défaut de changer le monde, nous élèverons notre esprit au-dessus de nous-mêmes (comme le dis un saint musulman du XX<sup>e</sup> siècle), changeant ainsi notre façon de voir le monde, pour y trouver uniquement Celui qui, Seul, est.
 
