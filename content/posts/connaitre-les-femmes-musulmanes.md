@@ -61,7 +61,7 @@ Tel est le véritable défi du troisième millénaire&nbsp;: se confronter avec 
 
 L’équilibre délicat entre le maintien de l’identité religieuse propre et la confrontation avec des perspectives diverses est à rechercher avant tout en nous-mêmes, en utilisant toutes nos facultés intellectuelles et notre adhésion à la Tradition. Cet effort est nécessaire pour appréhender et vivre les situations nouvelles que la vie nous réserve, au moyen de ces supports, vitaux en islam, que sont l’intelligence, la doctrine et le consensus des savants. C’est ainsi que l’on parviendra effectivement à réaliser une véritable liberté dans la religion, et non pas une émancipation de la religion, ni encore moins une religion sans liberté.
 
-***L’image de la femme musulmane en Occident***
+## L’image de la femme musulmane en Occident
 
 Bien qu’elle soit peu connue dans le monde contemporain, cette vision de la femme, que nous avons évoquée jusqu’ici, se fonde sur la doctrine traditionnelle de l’islam, telle qu’elle est reconnue par les savants et par la majorité des musulmans depuis quatorze siècles. Cela dit, depuis quelques années, on voit apparaître un courant de plus en plus significatif de femmes intellectuelles européennes dont il nous semble opportun de citer, dans cette section, quelques témoignages, directement extraits de conférences et d’articles&nbsp;: 
 
@@ -121,7 +121,7 @@ Cette «&nbsp;âme unique&nbsp;» lie deux créatures qui, en se rejoignant, ref
 
 Cette conscience des différences réciproques constitue le premier pas vers le rétablissement d’une harmonie que Dieu Lui-même a décrétée avec la création. Les fonctions terrestres de l’homme et de la femme n’ont pas été inventées ou imposées par l’un des deux êtres, mais elles reposent sur la correspondance entre l’ordre terrestre et l’ordre céleste. Il y a certainement une répartition des devoirs et des responsabilités qui incombent à chacun d’entre eux, mais les rôles et les fonctions apparaissent de façon naturelle, aussi bien au cours de la vie que dans l’application de la doctrine. La religion ne s’exprime pas en termes d’absence de capacités de l’homme ou de la femme, mais elle s’occupe du salut de l’âme des créatures qui doivent, selon le décret divin, tendre vers l’universel en assumant des fonctions complémentaires.
 
-***Le mariage et la famille***
+## Le mariage et la famille
 
 La réalisation de l’Unité divine, que ce soit en principe ou dans la vie quotidienne, est le rappel constant de l’islam aux hommes et aux femmes afin qu’ils réussissent à vivre religieusement chaque instant de leur existence. Nombreux sont les supports que la religion peut offrir, pour quiconque adhère librement à cette perspective. En effet, les traditions du prophète Muhammad touchent à tous les aspects de la vie, et notamment les questions concernant la famille.
 
@@ -175,7 +175,7 @@ Il n’est pas inutile de rappeler, à cet égard, que la première épouse a la
 
 On est donc bien loin ici de l’image du musulman libertin vivant avec ses innombrables épouses sous le même toit&nbsp;; cette image n’est que le fruit d’un imaginaire lié à l’amour romantique, et non à la notion de noblesse de l’amour qui se trouve en réalité dans l’islam. Le musulman doit avoir, avec chacune de ses épouses, un comportement non seulement équitable mais aussi exclusif, comme si chacune d’elle était l’unique, et sans aucune forme de promiscuité.
 
-A ce propos l’imâm Al-Ghazâlî commente&nbsp;: 
+À ce propos l’imâm Al-Ghazâlî commente&nbsp;: 
 
 > Or notre Prophète —&nbsp;sur lui la grâce et la paix&nbsp;— avait une telle force, et il sut à la fois concilier les vertus de l’adoration et les mérites du mariage. Aussi ni ses neuf épouses, ni le commerce qu’il entretint avec elles ne l’empêchèrent-ils jamais de se vouer totalement à Dieu. De la même manière, celui qui ne s’occupe que d’affaires de ce bas-monde ne s’en détourne jamais, même lorsqu’il satisfait un besoin quelconque&nbsp;: en apparence, on le voit attaché à cette occupation, mais au fond de lui son c&oelig;ur reste captivé par ce qui le préoccupe réellement, et il ne réfléchit qu’à l’affaire en cours&nbsp;! L’Envoyé de Dieu —&nbsp;sur lui la grâce et la paix&nbsp;— occupait un tel rang \[spirituel] (*daraja*) qu’aucune affaire de ce monde n’aurait pu détourner son c&oelig;ur de la Présence divine. C’est pourquoi la Révélation lui fut accordée jusque dans le lit de son épouse \[‘A’ishâ]&nbsp;: à qui d’autre que lui une telle dignité fut-elle jamais conférée&nbsp;? N’est-il pas normal que ce qui vienne troubler de menus ruisseaux ne puisse affecter une vaste Mer&nbsp;? Aussi n’est-il pas séant de comparer notre Prophète à un simple mortel.[^22]
 
@@ -241,7 +241,7 @@ En même temps, c’est justement la vie qui nous montre combien est loin de la 
 
 > Le mariage représente ainsi la voie de l’amour spirituel où le conjoint devient le miroir de Dieu, et l’amour pour lui le reflet de l’amour divin. Là est, en réalité, le véritable ressort qui nous fait avancer, et qui peut donner une stabilité à nos élans, il s’agit seulement de le reconnaître. \[…] Il y a eu des sociétés où la connaissance de Dieu était le but unique de l’existence de l’homme. Celui-ci était alors bien conscient de la signification de la vie et de l’opportunité spirituelle que cela représentait. C’est dans cette même optique que le mariage était considéré et les formes de sentimentalisme, qui aujourd’hui voilent la réalité des choses en donnant une vision illusoire, étaient alors pratiquement inconnues ou en tout cas certainement pas reconnues en tant que telles. Ce qu’un mari ou une femme souhaitaient surtout, c’était qu’eux-mêmes et leur conjoint sachent incarner au mieux les Qualités divines qui leur sont propres afin que ceux-ci puissent réciproquement contempler Dieu l’un dans l’autre, et être se soutenir dans l’ascèse spirituelle.[^35]
 
-***L’actualité du passé des femmes de l’islam***
+## L’actualité du passé des femmes de l’islam
 
 Pour conclure cette section consacrée aux femmes musulmanes, il nous semble intéressant d’arrêter notre réflexion sur certaines figures importantes de l’histoire sacrée de l’islam. La Tradition islamique accorde une grande importance à l’exemple universel de Sarah, Agar et Marie, de même qu’à l’histoire des femmes du Prophète.
 
