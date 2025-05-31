@@ -24,7 +24,7 @@ Ensemble, nous exprimons notre solidarité à l’égard des victimes de la viol
 
 Ensemble, nous continuons à être inspirés par les propos du pape François et du grand-imam Ahmad al-Tayyeb dans le *[Document sur la Fraternité humaine pour la Paix mondiale et la Coexistence commune](https://www.vatican.va/content/francesco/fr/travels/2019/outside/documents/papa-francesco_20190204_documento-fratellanza-umana.html)* (2019), qui nous invite à
 
-> adopter la culture du dialogue comme chemin ; la collaboration commune comme conduite ; la connaissance réciproque comme méthode et critère
+> adopter la culture du dialogue comme chemin&nbsp; la collaboration commune comme conduite ; la connaissance réciproque comme méthode et critère
 
 et condamne
 
