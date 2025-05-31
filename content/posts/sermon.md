@@ -12,6 +12,8 @@ category: Dialogue interreligieux
 
 Ô croyants,
 
+
+
 Bienvenue à cette khutba sur la naissance de ‘Isa ibn Maryam () telle qu’elle est décrite dans le Coran. Selon certains commentateurs, comme al-Razi et al-Qurtubi, il y a un signe spécial dans cette communication exprimée par le nouveau-né ‘Isa ibn Maryam qui est semblable à l’impossibilité du prophète Zakariyya () de pouvoir parler. Tous deux, pour un miracle de quelques instants ou jours, peuvent ou ne peuvent pas parler avant de retourner à leur état ordinaire.
 
 Le nouveau-né ‘Isa a le don de la Parole pour défendre, par l’évidence de ce miracle, l’honneur de la mère Maryam () contre les calomnies et les soupçons. Selon al-Tabrisi, la prophétie de ‘Isa commence avec sa naissance et avec ce miracle de la Parole du nouveau-né, et cette grâce ne se retirera pas mais continuera toute sa vie durant.
