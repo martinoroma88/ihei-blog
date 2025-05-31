@@ -8,7 +8,7 @@ couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/
 category: Dialogue interreligieux
 annexes: []
 ---
-##### **Appel interreligieux au cessez-le-feu et à une paix durable au Moyen-Orient**
+## Appel interreligieux au cessez-le-feu et à une paix durable au Moyen-Orient
 
 Tandis que les **chrétiens** observent le **Carême** et les **musulmans** célèbrent le mois de **Ramadan**, le **Service des Jésuites pour les Réfugiés (JRS)** s’associe à la **Communauté Religieuse Islamique (COREIS)** **Italienne** pour solliciter un retour radical aux enseignements fondamentaux de nos religions respectives, qui exhortent à aimer l’unité au-dessus des divisions, dans le respect des différences, et à préserver constamment la dignité propre à la vie de la personne humaine.
 
