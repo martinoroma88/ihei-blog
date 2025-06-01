@@ -54,7 +54,7 @@ L’islam offre à ces fidèles la possibilité de vivre leur foi et leur pratiq
 
 En islam, comme dans d’autres traditions, le malade est soutenu par son entourage qu’il soit de sa famille ou  pas, et cette solidarité n’est pas sans rappeler la cohésion qui existe dans la prière en commun où les rangs sont serrés et où chacun soutient l’autre par sa seule présence. Il n’est pas inhabituel que la famille rende plus fréquemment visite au malade, qu’elle se soucie de lui et que les amis, les voisins, les fidèles de la mosquée où prie habituellement le malade, l’accompagnent dans cette épreuve, prient pour lui et se rappellent mutuellement la fragilité de la vie d’ici-bas. Mais là encore, le fatalisme et la passivité n’ont pas leur place car l’accompagnement du malade est avant tout une remise confiante en Dieu et une espérance «&nbsp;active&nbsp;». Une espérance où le croyant sollicite le Secours Divin et où Dieu enjoint le croyant à L’invoquer par Ses plus beaux Noms&nbsp;!
 
-> Tous les cœurs des enfants d’Adam sont entre deux des doigts du Miséricordieux, comme un seul cœur, et Il les dirige à Sa guise.[^11][^11]: Muslim.
+> Tous les cœurs des enfants d’Adam sont entre deux des doigts du Miséricordieux, comme un seul cœur, et Il les dirige à Sa guise.[^12]
 
 souvent accompagné Pour ce qui est du rapport du soignant musulman avec les malades, il est important de signaler que les soins prodigués sont avant tout adressés à la personne en tant que créature de Dieu, faite à Son image et à Sa ressemblance quelque soit l’état de dépendance physique ou psychique dans lequel Dieu a mis le patient. Le risque pour le soignant, (qu’il fasse partie du corps médical ou paramédical), est d’associer la guérison à sa propre participation, à ses seules compétences, et d’oublier ainsi que l’on ne saurait conditionné la réalité divine à notre entendement.
 
@@ -82,7 +82,8 @@ L’islam met l’accent sur le respect de la sacralité du corps qui a droit à
 [^8]: Coran 23&nbsp;: 115-116.
 [^9]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
 [^10]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
-[^11]: Bukhârî et Musl&icirc;m.
+[^11]: Bukhârî et Muslim.
+[^12]: Muslim.
 
 [^7]: Coran 2&nbsp;: 286.
 
