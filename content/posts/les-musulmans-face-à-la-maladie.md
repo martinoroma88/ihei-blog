@@ -16,7 +16,7 @@ Ainsi, Dieu et Son Messager nous assurent que la maladie, qui peut, certes, indu
 
 Il est peut-&ecir;tre nécessaire de rappeler que la maladie n’est pas envisagée, avant tout, comme une punition ou une épreuve injuste qui accablerait le croyant ou la croyante mais que la maladie fait partie des conditions de l’existence d’ici-bas. Le corps et l’âme du fidèle sont un prêt de Dieu et l’islam incite les croyants à en prendre soin, à les préserver et à les disposer pour la vocation première de l’Homme sur Terre&nbsp;:
 
-> Je n’ai créé les djinns et les hommes que pour qu’ils M'adorent.[^3]
+> Je n’ai créé les djinns et les hommes que pour qu’ils M’adorent.[^3]
 
 Quelque soit la maladie et sa gravité, il est important de garder à l’esprit que «&nbsp;Dieu n’impose à chaque homme que ce qu’il peut porter&nbsp;».[^4] En effet, les conditions extérieures peuvent sembler difficiles, pénibles, éprouvantes, mais Dieu rappelle que Sa miséricorde embrasse toute chose.[^5]
 
