@@ -26,9 +26,9 @@ Au travers de la maladie, l’homme et la femme sont éprouvés&nbsp;:
 
 > Très certainement, Nous vous éprouverons par un peu de peur, de faim et de diminution de biens, de personnes et de fruits. Et fais la bonne annonce aux endurants.[^6]
 
-Ils sont contraints à s’orienter vers Celui dont tout dépend, *As-Samad*. En étant ramené parfois aux choses les plus essentielles, les plus vitales selon le degré de la maladie, le croyant goûte à une proximité avec son Seigneur toute particulière et semble plus réceptif à Ses grâces qui n’avaient pourtant jamais cessé d’être déversées&nbsp;! Le temps de la maladie devient alors un temps propice à la méditation, au recueillement, à la prière dans l’attente, éventuellement, d’une guérison qui ne serait dépendre des seules compétences du médecin ou de l’observance attentive du traitement.
+Ils sont contraints à s’orienter vers Celui dont tout dépend, *As-Samad*. En étant ramené parfois aux choses les plus essentielles, les plus vitales selon le degré de la maladie, le croyant goûte à une proximité avec son Seigneur toute particulière et semble plus réceptif à Ses grâces qui n’avaient pourtant jamais cessé d’être déversées sur lui&nbsp;! Le temps de la maladie devient alors un temps propice à la méditation, au recueillement, à la prière dans l’attente, éventuellement, d’une guérison qui ne serait dépendre des seules compétences du médecin ou de l’observance attentive du traitement.
 
-> Que le délai mis à t’accorder ce que tu as demandé par des prières insistantes ne cause pas ton désespoir&nbsp;; l’exaucement de tes prières t’est garanti pour les choses qu’Il a choisi de t’accorder, et non pas pour celles que tu as choisies pour toi-même&nbsp;; et elles te seront accordées au moment où Il le veut, et non pas au moment que tu souhaites.[^6][^6]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam.*
+> Que le délai mis à t’accorder ce que tu as demandé par des prières insistantes ne cause pas ton désespoir&nbsp;; l’exaucement de tes prières t’est garanti pour les choses qu’Il a choisi de t’accorder, et non pas pour celles que tu as choisies pour toi-même&nbsp;; et elles te seront accordées au moment où Il le veut, et non pas au moment que tu souhaites.[^7]
 
 La maladie, considérée comme une possibilité particulière de connaissance, à la fois de soi-même, du monde qui nous entoure et surtout de Dieu, rappelle que, selon l’islam, chaque chose a une signification spirituelle dans le Plan divin.
 
@@ -78,6 +78,7 @@ L’islam met l’accent sur le respect de la sacralité du corps qui a droit à
 [^4]: Coran 2&nbsp;: 286.
 [^5]: Coran 23&nbsp;: 115-116.
 [^6]: Coran 2&nbsp;: 155.
+[^7]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam.*
 
 [^7]: Coran 2&nbsp;: 286.
 
