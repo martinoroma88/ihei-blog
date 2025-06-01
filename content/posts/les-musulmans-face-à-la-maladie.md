@@ -68,16 +68,37 @@ Le corps possède donc une fonction spirituelle qui apparaît à travers tous le
 
 Un homme ou une femme pleinement religieux ne peuvent donc, à vrai dire, jamais être surpris par la mort. Celle-ci est connue, depuis le premier jour où l’on a pris conscience de son état d’humain. La mort d’un parent est également l’occasion pour la famille du défunt ou les proches d’enseigner aux plus jeunes les conditions de la vie d’ici-bas et de l’Au-delà. Ceux-ci devront s’efforcer d’intérioriser cette transmission de connaissance vivante, pour reconnaître la Réalité et y conformer leur existence. Il ne s’agit pas de se préparer psychologiquement à mourir, bien que certains aspects psychiques soient aussi en jeu. Il s’agit plutôt de laisser l’Esprit illuminer et apaiser l’âme agitée par l’ignorance, en gardant foi dans la Parole de Dieu&nbsp;:
 
+[^1]: Bukhârî.
+
 [^2]: Coran 94&nbsp;: 5.
+
 [^3]: Coran 51&nbsp;: 56.
+
+
 [^4]: Coran 2&nbsp;: 286.
+
+
 [^5]: Coran 23&nbsp;: 115-116.
+
+
 [^6]: Coran 2&nbsp;: 155.
+
+
 [^7]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam.*
+
+
 [^8]: Coran 23&nbsp;: 115-116.
+
+
 [^9]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
+
+
 [^10]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
+
+
 [^11]: Bukhârî et Muslim.
+
+
 [^12]: Muslim.
 
 [^7]: Coran 2&nbsp;: 286.
