@@ -6,7 +6,7 @@ auteur: Abd al-Qouddous Jibril Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1603650879/samples/landscapes/nature-mountains.jpg
 category: Islam en pratique
 ---
-Un had&icir;th dit que Dieu n’a jamais fait descendre un mal sans faire descendre un remède contre lui.[^1]
+Un had&icir;th dit que Dieu n’a jamais fait descendre un mal sans faire descendre un remède contre lui.[^1](Bukhârî.)
 
 Cette tradition prophétique n’est pas sans rappeler le texte coranique qui dit&nbsp;:
 
@@ -56,7 +56,7 @@ En islam, comme dans d’autres traditions, le malade est soutenu par son entour
 
 > Tous les cœurs des enfants d’Adam sont entre deux des doigts du Miséricordieux, comme un seul cœur, et Il les dirige à Sa guise.[^12]
 
-De m&ecirc;me, le soignant musulman agira avec le malade en ayant conscience que les soins prodigués sont avant tout adressés à la personne en tant que créature de Dieu, faite à Son image et à Sa ressemblance quelque soit l’état de dépendance physique ou psychique dans lequel Dieu a mis le patient. Le risque pour le soignant, (qu’il fasse partie du corps médical ou paramédical), est d’associer sa connaissance de la maladie, du remède et la guérison, à sa propre participation, à ses seules compétences, et d’oublier ainsi que l’on ne saurait conditionné la réalité divine à notre entendement. Il doit donc se faire le moyen par lequel Dieu décide ou pas d’agir. L’islam met l’accent sur le respect de la sacralité du corps qui a droit à l’égard dû à sa noblesse. En effet, l’enveloppe charnelle, qui est comme le vêtement de notre âme, participe aux différents rites, recevant ainsi des bénédictions divines.
+De m&ecirc;me, le soignant musulman agira avec le malade en ayant conscience que les soins prodigués sont avant tout adressés à la personne en tant que créature de Dieu, faite à Son image et à Sa ressemblance quelque soit l’état de dépendance physique ou psychique dans lequel Dieu a mis le patient. Le risque pour le soignant —&nbsp;qu’il fasse partie du corps médical ou paramédical&nbsp;— est d’associer sa connaissance de la maladie, du remède et de la guérison, à sa propre participation, à ses seules compétences, et d’oublier ainsi que l’on ne saurait conditionné la réalité divine à notre entendement. Il doit donc se faire le moyen par lequel Dieu décide ou pas d’agir. L’islam met l’accent sur le respect de la sacralité du corps qui a droit à l’égard dû à sa noblesse. En effet, l’enveloppe charnelle, qui est comme le vêtement de notre âme, participe aux différents rites, recevant ainsi des bénédictions divines.
 
 Une autre issue possible de la maladie en dehors de la guérison est la mort. Car «&nbsp;c’est Lui qui fait vivre et qui fait mourir, et c’est vers Lui que vous retournerez&nbsp;» mentionne le Saint Coran.[^5] Pour cette raison, le décès, qui concerne tout être vivant, ne se présente pas comme une fatalité insurmontable et irrationnelle aux yeux des croyants. En Occident, la mort, ou du moins le sens qu’elle y a pris, semble représenter pour certains au contraire un bouleversement et un anéantissement dans une sorte d’inconnu face auquel est vécue une terrible angoisse. L’âme de l’homme moderne ressent un véritable arrachement à ses passions, en se rendant compte que ce à quoi elle attachait de l’importance est destiné à finir. Le croyant soumis à Dieu s’efforce de n’avoir aucun lien qui le retiendrait ici-bas, ni aucune illusion quant à sa vie sur terre. Il s’occupe du monde sans être préoccupé par le monde, en sachant dès le début que toute chose a une fin, et que la mort fait partie intégrante de la vie.
 
@@ -65,14 +65,13 @@ L’abandon confiant à Dieu incite l’homme à dépasser ses craintes, ses ill
 Le corps possède donc une fonction spirituelle qui apparaît à travers tous les actes rituels, et plus particulièrement les rites mortuaires. En effet, on procède traditionnellement au lavage du corps du défunt avant son inhumation, suivant le rite de l’ablution majeure (*ghusl*). Par là, l’homme se sacralise entièrement, en purifiant à la fois son corps et son âme, le temple où vit l’Esprit. Ainsi, le défunt est-il préparé et mis dans un état de prière perpétuelle, d’une consécration permanente et d’une purification intérieure qui symbolisent l’extinction de l’individualité. Se souvenir de sa propre mort incite le croyant à faire preuve d’humilité et de vigilance spirituelles, dans la conscience que Dieu peut le rappeler à tout moment auprès de Lui. On rapporte qu’il faut agir dans ce monde comme si on allait y vivre mille ans, et pour l’Autre monde comme si on allait le rejoindre demain. La mort en elle-même n’est pas à craindre, car seul Dieu est à craindre&nbsp;:
 
 > C’est Lui qui donne la vie et qui donne la mort. Et Il est Puissant sur toute chose.&nbsp;»sourate 10&nbsp;: 5.
-
+>
 > Rien ne peut être précipité ni ralenti «&nbsp;Un terme est fixé à chaque communauté&nbsp;; lorsque son terme arrive, elle ne peut ni le faire reculer ni l’avancer d’une heure.&nbsp;»[^8]Coran 7&nbsp;: 34.
 
 Un homme ou une femme pleinement religieux ne peuvent donc, à vrai dire, jamais être surpris par la mort. Celle-ci est connue, depuis le premier jour où l’on a pris conscience de son état d’humain. La mort d’un parent est également l’occasion pour la famille du défunt ou les proches d’enseigner aux plus jeunes les conditions de la vie d’ici-bas et de l’Au-delà. Ceux-ci devront s’efforcer d’intérioriser cette transmission de connaissance vivante, pour reconnaître la Réalité et y conformer leur existence. Il ne s’agit pas de se préparer psychologiquement à mourir, bien que certains aspects psychiques soient aussi en jeu. Il s’agit plutôt de laisser l’Esprit illuminer et apaiser l’âme agitée par l’ignorance, en gardant foi dans la Parole de Dieu&nbsp;:
 
 > Souvenez-vous de Moi, Je Me souviendrai de vous. Remerciez-Moi et ne soyez pas ingrat envers Moi&nbsp;! Ô les croyants&nbsp;! Cherchez secours dans la patience et la prière. En vérité, Dieu est avec ceux qui sont patients. Et ne dites pas de ceux qui sont tués dans le chemin de Dieu qu’ils sont morts. Au contraire ils sont vivants, mais vous n’en avez pas conscience. Nous vous éprouverons très certainement par un peu de peur, de faim et des pertes de biens, d’âmes et de récoltes. Et fais la bonne annonce à ceux qui sont patients, qui disent, quand un malheur les atteint&nbsp;: «&nbsp;En vérité, nous appartenons à Dieu, et à Lui nous retournons.&nbsp;» Ceux-là reçoivent des prières de leur Seigneur. Ceux-là sont les biens guidés.
 
-[^1]: Bukhârî.
 [^2]: Coran 94&nbsp;: 5.
 [^3]: Coran 51&nbsp;: 56.
 [^4]: Coran 2&nbsp;: 286.
@@ -86,8 +85,6 @@ Un homme ou une femme pleinement religieux ne peuvent donc, à vrai dire, jamais
 [^12]: Muslim.
 
 [^7]: Coran 2&nbsp;: 286.
-
-
 
 [^9]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
 
