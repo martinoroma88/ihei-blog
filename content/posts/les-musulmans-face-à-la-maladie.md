@@ -10,13 +10,13 @@ Un had&icir;th dit que Dieu n’a jamais fait descendre un mal sans faire descen
 
 Cette tradition prophétique n’est pas sans rappeler le texte coranique qui dit&nbsp;:
 
-À côté de la difficulté est, certes, une facilité&nbsp;![^2][^2]: Coran 94&nbsp;: 5.
+À côté de la difficulté est, certes, une facilité&nbsp;![^2]
 
 Ainsi, Dieu et Son Messager nous assurent que la maladie, qui peut, certes, induire une difficulté dans la vie du croyant, n’est pas une fatalité en soi. L’islam enjoint le croyant à chercher un remède contre la maladie mais en gardant toujours à l’Esprit que l’issue de la maladie n’est connue et ne dépend que de Dieu.
 
 Il est peut-&ecir;tre nécessaire de rappeler que la maladie n’est pas envisagée, avant tout, comme une punition ou une épreuve injuste qui accablerait le croyant ou la croyante mais que la maladie fait partie des conditions de l’existence d’ici-bas. Le corps et l’âme du fidèle sont un prêt de Dieu et l’islam incite les croyants à en prendre soin, à les préserver et à les disposer pour la vocation première de l’Homme sur Terre&nbsp;:
 
-> Je n’ai créé les djinns et les hommes que pour qu’ils M'adorent.[^3][^3]: Coran 51&nbsp;: 56.
+> Je n’ai créé les djinns et les hommes que pour qu’ils M'adorent.[^3]
 
 Quelque soit la maladie et sa gravité, il est important de garder à l’esprit que «&nbsp;Dieu n’impose à chaque homme que ce qu’il peut porter&nbsp;».[^4][^4]: Coran 2&nbsp;: 286. En effet, les conditions extérieures peuvent sembler difficiles, pénibles, éprouvantes, mais Dieu rappelle que Sa miséricorde embrasse toute chose.[^5][^5]: Coran 23&nbsp;: 115-116.
 
@@ -73,6 +73,9 @@ L’islam met l’accent sur le respect de la sacralité du corps qui a droit à
 > Souvenez-vous de Moi, Je Me souviendrai de vous. Remerciez-Moi et ne soyez pas ingrat envers Moi&nbsp;! Ô les croyants&nbsp;! Cherchez secours dans la patience et la prière. En vérité, Dieu est avec ceux qui sont patients. Et ne dites pas de ceux qui sont tués dans le chemin de Dieu qu’ils sont morts. Au contraire ils sont vivants, mais vous n’en avez pas conscience. Nous vous éprouverons très certainement par un peu de peur, de faim et des pertes de biens, d’âmes et de récoltes. Et fais la bonne annonce à ceux qui sont patients, qui disent, quand un malheur les atteint&nbsp;: «&nbsp;En vérité, nous appartenons à Dieu, et à Lui nous retournons.&nbsp;» Ceux-là reçoivent des prières de leur Seigneur. Ceux-là sont les biens guidés.
 
 [^1]: Bukhârî.
+[^2]: Coran 94&nbsp;: 5.
+[^3]: Coran 51&nbsp;: 56.
+
 
 [^7]: Coran 2&nbsp;: 286.
 
