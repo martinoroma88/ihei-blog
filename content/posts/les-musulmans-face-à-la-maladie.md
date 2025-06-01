@@ -44,7 +44,7 @@ En effet, dans l’état de faiblesse, il s’opère un véritable dépouillemen
 
 Nul ne sait où, quand et comment il mourra, ni même comment il vivra, et le malade doit être conscient, nous dirions même certain, serein que la réalité qui est en lui et qui l’entoure n’est pas conditionnée par sa capacité à comprendre les choses. Dans ce moment délicat et fragile qu’est la maladie, l’homme ou la femme apprend à connaître son âme et il est dit que celui qui connaît son âme connaît son Seigneur.
 
-Le remède évoqué dans la première tradition prophétique est avant tout spirituel car si le corps ou l’âme est malade et peut, dans certains cas, rester dans cet état indéfiniment, l’Esprit quant à lui doit rester confiant dans le décret divin.
+Le remède évoqué dans la première tradition prophétique est avant tout spirituel car si le corps ou l’âme est malade et peut, dans certains cas, rester dans cet état indéfiniment, l’esprit quant à lui doit rester confiant dans le décret divin.
 
 > Celui qui s’efforce de supporter patiemment (le malheur), Dieu le dotera de patience. Nul ne reçoit plus ample bonheur que la patience.[^11]
 
