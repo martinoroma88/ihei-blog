@@ -60,6 +60,8 @@ En islam, comme dans d’autres traditions, le malade est soutenu par son entour
 
 De m&ecirc;me, le soignant musulman agira avec le malade en ayant conscience que les soins prodigués sont avant tout adressés à la personne en tant que créature de Dieu, faite à Son image et à Sa ressemblance quelque soit l’état de dépendance physique ou psychique dans lequel Dieu a mis le patient. Il devra faire preuve de patience, d’écoute, d’empathie et de bienveillance afin que le malade, qu’il soit croyant ou non, accepte la médication qui peut dans certaines situations rebuter le malade qui ne voit pas toujours le bien dans ce qui lui est conseillé. Le risque pour le soignant —&nbsp;qu’il fasse partie du corps médical ou paramédical&nbsp;— est d’associer sa connaissance de la maladie, du remède et de la guérison, à sa propre participation, à ses seules compétences, et d’oublier ainsi que l’on ne saurait conditionné la Réalité divine à notre entendement. Il doit donc se faire le moyen par lequel Dieu décide ou pas d’agir. L’islam met l’accent sur le respect de la sacralité du corps qui a droit à l’égard dû à sa noblesse. En effet, l’enveloppe charnelle, qui est comme le vêtement de notre âme, participe aux différents rites, recevant ainsi des bénédictions divines. C’est pourquoi, le soignant musulman devra s’efforcer de prodiguer les soins les moins douloureux, les moins nocifs possibles pour garantir l’intégrité de la personne et lui permettre de ne pas avoir à supporter des souffrances induites par les soins tout au long de sa vie.
 
+[^1]: Bukhârî.
+
 [^2]: Coran 94&nbsp;: 5.
 
 [^3]: Coran 51&nbsp;: 56.
