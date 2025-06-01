@@ -30,7 +30,7 @@ Ils sont contraints à s’orienter vers Celui dont tout dépend, *As-Samad*. En
 
 > Que le délai mis à t’accorder ce que tu as demandé par des prières insistantes ne cause pas ton désespoir&nbsp;; l’exaucement de tes prières t’est garanti pour les choses qu’Il a choisi de t’accorder, et non pas pour celles que tu as choisies pour toi-même&nbsp;; et elles te seront accordées au moment où Il le veut, et non pas au moment que tu souhaites.[^7]
 
-La maladie, considérée comme une possibilité particulière de connaissance, à la fois de soi-même, du monde qui nous entoure et surtout de Dieu, rappelle que, selon l’islam, chaque chose a une signification spirituelle dans le Plan divin.
+La maladie, considérée comme une possibilité particulière de connaissance, à la fois de soi-même, du monde qui nous entoure et surtout de Dieu, nous rappelle que, selon l’islam, chaque chose a une signification spirituelle dans le Plan divin.
 
 > Pensiez-vous que Nous vous avions créés sans but, et que vous ne seriez pas ramenés vers Nous&nbsp;? Que soit exalté Allah, le vrai Souverain&nbsp;! Pas de divinité en dehors de Lui, le Seigneur du Trône sublime&nbsp;![^8]
 
