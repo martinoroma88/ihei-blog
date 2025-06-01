@@ -48,7 +48,7 @@ Le Coran exhorte les croyants à se purifier en gardant la constance dans la pri
 
 Le remède évoqué dans la première tradition prophétique est avant tout spirituel car si le corps ou l’âme est malade et peut dans certains cas rester dans cet état indéfiniment, l’Esprit quant à lui doit rester confiant dans le décret divin.
 
-> Celui qui s’efforce de supporter patiemment (le malheur), Dieu le dotera de patience. Nul ne reçoit plus ample bonheur que la patience.[^10][^10]: Bukhârî et Musl&icirc;m.
+> Celui qui s’efforce de supporter patiemment (le malheur), Dieu le dotera de patience. Nul ne reçoit plus ample bonheur que la patience.[^11]
 
 L’islam offre à ces fidèles la possibilité de vivre leur foi et leur pratique en tout lieu avec des facilités notamment au cours d’une maladie. Chaque musulman est son propre prêtre et peut donc exécuter, seul, tous les rites. Il n’a pas nécessairement besoin d’un lieu pour prier car dès lors qu’il exécute la prière rituelle le lieu devient pour lui une mosquée, c’est-à-dire un lieu de prosternation. Nous avons mentionné l’existence de facilités dans la pratique de la foi musulmane, nous prendrons comme exemple les ablutions qui sont intimement liées à la prière rituelle et qui la précèdent. Elles se font habituellement avec de l’eau, mais peuvent être faites avec une pierre. Les ablutions sont avant tout une purification de l’âme et une préparation à cet entretien avec Dieu que le musulman exécute cinq fois par jour. De même, selon l’état du patient, il n’est pas rare de voir le croyant faire ses prières dans un moment qui lui semble plus facile, raccourcir ces gestes ou ne faire plus qu’un signe de la tête ou même des yeux.
 
@@ -82,6 +82,7 @@ L’islam met l’accent sur le respect de la sacralité du corps qui a droit à
 [^8]: Coran 23&nbsp;: 115-116.
 [^9]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
 [^10]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
+[^11]: Bukhârî et Musl&icirc;m.
 
 [^7]: Coran 2&nbsp;: 286.
 
