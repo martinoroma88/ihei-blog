@@ -32,11 +32,11 @@ Ils sont contraints à s’orienter vers Celui dont tout dépend, *As-Samad*. En
 
 La maladie, considérée comme une possibilité particulière de connaissance, à la fois de soi-même, du monde qui nous entoure et surtout de Dieu, rappelle que, selon l’islam, chaque chose a une signification spirituelle dans le Plan divin.
 
-> Pensiez-vous que Nous vous avions créés sans but, et que vous ne seriez pas ramenés vers Nous&nbsp;? Que soit exalté Allah, le vrai Souverain&nbsp;! Pas de divinité en dehors de Lui, le Seigneur du Trône sublime&nbsp;![^7][^7]: Coran 23&nbsp;: 115-116.
+> Pensiez-vous que Nous vous avions créés sans but, et que vous ne seriez pas ramenés vers Nous&nbsp;? Que soit exalté Allah, le vrai Souverain&nbsp;! Pas de divinité en dehors de Lui, le Seigneur du Trône sublime&nbsp;![^8]
 
 Tout au long de la vie, Dieu éduque Son serviteur et le purifie au rythme des évènements diverses et variés, pour éprouver sa sincérité et faire entrer Son serviteur dans un état de proximité qu’Il a décrété de toute éternité.
 
-> Rien n’est plus profitable au cœur que l’isolement&nbsp;; par lui, il entre dans l’arène de la méditation.[^8][^8]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
+> Rien n’est plus profitable au cœur que l’isolement&nbsp;; par lui, il entre dans l’arène de la méditation.[^9]
 
 En effet, dans l’état de faiblesse, il s’opère un véritable dépouillement de l’égo que le croyant doit s’efforcer de maintenir par la suite dans sa vie de tous les jours —&nbsp;même s’il n’est plus malade&nbsp;— en revêtant l’habit par excellence, la crainte révérencielle de Dieu, *at-taqwâ*, comme il est rappelé dans le Coran. Il ne s’agit pas par là d’une fatalité ou d’une acceptation passive de son destin mais de reconnaître dans celui-ci le Vouloir divin, les bienfaits de Dieu, même si ceux-ci n’apparaissent pas immédiatement ou ne correspondent pas à l’attente que l’on s’était faite.
 
@@ -79,6 +79,8 @@ L’islam met l’accent sur le respect de la sacralité du corps qui a droit à
 [^5]: Coran 23&nbsp;: 115-116.
 [^6]: Coran 2&nbsp;: 155.
 [^7]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam.*
+[^8]: Coran 23&nbsp;: 115-116.
+[^9]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
 
 [^7]: Coran 2&nbsp;: 286.
 
