@@ -18,7 +18,7 @@ Il est peut-&ecir;tre nécessaire de rappeler que la maladie n’est pas envisag
 
 > Je n’ai créé les djinns et les hommes que pour qu’ils M'adorent.[^3]
 
-Quelque soit la maladie et sa gravité, il est important de garder à l’esprit que «&nbsp;Dieu n’impose à chaque homme que ce qu’il peut porter&nbsp;».[^4][^4]: Coran 2&nbsp;: 286. En effet, les conditions extérieures peuvent sembler difficiles, pénibles, éprouvantes, mais Dieu rappelle que Sa miséricorde embrasse toute chose.[^5][^5]: Coran 23&nbsp;: 115-116.
+Quelque soit la maladie et sa gravité, il est important de garder à l’esprit que «&nbsp;Dieu n’impose à chaque homme que ce qu’il peut porter&nbsp;».[^4] En effet, les conditions extérieures peuvent sembler difficiles, pénibles, éprouvantes, mais Dieu rappelle que Sa miséricorde embrasse toute chose.[^5][^5]: Coran 23&nbsp;: 115-116.
 
 De nombreux saints et prophètes ont été malades et sont morts dans des conditions que certains hommes ou femmes ne pourraient supporter. Le Prophète Muhammad () est lui-même décédé avec sur son corps les marques d’une certaine souffrance, néanmoins il est resté digne jusqu’à son dernier souffle et confiant en Dieu.
 
@@ -75,6 +75,7 @@ L’islam met l’accent sur le respect de la sacralité du corps qui a droit à
 [^1]: Bukhârî.
 [^2]: Coran 94&nbsp;: 5.
 [^3]: Coran 51&nbsp;: 56.
+[^4]: Coran 2&nbsp;: 286.
 
 
 [^7]: Coran 2&nbsp;: 286.
