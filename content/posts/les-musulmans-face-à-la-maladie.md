@@ -6,7 +6,7 @@ auteur: Abd al-Qouddous Jibril Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1603650879/samples/landscapes/nature-mountains.jpg
 category: Islam en pratique
 ---
-Un had&icir;th dit que Dieu n’a jamais fait descendre un mal sans faire descendre un remède contre lui.[^1][^1]: Bukhârî.
+Un had&icir;th dit que Dieu n’a jamais fait descendre un mal sans faire descendre un remède contre lui.[^1]
 
 Cette tradition prophétique n’est pas sans rappeler le texte coranique qui dit&nbsp;:
 
@@ -72,7 +72,7 @@ L’islam met l’accent sur le respect de la sacralité du corps qui a droit à
 >
 > Souvenez-vous de Moi, Je Me souviendrai de vous. Remerciez-Moi et ne soyez pas ingrat envers Moi&nbsp;! Ô les croyants&nbsp;! Cherchez secours dans la patience et la prière. En vérité, Dieu est avec ceux qui sont patients. Et ne dites pas de ceux qui sont tués dans le chemin de Dieu qu’ils sont morts. Au contraire ils sont vivants, mais vous n’en avez pas conscience. Nous vous éprouverons très certainement par un peu de peur, de faim et des pertes de biens, d’âmes et de récoltes. Et fais la bonne annonce à ceux qui sont patients, qui disent, quand un malheur les atteint&nbsp;: «&nbsp;En vérité, nous appartenons à Dieu, et à Lui nous retournons.&nbsp;» Ceux-là reçoivent des prières de leur Seigneur. Ceux-là sont les biens guidés.
 
-
+[^1]: Bukhârî.
 
 [^7]: Coran 2&nbsp;: 286.
 
