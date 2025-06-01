@@ -24,7 +24,7 @@ De nombreux saints et prophètes ont été malades et sont morts dans des condit
 
 Au travers de la maladie, l’homme et la femme sont éprouvés&nbsp;:
 
-> Très certainement, Nous vous éprouverons par un peu de peur, de faim et de diminution de biens, de personnes et de fruits. Et fais la bonne annonce aux endurants.[^6][^6]: Coran 2&nbsp;: 155.
+> Très certainement, Nous vous éprouverons par un peu de peur, de faim et de diminution de biens, de personnes et de fruits. Et fais la bonne annonce aux endurants.[^6]
 
 Ils sont contraints à s’orienter vers Celui dont tout dépend, *As-Samad*. En étant ramené parfois aux choses les plus essentielles, les plus vitales selon le degré de la maladie, le croyant goûte à une proximité avec son Seigneur toute particulière et semble plus réceptif à Ses grâces qui n’avaient pourtant jamais cessé d’être déversées&nbsp;! Le temps de la maladie devient alors un temps propice à la méditation, au recueillement, à la prière dans l’attente, éventuellement, d’une guérison qui ne serait dépendre des seules compétences du médecin ou de l’observance attentive du traitement.
 
@@ -77,7 +77,7 @@ L’islam met l’accent sur le respect de la sacralité du corps qui a droit à
 [^3]: Coran 51&nbsp;: 56.
 [^4]: Coran 2&nbsp;: 286.
 [^5]: Coran 23&nbsp;: 115-116.
-
+[^6]: Coran 2&nbsp;: 155.
 
 [^7]: Coran 2&nbsp;: 286.
 
