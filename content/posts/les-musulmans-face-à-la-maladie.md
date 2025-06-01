@@ -38,7 +38,7 @@ Tout au long de la vie, Dieu éduque Son serviteur et le purifie au rythme des �
 
 > Rien n’est plus profitable au cœur que l’isolement&nbsp;; par lui, il entre dans l’arène de la méditation.[^9]
 
-En effet, dans l’état de faiblesse, il s’opère un véritable dépouillement de l’égo que le croyant doit s’efforcer de maintenir par la suite dans sa vie de tous les jours —&nbsp;même s’il n’est plus malade&nbsp;— en revêtant l’habit par excellence, la crainte révérencielle de Dieu, *at-taqwâ*, comme il est rappelé dans le Coran. Il ne s’agit pas par là d’une fatalité ou d’une acceptation passive de son destin mais de reconnaître dans celui-ci le Vouloir divin, les bienfaits de Dieu, même si ceux-ci n’apparaissent pas immédiatement ou ne correspondent pas à l’attente que l’on s’était faite.
+En effet, dans l’état de faiblesse, il s’opère un véritable dépouillement de l’égo que le croyant doit s’efforcer de maintenir par la suite dans sa vie de tous les jours —&nbsp;même s’il n’est plus malade&nbsp;— en revêtant l’habit par excellence, la crainte révérencielle de Dieu, *at-taqwâ*, comme il est rappelé dans le Coran. Il ne s’agit pas là d’une fatalité ou d’une acceptation passive de son destin mais de reconnaître dans celui-ci le Vouloir divin, les bienfaits de Dieu, même si ceux-ci n’apparaissent pas immédiatement ou ne correspondent pas à l’attente que l’on s’était faite.
 
 > Le meilleur de tes instants est celui où tu es conscient de ton besoin (de Dieu) et tu es ramené à la réalité de ton humble condition.[^9][^9]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
 
