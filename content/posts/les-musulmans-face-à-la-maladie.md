@@ -10,7 +10,7 @@ Un had&icir;th dit que Dieu n’a jamais fait descendre un mal sans faire descen
 
 Cette tradition prophétique n’est pas sans rappeler le texte coranique qui dit&nbsp;:
 
-À côté de la difficulté est, certes, une facilité&nbsp;![^2]
+> À côté de la difficulté est, certes, une facilité&nbsp;![^2]
 
 Ainsi, Dieu et Son Messager nous assurent que la maladie, qui peut, certes, induire une difficulté dans la vie du croyant, n’est pas une fatalité en soi. L’islam enjoint le croyant à chercher un remède contre la maladie mais en gardant toujours à l’Esprit que l’issue de la maladie n’est connue et ne dépend que de Dieu.
 
