@@ -31,7 +31,6 @@ export default {
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [
-    { src: '~/plugins/gdpr-banner', mode: 'client' },
     { src: '~/plugins/custom-footnotes', mode: 'client' }
   ],
 

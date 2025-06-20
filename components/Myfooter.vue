@@ -76,7 +76,7 @@
             <span class="text-sm">
               J'ai lu et accepté la
               <a
-                href="https://www.iubenda.com/privacy-policy/39983958"
+                href="/privacy-policy_ihei-asso-org.pdf"
                 target="_blank"
                 ><u>politique de confidentialité</u></a
               >.
@@ -112,14 +112,8 @@
           <a
             class="link underline block"
             target="_blank"
-            href="https://www.iubenda.com/privacy-policy/39983958"
+            href="/privacy-policy_ihei-asso-org.pdf"
             >Politique de confidentialité,</a
-          >
-          <a
-            class="link underline block"
-            target="_blank"
-            href="https://www.iubenda.com/privacy-policy/39983958/cookie-policy"
-            >Politique des cookies,</a
           >
           <a
             class="link underline block"
@@ -182,14 +176,8 @@
           <a
             class="link underline"
             target="_blank"
-            href="https://www.iubenda.com/privacy-policy/39983958"
+            href="/privacy-policy_ihei-asso-org.pdf"
             >Politique de confidentialité</a
-          >,
-          <a
-            class="link underline"
-            target="_blank"
-            href="https://www.iubenda.com/privacy-policy/39983958/cookie-policy"
-            >Politique des cookies</a
           >
         </p>
       </div>
