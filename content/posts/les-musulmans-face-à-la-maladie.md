@@ -68,7 +68,7 @@ Déjà la Genèse rappelait «&nbsp;Souviens-toi, homme, que tu es poussière et
 
 
 
-\[1]: Bukhârî
+\[1]: Bukh&acir;r&icir;.
 
 [^2]: Coran 94&nbsp;: 5.
 
@@ -80,14 +80,14 @@ Déjà la Genèse rappelait «&nbsp;Souviens-toi, homme, que tu es poussière et
 
 [^6]: Coran 2&nbsp;: 155.
 
-[^7]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam.*
+[^7]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam.*
 
 [^8]: Coran 23&nbsp;: 115-116.
 
-[^9]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
+[^9]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam*.
 
-[^10]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
+[^10]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam*.
 
-[^11]: Bukhârî et Muslim.
+[^11]: Bukh&acir;r&icir; et Muslim.
 
 [^12]: Muslim.
