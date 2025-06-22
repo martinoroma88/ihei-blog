@@ -68,7 +68,7 @@ Déjà la Genèse rappelait «&nbsp;Souviens-toi, homme, que tu es poussière et
 
 
 
-\[1]: Bukh&acir;r&icir;.
+[^1]: Bukh&acir;r&icir;.
 
 [^2]: Coran 94&nbsp;: 5.
 
