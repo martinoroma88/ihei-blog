@@ -10,7 +10,7 @@ Un had&icir;th dit que Dieu n’a jamais fait descendre un mal sans faire descen
 
 Cette tradition prophétique n’est pas sans rappeler le texte coranique qui dit&nbsp;:
 
-> À côté de la difficulté est, certes, une facilité&nbsp;![^2]
+> À c&ocir;té de la difficulté est, certes, une facilité&nbsp;![^2]
 
 Ainsi, Dieu et Son Messager nous assurent que la maladie n’est pas une fatalité en soi et qu’elle est toujours accompagnée de son remède, connu de certains et inconnu pour d’autres. L’islam enjoint, d’ailleurs, le croyant à chercher un remède contre la maladie mais en gardant, toujours, à l’esprit que l’issue de la maladie n’est connue et ne dépend que de Dieu.
 
@@ -20,7 +20,7 @@ Il est peut-&ecir;tre nécessaire de rappeler que la maladie n’est pas envisag
 
 ## La maladie vécue comme une épreuve de purification
 
-Quelque soit la maladie et sa gravité, il est important de garder à l’esprit que «&nbsp;Dieu n’impose à chaque homme que ce qu’il peut porter&nbsp;».[^4] En effet, les conditions extérieures peuvent sembler difficiles, pénibles, éprouvantes, mais Dieu rappelle que Sa miséricorde embrasse toute chose.[^5] De nombreux saints et prophètes ont été malades et sont morts dans des conditions que certains hommes ou femmes ne pourraient supporter. Le Prophète Muhammad (), lui-même, n’a pas été épargné mais il sut faire preuve de patience et de soumission jusqu’à son dernier souffle.
+Quelque soit la maladie et sa gravité, il est important de garder à l’esprit que «&nbsp;Dieu n’impose à chaque homme que ce qu’il peut porter&nbsp;».[^4] En effet, les conditions extérieures peuvent sembler difficiles, pénibles, éprouvantes, mais Dieu rappelle que Sa miséricorde embrasse toute chose.[^5] De nombreux saints et prophètes ont été malades et sont morts dans des conditions que certains hommes ou femmes ne pourraient supporter. Le Prophète Muhammad (*çallâ-Llâhu ‘alayhi wa sallam* —&nbsp;que la Bénédiction et la Paix de Dieu soient sur lui), lui-même, n’a pas été épargné mais il sut faire preuve de patience et de soumission jusqu’à son dernier souffle.
 
 Au travers de la maladie, l’homme et la femme sont éprouvés&nbsp;:
 
@@ -38,7 +38,7 @@ Tout au long de la vie, Dieu éduque Son serviteur et le purifie au rythme des �
 
 > Rien n’est plus profitable au cœur que l’isolement&nbsp;; par lui, il entre dans l’arène de la méditation.[^9]
 
-En effet, dans l’état de faiblesse, il s’opère un véritable dépouillement de l’égo que le croyant doit s’efforcer de maintenir par la suite dans sa vie de tous les jours —&nbsp;même s’il n’est plus malade&nbsp;— en revêtant l’habit par excellence, la crainte révérencielle de Dieu, *at-taqwâ*, comme il est rappelé dans le Coran. Il ne s’agit pas là d’une fatalité ou d’une acceptation passive de son destin mais de reconnaître dans celui-ci le Vouloir divin, les bienfaits de Dieu, même si ceux-ci n’apparaissent pas immédiatement ou ne correspondent pas à l’attente que l’on s’en était faite.
+En effet, dans l’état de faiblesse, il s’opère un véritable dépouillement de l’égo que le croyant doit s’efforcer de maintenir par la suite dans sa vie de tous les jours —&nbsp;même s’il n’est plus malade&nbsp;— en revêtant l’habit par excellence, la crainte révérencielle de Dieu, *at-taqwâ*, comme il est rappelé dans le Coran. Il ne s’agit pas là d’un fatalisme ou d’une acceptation passive de son destin mais de reconnaître dans celui-ci le Vouloir divin, les bienfaits de Dieu, même si ceux-ci n’apparaissent pas immédiatement ou ne correspondent pas à l’attente que l’on s’en était faite.
 
 > Le meilleur de tes instants est celui où tu es conscient de ton besoin (de Dieu) et tu es ramené à la réalité de ton humble condition.[^10]
 
