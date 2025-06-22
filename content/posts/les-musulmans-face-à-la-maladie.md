@@ -18,7 +18,7 @@ Il est peut-&ecir;tre nécessaire de rappeler que la maladie n’est pas envisag
 
 > Je n’ai créé les djinns et les hommes que pour qu’ils M’adorent.[^3]
 
-## La maladie vécue comme une épreuve
+## La maladie vécue comme une épreuve de purification
 
 Quelque soit la maladie et sa gravité, il est important de garder à l’esprit que «&nbsp;Dieu n’impose à chaque homme que ce qu’il peut porter&nbsp;».[^4] En effet, les conditions extérieures peuvent sembler difficiles, pénibles, éprouvantes, mais Dieu rappelle que Sa miséricorde embrasse toute chose.[^5] De nombreux saints et prophètes ont été malades et sont morts dans des conditions que certains hommes ou femmes ne pourraient supporter. Le Prophète Muhammad (), lui-même, n’a pas été épargné mais il sut faire preuve de patience et de soumission jusqu’à son dernier souffle.
 
