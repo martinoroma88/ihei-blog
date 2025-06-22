@@ -6,15 +6,15 @@ auteur: Abd al-Qouddous Jibril Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1603650879/samples/landscapes/nature-mountains.jpg
 category: Islam en pratique
 ---
-Un had&icir;th dit que Dieu n’a jamais fait descendre un mal sans faire descendre un remède contre lui.[^1]
+Un had&icir;th dit que Dieu n’a jamais fait descendre un mal sans faire descendre un remède contre lui.[](Bukhârî.)[^1]
 
 Cette tradition prophétique n’est pas sans rappeler le texte coranique qui dit&nbsp;:
 
 > À côté de la difficulté est, certes, une facilité&nbsp;![^2]
 
-Ainsi, Dieu et Son Messager nous assurent que la maladie n’est pas une fatalité en soi. L’islam enjoint, d’ailleurs, le croyant à chercher un remède contre la maladie mais en gardant, toujours, à l’esprit que l’issue de la maladie n’est connue et ne dépend que de Dieu.
+Ainsi, Dieu et Son Messager nous assurent que la maladie n’est pas une fatalité en soi et qu’elle est toujours accompagnée de son remède, connu de certains et inconnu pour d’autres. L’islam enjoint, d’ailleurs, le croyant à chercher un remède contre la maladie mais en gardant, toujours, à l’esprit que l’issue de la maladie n’est connue et ne dépend que de Dieu.
 
-Il est peut-&ecir;tre nécessaire de rappeler que la maladie n’est pas envisagée comme une punition ou une épreuve injuste qui accablerait le croyant ou la croyante mais que la maladie fait partie des conditions de l’existence d’ici-bas. Il existe différentes maladies qui touchent soit le corps, soit l’âme mais, bien souvent, il existe une interaction étroite entre le corps et l’âme si bien que la maladie du corps peut entraîner des répercussions sur l’âme et inversement. Il en est de la création même de l’être humain constitué d’un corps, d’une âme et d’un esprit. Le corps et l’âme correspondant à l’argile boueuse dans lequel Dieu a insufflé de Son esprit après qu’Il eut formée selon Sa forme. Le corps et l’âme sont donc un don de Dieu et l’islam incite les croyants à en prendre soin, à les préserver et à les disposer pour la vocation première de l’Homme sur Terre&nbsp;:
+Il est peut-&ecir;tre nécessaire de rappeler que la maladie n’est pas envisagée comme une punition ou une épreuve injuste qui accablerait le croyant ou la croyante mais que la maladie fait partie des conditions de l’existence d’ici-bas. Il existe différentes maladies qui touchent soit le corps, soit l’âme mais, bien souvent, il existe une interaction étroite entre le corps et l’âme si bien que la maladie du corps peut entraîner des répercussions sur l’âme et inversement. Il en est de la création même de l’être humain constitué d’un corps, d’une âme et d’un esprit. Le corps et l’âme correspondant à l’argile boueuse dans lequel Dieu a insufflé de Son esprit après qu’Il eut formée selon Sa forme. Mais bien que le corps et l’âme sont proprement faillibles de part leur constitution et sont donc soumis à l’altération, ils sont également un don de Dieu et l’islam incite les croyants à en prendre soin, à les préserver et à les disposer pour la vocation première de l’Homme sur Terre&nbsp;:
 
 > Je n’ai créé les djinns et les hommes que pour qu’ils M’adorent.[^3]
 
@@ -46,6 +46,8 @@ Le remède évoqué dans la première tradition prophétique est avant tout spir
 
 > Celui qui s’efforce de supporter patiemment (le malheur), Dieu le dotera de patience. Nul ne reçoit plus ample bonheur que la patience.[^11]
 
+## Le remède
+
 La religion est, elle-m&ecirc;me, souvent considérée comme un remède aux différents maux qui touchent le croyant, et notamment l’homme de cette fin des temps, dont le plus grand mal n’est autre que l’oubli de Dieu. En arabe, le terme pour désigner l’être humain est *insân* et ce nom est formé sur la même racine trilitère (nun-sîn-ya) que le verbe oublier (*nasiyâ*), indiquant le caractère oublieux (*nisîyân*) de tout être humain. Selon la vision de l’islam, la santé repose sur un état d’équilibre dans lequel le cœur du croyant, véritable centre de l’être, joue un rôle fondamental. Il est, en effet, le théâtre d’un combat mené entre différentes tendances qui peuvent faire basculer l’être tout entier dans la félicité comme dans la folie et ce combat, *jihad*, est à mener toute la vie. C’est pourquoi, les maîtres et les savants n’ont de cesse de rappeler aux croyants de s’appuyer sur la pratique des rites, la lecture du Coran, le souvenir de Dieu afin que l’homme se préserve contre les tendances ténébreuses de sa nature et les attaques de l’Adversaire. En soi, le modèle prophétique est à m&ecir;me d’éclairer les croyants sur la manière de polir son cœur, pr&ecirc;ter attention à son &acirc;me ainsi qu’à son corps, lui qui fut envoyé pour parfaire le bon comportement. «&nbsp;N’est-ce pas au souvenir de Dieu que les cœurs s’apaisent&nbsp;?&nbsp;» rapporte le Coran et «&nbsp;Dieu est auprès de l’idée que l’homme se fait de Lui&nbsp;». 
 
 Le Coran exhorte les croyants à se purifier en gardant la constance dans la prière rituelle. Il en va de même pour la demande de pardon à Dieu aussi bien pour les fautes commises consciemment ou inconsciemment, que pour l’oubli de notre réelle nature, qui fait de l’homme avant tout un lieutenant de Dieu sur Terre voué à l’adoration et à la connaissance du Très-Haut. Aussi, même malade, le croyant doit garder une certaine sobriété, une force spirituelle, une tension métaphysique, afin de louer son Seigneur et ne pas se laisser submerger par les idées qu’il se fait de la maladie, de sa gravité ou de son issue. La Réalité ne s’arrête pas à la maladie, la difficulté, le remède ni même à la guérison.
@@ -54,11 +56,17 @@ L’islam offre à ces fidèles la possibilité de vivre leur foi et leur pratiq
 
 En islam, comme dans d’autres traditions, le malade est soutenu par son entourage qu’il soit de sa famille ou pas, et cette solidarité n’est pas sans rappeler la cohésion qui existe dans la prière en commun où les rangs sont serrés et où chacun soutient l’autre par sa seule présence. Il n’est pas inhabituel que la famille rende plus fréquemment visite au malade, qu’elle se soucie de lui et que les amis, les voisins, les fidèles de la mosquée où prie habituellement le malade, l’accompagnent dans cette épreuve, prient pour lui et se rappellent mutuellement la fragilité de la vie d’ici-bas. Mais là encore, le fatalisme et la passivité n’ont pas leur place car l’accompagnement du malade est avant tout une remise confiante en Dieu et une espérance «&nbsp;active&nbsp;». Une espérance dans laquelle le croyant sollicite le Secours Divin et où Dieu enjoint le croyant à L’invoquer par Ses plus beaux Noms&nbsp;!
 
-> Tous les cœurs des enfants d’Adam sont entre deux des doigts du Miséricordieux, comme un seul cœur, et Il les dirige à Sa guise.[^12][](Muslim.)
+> Tous les cœurs des enfants d’Adam sont entre deux des doigts du Miséricordieux, comme un seul cœur, et Il les dirige à Sa guise.[^12](Muslim.)(Muslim.)
+
+## Soigner en tant que musulman
 
 De m&ecirc;me, le soignant musulman agira avec le malade en ayant conscience que les soins prodigués sont avant tout adressés à la personne en tant que créature de Dieu, faite à Son image et à Sa ressemblance quelque soit l’état de dépendance physique ou psychique dans lequel Dieu a mis le patient. Il devra faire preuve de patience, d’écoute, d’empathie et de bienveillance afin que le malade, qu’il soit croyant ou non, accepte le traitement. Il n’est pas rare de voir le malade refuser un traitement soit parce qu’il n’est pas conscient de son bien fondé, soit parce le malade n’arrive pas à se défaire des habitudes qui l’ont rendu malade. Une alliance thérapeutique doit donc se faire entre le soignant et le soigné qui rappelle la confiance que doit porter l’homme à son Créateur. Le risque pour le soignant —&nbsp;qu’il fasse partie du corps médical ou paramédical&nbsp;— est d’associer sa connaissance de la maladie, du remède et de la guérison, à sa propre participation, à ses seules compétences, et d’oublier ainsi que l’on ne saurait conditionné la Réalité divine à notre entendement. Il doit donc se faire le moyen par lequel Dieu décide ou pas d’agir. L’islam met l’accent sur le respect de la sacralité du corps qui a droit à l’égard dû à sa noblesse. En effet, l’enveloppe charnelle, qui est comme le vêtement de notre âme, participe aux différents rites, recevant ainsi des bénédictions divines. C’est pourquoi, le soignant musulman devra s’efforcer de prodiguer les soins les moins douloureux, les moins nocifs possibles pour garantir l’intégrité de la personne et lui permettre de ne pas avoir à supporter des souffrances induites par les soins tout au long de sa vie.
 
-[^1]: Bukhârî.
+Déjà la Genèse rappelait «&nbsp;Souviens-toi, homme, que tu es poussière et que tu redeviendras poussière&nbsp;».
+
+
+
+\[1]: Bukhârî
 
 [^2]: Coran 94&nbsp;: 5.
 
@@ -79,5 +87,3 @@ De m&ecirc;me, le soignant musulman agira avec le malade en ayant conscience que
 [^10]: ‘Ibn Atâ’ Allâh al-Iskandarî, in *Al-Hikam*.
 
 [^11]: Bukhârî et Muslim.
-
-[^12]:  Muslim.
