@@ -44,11 +44,11 @@ En effet, dans l’état de faiblesse, il s’opère un véritable dépouillemen
 
 Nul ne sait où, quand et comment il mourra, ni même comment il vivra, et le malade doit être conscient, nous dirions même certain, serein que la réalité qui est en lui et qui l’entoure n’est pas conditionnée par sa capacité à comprendre les choses. Dans ce moment délicat et fragile qu’est la maladie, l’homme ou la femme apprend à connaître son âme et il est dit que celui qui connaît son âme connaît son Seigneur.
 
+## Le remède
+
 Le remède évoqué dans la première tradition prophétique est avant tout spirituel car si le corps ou l’âme est malade et peut, dans certains cas, rester dans cet état indéfiniment, l’esprit quant à lui doit rester confiant dans le décret divin.
 
 > Celui qui s’efforce de supporter patiemment (le malheur), Dieu le dotera de patience. Nul ne reçoit plus ample bonheur que la patience.[^11]
-
-## Le remède
 
 La religion est, elle-m&ecirc;me, souvent considérée comme un remède aux différents maux qui touchent le croyant, et notamment l’homme de cette fin des temps, dont le plus grand mal n’est autre que l’oubli de Dieu. En arabe, le terme pour désigner l’être humain est *insân* et ce nom est formé sur la même racine trilitère (nun-sîn-ya) que le verbe oublier (*nasiyâ*), indiquant le caractère oublieux (*nisîyân*) de tout être humain. Selon la vision de l’islam, la santé repose sur un état d’équilibre dans lequel le cœur du croyant, véritable centre de l’être, joue un rôle fondamental. Il est, en effet, le théâtre d’un combat mené entre différentes tendances qui peuvent faire basculer l’être tout entier dans la félicité comme dans la folie et ce combat, *jihad*, est à mener toute la vie. C’est pourquoi, les maîtres et les savants n’ont de cesse de rappeler aux croyants de s’appuyer sur la pratique des rites, la lecture du Coran, le souvenir de Dieu afin que l’homme se préserve contre les tendances ténébreuses de sa nature et les attaques de l’Adversaire. En soi, le modèle prophétique est à m&ecir;me d’éclairer les croyants sur la manière de polir son cœur, pr&ecirc;ter attention à son &acirc;me ainsi qu’à son corps, lui qui fut envoyé pour parfaire le bon comportement. «&nbsp;N’est-ce pas au souvenir de Dieu que les cœurs s’apaisent&nbsp;?&nbsp;» rapporte le Coran et «&nbsp;Dieu est auprès de l’idée que l’homme se fait de Lui&nbsp;». 
 
