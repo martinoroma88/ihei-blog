@@ -78,19 +78,21 @@ Le soignant musulman agira avec le malade en ayant conscience que les soins prod
 
 [^4]: Coran 2&nbsp;: 286.
 
-[^5]: Coran 23&nbsp;: 115-116.
+[^5]: Coran 7&nbsp;: 156.
 
-[^6]: Coran 2&nbsp;: 155.
+[^6]: Coran 23&nbsp;: 115-116.
 
-[^7]: Coran 29&nbsp;: 2.
+[^7]: Coran 2&nbsp;: 155.
 
-[^8]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam.*
+[^8]: Coran 29&nbsp;: 2.
 
-[^9]: Coran 23&nbsp;: 115-116.
+[^9]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam.*
 
-[^10]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam*.
+[^10]: Coran 23&nbsp;: 115-116.
 
 [^11]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam*.
+
+[^12]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam*.
 
 [^13]: Coran 40&nbsp;: 60.
 
