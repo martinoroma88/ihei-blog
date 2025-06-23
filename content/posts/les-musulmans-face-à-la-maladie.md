@@ -22,25 +22,27 @@ De prime abord, il est peut-&ecir;tre nécessaire de rappeler que la maladie n�
 
 Quelque soit la maladie et sa gravité, il est important de garder à l’esprit que «&nbsp;Dieu n’impose à chaque homme que ce qu’il peut porter&nbsp;».[^4] En effet, les conditions extérieures peuvent sembler difficiles, pénibles, éprouvantes, mais Dieu rappelle que Sa miséricorde embrasse toute chose.[^5] De nombreux saints et prophètes ont été malades et sont morts dans des conditions que certains hommes ou femmes ne pourraient supporter. Le Prophète Muhammad (*çallâ-Llâhu ‘alayhi wa sallam* —&nbsp;que la Bénédiction et la Paix de Dieu soient sur lui), lui-même, n’a pas été épargné mais il sut faire preuve de patience et de soumission jusqu’à son dernier souffle.
 
-Au travers de la maladie, l’homme et la femme sont éprouvés&nbsp;:
+Au travers de la maladie, l’homme et la femme sont éprouvés dans leur foi&nbsp;:
 
 > Très certainement, Nous vous éprouverons par un peu de peur, de faim et de diminution de biens, de personnes et de fruits. Et fais la bonne annonce aux endurants.[^6]
+>
+> Est-ce que les gens pensent qu’on les laissera dire&nbsp;: «&nbsp;Nous croyons&nbsp;!&nbsp;» sans les éprouver&nbsp;?[^7]
 
 L’homme et la femme sont contraints à s’orienter vers Celui dont tout dépend, *As-Samad*. En étant ramené parfois aux choses les plus élémentaires, les plus vitales selon le degré de la maladie, le croyant goûte à une proximité toute particulière avec son Seigneur et manifeste une gratitude qui lui fait parfois défaut lorsqu’il est en bon santé. Il semble, également, plus réceptif aux grâces divines qui n’avaient pourtant jamais cessé d’être déversées sur lui&nbsp;! Le temps de la maladie devient alors un temps propice à la méditation, au recueillement, à la prière dans l’attente, *insha’Allah*, d’une guérison qui ne serait dépendre des seules compétences du médecin ou de l’observance attentive du traitement.
 
-> Que le délai mis à t’accorder ce que tu as demandé par des prières insistantes ne cause pas ton désespoir&nbsp;; l’exaucement de tes prières t’est garanti pour les choses qu’Il a choisi de t’accorder, et non pas pour celles que tu as choisies pour toi-même&nbsp;; et elles te seront accordées au moment où Il le veut, et non pas au moment que tu souhaites.[^7]
+> Que le délai mis à t’accorder ce que tu as demandé par des prières insistantes ne cause pas ton désespoir&nbsp;; l’exaucement de tes prières t’est garanti pour les choses qu’Il a choisi de t’accorder, et non pas pour celles que tu as choisies pour toi-même&nbsp;; et elles te seront accordées au moment où Il le veut, et non pas au moment que tu souhaites.[^8]
 
 La maladie, considérée comme une possibilité particulière de connaissance, à la fois de soi-même, du monde qui nous entoure et surtout de Dieu, nous rappelle que, selon l’islam, chaque chose a une signification spirituelle dans le Plan divin.
 
-> Pensiez-vous que Nous vous avions créés sans but, et que vous ne seriez pas ramenés vers Nous&nbsp;? Que soit exalté Allah, le vrai Souverain&nbsp;! Pas de divinité en dehors de Lui, le Seigneur du Trône sublime&nbsp;![^8]
+> Pensiez-vous que Nous vous avions créés sans but, et que vous ne seriez pas ramenés vers Nous&nbsp;? Que soit exalté Allah, le vrai Souverain&nbsp;! Pas de divinité en dehors de Lui, le Seigneur du Trône sublime&nbsp;![^9]
 
 Tout au long de la vie, Dieu éduque Son serviteur et le purifie au rythme des évènements diverses et variés, pour éprouver sa sincérité et faire entrer celui-ci dans un état de proximité qu’Il a décrété de toute éternité.
 
-> Rien n’est plus profitable au cœur que l’isolement&nbsp;; par lui, il entre dans l’arène de la méditation.[^9]
+> Rien n’est plus profitable au cœur que l’isolement&nbsp;; par lui, il entre dans l’arène de la méditation.[^10]
 
 En effet, dans l’état de faiblesse, il s’opère un véritable dépouillement de l’égo que le croyant doit s’efforcer de maintenir par la suite dans sa vie de tous les jours —&nbsp;même s’il n’est plus malade&nbsp;— en revêtant l’habit par excellence, la crainte révérencielle de Dieu, *at-taqwâ*, comme il est rappelé dans le Coran. Il ne s’agit pas là d’un fatalisme ou d’une acceptation passive de son destin mais de reconnaître dans celui-ci le Vouloir divin, les bienfaits de Dieu, même si ceux-ci n’apparaissent pas immédiatement ou ne correspondent pas à l’attente que l’on s’en était faite.
 
-> Le meilleur de tes instants est celui où tu es conscient de ton besoin (de Dieu) et tu es ramené à la réalité de ton humble condition.[^10]
+> Le meilleur de tes instants est celui où tu es conscient de ton besoin (de Dieu) et tu es ramené à la réalité de ton humble condition.[^11]
 
 Nul ne sait où, quand et comment il mourra, ni même comment il vivra, et le malade doit être conscient, nous dirions même certain, serein que la réalité qui est en lui et qui l’entoure n’est pas conditionnée par sa capacité à comprendre les choses. Dans ce moment délicat et fragile qu’est la maladie, l’homme ou la femme apprend à connaître son âme et il est dit que celui qui connaît son âme connaît son Seigneur.
 
@@ -48,7 +50,7 @@ Nul ne sait où, quand et comment il mourra, ni même comment il vivra, et le ma
 
 Le remède évoqué dans la première tradition prophétique est avant tout spirituel car si le corps ou l’âme est malade et peut, dans certains cas, rester dans cet état indéfiniment, l’esprit quant à lui doit rester confiant dans le décret divin.
 
-> Celui qui s’efforce de supporter patiemment (le malheur), Dieu le dotera de patience. Nul ne reçoit plus ample bonheur que la patience.[^11]
+> Celui qui s’efforce de supporter patiemment (le malheur), Dieu le dotera de patience. Nul ne reçoit plus ample bonheur que la patience.[^12]
 
 La religion est, elle-m&ecirc;me, souvent considérée comme un remède aux différents maux qui touchent le croyant, et notamment l’homme de cette fin des temps, dont le plus grand mal n’est autre que l’oubli de Dieu. En arabe, le terme pour désigner l’être humain est *insân* et ce nom est formé sur la même racine trilitère (*nun-sîn-ya*) que le verbe oublier (*nasiyâ*), indiquant par là le caractère oublieux (*nisîyân*) de tout être humain.
 
@@ -60,13 +62,13 @@ L’islam offre à ces fidèles la possibilité de vivre leur foi et leur pratiq
 
 En islam, comme dans d’autres traditions, le malade est soutenu par son entourage qu’il soit de sa famille ou pas, et cette solidarité n’est pas sans rappeler la cohésion qui existe dans la prière en commun où les rangs sont serrés et où chacun soutient l’autre par sa seule présence. Il n’est pas inhabituel que la famille rende plus fréquemment visite au malade, qu’elle se soucie de lui et que les amis, les voisins, les fidèles de la mosquée où prie habituellement le malade, l’accompagnent dans cette épreuve, prient pour lui et se rappellent mutuellement la fragilité de la vie d’ici-bas. Mais là encore, le fatalisme et la passivité n’ont pas leur place car l’accompagnement du malade est avant tout une remise confiante en Dieu et une espérance «&nbsp;active&nbsp;». Une espérance dans laquelle le croyant sollicite le Secours Divin et où Dieu enjoint le croyant à L’invoquer par Ses plus beaux Noms&nbsp;!
 
-> Tous les cœurs des enfants d’Adam sont entre deux des doigts du Miséricordieux, comme un seul cœur, et Il les dirige à Sa guise.[](Muslim.)[^11]
+> Tous les cœurs des enfants d’Adam sont entre deux des doigts du Miséricordieux, comme un seul cœur, et Il les dirige à Sa guise.[](Muslim.)[^13]
 
 ## Soigner en tant que musulman
 
 De m&ecirc;me, le soignant musulman agira avec le malade en ayant conscience que les soins prodigués sont avant tout adressés à la personne en tant que créature de Dieu, faite à Son image et à Sa ressemblance quelque soit l’état de dépendance physique ou psychique dans lequel Dieu a mis le patient. Il devra faire preuve de patience, d’écoute, d’empathie et de bienveillance afin que le malade, qu’il soit croyant ou non, accepte le traitement. Il n’est pas rare de voir le malade refuser un traitement soit parce qu’il n’est pas conscient de son bien fondé, soit parce le malade n’arrive pas à se défaire des habitudes qui l’ont rendu malade. Une alliance thérapeutique doit donc se faire entre le soignant et le soigné qui rappelle la confiance que doit porter l’homme à son Créateur. Le risque pour le soignant —&nbsp;qu’il fasse partie du corps médical ou paramédical&nbsp;— est d’associer sa connaissance de la maladie, du remède et de la guérison, à sa propre participation, à ses seules compétences, et d’oublier ainsi que l’on ne saurait conditionné la Réalité divine à notre entendement. Il doit donc se faire le moyen par lequel Dieu décide ou pas d’agir. L’islam met l’accent sur le respect de la sacralité du corps qui a droit à l’égard dû à sa noblesse. En effet, l’enveloppe charnelle, qui est comme le vêtement de notre âme, participe aux différents rites, recevant ainsi des bénédictions divines. C’est pourquoi, le soignant musulman devra s’efforcer de prodiguer les soins les moins douloureux, les moins nocifs possibles pour garantir l’intégrité de la personne et lui permettre de ne pas avoir à supporter des souffrances induites par les soins tout au long de sa vie.
 
-[^1]: Coran 94&nbsp;: 5.
+[^1]: Bukh&acir;r&icir;.
 
 [^2]: Coran 94&nbsp;: 5.
 
@@ -78,12 +80,14 @@ De m&ecirc;me, le soignant musulman agira avec le malade en ayant conscience que
 
 [^6]: Coran 2&nbsp;: 155.
 
-[^7]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam.*
+[^7]: Coran 29&nbsp;: 2.
 
-[^8]: Coran 23&nbsp;: 115-116.
+[^8]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam.*
 
-[^9]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam*.
+[^9]: Coran 23&nbsp;: 115-116.
 
 [^10]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam*.
 
-[^11]: Bukh&acir;r&icir; et Muslim.
+[^11]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam*.
+
+[^13]: Bukh&acir;r&icir; et Muslim.
