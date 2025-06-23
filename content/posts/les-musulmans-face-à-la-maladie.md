@@ -62,9 +62,9 @@ L’islam offre à ces fidèles la possibilité de vivre leur foi et leur pratiq
 
 En islam, comme dans d’autres traditions, le malade est soutenu par son entourage qu’il soit de sa famille ou pas, et cette solidarité n’est pas sans rappeler la cohésion qui existe dans la prière en commun où les rangs sont serrés et où chacun soutient l’autre par sa présence. Il n’est pas inhabituel que la famille rende plus fréquemment visite au malade, qu’elle se soucie de lui et que les amis, les voisins, les fidèles de la mosquée où prie habituellement le malade, l’accompagnent dans cette épreuve, prient pour lui et se rappellent mutuellement la fragilité de la vie d’ici-bas et l’espérance du repos dans l’Au-delà. Mais là encore, le fatalisme et la passivité n’ont pas leur place car l’accompagnement du malade est avant tout une remise confiante en Dieu et une espérance «&nbsp;active&nbsp;». Une espérance dans laquelle le croyant sollicite le Secours Divin et où Dieu enjoint le croyant à L’invoquer par Ses plus beaux Noms pour y répondre&nbsp;!
 
-> «&nbsp;Invoquez-moi, je vous répondrai&nbsp;»[^13]
+> Invoquez-moi, je vous répondrai[^13]
 >
-> Tous les cœurs des enfants d’Adam sont entre deux des doigts du Miséricordieux, comme un seul cœur, et Il les dirige à Sa guise.[](Muslim.)[^13]
+> Tous les cœurs des enfants d’Adam sont entre deux des doigts du Miséricordieux, comme un seul cœur, et Il les dirige à Sa guise.[](Muslim.)[^14]
 
 ## Soigner en tant que musulman
 
