@@ -44,7 +44,7 @@ En effet, dans l’état de faiblesse, il s’opère un véritable dépouillemen
 
 > Le meilleur de tes instants est celui où tu es conscient de ton besoin (de Dieu) et tu es ramené à la réalité de ton humble condition.[^11]
 
-Nul ne sait où, quand et comment il mourra, ni même comment il vivra, et le malade doit être conscient, nous dirions même certain, serein que la réalité qui est en lui et qui l’entoure n’est pas conditionnée par sa capacité à comprendre les choses. Dans ce moment délicat et fragile qu’est la maladie, l’homme ou la femme apprend à connaître son âme et il est dit que celui qui connaît son âme connaît son Seigneur.
+Nul ne sait où, quand et comment il mourra, ni même comment il vivra, et le croyant doit être conscient, nous dirions même certain, serein que la réalité qui est en lui et qui l’entoure n’est pas conditionnée par sa capacité à comprendre les choses. Dans ce moment délicat et fragile qu’est la maladie, l’homme ou la femme apprend à connaître son âme et il est dit que celui qui connaît son âme connaît son Seigneur.
 
 ## À la recherche du remède
 
