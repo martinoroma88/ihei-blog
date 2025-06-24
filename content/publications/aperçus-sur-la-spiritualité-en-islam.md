@@ -9,7 +9,7 @@ Comment atteindre l’unité avec le divin dans le monde actuel&nbsp;? Ce livre 
 
 L’œuvre explore des thèmes essentiels comme le rapport entre les rites et la foi, la place centrale du *dhikr* (l’invocation de Dieu), et les multiples dimensions de la religion —&nbsp;remise confiante, foi et perfection spirituelle (*islâm*, *îmân*, *ihsân*).
 
-L'auteur met également en lumière la tension entre le matérialisme moderne, les courants fondamentalistes, et la quête authentique d’une spiritualité vivante et transformative.
+L’auteur met également en lumière la tension entre le matérialisme moderne, les courants fondamentalistes, et la quête authentique d’une spiritualité vivante et transformative.
 
 S’appuyant sur les grandes traditions de l’islam, l’auteur présente un voyage spirituel qui transcende les frontières religieuses pour unir l’humanité autour d’un appel commun&nbsp;: retrouver le souvenir du Pacte primordial, se rapprocher du Créateur pour renouer avec l’amour et la connaissance de Dieu.
 
