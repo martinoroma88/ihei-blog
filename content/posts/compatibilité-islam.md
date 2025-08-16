@@ -3,7 +3,7 @@ titre: "Compatibilité de l’islam : fausse question et bonnes réponses"
 vedette: false
 date: 2020-12-07T18:00:00.000Z
 auteur: " AbdAllah Yahya Darolles et Abd al-Qayyoum Guerre-Genton"
-couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1607366857/ihei/files/DSC_0293_jwd99a.jpg
+couverture: null
 category: Islam et République
 annexes:
   - titre: "Compatibilité de l’islam : fausse question et bonnes réponses"
