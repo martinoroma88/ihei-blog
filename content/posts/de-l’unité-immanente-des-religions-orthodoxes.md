@@ -1,0 +1,18 @@
+---
+titre: De l’unité immanente des religions orthodoxes
+vedette: false
+date: 1992-11-15T10:55:09.074Z
+auteur: Shaykh Abd al-Wahid Pallavicini
+category: Dialogue interreligieux
+---
+Dix années d’expérience dans le dialogue islamo-chrétien nous amènent à considérer deux tendances opposées : celle d’un dialogue que l’on pourrait appeler de base ou à bon marché, qui voudrait ignorer les principes métaphysiques, les dogmes religieux et Dieu Lui-m&ecirc;me pour nous faire fraterniser dans une œuvre toute humaine de tolérance réciproque dictée par un pragmatisme, et celle d’un œcuménisme au sommet ou au prix fort que nous avons essayé de privilégier, dans l’affirmation du Dieu unique, le m&ecirc;me pour nous tous, et dans la reconnaissance réciproque de la validité de nos fois.
+
+Ces dernières nous invitent à suivre le chemin de l’ascèse seulement à partir du point où nous sommes ontologiquement situés, au lieu de nous complaire dans une ronde stérile, infantile et syncrétiste au pied de la montagne que nous devrions tous escalader, chacun par son versant, afin de nous retrouver enfin sur la m&ecirc;me cime, dans le Dieu unique.
+
+Telle était la conclusion de notre livre *Isl&acirc;m Intérieur*, déjà anachronique dans son idéalisme romantique et sa méconnaissance des signes des temps et de leurs conséquences sur le plan humain, qui emp&ecirc;chent la plupart d’accepter les vérités transmises par les textes sacrés de toutes les Révélations, et à plus forte raison, d’&ecirc;tre cohérents avec elles dans l’orthodoxie et l’orthopraxie.
+
+En fait, si, dans les églises, l’on ne parle presque plus de Dieu, mais seulement de paix, dans les mosquées, l’on ne fait que parler de guerre&nbsp;; et si les musulmans semblent ignorer leur témoignage de foi m&ecirc;, qui affirme qu’&nbsp;«&nbsp;il n’y a pas de dieu si ce n’est Dieu&nbsp;», pour idol&acirc;trer, au contraire, leur propre religion, jusqu’à dire presque qu’il n’y a pas de dieu, ou de vérité, si ce n’est dans l’Islam, de m&ecirc; dans le Christianisme, l’on accentue l’exclusivisme hégémonique en forçant la signification de la conception selon laquelle «&nbsp;extra Ecclesiam nulla salus&nbsp;».
+
+Cette dernière formule, qui rappelle la nécessité d’appartenir au corps rituel et légal de la tradition, devrait au contraire fournir la base de reconnaissance des autres traditions orthodoxes, selon la parole du Christ&nbsp;: «&nbsp;J’ai d’autres brebis qui ne sont pas de ce troupeau&nbsp;»&nbsp;; le Christ, ainsi, ne parle pas de «brebis sans troupeau&nbsp;», c’est-à-dire sans les barrières d’une forme religieuse, mais tout au plus de «&nbsp;brebis sans pasteur&nbsp;», en considérant la décadence du rabbinat de l’époque.
+
+Malheureusement, l’on assiste, aujourd’hui, au contraire, à une tendance qui méconna&icirc;t le sens symbolique et pontifical de l’institution ecclésiastique pour en faire une organisation politique profane. Celle-ci aurait la prétention absurde de pouvoir aussi offrir le salut à ceux qui appartiennent aux autres religions, et m&ecirc;me aux athées, à travers une action mystérieuse et obscure qui s’exrcera&icirc;t aussi en dehors des rites religieux présents dans les autres confessions orthodoxes. Action liée au prétendu monopole de la figure du Christ, qui n’appartient pas en exclusivité au Christianisme, puisqu’il fait partie intégrante de la Révélation coranique.
