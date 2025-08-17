@@ -29,7 +29,7 @@ Cela comporte une «&nbsp;descente&nbsp;» à partir de la conception unitaire d
 
 La conception m&ecirc;me des «&nbsp;deux natures&nbsp;», divine et humaine, du Christ est déjà attaquée depuis longtemps par les suppositions protestantes à propos de la virginité de Marie, qui voudraient faire du Christ, selon les tendances pseudo-scientifiques et anthropocentriques modernes, un Dieu tout humain, préfiguration de cet Antéchrist qui, lui, n’aura certainement pas de nature divine.
 
-Et voici que nous sommes, nous musulmans, accusés de «&nbsp;monophysisme&nbsp;» parce que nous croyons que Jésus est, non seulement Kalimat All&acirc;h, le Verbe de Dieu, qui correspond à la Parole divine du Saint Coran, mais aussi R&ucirc;h All&acirc;h, l’Esprit de Dieu, fils de la Vierge attendu à la fin des temps comme «&nbsp;annonce de l’Heure&nbsp;».
+Et voici que nous sommes, nous musulmans, accusés de «&nbsp;monophysisme&nbsp;» parce que nous croyons que Jésus est, non seulement *Kalimat All&acirc;h*, le Verbe de Dieu, qui correspond à la Parole divine du Saint Coran, mais aussi *R&ucirc;h All&acirc;h*, l’Esprit de Dieu, fils de la Vierge attendu à la fin des temps comme «&nbsp;annonce de l’Heure&nbsp;».
 
 Mais combien de musulmans ont encore aujourd’hui le courage de témoigner de ces vérités contenues dans la doctrine islamique la plus orthodoxe, mais ignorée par opposition à l’Occident moderne identifié au Christianisme, ou par peur de la vague montante de l’intégrisme fanatique qui voudrait abroger la validité des Révélations précédant l’Islam, et faire de ce dernier une bannière pour des revendications politico-territoriales&nbsp;?
 
