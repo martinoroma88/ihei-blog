@@ -5,7 +5,7 @@ date: 1992-11-15T10:55:09.074Z
 auteur: Shaykh Abd al-Wahid Pallavicini
 category: Dialogue interreligieux
 ---
-Dix années d’expérience dans le dialogue islamo-chrétien nous amènent à considérer deux tendances opposées&nbsp;: celle d’un dialogue que l’on pourrait appeler de base ou à bon marché, qui voudrait ignorer les principes métaphysiques, les dogmes religieux et Dieu Lui-m&ecirc;me pour nous faire fraterniser dans une œuvre toute humaine de tolérance réciproque dictée par un pragmatisme, et celle d’un œcuménisme au sommet ou au prix fort que nous avons essayé de privilégier, dans l’affirmation du Dieu unique, le m&ecirc;me pour nous tous, et dans la reconnaissance réciproque de la validité de nos fois.
+Dix années d’expérience dans le dialogue islamo-chrétien nous amènent à considérer deux tendances opposées&nbsp;: celle d’un dialogue que l’on pourrait appeler «&nbsp;de base&nbsp;» ou «&nbsp;à bon marché&nbsp;», qui voudrait ignorer les principes métaphysiques, les dogmes religieux et Dieu Lui-m&ecirc;me pour nous faire fraterniser dans une œuvre toute humaine de tolérance réciproque dictée par un pragmatisme, et celle d’un œcuménisme au sommet ou au prix fort que nous avons essayé de privilégier, dans l’affirmation du Dieu unique, le m&ecirc;me pour nous tous, et dans la reconnaissance réciproque de la validité de nos fois.
 
 Ces dernières nous invitent à suivre le chemin de l’ascèse seulement à partir du point où nous sommes ontologiquement situés, au lieu de nous complaire dans une ronde stérile, infantile et syncrétiste au pied de la montagne que nous devrions tous escalader, chacun par son versant, afin de nous retrouver enfin sur la m&ecirc;me cime, dans le Dieu unique.
 
