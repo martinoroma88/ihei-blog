@@ -3,6 +3,7 @@ titre: De l’unité immanente des religions orthodoxes
 vedette: false
 date: 1992-11-15T10:55:09.074Z
 auteur: Shaykh Abd al-Wahid Pallavicini
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1755515943/3D18D1C8-C3D7-48CA-A125-4700E7C3E1F4_gawudk.jpg
 category: Dialogue interreligieux
 ---
 Dix années d’expérience dans le dialogue islamo-chrétien nous amènent à considérer deux tendances opposées&nbsp;: celle d’un dialogue que l’on pourrait appeler «&nbsp;de base&nbsp;» ou «&nbsp;à bon marché&nbsp;», qui voudrait ignorer les principes métaphysiques, les dogmes religieux et Dieu Lui-m&ecirc;me pour nous faire fraterniser dans une œuvre toute humaine de tolérance réciproque dictée par un pragmatisme, et celle d’un œcuménisme au sommet ou au prix fort que nous avons essayé de privilégier, dans l’affirmation du Dieu unique, le m&ecirc;me pour nous tous, et dans la reconnaissance réciproque de la validité de nos fois.
