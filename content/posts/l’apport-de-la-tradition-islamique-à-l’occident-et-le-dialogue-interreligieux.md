@@ -1,7 +1,7 @@
 ---
 titre: L’apport de la Tradition islamique à l’Occident et le dialogue interreligieux
 vedette: false
-date: 2025-08-18T09:29:48.956Z
+date: 2005-05-09T09:29:48.956Z
 auteur: Shaykh Abd al-Wahid Pallavicini
 category: Dialogue interreligieux
 ---
