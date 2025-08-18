@@ -32,6 +32,6 @@ La véritable identité de tout homme repose sur l’Identité de Dieu, sur sa p
 
 *Wa la-dhikru-Ll&acirc;hi akbar*, dit-on à la fin de chaque sermon, lors de la prière du vendredi. Oui, le «&nbsp;souvenir de Dieu est plus grand&nbsp;». Plus grande aussi est l’invocation de Son Nom, ce *dhikr* qu’un groupe d’européens musulmans a pu réciter récemment, pendant des heures, dans la Grande Mosquée de Paris, durant la Nuit du Destin, *laylat al-qadr*, la vingt-septième nuit du mois béni de *Ramadhacirc;n* au cours de laquelle descendit le Coran. Cette invocation fut accomplie devant la *ummah*, la communauté islamique, qui remplissait tous les espaces intérieurs et extérieurs du sanctuaire inauguré soixante-dix ans auparavant, ou peu s’en faut, par le saint algérien «&nbsp;du vingtième siècle&nbsp;», le Shaykh Ahmad al-Alawi (que Dieu soit satisfait de lui), au nom du saint marocain du XIX<sup>e</sup> siècle, le Shayh Ahmad Ibn Idris (que Dieu soit satisfait de lui), et fit ainsi retrouver à certains des spectateurs, avec le souvenir des pratiques de l'enfance et de l'adolescence, celui de la pureté, de l’innocence et de la sainteté des *hunaf&acirc;’*, les purs compagnons du Prophète, dans la Nature spirituelle primordiale, la *fitrah*.
 
-\[1] : 
+\[1] :  Coran 2&nbsp;: 256.
 
-\[2] :
+\[2] : Coran 3&nbsp;: 19.
