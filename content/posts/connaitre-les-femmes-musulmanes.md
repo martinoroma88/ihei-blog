@@ -350,7 +350,7 @@ Il est donc important de comprendre la signification profonde de l’acceptation
 [^15]:  Tradition prophétique rapportée par Ibn al-Jawzî.
 [^16]:  Al-Ghazâlî, *Le perle del Corano*, edizione Rizzoli, Milano, 2000.
 [^17]:  Al-Ghazâlî, *Des vertus du mariage*, traduction de A. Demazières, Alif éditions, Lyon, 1997, pp. 56-57.
-[^18]:  Ce symbole de forme circulaire représente un poisson blanc avec un &oelig;il noir et un poisson noir avec un &oelig;il blanc
+[^18]:  Ce symbole de forme circulaire représente un poisson blanc avec un &oelig;il noir et un poisson noir avec un &oelig;il blanc.
 [^19]:  Al-Ghazâlî, *Des vertus du mariage*, traduction de A. Demazières, Alif éditions, Lyon, 1997, p. 26.
 [^20]:  *Ibid, p. 26.*
 [^21]:  *Ibid, p. 26.*
