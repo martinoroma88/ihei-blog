@@ -336,20 +336,20 @@ Il est donc important de comprendre la signification profonde de l’acceptation
 [^1]:  Coran 28&nbsp;: 88.
 [^2]:  Al-Ghazâlî, *Des vertus du mariage*, traduction de A. Demazières, Alif éditions, Lyon, 1997, p. 51.
 [^3]:  Parole d’Abû Sulaymân ad-Darânî.
-[^4]:  Coran 33&nbsp;: 59.\
-[^5]:  Tradition prophétique rapportée par Ibn Hanbal.\
-[^6]:  Coran 3&nbsp;: 37.\
+[^4]:  Coran 33&nbsp;: 59.
+[^5]:  Tradition prophétique rapportée par Ibn Hanbal.
+[^6]:  Coran 3&nbsp;: 37.
 [^7]:  Mulayka Enriello, *Femme, islam et sainteté. La sacralité de la dimension féminine*. 
 [^8]:  Fâtiha Darolles, «&nbsp;L’image de la femme musulmane&nbsp;», *Le Message*, revue du Centre d’Etudes Métaphysiques et de l’Institut des Hautes Etudes Islamiques, n°11, 2004, p. 58-67. 
 [^9]:  Tradition prophétique rapportée par Muslim et al-Bukhârî. 
-[^10]:  Coran 2&nbsp;: 115.\
-[^11]:  Coran 4&nbsp;: 1.\
+[^10]:  Coran 2&nbsp;: 115.
+[^11]:  Coran 4&nbsp;: 1.
 [^12]:  Ibn Hanbal. 
 [^13]:  Tradition prophétique rapportée par Ibn Hanbal, Muslim. 
 [^14]:  Coran 2&nbsp;: 256. 
-[^15]:  Tradition prophétique rapportée par Ibn al-Jawzî.\
+[^15]:  Tradition prophétique rapportée par Ibn al-Jawzî.
 [^16]:  Al-Ghazâlî, *Le perle del Corano*, edizione Rizzoli, Milano, 2000.
-[^17]:  Al-Ghazâlî, *Des vertus du mariage*, traduction de A. Demazières, Alif éditions, Lyon, 1997, pp. 56-57.\
+[^17]:  Al-Ghazâlî, *Des vertus du mariage*, traduction de A. Demazières, Alif éditions, Lyon, 1997, pp. 56-57.
 [^18]:  Ce symbole de forme circulaire représente un poisson blanc avec un &oelig;il noir et un poisson noir avec un &oelig;il blanc
 [^19]:  Al-Ghazâlî, *Des vertus du mariage*, traduction de A. Demazières, Alif éditions, Lyon, 1997, p. 26.
 [^20]:  *Ibid, p. 26.*
