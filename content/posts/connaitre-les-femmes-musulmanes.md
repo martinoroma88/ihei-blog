@@ -373,7 +373,7 @@ Il est donc important de comprendre la signification profonde de l’acceptation
 [^38]:  Tradition prophétique rapportée par Al-Bukhârî.
 [^39]:  Coran 3&nbsp;: 37-40.
 [^40]:  Coran 29&nbsp;: 16-36.
-[^41]:  Maryam Tabaglio, *La figure de Marie dans le Saint Coran*, intervention donnée à l’occasion du colloque «&nbps;Connaître les femmes musulmanes&nbps;», sous le patronage de la région de la Ligurie, tenu à Ventimille, Italie, le 11 mai 2002.
+[^41]:  Maryam Tabaglio, *La figure de Marie dans le Saint Coran*, intervention donnée à l’occasion du colloque «&nbsp;Connaître les femmes musulmanes&nbsp;», sous le patronage de la région de la Ligurie, tenu à Ventimille, Italie, le 11 mai 2002.
 [^42]:  A’isha Lazzerini, *Marie dans l’islam*, conférence tenue à Sestriere, Italie, le 10 août 2003.
 [^43]:  Coran 66&nbsp;: 10.
 [^44]:  Ibn Kathîr, *Stories of the Prophets*, El Nour, Le Caire, 1996, pp. 88-89.
