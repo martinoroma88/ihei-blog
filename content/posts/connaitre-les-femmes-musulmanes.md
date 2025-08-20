@@ -340,7 +340,7 @@ Il est donc important de comprendre la signification profonde de l’acceptation
 [^5]:  Tradition prophétique rapportée par Ibn Hanbal.
 [^6]:  Coran 3&nbsp;: 37.
 [^7]:  Mulayka Enriello, *Femme, islam et sainteté. La sacralité de la dimension féminine*. 
-[^8]:  Fâtiha Darolles, «&nbsp;L’image de la femme musulmane&nbsp;», *Le Message*, revue du Centre d’Études Métaphysiques et de l’Institut des Hautes Etudes Islamiques, n°11, 2004, p. 58-67. 
+[^8]:  Fâtiha Darolles, «&nbsp;L’image de la femme musulmane&nbsp;», *Le Message*, revue du Centre d’Études Métaphysiques et de l’Institut des Hautes Études Islamiques, n°11, 2004, p. 58-67. 
 [^9]:  Tradition prophétique rapportée par Muslim et al-Bukhârî. 
 [^10]:  Coran 2&nbsp;: 115.
 [^11]:  Coran 4&nbsp;: 1.
