@@ -163,7 +163,7 @@ Dans son livre sur «&nbsp;les vertus du mariage&nbsp;», Al-Ghazâlî examine e
 
 La stabilité du mariage exige le bon caractère des conjoints. Selon une tradition prophétique&nbsp;: 
 
-> A celui qui fait preuve de patience devant le mauvais caractère de son épouse, Dieu accordera une récompense équivalente à celle accordée à Job pour les épreuves qu’il a subies. Quant à celle qui fait preuve de patience devant le mauvais caractère de son mari, elle aura, de la part de Dieu, une rétribution égale à celle qu’obtint Assya, l’épouse de Pharaon.[^21]
+> À celui qui fait preuve de patience devant le mauvais caractère de son épouse, Dieu accordera une récompense équivalente à celle accordée à Job pour les épreuves qu’il a subies. Quant à celle qui fait preuve de patience devant le mauvais caractère de son mari, elle aura, de la part de Dieu, une rétribution égale à celle qu’obtint Assya, l’épouse de Pharaon.[^21]
 
 Al-Ghazâlî inscrit la bonne entente conjugale parmi les devoirs du mari, et insiste sur la responsabilité qui pèse sur l’homme en ce qui concerne le maintien de l’harmonie familiale, en rappelant à ce propos que Dieu déteste l’homme qui se montre dur avec les siens, et qui a une très haute considération de sa propre personne.
 
