@@ -367,7 +367,7 @@ Il est donc important de comprendre la signification profonde de l’acceptation
 [^32]:  *Ibid, p.* 84.
 [^33]:  *Ibid, p. 25.*
 [^34]:  Coran 30&nbsp;: 20-23.
-[^35]:  Farîda Perruzzi Vincenzo, «&nbps;La famille et la communauté dans l’islam&nbps;», in *L’Islam e l’Italia*, a cura de l’Associazione Italiana Internazionale per l’Informazione sull’Islâm, La Sintesi editrice, Milano, 1996.
+[^35]:  Farîda Perruzzi Vincenzo, «&nbsp;La famille et la communauté dans l’islam&nbsp;», in *L’Islam e l’Italia*, a cura de l’Associazione Italiana Internazionale per l’Informazione sull’Islâm, La Sintesi editrice, Milano, 1996.
 [^36]:  Ahmad Fazl, *La vie de Aicha, épouse du Prophète*, IQRA, Paris, 2000, pp. 13-14.
 [^37]:  Coran 30&nbsp;: 6.
 [^38]:  Tradition prophétique rapportée par Al-Bukhârî.
