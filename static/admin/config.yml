@@ -34,6 +34,7 @@ collections:
       - { label: 'Categorie', name: 'category', widget: 'relation', collection: 'categories', value_field: "{{titre}}", display_fields: ["{{titre}}"], search_fields: ['titre'] }
       - { label: 'Annexes', name: 'annexes', widget: 'list', fields: [ { label: 'Title', name: 'titre', widget: 'string' }, { label: 'URL', name: 'url', widget: 'string' } ] }
       - { label: 'Corps du text', name: 'body', widget: 'markdown', required: false }
+      - { label: 'Lettrine abilitata', name: 'enableDropCap', widget: 'boolean', required: false, default: false }
 
   - name: 'homepage'
     label: 'Homepage'

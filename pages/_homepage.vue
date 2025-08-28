@@ -11,31 +11,28 @@
 
     <div class="md:col-span-3 space-y-10">
       <div v-if="vedette"
-        class="leading-relaxed rounded bg-gray-200 overflow-hidden font-sans text-lighterblue relative z-0"
+        :class="'leading-relaxed rounded overflow-hidden font-sans z-0'"
+        :style="!vedette.couverture ? { backgroundColor: 'rgba(0, 181, 226, 1)' } : null"
       >
         <img
           v-if="vedette.couverture"
-          class="object-cover absolute w-full h-full inset-0"
+          class="w-full h-auto block object-contain"
           :src="vedette.couverture"
           alt=""
         />
-        <div v-else class="absolute inset-0 bg-lighterblue"></div>
-        <div
-          class="inset-0 absolute bg-gradient-to-b from-transparent to-black opacity-50"
-        ></div>
-        <div class="md:col-span-2 px-4 py-8 md:px-10 md:pt-40 md:pb-8 relative text-white">
+        <div :class="['md:col-span-2 px-4 py-6 md:px-10', vedette.couverture ? '' : 'text-white']">
           <div>
             <div v-if="vedette.url">
               <a :href="vedette.url" target="_blank">
                 <p class="text-2xl font-bold">{{vedette.titre}}</p>
-                <Auteurs class="text-white" v-if="vedette.auteur" :author="vedette.auteur" />
+                <Auteurs :class="vedette.couverture ? 'text-lighterblue' : 'text-white'" v-if="vedette.auteur" :author="vedette.auteur" />
               </a>
             </div>
             <n-link v-else :to="'/articles/'+vedette.categoryPopulated.slug+'/'+vedette.slug">
               <p class="text-2xl font-bold">
                 {{vedette.titre}}
               </p>
-              <Auteurs class="text-white" v-if="vedette.auteur" :author="vedette.auteur" />
+              <Auteurs :class="vedette.couverture ? 'text-lighterblue' : 'text-white'" v-if="vedette.auteur" :author="vedette.auteur" />
             </n-link>
           </div>
         </div>

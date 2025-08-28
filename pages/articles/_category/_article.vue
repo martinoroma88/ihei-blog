@@ -21,7 +21,7 @@
       </div>
     </aside>
 
-    <article class="md:col-span-3 space-y-6">
+    <article class="md:col-span-3 space-y-6" :class="{ 'has-dropcap': post.enableDropCap }">
       <h1>{{ post.titre }}</h1>
       <meta property="og:title" :content="post.titre" />
       <meta
@@ -37,7 +37,9 @@
       </p>
       <Attachments v-if="post.annexes" :attachments="post.annexes" />
       <!-- Contenu -->
-      <nuxt-content class="prose" :document="post" />
+      <div class="article-body">
+        <nuxt-content class="prose" :document="post" />
+      </div>
     </article>
   </div>
 </template>
