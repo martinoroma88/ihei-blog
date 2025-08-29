@@ -19,7 +19,6 @@
         <!-- Overlay e titolo: solo da md in su, su mobile testo sotto -->
         <div class="hidden md:block absolute inset-0 pointer-events-none bg-gradient-to-t from-black/60 to-transparent"></div>
         <div class="hidden md:block absolute inset-x-0 bottom-0 p-4 text-white">
-          <p class="text-xs text-white/90 font-sans mb-1" v-if="p.date">{{$dateFns.format(p.date, 'dd-MM-yyyy')}}</p>
           <p v-if="p.url">
             <a :class="['link font-bold font-sans text-white', i === 0 ? 'text-xl md:text-2xl' : '']" :href="p.url" target="_blank" :title="p.titre">{{ truncate(p.titre, 66) }}</a>
           </p>
@@ -32,12 +31,11 @@
 
       <!-- Testo mobile sotto l'immagine -->
       <div class="md:hidden px-1">
-        <p class="text-xs text-lighterblue font-sans mb-1" v-if="p.date">{{$dateFns.format(p.date, 'dd-MM-yyyy')}}</p>
         <p v-if="p.url">
-          <a class="link font-bold font-sans text-blue" :href="p.url" target="_blank" :title="p.titre">{{ truncate(p.titre, 66) }}</a>
+          <a :class="['link font-bold font-sans text-blue', !p.couverture ? 'text-xl' : '']" :href="p.url" target="_blank" :title="p.titre">{{ truncate(p.titre, 66) }}</a>
         </p>
         <p v-else>
-          <n-link class="link font-bold font-sans text-blue" :to="'/' + baseurl + '/' + p.categoryPopulated.slug + '/' + p.slug" :title="p.titre">{{ truncate(p.titre, 66) }}</n-link>
+          <n-link :class="['link font-bold font-sans text-blue', !p.couverture ? 'text-xl' : '']" :to="'/' + baseurl + '/' + p.categoryPopulated.slug + '/' + p.slug" :title="p.titre">{{ truncate(p.titre, 66) }}</n-link>
         </p>
         <Auteurs class="text-sm text-lighterblue" v-if="p.auteur" :author="p.auteur" />
       </div>
