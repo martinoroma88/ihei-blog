@@ -1,11 +1,12 @@
 <template>
   <div>
     <!-- Variante MOBILE: solo testo con mailto -->
-    <div class="donation--mobile md:hidden font-sans text-lighterblue">
-      <p>
+    <div class="donation--mobile md:hidden font-sans text-white text-base leading-6 p-4" role="region" aria-labelledby="donation-mobile-title">
+      <p id="donation-mobile-title" class="sr-only">Donation</p>
+      <p style="max-width:65ch">
         Pour effectuer un don, merci de bien vouloir contacter l’IHEI par mail :
         <a
-          class="link"
+          class="link break-words underline"
           href="mailto:ihei@ihei-asso.org"
           aria-label="Contacter l’IHEI par mail"
         >ihei@ihei-asso.org</a>

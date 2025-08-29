@@ -102,6 +102,13 @@ aside {
   font-style: italic;
 }
 
+/* Ensure paragraphs inside quotes don't add extra spacing */
+.nuxt-content blockquote p,
+.static blockquote p,
+.prose blockquote p {
+  margin: 0;
+}
+
 .nuxt-content blockquote cite,
 .static blockquote cite,
 .prose blockquote cite {
@@ -122,4 +129,16 @@ aside {
 
 .has-dropcap .article-body p:first-of-type {
   overflow: hidden;
+}
+
+/* Donation mobile readability */
+.donation--mobile {
+  font-size: 16px;
+  line-height: 1.5;
+  padding: 16px 20px;
+  max-width: 65ch;
+}
+.donation--mobile a {
+  word-break: break-word;
+  text-decoration: underline;
 }
