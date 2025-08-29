@@ -10,34 +10,7 @@
     </aside>
 
     <div class="md:col-span-3 space-y-10">
-      <div v-if="vedette"
-        :class="'leading-relaxed rounded overflow-hidden font-sans z-0'"
-        :style="!vedette.couverture ? { backgroundColor: 'rgba(0, 181, 226, 1)' } : null"
-      >
-        <img
-          v-if="vedette.couverture"
-          class="w-full h-auto block object-contain"
-          :src="vedette.couverture"
-          alt=""
-        />
-        <div :class="['md:col-span-2 px-4 py-6 md:px-10', vedette.couverture ? '' : 'text-white']">
-          <div>
-            <div v-if="vedette.url">
-              <a :href="vedette.url" target="_blank">
-                <p class="text-2xl font-bold">{{vedette.titre}}</p>
-                <Auteurs :class="vedette.couverture ? 'text-lighterblue' : 'text-white'" v-if="vedette.auteur" :author="vedette.auteur" />
-              </a>
-            </div>
-            <n-link v-else :to="'/articles/'+vedette.categoryPopulated.slug+'/'+vedette.slug">
-              <p class="text-2xl font-bold">
-                {{vedette.titre}}
-              </p>
-              <Auteurs :class="vedette.couverture ? 'text-lighterblue' : 'text-white'" v-if="vedette.auteur" :author="vedette.auteur" />
-            </n-link>
-          </div>
-        </div>
-      </div>
-      <Articles :posts="posts" baseurl="articles" />
+      <ArticlesMasonry :posts="masonryPosts" baseurl="articles" />
     </div>
   </div>
 </template>
@@ -98,7 +71,15 @@ export default {
       });
     }
 
-    return { posts, vedette, categories };
+    // Costruisce l'elenco per la masonry includendo il post in evidenza come primo
+    let masonryPosts = []
+    if (vedette) {
+      masonryPosts.push(vedette)
+    }
+    const filtered = posts.filter(p => !vedette || p.slug !== vedette.slug)
+    masonryPosts = masonryPosts.concat(filtered)
+
+    return { posts, vedette, categories, masonryPosts };
   }
 };
 </script>
