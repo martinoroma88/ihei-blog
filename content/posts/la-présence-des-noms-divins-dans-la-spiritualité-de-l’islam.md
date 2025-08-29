@@ -5,7 +5,7 @@ date: 2005-11-09T21:29:35.431Z
 auteur: Abd al-Haqq Ismaïl Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1691961116/1691961006511_pi5mxz.jpg
 category: Soufisme et Spiritualités
-enableDropCap: true
+enableDropCap: false
 ---
 > *Bismi-Llâhi-r-Rahmâni-r-Rahîm*
 
