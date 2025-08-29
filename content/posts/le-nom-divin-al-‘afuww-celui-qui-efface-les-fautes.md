@@ -44,19 +44,19 @@ En même temps, il transmettait toujours ce qui était le plus utile et le plus 
 
 > *Dis&nbsp;:* «&nbsp;*Allâhumma innaka ‘afuwwun tuhibbu al-‘afwa fa-‘fu ‘annî.*&nbsp;»
 
-Le Prophète oriente le sens et la portée de cette demande vers Allah en tant que ‘*Afuww*. Il invite à L’invoquer par l’intermédiaire de Son Nom *al-‘Afuww*, comme expression de l’Essence, de la Qualité et de l’Action divines. Cette triple dimension apparaît dans l’articulation de la racine ‘*ayn-fa-waw* sous trois formes distinctes&nbsp;: ‘*afuww* indique le Nom, ‘*afw* indique la Qualité, *u‘fu* indique l’Action. Et la relation qui lie ces trois aspects n’est autre que l’Amour, *tuhibbu*. Allah aime être Grand-Pardonneur, Il aime le Pardon, et Il aime Pardonner.
+Le Prophète oriente le sens et la portée de cette demande vers Allah en tant que *‘Afuww*. Il invite à L’invoquer par l’intermédiaire de Son Nom *al-‘Afuww*, comme expression de l’Essence, de la Qualité et de l’Action divines. Cette triple dimension apparaît dans l’articulation de la racine *‘ayn-fa-waw* sous trois formes distinctes&nbsp;: *‘afuww* indique le Nom, *‘afw* indique la Qualité, *u‘fu* indique l’Action. Et la relation qui lie ces trois aspects n’est autre que l’Amour, *tuhibbu*. Allah aime être Grand-Pardonneur, Il aime le Pardon, et Il aime Pardonner.
 
 Que signifie exactement le Nom divin *al-‘Afuww*&nbsp;?
 
-La racine ‘*ayn-fa-waw* signifie effacer les traces, le superflu, éliminer, renoncer à, pardonner, passer outre. C’est avec le Nom divin *al-‘Afuww* que les fautes, péchés et transgressions de toutes sortes sont effacés du registre tenu par les anges scribes, sont pardonnés, et disparaissent à tout jamais du serviteur par pure miséricorde divine.
+La racine *‘ayn-fa-waw* signifie effacer les traces, le superflu, éliminer, renoncer à, pardonner, passer outre. C’est avec le Nom divin *al-‘Afuww* que les fautes, péchés et transgressions de toutes sortes sont effacés du registre tenu par les anges scribes, sont pardonnés, et disparaissent à tout jamais du serviteur par pure miséricorde divine.
 
-Le Nom *al-‘Afuww* est proche du Nom *al-Ghafûr*, mais le premier est plus intense que le second. Il y a une différence entre la *maghfira* d’Allah et Son ‘*afw*. La *maghfira* est synonyme de *sitr*, elle recouvre et cache les fautes, laideurs et imperfections individuelles, tandis que le ‘*afw* est synonyme de *mahw*, il les efface complètement. L’action d’effacer est donc plus intense que l’action de recouvrir.
+Le Nom *al-‘Afuww* est proche du Nom *al-Ghafûr*, mais le premier est plus intense que le second. Il y a une différence entre la *maghfira* d’Allah et Son *‘afw*. La *maghfira* est synonyme de *sitr*, elle recouvre et cache les fautes, laideurs et imperfections individuelles, tandis que le *‘afw* est synonyme de *mahw*, il les efface complètement. L’action d’effacer est donc plus intense que l’action de recouvrir.
 
 > Toute épreuve qui vous afflige est le fruit de ce que vos mains ont perpétré, et encore Il ne tient pas compte (*ya‘fû*) de nombre de vos méfaits.[^1]
 
 On remarque, par ailleurs, que le Nom divin *al-‘Afuww* n’est jamais employé seul mais il l’est, soit avec le Nom divin *al-Ghafûr*, soit avec le Nom divin coranique *al-Qadîr*.
 
-> Que vous fassiez du bien ouvertement ou discrètement ou encore que vous pardonniez (*ya‘fû*) un mal, Allah s’est bel et bien révélé Indulgent (‘*afuwwan*) Tout-Puissant (*qadîran*).[^2]
+> Que vous fassiez du bien ouvertement ou discrètement ou encore que vous pardonniez (*ya‘fû*) un mal, Allah s’est bel et bien révélé Indulgent (*‘afuwwan*) Tout-Puissant (*qadîran*).[^2]
 
 Ce verset met en rapport et en correspondance la qualité d’*al-‘Afuww* avec l’attitude de Ses serviteurs&nbsp;: ceux qui passent outre et pardonnent les offenses qu’on leur a faites, comme si elles n’existaient plus à leurs yeux, revêtissent ainsi cette qualité divine, et ils verront leurs propres fautes effacées.
 
@@ -70,7 +70,7 @@ Encore une fois, en cela comme en toute chose, vous avez dans le messager d’Al
 
 En effet, d’après le shaykh Ahmad ibn Idris al-Fasi al-Hasani (), lorsque fut révélé le verset&nbsp;: Montre-toi indulgent (*khudh al-‘afw*), ordonne ce qui est conforme à la coutume, et détourne-toi des ignorants,[^4] le Prophète demanda à l’ange Jibril ce que cela signifiait. Après avoir demandé à son Seigneur, Jibril lui répondit&nbsp;: «&nbsp;Allah t’ordonne de pardonner à celui qui t’a offensé, de donner à celui qui t’a privé, et d’entretenir des relations avec celui qui a rompu avec toi.&nbsp;»
 
-Le Prophète nous enseigne par son exemple le sacrifice de l’ego, l’effacement de soi, pour servir la Volonté d’Allah et témoigner concrètement de Ses Qualités.
+Le Prophète nous enseigne par son exemple le sacrifice de l’égo, l’effacement de soi, pour servir la Volonté d’Allah et témoigner concrètement de Ses Qualités.
 
 Ces quelques commentaires permettent de mieux saisir l’ampleur et l’intensité du Pardon divin qui efface les fautes du registre du serviteur, qui purifie son âme au point qu’elle devient comme une «&nbsp;table rase&nbsp;», comme cette tablette de cire vierge, sans aucune inscription, qui symbolise la pureté de l’âme à sa naissance. C’est ainsi que grâce à l’action d’*al-‘Afuww*, l’être est réintégré, réordonné et régénéré, dans l’esprit, l’âme et le corps.
 
