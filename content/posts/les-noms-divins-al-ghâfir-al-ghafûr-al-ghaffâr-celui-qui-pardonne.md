@@ -5,6 +5,7 @@ date: 2020-05-25T12:30:44.026Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619987110/ihei/Al-Ghafur_nmu8yl.jpg
 category: Soufisme et Spiritualités
+enableDropCap: true
 ---
 Le Prophète () nous a dévoilé, à travers plusieurs hadiths, la qualité unique et particulière du mois de Ramadan. Parmi ses enseignements, il dit notamment&nbsp;: «&nbsp;Son début est miséricorde, son milieu pardon, et sa fin affranchissement du feu&nbsp;». Nous sommes dans cette deuxième décade de *Ramadan* qu’Allah a liée en particulier à Sa *maghfira*, Son Pardon. Le jeûne devrait justement nous aider à reconnaître cette Manifestation divine.
 
