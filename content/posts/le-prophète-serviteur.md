@@ -5,6 +5,7 @@ date: 2022-10-08T15:04:35.576Z
 auteur: Abd al-Haqq Ismaïl Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1665244164/Muhammad_fbnvge.jpg
 category: Islam en pratique
+enableDropCap: true
 ---
 «&nbsp;Il n’y a pas de dieu si ce n’est Dieu et Muhammad est l’envoyé de Dieu&nbsp;»&nbsp;; tel est le témoignage de foi de l’Islam (*shah&acirc;dah*) qui introduit le croyant dans le double mystère de l’Unicité absolue de Dieu, et de la Révélation par l’entremise de Son Envoyé Sayyidun&acirc; Muhammad (*çall&acirc;-Ll&acirc;hu ‘alayhi wa sallam* –&nbsp;que la Bénédiction et la Paix de Dieu soient sur lui). Cette Révélation prend dans l’Islam la forme d’un livre sacré, le *Qur’&acirc;n*, dont le Prophète fut le transmetteur fidèle. Mais la réalité de la Prophétie dépasse de loin la trace historique laissée au début de l’Hégire par cet homme dont la mission fut avant tout le service de Dieu, et dont la mémoire a été conservée scrupuleusement par les docteurs de la Loi. Nous voudrions montrer, avec l’aide de Dieu, que le mystère de la Prophétie, selon la doctrine enseignée par l’ésotérisme islamique, s’ancre profondément dans le mystère m&ecirc;me de Dieu.
 
