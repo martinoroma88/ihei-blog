@@ -5,6 +5,7 @@ date: 2021-03-10T17:00:36.731Z
 auteur: Imam Yahya Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1615402714/ihei/ImamYahyaPallavicinietPapeFranc%CC%A7ois_imsros.jpg
 category: Dialogue interreligieux
+enableDropCap: true
 ---
 Pour ceux qui sont habitués à observer les choses suivant les limites de l’horizon rationnel, ce voyage en Orient du pape François n’a aucun sens. L’Irak est un territoire encore menacé par les résidus de la guérilla de Daesh, la pandémie a touché la santé du peuple de cette région, même celle du nonce à Bagdad. Sécurité internationale et considérations sanitaires conduisent à déconseiller la visite en Irak. Au contraire, le pape François dépasse cette interprétation réductrice de la réalité, surmonte les obstacles pour réaliser une action d’une plus grande ampleur, et concrétise l’intention de son saint prédécesseur Jean-Paul II, qui désirait se rendre en pèlerinage aux origines d’Abraham, le pays de l’Ur des Chaldéens, et apporter un réconfort spirituel aux chrétiens d’Orient, dans une mission de fraternité et d’œcuménisme, pour l’unité des chrétiens, et comme point de rencontre entre les communautés religieuses monothéistes.
 
