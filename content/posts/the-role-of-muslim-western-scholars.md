@@ -5,6 +5,7 @@ date: 2019-09-30T17:45:24.213Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1620755510/IMG_7539_iv5kvg.jpg
 category: Islam et République
+enableDropCap: true
 ---
 An increasing number of Western Muslim scholars and theologians have decided to act and cooperate in Europe to refute and to respond to any manipulations of the genuine Islamic doctrine and practices. In such a religious and civil commitment, it is about to show and to clarify the Truth and the orthodox interpretation of Islam and of its message as well as to reaffirm, promote and concretely testify the universal values of human justice, peaceful coexistence and social harmony that represent the authentic spirit and character of Muslim endeavour in the society, wherever, whenever and whatever be it.
 
