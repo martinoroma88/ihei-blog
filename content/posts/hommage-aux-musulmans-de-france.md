@@ -5,6 +5,7 @@ date: 2014-11-11T13:30:12.190Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619980024/ihei/Hommage_cnw3t4.jpg
 category: Islam et République
+enableDropCap: true
 ---
 À l’occasion de l’inauguration du «&nbsp;Mémorial du Soldat Musulman&nbsp;», à la Grande Mosquée de Paris, le Président de la République a réaffirmé, sans équivoque, la valeur de l’unité nationale et le cadre de protection qu’offre la laïcité en France.
 
