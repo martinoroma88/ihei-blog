@@ -6,6 +6,7 @@ url: ""
 auteur: Abd al-Haqq Ismaïl Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-3_mgknlk.png
 category: Islam et République
+enableDropCap: true
 ---
 Les terribles attentats ayant frappé notre pays, parmi d’autres, ont fait resurgir la question récurrente des rapports de la société française avec l’islam. Dans ce contexte, les «&nbsp;élites républicaines et musulmanes&nbsp;» sont sommées de prendre position pour dénoncer la violence, et pour contribuer à faire cesser l’état de désorganisation plus ou moins chronique qui règne au sein de l’islam de France.
 
