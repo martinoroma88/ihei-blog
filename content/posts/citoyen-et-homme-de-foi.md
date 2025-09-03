@@ -4,6 +4,7 @@ date: 2008-10-22T22:00:00.000Z
 auteur: Yahya Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586238/ihei/couvertures/islam-et-republique-4_hexnhw.jpg
 category: Islam et République
+enableDropCap: true
 ---
 À Bruxelles, lors de la Conférence christiano-musulmane, l’imam Yahya Pallavicini, Président de l’IHEI et vice-président de COREIS (Communauté religieuse islamique) italienne, a rappelé la nécessité de protéger tous les symboles religieux&nbsp;: 
 
