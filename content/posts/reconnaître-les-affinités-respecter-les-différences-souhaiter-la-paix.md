@@ -5,6 +5,7 @@ date: 2022-04-17T17:37:08.766Z
 auteur: Pessa’h 5782, Pâques 2022, Ramadan 1443
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1650227831/AbdalWahidPallavicini1_s4flx1.png
 category: Dialogue interreligieux
+enableDropCap: true
 ---
 Chers frères et s&oelig;urs juifs, chrétiens et musulmans,
 
