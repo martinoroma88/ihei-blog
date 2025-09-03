@@ -5,6 +5,7 @@ date: 2006-04-12T10:55:58.568Z
 auteur: Abd al-Qouddous Jibril Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1603650879/samples/landscapes/nature-mountains.jpg
 category: Islam en pratique
+enableDropCap: true
 ---
 Un had&icir;th rapporte que Dieu n’a jamais fait descendre un mal sans faire descendre un remède contre lui.[](Bukhârî.)[](Bukh&acir;r&icir;.)[^1][](Bukh&acir;r&icir;.)
 
