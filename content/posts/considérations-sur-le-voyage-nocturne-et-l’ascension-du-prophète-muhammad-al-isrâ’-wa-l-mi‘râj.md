@@ -6,6 +6,7 @@ date: 2023-02-18T15:50:56.120Z
 auteur: Abd al-Haqq Ismaïl Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1691938296/Mahomet_2C_le_Voyage_nocturne_rsz7ce.jpg
 category: Islam en pratique
+enableDropCap: true
 ---
 > Gloire à Celui qui a fait voyager Son serviteur la nuit, de l’Oratoire sacré à l’Oratoire éloigné dont Nous avons béni les alentours, pour lui faire voir certains de Nos signes. Dieu est Celui qui entend et qui voit parfaitement.[^1]
 
