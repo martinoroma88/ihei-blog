@@ -12,7 +12,7 @@ Panel 1
 
 *Les bonnes pratiques des gouvernements et de la société civile en matière d’éducation et de formation comme instruments de promotion et comme garantie de la liberté religieuse et du dialogue interreligieux.*
 
-**La Communauté Religieuse Islamique Italienne**
+## **La Communauté Religieuse Islamique Italienne**
 
 Monsieur le Ministre Giulio Terzi di Sant’Agata, ministre des Affaires étrangères de la République italienne, je vous remercie de l’invitation qui m’a été faite à participer à cet évènement que vous avez promu sur le thème de la liberté religieuse. Votre initiative et votre invitation me confirment combien sont importants et indispensables la reconnaissance et le soutien que les institutions italiennes devraient donner à leurs propres citoyens représentatifs d’une minorité religieuse, qui se sont réunis dans une organisation qui &oelig;uvre depuis plus de vingt ans en Italie, et en de nombreuses régions du monde, pour conserver et transmettre les valeurs universelles et l’enseignement doctrinal qui font partie intégrante de notre identité confessionnelle. Si cette reconnaissance et ce soutien venaient à faire défaut, cela nous priverait de l’honneur et de l’occasion de témoigner combien la vie des prophètes ainsi que l’exemple et l’&oelig;uvre des intellectuels éclairés, tout comme celle des maîtres spirituels véritables, doivent pouvoir continuer à inspirer les c&oelig;urs, les réflexions et les actions des croyants sincères et des citoyens honnêtes qui se distinguent, par là-même, des instrumentalisations et des fondamentalismes intolérants.
 
