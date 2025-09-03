@@ -5,6 +5,7 @@ date: 1994-08-15T08:07:07.071Z
 auteur: Shaykh Abd al-Wahid Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1747732410/Pallavicini_sdw4lv.jpg
 category: Dialogue interreligieux
+enableDropCap: true
 ---
 Selon l’islam, parler de «&nbsp;haine entre les religions&nbsp;» pourrait sembler inconcevable&nbsp;! Parce que les religions sont considérées, avant tout, comme différentes révélations, apportées par le même et unique Dieu, aux hommes, dans des lieux, des époques et des modalités différentes, à travers ses Prophètes, depuis Adam, premier homme, mais aussi premier Prophète islamique, en passant par Noé, Abraham, Mo&iuml;se, Jésus (que la paix soit sur eux) jusqu’à Muhammad (la Prière et la Bénédiction de Dieu soient sur lui).
 
