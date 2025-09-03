@@ -6,6 +6,7 @@ date: 2016-04-29T07:30:48.873Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619815734/ihei/AbdalWahidPallavicini2_zbpq7v.png
 category: Soufisme et Spiritualités
+enableDropCap: true
 ---
 Les membres de l’Institut des Hautes Études Islamiques sont heureux de célébrer le quatre-vingt-dixième anniversaire de leur Président d’honneur, le Shaykh Abd al-Wahid Pallavicini. À cette occasion, il leur paraît important de retracer brièvement son exceptionnel itinéraire intellectuel et spirituel.
 
