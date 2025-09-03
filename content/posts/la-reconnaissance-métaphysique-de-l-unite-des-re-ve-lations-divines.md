@@ -5,6 +5,7 @@ couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/
 category: Dialogue interreligieux
 subcategory: dialogue-avec-les-autres-traditions
 auteur: IHEI-COREIS
+enableDropCap: true
 ---
 Dans la langue arabe, le mot *tawhîd* dérive de *wahhada*, qui signifie affirmer, de façon intense et fréquente, l’unicité de Dieu. Le *tawhîd* indique donc le témoignage répété de Dieu à travers Son Nom *al-Wâhid*, l’Unique, et l’on peut dire que toute la religion consiste, en définitive, à reconduire chaque pensée et chaque action à la centralité de l’unicité de Dieu.
 
