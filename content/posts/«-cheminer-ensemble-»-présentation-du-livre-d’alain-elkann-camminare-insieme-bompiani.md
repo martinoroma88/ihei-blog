@@ -6,6 +6,7 @@ date: 2015-04-28T19:00:19.261Z
 auteur: Shaykh Abd al-Wahid Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619989633/ihei/Le-Pape-Jean-Paul-II-C-participe-journee-priere-pour-paix-Assise-presence-personnalites-12-religions-differentes-27-octobre-1986-eglise-Notre-Dame-Anges_0_730_338_uxk7jy.jpg
 category: Dialogue interreligieux
+enableDropCap: true
 ---
 Pour mieux illustrer qui sont les protagonistes du livre œcuménique d’Alain Elkann, je me permettrai quelques références personnelles, en commençant par le souvenir du Rav Elio Toaff, disparu récemment, qui fut le premier à recevoir le prix du Festival national des Cultures pour le judaïsme, en 2012.
 
