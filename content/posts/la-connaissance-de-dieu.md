@@ -4,6 +4,7 @@ date: 2020-10-07T22:00:00.000Z
 auteur: Shaykh Abd al-Wahid Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584955/ihei/couvertures/soufisme-et-spiritualites-8_ymfv82.jpg
 category: Soufisme et Spiritualités
+enableDropCap: true
 ---
 À l’approche du troisième millénaire, la phrase la plus répétée est celle de Malraux&nbsp;: «&nbsp;Le XXI<sup>e</sup> siècle sera religieux ou ne sera pas&nbsp;». Nous pourrions être d’accord avec cette affirmation, si elle n’entendait pas exclure le fait que les précédents siècles, eux aussi, n’auraient pas «&nbsp;été&nbsp;» s’ils n’avaient pas été religieux, parce que la religion est la seule raison de l’existence de ce monde, comme de la présence de l’homme sur cette terre.
 
