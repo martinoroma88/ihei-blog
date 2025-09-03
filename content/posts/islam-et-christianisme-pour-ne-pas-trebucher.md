@@ -5,6 +5,7 @@ couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/
 category: Dialogue interreligieux
 subcategory: dialogue-islamo-chrétien
 auteur: IHEI-COREIS
+enableDropCap: true
 ---
 Dans l’exhortation évangélique apostolique *Evangelii gaudium*, parue en novembre 2013, le Pape François a souligné l’importance du dialogue religieux avec l’islam, rappelant, comme principe commun au Monothéisme abrahamique, la foi dans le Dieu unique et miséricordieux et la foi dans le Jugement dernier.
 
