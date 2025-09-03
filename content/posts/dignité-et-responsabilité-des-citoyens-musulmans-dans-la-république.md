@@ -4,6 +4,7 @@ date: 2020-10-02T22:00:00.000Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604586239/ihei/couvertures/islam-et-republique-1_fsdqhx.jpg
 category: Islam et République
+enableDropCap: true
 ---
 Le crime barbare qui a coûté la vie à Samuel Paty, le 16 octobre dernier, illustre de manière tragique les conséquences d’une manipulation de l’islam à des fins personnelles et idéologiques. 
 
