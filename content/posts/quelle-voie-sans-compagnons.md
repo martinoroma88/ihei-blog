@@ -14,7 +14,7 @@ Depuis ce jour, le dialogue entre chrétiens et musulmans a changé pour s’eng
 
 Parmi les sources et les racines de l’amitié, il faut mentionner deux termes doctrinaux&nbsp;: *Khalîl Allâh* et *Al-Siddîq*. *Khalîl Allâh* signifie l’ami intime de Dieu. C’est l’attribut que la tradition islamique confère au prophète Abraham. Ainsi donc Abraham, patriarche du monothéisme et prophète de référence commune pour juifs, chrétiens et musulmans, nous inspire une amitié particulière&nbsp;: celle, extraordinaire, que Dieu lui confie. Il semble bien que nous, musulmans, devions nous inspirer de ce degré exceptionnel d’amitié afin que notre fraternité avec nos frères chrétiens s’élève jusqu’au niveau d’une communication intime et d’une syntonie spirituelle avec Dieu. Il ne s’agit donc pas d’une amitié au sens profane, d’une relation conventionnelle ou d’un dialogue superficiel, mais d’une vraie recherche d’intimité sacrée, d’une convergence vers le modèle prophétique d’Abraham qui, en plus d’être Son prophète et serviteur, est l’ami de Dieu.
 
-**Le principe commun du Dieu unique et miséricordieux**
+## Le principe commun du Dieu unique et miséricordieux
 
 Dans l’exhortation apostolique *Evangelii gaudium*, parue en novembre dernier, le Pape François souligne l’importance du dialogue religieux avec l’islam et avec le judaïsme, rappelant comme principe commun au monothéisme abrahamique, la foi dans le Dieu unique et miséricordieux et le Jugement final. Si le Pape François, dans sa fonction pastorale, et au-delà même de toute dialectique théologique, nous encourage à trouver dans le principe commun du Dieu unique et miséricordieux une perspective plus juste pour établir un dialogue authentique, c’est parce que ce dialogue a sa source dans ce principe même, le seul à pouvoir véritablement être qualifié de commun et universel.
 
@@ -24,7 +24,7 @@ Quand ce genre de dialogue s’instaure, les effets sur le plan cosmologique, hi
 
 Au contraire, lorsqu’un dialogue de cet ordre entre un chrétien et un musulman se réalise, il devient pour l’humanité tout entière un modèle de cohésion et de participation, reflet vivant de la dynamique spirituelle de Dieu qui, selon le Coran, «&nbsp;renouvelle la création à chaque instant&nbsp;».
 
-**Une communauté jeune et complexe**
+## Une communauté jeune et complexe
 
 Ce modèle de dialogue, d'amitié, de respect et de collaboration pourrait également favoriser la maturation interne de la communauté islamique italienne, une communauté jeune et complexe, mais unie dans un pluralisme d’immigrés et d’autochtones, de convertis et de secondes générations, de diplomates et de théologiens, de fidèles et d’autodidactes. L’aide de nos frères et s&oelig;urs chrétiens permettrait de redécouvrir le sens véritable de la fraternité en islam, sans courir le risque d’être contaminés par les vagues d’un radicalisme panarabe ou islamiste importé de l’étranger. C’est en travaillant à partir de ce lien concret que l’on bâtira une société italienne rassemblée autour de la sauvegarde de valeurs anciennes, de nouveaux échanges interculturels, pour un présent pacifié.
 
