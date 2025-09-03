@@ -5,6 +5,7 @@ date: 2020-06-22T19:30:02.423Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619987905/ihei/Al-Afuw_frwgic.jpg
 category: Soufisme et Spiritualités
+enableDropCap: true
 ---
 La fin du mois de Ramadan est imminente. Bientôt, une nouvelle lune, un nouveau mois, une nouvelle saison spirituelle. Mais il n’est pas encore trop tard pour tirer profit du Bien qu’Allah nous offre en ce mois béni.
 
