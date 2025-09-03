@@ -5,6 +5,7 @@ date: 2001-01-07T20:42:15.086Z
 auteur: Abd al-Haqq Ismaïl Guiderdoni
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604584952/ihei/couvertures/soufisme-et-spiritualites-5_brktv0.jpg
 category: Soufisme et Spiritualités
+enableDropCap: true
 ---
 *À l’occasion du retour à Dieu du Shaykh Abd al-W&acirc;hid Yahy&acirc;, René Guénon, le 7 janvier 1951, nous avons souhaité rendre hommage au témoin de la Tradition qu’il fut, en retraçant les grandes lignes de son itinéraire spirituel, à travers ses écrits mais également sa vie, qui ont inspiré plusieurs générations d’hommes et de femmes à la recherche d’une intellectualité qui ne soit pas mentale mais vécue,* hic et nunc, *en esprit et en vérité*.
 
