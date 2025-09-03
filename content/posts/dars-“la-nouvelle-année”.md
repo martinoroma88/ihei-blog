@@ -5,6 +5,7 @@ date: 2009-01-02T12:08:13.533Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711972181/Me%CC%81dine_ctdqfb.jpg
 category: Islam en pratique
+enableDropCap: true
 ---
 Nous voilà entrés dans la nouvelle année, non seulement 2009 du calendrier solaire et chrétien, mais aussi 1430 du calendrier lunaire et islamique. Que Dieu nous ouvre les portes de Sa miséricorde et de Sa grâce, et nous aide à renouveler notre foi en Lui et à mieux L’adorer&nbsp;! C’est l’occasion de faire le bilan de l’année passée, de demander des comptes à nos âmes et d’évaluer nos actions avant que Dieu le fasse au jour du Jugement dernier. Interrogeons nous sur notre foi et notre comportement, afin d’essayer de ne pas refaire les mêmes erreurs, mais de faire mieux l’année à venir pour plaire à Dieu, avec Son aide. Ce nouveau cycle de l’année lunaire 1430 de l’Hégire, la *Hijra*, est une grande occasion pour tous les musulmans, à plusieurs niveaux&nbsp;:
 
