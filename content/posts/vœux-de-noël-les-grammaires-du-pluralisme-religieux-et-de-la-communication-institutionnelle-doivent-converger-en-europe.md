@@ -7,6 +7,7 @@ url: ""
 auteur: Yahya Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1640432392/Marie_et_l_enfant_Je%CC%81sus_j28pen.jpg
 category: Dialogue interreligieux
+enableDropCap: true
 ---
 > **Participons aux similitudes qui nous unissent, sans uniformisation.**\
 > **Respectons les différences qui nous caractérisent, sans exclusivisme.**\
