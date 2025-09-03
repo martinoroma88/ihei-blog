@@ -5,6 +5,7 @@ date: 2019-02-04T13:00:25.350Z
 auteur: Abd ar-Rashid Bossa
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619979547/ihei/Prie%CC%80re_uw4cps.jpg
 category: Soufisme et Spiritualités
+enableDropCap: true
 ---
 Nous voudrions plus particulièrement remercier le Père René-Hugues pour sa grande disponibilité tant temporelle, que spirituelle, qui l’ont finalement amené à accepter le titre de l’intervention qui va vous être présentée dans quelques instants, et qui nous semble correspondre, du point de vue de l’islam et de l’une de ses grandes écoles spirituelles, à une vision plus équilibrée de la thématique qui nous est proposée. Nous vous prions de nous excuser, par avance, de ce que cette intervention ne fait que répéter, sous la forme particulière qui est la sienne, les choses que nous connaissons tous déjà mais dont nous pourrions, semble-t-il, tirer avantage dans nos vies en nous les remémorant ensemble au nom de Dieu. 
 
