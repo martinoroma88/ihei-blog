@@ -5,6 +5,7 @@ date: 2017-03-01T20:00:47.326Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619990416/ihei/HalalItalia_wdpqmr.png
 category: Islam en pratique
+enableDropCap: true
 ---
 The Islamic vision of reality unifies all aspects of existence, from the inward and spiritual dimension to the more external dimension of deeds and action. It is said that Islam is *dîn wa dunyâ*, which means that every spiritual and temporal aspects of human life are integrated in a sacred perspective that links this world to the Hereafter.
 
@@ -30,7 +31,7 @@ Such pluralism may create some difficulties in the minds of those who approach t
 
 Prophet Muhammad said: “The differences in my community are a mercy”, especially the different solutions that have been set up and explained by the scholars for the benefit of the whole community. As Sufyân al-Thawrî used to remind his students: “Do not say that the scholars disagreed, but let’s say that they enlarged for the community”, with many solutions of interpretation and implementation of Sharî‘a’s principles and rules.
 
-**The Islamic doctrine about *halâl tayyib*** **and *harâm***
+## **The Islamic doctrine about *halâl tayyib*** **and *harâm***
 
 Therefore, when dealing with food prescriptions of Islamic religion, one needs to understand that these rules have a “religious” character, and cannot be reduced to a pure pragmatic or only “formal and legal” dimension. If we want to carry out these religious rules as religious, we have to maintain and practice them through a global perspective, which embraces all the Muslim believer’s inward and outward life, so that food cannot be separated from fundamental elements such as faith, prayer, and spiritual piety (*taqwâ*), the fear of God.
 
@@ -60,7 +61,7 @@ Islam recommends mentioning the name of Allah over what we eat: mentioning and r
 
 > *It is not their meat, nor their blood that reaches God: it is your piety that reaches Him*. (Koran 22: 37)
 
-**Some guidelines for Halal certification and control**
+## Some guidelines for Halal certification and control
 
 After clarifying what are the common Islamic religious principles that rule the prescriptions of the Islamic doctrine regarding alimentation, it is important to see how they can be implemented for the global Muslim community in the historical, cultural and economical context of today’s world. As we mentioned, even if there are common principles, one can see a variety of applications of Sharî‘a’s rules, according to the different interpretations of the schools of law, whose followers are disseminated in numerous geographical areas in the world, including Europe.
 
@@ -84,7 +85,7 @@ The exigency is to set up the most exhaustive requirements, for products to be e
 
 That is why we think that *halâl* certification and control should adopt criteria and requirements that fulfill the established conditions for the production and consumption of *halâl* food according to all the traditional law schools, while taking into account the international standards of relevant Islamic organizations or institutions in this respect. Besides the Sharî‘a compliance of the food products and the productive process, this kind of requirements and standards must respect the sanitarian rules according to international laws in terms of hygiene and food safety in Europe, in the Gulf Region, in the United States and so on. The main added-value of these Requirements is to help recognizing and giving access to food products for the Muslim national and international community, according to the widest consensus of Islamic legal dispositions.
 
-**Conclusion**
+## Conclusion
 
 We have to recognize that, in the current world situation, the general scenario, and not only in the West, is now far from the conscious of a sacred dimension of existence, in the ways of life and in the social activities, because of the preponderance of material and ideological structures that are more influenced by quantity than by quality. That is why, in the food industry, when we want to conform the production to religious exigencies such as the *halâl* requirements, it is necessary to understand that it will not be only about pragmatic and concrete adaptations of the production process, but about getting new sensibility and openness towards exigencies that are not merely interested in health, hygiene, and so on.
 
