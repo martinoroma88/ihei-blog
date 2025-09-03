@@ -5,6 +5,7 @@ date: 2008-10-31T10:43:56.708Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711641960/desert-landscape-judea-israel-600nw-1611552664_hmur4b.jpg
 category: Islam en pratique
+enableDropCap: true
 ---
 > En vérité, Nous avons proposé le dépôt sacré aux Cieux, à la Terre et aux montagnes, mais tous refusèrent d’en assumer la responsabilité, et en furent effrayés. C’est l’homme qui s’en chargea, car il est injuste et ignorant.[^1]
 
