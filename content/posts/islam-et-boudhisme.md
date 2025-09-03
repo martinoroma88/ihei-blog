@@ -5,6 +5,7 @@ couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/
 category: Dialogue interreligieux
 subcategory: dialogue-avec-les-autres-traditions
 auteur: AbdAllah Yahya Darolles
+enableDropCap: true
 ---
 Pour la Tradition islamique, il n’y a, au fond, qu’une seule religion, la religion immuable, *ad-din al-qayyim*, dont l’Islam constitue la dernière manifestation. Cette religion immuable est la reconnaissance par le serviteur de sa «&nbsp;dette&nbsp;», *dayn,* et des devoirs afférents vis-à-vis de son seigneur, le Dieu unique, qui est le même pour tous les hommes. Depuis le premier d’entre eux, Adam (*‘alayhi-s-salâm*), jusqu’au «&nbsp;Sceau des prophètes&nbsp;», Muhammad (*çallâ-Llâhu ‘alayhi wa sallam*), les messagers de Dieu n’ont cessé d’appeler les hommes au témoignage de l’Unicité de Dieu et à l’adoration qui vient de la connaissance et y mène. En conséquence le Coran invite les musulmans à la reconnaissance de tous les messages qui ont précédé celui de l’Islam&nbsp;:
 
