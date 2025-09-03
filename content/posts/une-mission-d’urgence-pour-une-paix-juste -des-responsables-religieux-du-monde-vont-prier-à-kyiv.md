@@ -6,6 +6,7 @@ date: 2022-05-22T22:00:00.000Z
 auteur: IHEI - COREIS
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1653291342/IMG-20220523-WA0000_jcudiy.jpg
 category: Dialogue interreligieux
+enableDropCap: true
 ---
 VARSOVIE, POLOGNE –&nbsp;une délégation de haut niveau composée de responsables religieux se rendra à Kyiv en intervention d’urgence, afin de contribuer à stopper **l’agression contre l’Ukraine** et le bombardement des villes ukrainiennes, et afin de prier pour une paix juste. Les responsables religieux se retrouveront à Varsovie, Pologne, et feront un voyage de 14 heures en bus pour arriver à Kyiv, Ukraine, le 24 mai, puis retourner à Varsovie le 26 mai.
 
