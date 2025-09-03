@@ -5,6 +5,7 @@ date: 2012-10-30T18:23:43.113Z
 auteur: IlhamAllah Chiara Ferrero
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1699986325/ChiaraFerrero_Islam_jq9poq.jpg
 category: Islam en pratique
+enableDropCap: true
 ---
 Je voulais avant tout remercier le Conseil des Femmes de la Commune de Bergame pour cette initiative qui attire notre attention sur l’une des questions les plus centrales de l’existence humaine&nbsp;: le véritable sens de la vie et de la mort. Dans le titre de la conférence il a été spécifié «&nbsp;vie quotidienne&nbsp;», peut-être justement  pour affirmer que seul le rappel constant de «&nbsp;l’autre monde&nbsp;» peut nous amener à une véritable compréhension de ces réalités qui accompagnent l’homme et la femme bien avant même leur naissance jusqu’au moment de la Résurrection. De nombreux versets du Coran et traditions du Prophète Muhammad abordent le thème de la vie et de la mort. Les citations qui nous ont été rapportées avant les relations des intervenants sont fondamentales pour nous orienter à ce sujet.
 
