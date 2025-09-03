@@ -7,6 +7,7 @@ auteur: AbdAllah Yahya Darolles
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711642697/1711642608736_q4vnan.jpg
 category: Soufisme et Spiritualités
 annexes: []
+enableDropCap: true
 ---
 ![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1711540160/basmala7_qguk4q.jpg)
 
