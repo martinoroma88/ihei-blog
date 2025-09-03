@@ -4,6 +4,7 @@ date: 2007-12-23T23:00:00.000Z
 auteur: Abd ar-Rashid Bossa
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1604654415/ihei/couvertures/islam-en-pratique-6_re1qcm.jpg
 category: Islam en pratique
+enableDropCap: true
 ---
 > Nous avons établi, pour Abraham, l’emplacement de la Maison&nbsp;: «&nbsp;Ne m’associe rien&nbsp;; purifie Ma Maison pour ceux qui accomplissent les circuits, pour ceux qui s’y tiennent debout, pour ceux qui s’inclinent et se prosternent. Appelle les hommes au Pèlerinage&nbsp;: ils viendront à toi, à pied ou sur une monture élancée. Ils viendront par des chemins encaissés pour témoigner des bienfaits qui leurs ont été accordés&nbsp;; pour invoquer le Nom de Dieu aux jours fixés, sur la bête des troupeaux qu’Il leur a accordés. Mangez-en et nourrissez–en le pauvre, le malheureux. Qu’ils mettent ensuite fin à leurs interdits&nbsp;; qu’ils s’acquittent de leurs v&oelig;ux, qu’ils accomplissent les circuits autour de l’antique Maison.[^1]
 
