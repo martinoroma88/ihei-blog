@@ -5,6 +5,7 @@ date: 2020-06-08T10:15:04.443Z
 auteur: Abd al-Wadoud Yahya Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619952031/ihei/couvertures/Ar-Rahma%CC%82n_sqteqa.jpg
 category: Soufisme et Spiritualités
+enableDropCap: true
 ---
 Allah nous enseigne dans Sa révélation le lien entre le Ramadan et le Coran&nbsp;:
 
