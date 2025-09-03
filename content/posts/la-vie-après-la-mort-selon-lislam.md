@@ -5,6 +5,7 @@ date: 2013-05-30T18:22:19.337Z
 auteur: Yahya Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1687888050/1687887242108_ltjvsa.jpg
 category: Islam en pratique
+enableDropCap: true
 ---
 «&nbsp;À Dieu nous appartenons et c’est vers Lui que ce fera le retour&nbsp;»[^1]
 
