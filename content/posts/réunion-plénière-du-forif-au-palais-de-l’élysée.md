@@ -5,6 +5,7 @@ date: 2023-02-16T12:47:59.232Z
 auteur: IHEI
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1676811123/63ef79497750fd55d83e2f57_agkllo.jpg
 category: Islam et République
+enableDropCap: true
 ---
 Une année après son lancement officiel au Conseil économique et social à Paris, la première session du Forum de l’Islam de France (FORIF) a tenu une réunion plénière de restitution au Palais de l’Élysée, en présence du Président de la République, du Ministre de l’Intérieur, de la Ministre de l’Enseignement supérieur et de la Recherche, de représentants des administrations et autorités de l’État, du monde de l’université, des acteurs de la société civile et du culte musulman, parmi lesquels Chemseddine Hafiz, Recteur de la Grande mosquée de Paris.
 
