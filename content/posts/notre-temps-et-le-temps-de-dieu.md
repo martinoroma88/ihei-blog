@@ -5,6 +5,7 @@ date: 2015-10-01T07:00:53.137Z
 auteur: Shaykh Abd al-Wahid Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1619816785/ihei/congr06_hre32o.jpg
 category: Dialogue interreligieux
+enableDropCap: true
 ---
 La Déclaration conciliaire **Nostra Aetate** fête ses 50 ans, et, avec elle, le Conseil Pontifical pour le Dialogue interreligieux, alors dénommé Secrétariat pour les non-chrétiens, qui a été voulu par Paul VI parallèlement au Concile Vatican II. À travers l’institution d’un nouvel organe chargé des rapports avec les autres religions, ne s’agissait-il pas peut-être de donner une réponse concrète à la complexité du travail d’élaboration de la Déclaration qui avait suscité beaucoup de questions internes et demandé plusieurs compromis&nbsp;?
 
