@@ -5,6 +5,7 @@ couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/
 category: Dialogue interreligieux
 subcategory: dialogue-judéo-islamique
 auteur: Abd al-Wadoud Yahya Gouraud
+enableDropCap: true
 ---
 > Par l’époque&nbsp;! En vérité, l’homme est en perdition, à l’exception de ceux qui ont la foi, qui pratiquent les &oelig;uvres vertueuses, qui se conseillent mutuellement la Vérité et qui s’exhortent mutuellement à la patience.[^1]
 
