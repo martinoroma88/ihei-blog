@@ -5,6 +5,7 @@ date: 2013-02-09T16:39:17.061Z
 auteur: Yahya Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711644227/1128660_cjz3ef.jpg
 category: Dialogue interreligieux
+enableDropCap: true
 ---
 Une tradition prophétique dans laquelle Dieu parle à la première personne dit&nbsp;: «&nbsp;J’étais un trésor caché, j’ai voulu être connu et j’ai créé le monde.&nbsp;» Dieu, selon cette tradition islamique, nous parle à la première personne et nous informe de trois niveaux de réalité : le trésor caché qui correspond au niveau principiel et supérieur de la Nature divine, la raison de la connaissance qui représente le premier dévoilement de la volonté divine et le but de la vie humaine et, enfin, la création du monde qui représente l’objet de la manifestation de l’ordre divin. Nature divine, Volonté du Créateur et Ordonnancement de la création sont synthétisés par cette tradition prophétique et peuvent correspondre à un ternaire médiéval par lequel certains pères de l’Église rattachaient hiérarchiquement l’Esprit de Dieu, l’Amour qui meut la Création, et le miracle de l’Univers.
 
