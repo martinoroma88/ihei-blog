@@ -131,6 +131,45 @@ aside {
   overflow: hidden;
 }
 
+/* Fix per virgolette nei blockquote - mantieni dimensione normale */
+.nuxt-content blockquote,
+.static blockquote,
+.prose blockquote {
+  quotes: none;
+}
+
+.nuxt-content blockquote p,
+.static blockquote p,
+.prose blockquote p {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+/* Assicurati che le virgolette non siano ingrandite */
+.nuxt-content blockquote p::before,
+.nuxt-content blockquote p::after,
+.static blockquote p::before,
+.static blockquote p::after,
+.prose blockquote p::before,
+.prose blockquote p::after {
+  content: none;
+}
+
+/* Se ci sono virgolette come caratteri nel testo, mantieni dimensione normale */
+.nuxt-content blockquote *,
+.static blockquote *,
+.prose blockquote * {
+  font-size: inherit !important;
+  font-weight: normal !important;
+}
+
+/* Mantieni bold solo per elementi strong espliciti */
+.nuxt-content blockquote strong,
+.static blockquote strong,
+.prose blockquote strong {
+  font-weight: bold !important;
+}
+
 /* Donation mobile readability */
 .donation--mobile {
   font-size: 16px;
