@@ -128,7 +128,7 @@ Cette rencontre avec notre Seigneur est proprement le Jour de la Résurrection, 
 [^31]: Bukhâri et Muslim.
 [^32]: Ibn ‘Arabî, *Les Illuminations de la Mecque*, trad. sous la direction de M. Chodkiewicz, Sindbad, p. 184.
 [^33]: Ibn ‘Arabî, op. cit., p. 181.
-[^34]: Al-Bistânmî, *Les Dits des Bîstâmî*, trad. Abdelwahab Meddeb, Fayard, p. 40.
+[^34]: Al-Bistânmî, *Les Dits de Bîstâmî*, trad. Abdelwahab Meddeb, Fayard, p. 40.
 [^35]: Coran 28&nbsp;: 88.
 [^36]: Ibn ‘Arabî, *La Sagesse des Prophètes*, trad. T. Burckhardt, Albin Michel, p. 48.
 [^37]: Rûmi, *Le Livre du Dedans*, trad. E. de Vitray-Meyerovitch, Sindbad.
