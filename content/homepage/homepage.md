@@ -1,6 +1,6 @@
 ---
 name: homepage
-vedette: compatibilité-islam
+vedette: considérations-sur-le-voyage-nocturne-et-l’ascension-du-prophète-muhammad-al-isrâ’-wa-l-mi‘râj
 articles:
   - article: sermon
   - article: chrétiens-et-musulmans-ensemble-pour-renouveler-la-paix-et-le-respect-réciproque-des-préceptes-et-des-festivités-religieuses-en-terre-sainte
