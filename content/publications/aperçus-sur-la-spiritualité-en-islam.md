@@ -2,7 +2,7 @@
 titre: Aperçus sur la spiritualité en Islam
 date: 2025-05-24T09:37:33.626Z
 auteur: "Abd al-Haqq Guiderdoni "
-couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1748079531/9791022514453-475x500-1_lkznhz.webp
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1761043121/9791022514453_qbkz95.png
 category: Essais
 ---
 Comment atteindre l’unité avec le divin dans le monde actuel&nbsp;? Ce livre révèle le cœur de la spiritualité musulmane, explore ses fondements et sa richesse universelle. En s’appuyant sur la transcendance et l’immanence de Dieu, la révélation coranique et les enseignements prophétiques, l’auteur invite à un voyage profond vers la compréhension de la foi, de la prière et du cheminement intérieur.
