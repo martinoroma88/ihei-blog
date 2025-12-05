@@ -28,9 +28,9 @@ L’être passe d’un état à un autre comme la nuit pénètre dans le jour et
 
 Si les Traditions hindoue, taoïste et bouddhiste présentent le passage de l’être d’un état à un autre sous forme d’une naissance et d’une mort, en des termes qui se rapportent souvent au monde sensible, il ne faudrait toutefois pas comprendre par là qu’il s’agit de réincarnation. Cette théorie, toute moderne, n’est qu’une interprétation erronée des doctrines orientales, selon une conception uniquement biologique et restrictive de la vie, si chère aux yeux de nos contemporains désireux de s’évader de leur condition actuelle dans l’espoir d’un avenir meilleur, suivant les théories progressiste et évolutionniste.
 
-## Le dépouillement de l’ego : mourir avant de mourir
-
 Toutes les Traditions authentiques puisent leur origine dans une même source qui n’est autre que Dieu, mais chacune d’elle exprime les réalités spirituelles selon des modes, des formulations et des moyens propres, adaptés aux différents peuples, temps et lieux où elles se manifestent. Ces moyens tendent tous, en principe, à ramener l’homme de la périphérie du cercle à son Centre, comme autant de rayons ou de chemins vers Dieu. Dans cette perspective, les Traditions parlent de la mort avec de riches détails qui suscitent chez le croyant tout autant la crainte de Dieu que l’espoir de la Rencontre avec son Seigneur. Dieu nous fait comprendre que la mort est proche de nous, intimement liée à la vie. «&nbsp;Toute âme goûtera la mort&nbsp;», promet le Coran, et le Prophète rappelle que «&nbsp;nul ne connaîtra son Seigneur avant de mourir.&nbsp;» Étape indispensable pour rencontrer Dieu, la mort est à la fois tourment pour certains et repos de l’âme pour d’autres.
+
+## Le dépouillement de l’ego : mourir avant de mourir
 
 Il s’agit, selon un dire du Prophète (*hadîth*), de «&nbsp;mourir avant de mourir», sûrement pas dans le sens littéral d’une mort physique volontaire, mais dans le sens d’une mort de l’individualité, éphémère, de
 l’âme passionnelle, celle qui ordonne le mal et disperse l’homme. Celui-ci doit quitter devant son Seigneur ce qui le retient sur terre, et revêtir l’habit par excellence, la crainte révérencielle (*taqwâ*), qui est pure transparence.
