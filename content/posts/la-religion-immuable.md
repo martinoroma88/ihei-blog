@@ -31,7 +31,7 @@ Et c’est justement de là, de ce que les chrétiens appellent l’incarnation 
 
 Chaque Révélation est une nouvelle création qui redonne à la nature déchue sa dignité originelle, au moins relativement à celui qui bénéficie d’une telle Révélation. Ainsi, si tous les hommes étaient vraiment religieux, les soi-disant «&nbsp;problèmes écologiques&nbsp;» cesseraient aussi de subsister «&nbsp;objectivement&nbsp;». En effet, ceux-ci, loin de constituer quelque chose de purement matériel, sont comme l’extériorisation du manque de pureté de l’homme déchu&nbsp;; d’autre part, le «&nbsp;purisme&nbsp;» auquel visent certains écologistes est purement apparent et donc luciférique&nbsp;: la vraie pureté est en effet donnée par la transparence des symboles, et la Révélation accorde justement la capacité de bénéficier de nouveau des réalités naturelles en tant que «&nbsp;Vestiges de Dieu&nbsp;», selon l’expression de Saint Bonaventure. En conséquence, l’idéal des écologistes s’éloigne de la transparence aux archétypes encore plus qu’un monde pollué qui montre au moins les signes évidents de deux tendances opposées.
 
-A propos de la contribution islamique au respect de la nature, je ne pourrais faire mieux que de citer certains des thèmes identifiés par un colloque qui s’est tenu il y a quelques années à Venise. Dans un des groupes de travail furent proposés les points suivants&nbsp;: 
+À propos de la contribution islamique au respect de la nature, je ne pourrais faire mieux que de citer certains des thèmes identifiés par un colloque qui s’est tenu il y a quelques années à Venise. Dans un des groupes de travail furent proposés les points suivants&nbsp;: 
 
 1. La nuisance à l’environnement comme nuisance morale, 
 2. Le concept de Création et sa valeur écologique, 
