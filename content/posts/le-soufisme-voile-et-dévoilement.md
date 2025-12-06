@@ -11,7 +11,9 @@ enableDropCap: true
 ---
 ![](https://res.cloudinary.com/genesi-communication-design/image/upload/v1711540160/basmala7_qguk4q.jpg)
 
-«&nbsp;Au nom de Dieu, le Tout-Miséricordieux, le Très-Miséricordieux&nbsp;» C’est par cette dédicace qui est une formule coranique que l’Émir Abd el-Kader, comme tout musulman, commençait tout exposé, ou initiait tout acte. Celui qui est appelé l’Émir Abd el-Kader ne fut pas seulement un émir, c’est-à-dire un détenteur du pouvoir temporel, reconnu d’ailleurs à ce titre pour sa justice, sa clémence et sa noblesse, même par ses adversaires, comme l’a évoqué, dernièrement en ces lieux, dans une conférence précédente, Bruno Étienne, il fut aussi et surtout le Shaykh ‘Abd el-Kader, c’est-à-dire un maître de la voie spirituelle en islam, un shaykh du *Taçawwuf*, du soufisme, comme nous disons en Occident.
+## Au nom de Dieu, le Tout-Miséricordieux, le Très-Miséricordieux
+
+C’est par cette dédicace qui est une formule coranique que l’Émir Abd el-Kader, comme tout musulman, commençait tout exposé, ou initiait tout acte. Celui qui est appelé l’Émir Abd el-Kader ne fut pas seulement un émir, c’est-à-dire un détenteur du pouvoir temporel, reconnu d’ailleurs à ce titre pour sa justice, sa clémence et sa noblesse, même par ses adversaires, comme l’a évoqué, dernièrement en ces lieux, dans une conférence précédente, Bruno Étienne, il fut aussi et surtout le Shaykh ‘Abd el-Kader, c’est-à-dire un maître de la voie spirituelle en islam, un shaykh du *Taçawwuf*, du soufisme, comme nous disons en Occident.
 
 Et c’est donc de ce soufisme, de cette voie spirituelle, qui fut à la fois le noyau et la mesure de son existence que nous voudrions nous entretenir ce soir, ce qui pourra d’ailleurs apporter un éclairage sur la noblesse reconnue par tous, à l’exercice de sa fonction temporelle.
 
@@ -35,11 +37,9 @@ L’on exposera maintenant ce qui préside et participe à la voie spirituelle, 
 
 > Il y a dans ce verset une indication sur le parcours de la Voie qui conduit à la Connaissance. En premier lieu, Dieu ordonne aux croyants de pratiquer la crainte de Lui (*at-taqwâ*). Cela correspond à ce que, chez nous, on appelle la «&nbsp;station du repentir&nbsp;»(*maqâm at-tawba*), qui est la base de tout progrès sur la Voie et la clef qui permet de parvenir à la «&nbsp;station de la réalisation&nbsp;»(*maqâm at-tahqîq*). Celui à qui elle a été accordée, l’arrivée au but lui a été accordée, et celui à qui elle a été refusée, l’arrivée au but lui a été refusée. Ainsi que l’a dit l’un des maîtres&nbsp;: «&nbsp;Ceux qui ne parviennent pas au but (*al-wuçûl*), c’est parce qu’ils n’ont pas respecté ou mis en pratique les principes (*al-uçûl*).
 
-
  Le Shaykh poursuit&nbsp;: 
 
 > Dieu nous dit ensuite «&nbsp;et cherchez un moyen d’accès vers Lui&nbsp;»&nbsp;», c’est-à-dire&nbsp;: après avoir maîtrisé la «&nbsp;station du repentir&nbsp;» en vous conformant à toutes ces conditions, cherchez un moyen d’accès. Ce moyen, c’est le maître dont la filiation initiatique (*nisba*) est sans défaut, qui a une connaissance véritable de la Voie, des déficiences qui font obstacle et des maladies qui empêchent de parvenir à la Gnose, qui possède une science éprouvée de la thérapeutique, des dispositions tempéramentales et des remèdes qui conviennent. Il y a unanimité absolue des Gens d’Allah sur le fait que, dans la Voie de la Gnose, un «&nbsp;moyen d’accès&nbsp;» (*waçîla*), c’est-à-dire un maître, est indispensable. Les livres ne permettent nullement de s’en passer, du moins dès lors que se produisent les inspirations surnaturelles (*al-wâridât*), les éclairs des théophanies (*bawâriq at-tajalliiyât*) et les évènements spirituels (*al-wâqi‘ât*) et qu’il devient donc nécessaire d’expliquer au disciple ce qui, dans tout cela, doit être accepté ou rejeté, ce qui est sain et ce qui est vicié. En revanche, au tout début de la Voie, il peut se contenter des livres qui traitent du comportement pieux et du combat spirituel dans son sens le plus général.
-
 
  Et le Shaykh conclue&nbsp;:
 
