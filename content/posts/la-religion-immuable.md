@@ -38,7 +38,7 @@ Chaque Révélation est une nouvelle création qui redonne à la nature déchue 
 3. La Miséricorde, la Justice et l’Amour envers la Création, don de Dieu, 
 4. La crise de l’environnement comme crise morale, 
 5. La Loi divine et l’obéissance de l’homme dans l’accomplissement de son devoir comme gardien de la Création
-6. nous dirions&nbsp;: Vicaire de Dieu, *khalîfat Allâh*.
+6. Nous dirions&nbsp;: Vicaire de Dieu, *khalîfat Allâh*.
 
 Les points qui sont identifiés ici sont sûrement très stimulants, à condition toutefois que l’on ne prétende pas les aborder avec le préjugé selon lequel les diverses religions exprimeraient des perspectives totalement irréductibles. En effet, il est inutile de se demander, comme pourtant on l’a fait à l’occasion d’un tel colloque, quelles sont les conceptions de la grâce divine, de l’amour ou du pardon qui sont propres respectivement aux juifs, aux chrétiens et aux musulmans, quand on sait que Dieu ne dit pas des choses différentes à l’homme, unique créature faite à Son image et ressemblance, et qu’Il ne donne pas «&nbsp;un&nbsp;» aux juifs, «&nbsp;deux&nbsp;» aux chrétiens et «&nbsp;trois&nbsp;» aux musulmans, selon une conception évolutive de ces religions qui ne sont alors plus comprises comme irruptions du sacré dans le monde, comme manifestations du Verbe divin lui-même, donc complètes et parfaites.
 
