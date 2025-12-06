@@ -5,9 +5,9 @@ date: 2013-05-30T18:22:19.337Z
 auteur: Yahya Pallavicini
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1687888050/1687887242108_ltjvsa.jpg
 category: Islam en pratique
-enableDropCap: false
+enableDropCap: true
 ---
-«&nbsp;À Dieu nous appartenons et c’est vers Lui que ce fera le retour&nbsp;»[^1]
+> À Dieu nous appartenons et c’est vers Lui que ce fera le retour[^1]
 
 Ce verset tiré du Saint Coran, Parole de Dieu fait Livre pour les musulmans, est celui qui est le plus communément rappelé à l’occasion de la disparition d’une personne chère. Nous appartenons à Dieu, et à Dieu seulement. Pendant un instant, la disparition d’une personne représente le rappel de la disparition de ses spécificités, un rappel à la relativité de son corps, de son caractère, de ses œuvres, de son histoire, même de sa religion.
 
