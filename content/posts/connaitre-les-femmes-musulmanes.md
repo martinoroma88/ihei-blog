@@ -28,7 +28,7 @@ Parmi les nombreuses traditions valorisant l’importance de la femme, nous pouv
 
 L’expression arabe traduite par «&nbsp;d’une valeur inégalable&nbsp;» signifie que certaines femmes ne peuvent être remplacées par aucun autre don. Il est dit que «&nbsp;l’épouse vertueuse n’est pas un bien de ce bas-monde puisqu’elle te permet de te consacrer entièrement à l’Au-delà.&nbsp;»[^3] Ces deux dernières citations pourraient suffire à rendre vains la plupart des discours sur la femme musulmane. Il est toutefois nécessaire de comprendre également la cause de certaines erreurs d’interprétations qui touchent tous les aspects de la vie.
 
-## Le voile islamique&nbsp; symbole de vocation religieuse et transparence divine
+## Le voile islamique&nbsp;: symbole de vocation religieuse et transparence divine
 
 Venons-en à présent à des exemples concrets, à commencer par le «&nbsp;voile islamique&nbsp;». Si, parmi les innombrables significations attribuées à la valeur et à la fonction du voile islamique, certaines frôlent véritablement le mauvais goût, l’on ne cherche jamais, néanmoins, à en donner une définition religieuse. En effet, à l’instar des autres Traditions, par exemple l’hindouisme, le judaïsme et le christianisme, le voile sert, du point de vue de l’islam, à exprimer la vocation religieuse, jusque dans l’habit. Alors pourquoi tant de bruit autour du voile islamique&nbsp;? 
 
