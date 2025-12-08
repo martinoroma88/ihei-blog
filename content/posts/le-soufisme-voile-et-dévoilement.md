@@ -106,19 +106,19 @@ Qu’il me soit permis de dire en conclusion que le portrait de l’Émir, ou pl
 
 [^2]: Abd el-Kader, *Écrits spirituels*, trad. Michel Chodkiewicz, Éditions du Seuil, 1982, pp. 60-61. 
 
-[^3]: Cor. 3&nbsp;: 84. 
+[^3]: Coran 3&nbsp;: 84. 
 
-[^4]: Cor. 29&nbsp;: 46.
-[^5]: Cor. 48&nbsp;: 18. 
+[^4]: Coran 29&nbsp;: 46.
+[^5]: Coran 48&nbsp;: 18. 
 
-[^6]: Cor. 7&nbsp;: 172.
+[^6]: Coran 7&nbsp;: 172.
 
-[^7]: Cor. 29&nbsp;: 45. 
+[^7]: Coran 29&nbsp;: 45. 
 
-[^8]: Cor. 13&nbsp;: 28. 
+[^8]: Coran 13&nbsp;: 28. 
 
-[^9]: Cor. 2&nbsp;: 152.
+[^9]: Coran 2&nbsp;: 152.
 
-[^10]: Cor. 28&nbsp;: 88. 
+[^10]: Coran 28&nbsp;: 88. 
 
 [^11]: Ibn ‘Arabî, *La sagesse des prophètes*, trad. Titus Burckhardt, Albin Michel, p. 48.
