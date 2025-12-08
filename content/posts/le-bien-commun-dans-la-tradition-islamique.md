@@ -70,8 +70,8 @@ Quant aux musulmans vivant en Europe, ils doivent mener sereinement leur réflex
 [^9]: Coran 2&nbsp;: 185.
 [^10]: Ibn Mâjah.
 [^11]: Ibn al-Qayyim. Cité par Mohammad Hashim Kamali, *Principles of Islamic Jurisprudence*, Revised Edition, Islamic Texts Society, Cambidge, 1991, p. 269.
-[^12]: Cor. 2&nbsp;: 256.
-[^13]: Cor 6&nbsp;: 38.
+[^12]: Coran 2&nbsp;: 256.
+[^13]: Coran 6&nbsp;: 38.
 [^14]: Coran 75&nbsp;: 36.
 [^15]: Mohammad Hashim Kamali, *Principles of islamic Jurisprudence*, Revised Edition, Islamic Texts Society, Cambidge,1991, p.281.
 [^16]: Sur le *takhayyur*, voir notamment Noël J.Coulson, *Histoire du Droit Islamique*, PUF, p. 117 sq.
