@@ -46,7 +46,7 @@ Minâ constitue une étape sur la route en direction de ‘Arafah, qui est une g
 
 > Nul jour n’est mieux estimé par Dieu que celui de ‘Arafah. Lorsque vient le soir de ‘Arafah, Dieu descend vers le Ciel de ce monde, et Se vante devant les anges en disant&nbsp;: «&nbsp;Mes serviteurs sont venus à Moi, échevelés, par des chemins difficiles, dans l’espoir de Mon Paradis.&nbsp;» Le Prophète ajoute&nbsp;: «&nbsp;Nul jour ne voit autant d’hommes affranchis de l’Enfer que le jour de ‘Arafât.
 
-## Un parcours spirituel&nbsp;: de 'Arafât au sacrifice
+## Un parcours spirituel&nbsp;: de ‘Arafât au sacrifice
 
 Le pèlerin qui arrive à ‘Arafât ne sait s’il a devant ses yeux l’image du premier jour de l’humanité, ou s’il contemple la préfiguration du jour du Jugement dernier. La vision des hommes et des femmes vêtus humblement de blanc qui se tiennent là immobiles, regardant le ciel sur le mont de la Miséricorde, au milieu de cette plaine semi désertique, assène un coup terrible au c&oelig;ur du croyant qui saisit immédiatement la gravité et l’intensité d’une telle journée. Il n’a plus la notion du temps ni celle de l’espace. Il est submergé par la sensation du regard scrutateur de Dieu qui plonge jusqu’au plus profond de lui, et brise la gangue de l’orgueil de sa suffisance, le contraignant à reconnaître sa totale dépendance et sa pauvreté spirituelle envers Lui. C’est la journée de la solitude. Le croyant et la croyante sont avec tous les autres croyants, mais ils se sentent seuls parmi les hommes. Ils pleurent devant Dieu et implorent Son pardon, ils pleurent et demandent comme jamais ils n’ont pleuré et demandé, nus et sans artifices, devant la Majesté, la Puissance et le Jugement d’Allâh.
 
