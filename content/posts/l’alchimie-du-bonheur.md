@@ -17,7 +17,7 @@ L’Occident moderne se méprend sur la nature de cette connaissance est confond
 
 Cette confusion se répercute également sur ce que l’on comprend par connaissance mystique. Il ne peut exister en effet de mystique «&nbsp;rationnel&nbsp;» ou de mystique «&nbsp;sentimental&nbsp;»&nbsp;; on ne peut non plus penser qu’un élan «&nbsp;mystique&nbsp;» puisse avoir quelque chose à voir avec une dimension psychique ou animique.  
 
-Dans l’exemple de l’Alchimie du Bonheur, on parle de deux cas&nbsp;: le premier cas est celui d’un «&nbsp;initié&nbsp;» à la voie intérieure, qui accepte de se soumettre à Dieu et à un guide, à un Maître, et à un Envoyé divin&nbsp;; tandis que dans le second cas, la recherche de la connaissance est seulement une impulsion individuelle, rationnelle qui ne peut saisir ni imaginer qu’il y ait autre chose que la raison. 
+Dans l’exemple de *l’Alchimie du Bonheur*, on parle de deux cas&nbsp;: le premier cas est celui d’un «&nbsp;initié&nbsp;» à la voie intérieure, qui accepte de se soumettre à Dieu et à un guide, à un Maître, et à un Envoyé divin&nbsp;; tandis que dans le second cas, la recherche de la connaissance est seulement une impulsion individuelle, rationnelle qui ne peut saisir ni imaginer qu’il y ait autre chose que la raison. 
 
 Ce second cas ne peut être défini comme «&nbsp;mystique&nbsp;» à moins de confondre la ratio avec l’esprit&nbsp;; l’on ne peut non plus confondre le mystique avec un «&nbsp;émotif&nbsp;» ou un «&nbsp;sentimental&nbsp;», qui vit dans un état de réalité confuse. 
 
