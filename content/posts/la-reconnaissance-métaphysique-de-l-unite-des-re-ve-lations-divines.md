@@ -47,6 +47,8 @@ La vérité divine de l’unité informe tous les degrés de la réalité et tou
 
 De la même façon, selon une expression doctrinale bien connue, la conception de l’unicité, elle-même, est unique (*at-tawhîdu wâhid*). Elle est liée indissolublement à la complémentarité des aspects de transcendance et d’immanence, dont l’équilibre permet seul de maintenir ouvert le mystère inépuisable de Dieu.
 
+## Le fondement du *tawhîd*&nbsp;: synthèse entre Transcendance et Immanence
+
 Chaque fois qu’un tel équilibre est rompu, on risque fort de tomber, d’un côté, dans l’abstraction mentale, de l’autre, dans le «&nbsp;panthéisme&nbsp;», et toute hérésie peut, en définitive, être rapportée à l’une de ces deux tendances. C’est à travers des attestations apparemment inconciliables que le Coran nous appelle à la nécessité de maintenir cet équilibre&nbsp;: «&nbsp;Rien n’est semblable à Lui, et Il est Celui qui entend et qui sait.&nbsp;»[^10] Ibn Arabî s’exprime à ce propos, en témoignant d’une polarisation des aspects divins qui se multiplient comme en une série de miroirs se faisant face&nbsp;: 
 
 > L’éloignement ne l’empêche pas d’entendre, car Il est le Proche (*al-Qarîb*), et la proximité ne L’empêche pas de voir car Il est l’Éloigné (*al-Ba’îd*).[^11]
@@ -62,6 +64,8 @@ Mais, dès lors que le monothéisme est unique, pourquoi existe-t-il diverses re
 C’est en se fondant sur la convergence dans le Dieu unique que chaque tradition a reconnu et confirmé les Révélations qui l’ont précédée, comme elle a, dans le même temps, annoncé la Révélation successive. La diversité des traditions est donc providentielle, même si elle peut apparaître comme une épreuve, surtout en des temps où la réalité de l’unicité divine s’est voilée dans le c&oelig;ur des hommes. On lit dans le Coran&nbsp;: 
 
 > À chacun d’entre vous, Nous avons donné une Loi et une Voie. Si Dieu l’avait voulu, Il aurait fait de vous une seule communauté. Mais Il a voulu vous éprouver par le don qu’Il vous a fait. Rivalisez entre vous dans les bonnes actions. Votre retour à tous se fera vers Dieu. C’est alors qu’Il vous informera à propos de vos désaccords.[^13]
+
+## La Miséricorde divine à travers la révélation
 
 Il ressort nettement de ces considérations que l’exclusivisme intégriste n’est pas du tout fondé du point de vue doctrinal.
 
@@ -90,6 +94,8 @@ Dans la transparence cristalline du réceptacle prophétique, la pureté incolor
 Nous voudrions aussi rappeler que le terme «&nbsp;prophétie&nbsp;» doit être compris, dans l’islam, selon un sens beaucoup plus profond que la conception qui a cours actuellement en Occident. Cette dernière prend sa source chez les devins de l’antiquité plutôt que dans le prophétisme biblique et évangélique. À la question qui lui était posée au sujet du caractère du Prophète, sa femme, ‘A’ishah, répondit&nbsp;: «&nbsp;son caractère était comme le Coran&nbsp;», témoignant ainsi de l’identité intérieure du Prophète avec le Livre révélé. Une telle identité apparaît de façon encore plus surprenante quand le Prophète dit de lui-même&nbsp;: 
 
 > celui qui me voit, voit la Vérité (*man ra’ânî fa-qad ra’â-l-haqq*).
+
+## Prophétie et sainteté
 
 Toutefois, nous voudrions souligner que la prophétie ne peut être la prérogative de tous les hommes. On peut facilement le comprendre puisque, d’un point de vue symbolique, la représentation de l’unicité dans la multiplicité est la centralité. Or la centralité dans l’espace et le temps implique que la Révélation surgisse en des lieux et des moments particuliers, même si tout est contenu dans la science divine. Il y a donc des moments dans l’Histoire où la Parole de Dieu se manifeste comme Révélation et d’autres où cela n’advient pas. Afin que cette centralité puisse se produire, il est nécessaire qu’apparaisse un espace, un «&nbsp;cercle&nbsp;», à l’intérieur duquel le centre puisse exercer sa fonction. Ce n’est donc pas un individu en tant que tel qui reçoit la prophétie, mais c’est un peuple (*qawm*), une communauté (*ummah*). Le Prophète, un *ummî*, un illettré, «&nbsp;vierge intellectuellement&nbsp;», reçut la Révélation coranique comme manifestation du prototype divin de la connaissance, la Mère du Livre (*umm al-kitâb*). La racine de ces termes, *ummah*, *ummî*, *umm al-kitâb*, qui embrassent tous les aspects de la Révélation, indique une dimension maternelle (*umm*) qui nous renvoie encore à l’empreinte de la Miséricorde divine. Ainsi nous pouvons comprendre pourquoi Abraham lui-même est appelé, par le Coran, une «&nbsp;communauté&nbsp;».
 
