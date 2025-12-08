@@ -105,7 +105,7 @@ Un autre intervenant répond&nbsp;:
 
 > On s’est qualifié d’homo sapiens&nbsp;: il va falloir le prouver. C'est-à-dire, est-ce que nous sommes vraiment savants, est-ce qu’on est capable d’être autre chose que des animaux, par exemple des lemmings, qui tous les cinq ans vont se jeter dans l’eau pour s’y noyer&nbsp;? 
 
-A un autre auditeur qui insiste sur la normalité de l’extinction des espèces, conséquence naturelle de l’évolution, on lui répond&nbsp;: 
+À un autre auditeur qui insiste sur la normalité de l’extinction des espèces, conséquence naturelle de l’évolution, on lui répond&nbsp;: 
 
 > C’est vrai que l’extinction, tout comme la mort, est un phénomène naturel. Mais si je meurs à deux ans parce que je me fais écraser par une voiture, est-ce que c’est naturel&nbsp;? En effet les espèces doivent disparaître tout comme nous devons mourir mais plus on meure tard mieux c’est. Qu’un phénomène soit naturel dans son essence est une chose, le fait qu’il soit amplifié artificiellement par l’espèce humaine qui lui donne des proportions qui ne sont plus naturelles en est une autre.
 
@@ -121,7 +121,7 @@ L’animateur poursuit en lançant l’idée que le phénomène naturel serait q
 
 > Des espèces apparaissent et disparaissent et suivant cette théorie il n’y aurait donc pas un capital qui se réduit contrairement à ce que l’on dit fait remarquer un des participants. «&nbsp;*Il n’en est rien*&nbsp;», dit un second, «&nbsp;*car en fait ce capital se réduit de manière drastique actuellement*&nbsp;», et d’après un troisième, «&nbsp;*comme il a pu augmenter dans le passé, cela compense le phénomène actuel.*&nbsp;» Le mécanisme de l’évolution c’est quand même quelque chose qui transforme et qui n’appauvrit pas forcément affirme l’animateur. Il poursuit en disant qu’il y a eu des périodes d’expansion du nombre d’espèces, surtout après les crises d’extinction, comme par exemple celle des dinosaures, et qu’ensuite nous avons récupéré le déficit d’espèces. Actuellement, l’homme serait responsable de l’intensification du processus d’extinction des espèces en laissant peu d’espace à l’apparition de nouvelles espèces, si ce n’est de façon pathologique, comme le montre notamment l’exemple des invasions biologiques de certaines espèces qui apparaissent et se mettent à pulluler parce que l’on a dégradé complètement l’écosystème dans lequel nous vivons. On voit donc émerger des choses nouvelles, mais qui ont un caractère pathologique et négatif vis-à-vis de l’espèce humaine. De même, dans le domaine des micro-organismes où l’on a appris à lutter contre les agents pathogènes mais avec un mauvais usage des antibiotiques, entre parenthèses, eux-mêmes produits de la biodiversité naturelle. On se trouve ainsi exposé aujourd’hui à l’action d’agents pathogènes hyper virulents et hyper résistants à tous ces antibiotiques. Là, effectivement il y a de la novation, et même éventuellement nouvelles espèces, mais devons-nous nous en réjouir pour autant&nbsp;? 
 
-L’animateur propose, après le constat, d’aborder les solutions possibles pour remédier aux déséquilibres. D’après l’un des intervenants&nbsp;: 
+L’animateur propose, après le constat, d’aborder les solutions possibles pour remédier aux déséquilibres. D’après l’un des intervenants
 
 > les solutions existent bien. Les seuls obstacles sont d’ordre sociopolitique.
 
@@ -133,7 +133,7 @@ Le problème, poursuit l’animateur,
 
 > est qu’on ne peut en toute logique empêcher les Chinois de conduire. Quelles sont donc les actions raisonnables qui pourraient être entreprises&nbsp;? 
 
-On lui répond&nbsp;: 
+On lui répond
 
 > qu’il faudra considérer le problème de la surpopulation qui doit être régulée très rapidement, qu’il faut que l’on change rapidement nos modes de production et de consommation, et que les problèmes d’environnement et de biodiversité soient au c&oelig;ur de nos politiques. Il y a des actions que l’on peut entreprendre spécifiquement sur la biodiversité par la création de réserves naturelles, ainsi que par des plans de protection et de sauvegarde des espèces menacées, s’accompagnant d’un renforcement des moyens dédiés à l’application de ces politiques. Ces politiques sont, en France, coordonnées par le Ministère de l’environnement, qui représente pour l’instant l’avant-dernier budget de l’État. On ne peut pas continuer à protéger les espèces et les milieux naturels si l’on ne modifie pas la cause des dégradations. Cela implique donc un effort également très important d’intégration des enjeux de la biodiversité dans toutes les grandes politiques publiques&nbsp;: urbanisme, agriculture, transport, tourisme.
 
@@ -141,7 +141,7 @@ Un autre intervenant poursuit&nbsp;:
 
 > Si les pays occidentaux ne donnent pas l’exemple, il n’y a aucune chance que le relais soit pris par les pays du sud où les problèmes en terme d’extinction des espèces sont aussi important que ceux de leur propre développement. Il est impératif que l’on remette en cause nos propres types de développement, et cela passe par l’éducation&nbsp;: faire comprendre que l’on est tous en interaction les uns avec les autres, à la fois au niveau de l’espèce humaine, mais aussi par rapport aux autres espèces. C’est assez facile à faire comprendre à des enfants. Il faut poser clairement les problèmes qui relèvent de ce que l’on appelle aujourd’hui le développement durable, c’est-à-dire rendre compatibles entre eux l’aménagement intelligent du territoire, la sauvegarde du patrimoine naturel, du patrimoine culturel et les conditions de développement d’une vie humaine saine. En impliquant l’ensemble des citoyens, on pourra ainsi mobiliser l’ensemble des acteurs de cette crise de l’extinction dont on parle, et agir sur un levier plus important.
 
-L’animateur de l’émission dit 
+L’animateur de l’émission dit
 
 > qu’on ne voit actuellement aucun modèle de société qui ait fait cet effort, même si l’on connaît les modes de développement économique du passé. Si la campagne électorale à laquelle on assiste parle de croissance, c’est davantage dans un but supposé de réduction du chômage, mais elle ne donne pas l’impression d’être dans la perspective de ce qui vient d’être évoqué. On ne voit pas très bien d’ailleurs quel modèle de société intègrerait les contraintes dont on vient de parler et surtout on ne voit pas très bien ce que ce modèle donnerait en terme de mode de vie.
 
@@ -149,11 +149,11 @@ Un des intervenants rétorque que
 
 > c’est comme si l’on était dans un véhicule lancé à grande vitesse et qu’on veuille en même temps faire marche arrière. Tout le monde ne pense qu’au progrès. Nous avons été élevés en prenant comme référence le siècle des lumières, c’est-à-dire dans une conception du progrès, qui s’est poursuivit ensuite par le marxisme et par la vision progressiste française. Par conséquent, l’écologie est une science subversive, puisque, au lieu d’aller vers le développement, elle aboutit au constat selon lequel il va falloir s’arrêter un jour et faire les comptes, ce qui n’est certes guère réjouissant. Tant que la nature avait des réserves on pouvait dépenser sans compter, mais maintenant on arrive au bout du chemin et il va falloir effectuer une révolution complète, pas seulement sociale mais aussi dans les mentalités. C’est sans doute difficile&nbsp;; c’est sûrement un tout autre mode de vie mais dans ce «&nbsp;malheur&nbsp;» je pense qu’il y a une vertu&nbsp;: celle de la pédagogie de la catastrophe. Au fur et à mesure qu’arrivent les problèmes, de plus en plus de gens se rendent compte qu’on ne peut pas continuer indéfiniment comme cela et que l’on ne peut pas dépenser indéfiniment plus que ce que l’on gagne. Ayons l’intelligence de prendre dès à présent les mesures nécessaires pour vivre le moins mal possible ce changement de mode de vie.
 
-Un autre intervenant poursuit&nbsp;: 
+Un autre intervenant poursuit
 
 > pour moi, cette crise de la biodiversité est une chance, pour l’espèce humaine, de se remettre en cause et de s’interroger sur sa dimension d’espèce sage, raisonnable, capable de penser le futur pour ses enfants et petits-enfants. Oui, l’espèce humaine est capable du meilleur. On savait déjà qu’elle était capable du pire, comme elle est en train de le démontrer tous les jours un peu plus, mais elle est malgré tout aussi capable du meilleur. Donc, tout cela dépend de nous&nbsp;! Sommes-nous réellement capables, oui ou non, de comprendre la leçon&nbsp;? Je pense pour ma part que la réponse finira par être oui. Mais la question est&nbsp;: combien de catastrophes faudra-t-il pour agir, pour réagir enfin&nbsp;? 
 
-L’animateur évoque alors de nouveau le point de vue de la science devant ces phénomènes, qui consiste à dire que&nbsp;: 
+L’animateur évoque alors de nouveau le point de vue de la science devant ces phénomènes, qui consiste à dire que
 
 > somme toute, tout cela n’est pas bien grave, et que l’on va finalement mettre tout le patrimoine naturel dans des sortes d’arches de Noé génétiques. Ainsi, si la biodiversité n’existe plus à l’instant présent, elle pourra toujours être reconstituée lorsque «&nbsp;les choses iront mieux&nbsp;» dans le futur, ou quand on aura trouvé un moyen d’exploiter ce patrimoine préservé.
 
