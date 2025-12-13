@@ -2,7 +2,7 @@
 titre: Le Shaykh Ahmad Ibn Idriss face aux juristes wahhabites
 vedette: false
 date: 2005-03-15T21:27:26.825Z
-auteur: Jean Abd al-Wadoud Gouraud
+auteur: Abd al-Wadoud Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1709676547/1709676421046_oe33vo.jpg
 category: Islam en pratique
 enableDropCap: true
