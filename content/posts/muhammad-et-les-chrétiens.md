@@ -83,9 +83,9 @@ Les chrétiens et les musulmans peuvent reconnaître cette unité dans la figure
 
 En conclusion, voici comment le Prophète Muhammad décrit le retour de Jésus&nbsp;: «&nbsp;Quand Jésus (sur lui la paix) descendra, il saura, par ordre de Dieu qui le lui avait déjà dit au ciel avant son retour, tout ce qui lui sera nécessaire de savoir au regard de cette loi, afin de pouvoir juger entre les hommes. Les croyants se réuniront autour de lui et le proclameront comme leur juge, car il n’y aura alors personne de plus qualifié que lui \[...] Jésus (sur lui la paix) avancera, accompagné seulement des justes, et les anges, de droite et de gauche, le recevront, et leur indiqueront la route du Paradis. Jésus (sur lui la paix) arrivera auprès de son Seigneur&nbsp;; un trône sera prêt pour lui du côté opposé.&nbsp;»
 
-[^1]: Cor. 42&nbsp;: 15. 
+[^1]: Coran 42&nbsp;: 15. 
 
-[^2]: Cor. 5&nbsp;: 48. 
+[^2]: Coran 5&nbsp;: 48. 
 
 [^3]: Martin Lings, *La vie du Prophète Muhammad. Sa vie d’après les sources les plus anciennes*, chap. XXVII, éd. Le Seuil, Paris. 
 
