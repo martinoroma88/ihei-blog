@@ -2,7 +2,7 @@
 titre: Muhammad et les chrétiens
 vedette: false
 date: 2010-03-10T16:05:58.865Z
-auteur: Abd-al-Qayyoum Guerre-Genton
+auteur: Abd al-Qayyoum Guerre-Genton
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1711643627/sunset-4120824_1280_qtuvfs.jpg
 category: Dialogue interreligieux
 enableDropCap: true
