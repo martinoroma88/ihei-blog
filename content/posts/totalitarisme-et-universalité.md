@@ -47,7 +47,7 @@ Qu’on veuille bien prendre la peine de réfléchir aux événements qui se son
 
 ## Le témoignage spirituel et la constitution d’une élite
 
-Le courage véritable de témoigner de la vérité, dont Guénon a si souvent montré l’exemple, n’exige-t-il pas que ceux qui se rattachent à ces centres, au lieu de rester l’œil rivé sur les textes en redessinant le monde autour d’eux à l’image de leurs projections mentales, continuent d’œuvrer à la constitution d’un élite occidentale. Il est vrai que Guénon a écrit en 1924&nbsp;:
+Le courage véritable de témoigner de la vérité, dont Guénon a si souvent montré l’exemple, n’exige-t-il pas que ceux qui se rattachent à ces centres, au lieu de rester l’œil rivé sur les textes en redessinant le monde autour d’eux à l’image de leurs projections mentales, continuent d’œuvrer à la constitution d’une élite occidentale. Il est vrai que Guénon a écrit en 1924&nbsp;:
 
 > Ceux qui se sont assimilé directement l’intellectualité orientale ne peuvent prétendre qu’à jouer ce rôle d’intermédiaires dont nous parlions tout à l’heure&nbsp;; ils sont, du fait de cette assimilation, trop près de l’Orient pour faire plus&nbsp;; ils peuvent suggérer des idées, exposer des conceptions, indiquer ce qu’il conviendrait de faire, mais non prendre par eux-mêmes l’initiative d’une organisation qui, venant d’eux, ne serait pas vraiment occidentale.
 
