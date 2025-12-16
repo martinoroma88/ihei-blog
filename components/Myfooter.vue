@@ -161,7 +161,7 @@
       </div>
 
       <div class="space-y-2 md:hidden text-sm">
-        <p>&copy; Institut des Hautes Études Islamiques, 2024</p>
+        <p>&copy; Institut des Hautes Études Islamiques, 2026</p>
         <p>
           <a
             class="link underline flex space-x-2"
