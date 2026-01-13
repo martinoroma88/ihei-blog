@@ -13,6 +13,9 @@ export default {
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { hid: "description", name: "description", content: "L'Islam en France" }
     ],
+    link: [
+      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }
+    ],
     script: [
       {
         src: "https://cdn.usefathom.com/script.js",
