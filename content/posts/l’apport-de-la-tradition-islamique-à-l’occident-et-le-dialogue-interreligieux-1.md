@@ -44,7 +44,7 @@ Au contraire, on prétend que, après que fut apparue finalement à Rome la prem
 
 Là où il est dit que les Anges sauront empêcher, dans les derniers temps, l’infiltration des forces de l’Adversaire.
 
-
+\-----
 
 Le texte que nous avons lu jusqu’ici a constitué la présentation de notre livre Islâm Intérieur, la Spiritualité Universelle dans la Religion Islamique, faite au congrès de «&nbsp;Communion et Libération&nbsp;» qui s’est tenu l’été dernier à Rimini. Après cette expérience, ce texte est devenu aussi anachronique que les espoirs sur le dialogue islamo-chrétien exprimés à la fin du livre, à propos d’une possible rencontre des différentes voies au sommet de la même montagne.
 
