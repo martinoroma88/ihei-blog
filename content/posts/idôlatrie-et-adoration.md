@@ -61,11 +61,11 @@ Nous avons dit précédemment que l’isolement était un obstacle parce que, bi
 
 Ce voyage n’est jamais solitaire. La communauté (*al-ummah*) en est le cadre providentiel&nbsp;: elle soutient le croyant dans ses faiblesses, lui transmet les grâces accumulées par les générations qui l’ont précédé, et lui rappelle que la transformation intérieure n’est pas une conquête individuelle mais un don de Dieu, accordé à celui qui s’efface et accepte d’être transformé. C’est dans cet effacement progressif —&nbsp;de l’*ego* vers le Soi, du voile vers la Lumière&nbsp;— que le croyant découvre la vérité de la parole divine&nbsp;:
 
-Souviens-toi de Moi, Je Me souviendrais de toi (Cor. 2 : 152).
+Souviens-toi de Moi, Je Me souviendrais de toi.[^14]
 
 Alors, au terme de ce chemin —&nbsp;qui n’a pas de terme, car Dieu est infini&nbsp;— le croyant n’arrive pas à une idée de Dieu, ni à une émotion, ni même à une certitude intellectuelle&nbsp;: il arrive à une présence. Une présence si intime, si apaisante, que l’âme ne désire plus rien d’autre que de demeurer en elle. Enfin, la communauté véhicule des g&acirc;rces divines (*barakât)* pour le monde, et reflète fidèlement les réalités spirituelles ici-bas, participant de l’immanence divine. 
 
-De manière générale, de même que Dieu a redonné l’orientation verticale, pour chaque instant de la vie terrestre, à celui qu’il a créé, Il a établi les règles et les moyens qui balisent le chemin droit (*aç-çirât al-mustaq&icirc;m*), le plus court vers Dieu. Comme l’enseigne le Coran, aucune chose n’existe en vain&nbsp;: «&nbsp;Ce n’est pas par jeu que Nous avons créé le ciel et la terre et ce qui est entre eux.&nbsp;»[^14] La religion offre ainsi à l’homme l’ensemble des moyens visant à le purifier, notamment les rites, véritables «&nbsp;symboles agis&nbsp;», qui reproduisent au moment de leur exécution, dans l’ordre sensible, la tension métaphysique&nbsp;; de même que la *shahâdah*, expression de l’équilibre entre la transcendance et l’immanence divines, est réalisée dans chaque souffle et dans chaque regard de l’être. Les rites islamiques ne sont pas de simples obligations extérieures imposées à l’homme&nbsp;: ce sont des «&nbsp;symboles agis&nbsp;», des actes métaphysiques qui reproduisent, dans l’ordre sensible, les réalités spirituelles les plus élevées. En ce sens, le rite est le lieu privilégié où se noue la rencontre entre le temps et l’Éternité, entre la forme et l’Essence.
+De manière générale, de même que Dieu a redonné l’orientation verticale, pour chaque instant de la vie terrestre, à celui qu’il a créé, Il a établi les règles et les moyens qui balisent le chemin droit (*aç-çirât al-mustaq&icirc;m*), le plus court vers Dieu. Comme l’enseigne le Coran, aucune chose n’existe en vain&nbsp;: «&nbsp;Ce n’est pas par jeu que Nous avons créé le ciel et la terre et ce qui est entre eux.&nbsp;»[^15] La religion offre ainsi à l’homme l’ensemble des moyens visant à le purifier, notamment les rites, véritables «&nbsp;symboles agis&nbsp;», qui reproduisent au moment de leur exécution, dans l’ordre sensible, la tension métaphysique&nbsp;; de même que la *shahâdah*, expression de l’équilibre entre la transcendance et l’immanence divines, est réalisée dans chaque souffle et dans chaque regard de l’être. Les rites islamiques ne sont pas de simples obligations extérieures imposées à l’homme&nbsp;: ce sont des «&nbsp;symboles agis&nbsp;», des actes métaphysiques qui reproduisent, dans l’ordre sensible, les réalités spirituelles les plus élevées. En ce sens, le rite est le lieu privilégié où se noue la rencontre entre le temps et l’Éternité, entre la forme et l’Essence.
 
 La prière rituelle (*aç-çalâh*) en est l’illustration la plus immédiate. Ses mouvements —&nbsp;la station debout (*qiyâm*), l’inclination (*rukû'*) et la prosternation (*sujûd*)&nbsp;— ne sont pas de simples gestes codifiés&nbsp;: ils expriment et actualisent, dans le corps même du croyant, les degrés de la soumission et de l’anéantissement devant Dieu. La prosternation, sommet de la prière, est ainsi la position où le serviteur est à la fois le plus bas —&nbsp;son front touchant la terre&nbsp;— et le plus proche de Dieu, comme l’enseigne le Prophète (*çallâ-Llâhu 'alayhi wa sallam*)&nbsp;: «&nbsp;Le serviteur est le plus proche de son Seigneur lorsqu’il est en prosternation.&nbsp;» Ce paradoxe est au cœur de toute spiritualité authentique&nbsp;: c’est dans l’abaissement sincère que s’ouvre la voie vers le Très-Haut.
 
@@ -73,13 +73,13 @@ Le jeûne du Ramadan (*aç-çawm*) opère quant à lui une transformation d’un
 
 Le pèlerinage (*al-hajj*) synthétise enfin l’ensemble de ces dimensions. Le pèlerin qui revêt l’*ihrâm* —&nbsp;ce vêtement blanc et sans couture&nbsp;— se dépouille symboliquement de toutes ses identités sociales et individuelles pour ne plus se présenter devant Dieu que dans sa nudité essentielle, celle de la créature face à son Créateur. La circumambulation autour de la Ka'ba (*at-tawâf*) n’est pas une simple procession&nbsp;: elle figure le mouvement de l’être tout entier autour du Centre divin, comme les anges circumambulent autour du Trône céleste. Le cri du pèlerin —&nbsp;*Labbayka Allâhumma labbayk*, «&nbsp;Me voici, ô Dieu, me voici&nbsp;»&nbsp;— est la réponse vivante et incarnée à l’appel primordial que Dieu adressa aux âmes avant même leur entrée dans le monde&nbsp;:
 
-> Ne suis-Je pas votre Seigneur&nbsp;? (Cor. 7 : 172).
+> Ne suis-Je pas votre Seigneur&nbsp;?.[^16]
 
 Ainsi, chaque rite est une voie de retour vers l’origine, une remontée vers l’état primordial (*al-fitrah*) que l’homme a voilé en lui-même depuis sa chute. Accomplis avec présence et sincérité, ils ne transforment pas seulement le comportement extérieur du croyant&nbsp;: ils opèrent une véritable transmutation intérieure, purifiant progressivement le cœur de ses voiles, jusqu’à ce que la lumière divine puisse s’y refléter pleinement.
 
-Le croyant s’efforce de vivre *bismi-Llâh*, «&nbsp;au nom de Dieu&nbsp;», en sacrifiant —&nbsp;au sens étymologique de «&nbsp;rendre sacré&nbsp;»&nbsp;— sa vie, jusqu’à redécouvrir, avec Son aide, le rattachement de l’action au but, et contempler, avec cette même certitude qui caractérisait l’Homme avant sa chute et lui permettait de voir avec l’œil du cœur, l’Objet de toute adoration et de toute louange. C’est ce même rattachement qui offre à l’homme la possibilité de connaître les archétypes, les réalités spirituelles, lorsqu’il parvient à traverser l’apparence des choses pour ne retrouver que l’essentiel qui reste immuable, car «&nbsp;toute chose est évanescente, à l’exception de Sa Face&nbsp;»[^15]. Détaché alors de toute illusion, le serviteur est accueilli par Dieu, et accède à la station de la proximité (*maqâm al-qurbah*)&nbsp;: 
+Le croyant s’efforce de vivre *bismi-Llâh*, «&nbsp;au nom de Dieu&nbsp;», en sacrifiant —&nbsp;au sens étymologique de «&nbsp;rendre sacré&nbsp;»&nbsp;— sa vie, jusqu’à redécouvrir, avec Son aide, le rattachement de l’action au but, et contempler, avec cette même certitude qui caractérisait l’Homme avant sa chute et lui permettait de voir avec l’œil du cœur, l’Objet de toute adoration et de toute louange. C’est ce même rattachement qui offre à l’homme la possibilité de connaître les archétypes, les réalités spirituelles, lorsqu’il parvient à traverser l’apparence des choses pour ne retrouver que l’essentiel qui reste immuable, car «&nbsp;toute chose est évanescente, à l’exception de Sa Face&nbsp;»[^17]. Détaché alors de toute illusion, le serviteur est accueilli par Dieu, et accède à la station de la proximité (*maqâm al-qurbah*)&nbsp;: 
 
-> &Ocirc; âme apaisée&nbsp;! Retourne vers ton Seigneur, satisfaite et agréée.  Entre donc parmi Mes serviteurs. Entre dans Mon Paradis.[^16]
+> &Ocirc; âme apaisée&nbsp;! Retourne vers ton Seigneur, satisfaite et agréée.  Entre donc parmi Mes serviteurs. Entre dans Mon Paradis.[^18]
 
 [^1]: Cor. 2&nbsp;: 185.
 
@@ -107,8 +107,12 @@ Le croyant s’efforce de vivre *bismi-Llâh*, «&nbsp;au nom de Dieu&nbsp;», e
 
 [^13]: Cor. 28&nbsp;: 77.
 
-[^14]: Cor. 21&nbsp;: 16.
+[^14]: Cor. 2&nbsp;: 152.
 
-[^15]: Cor. 28&nbsp;: 88.
+[^15]: Cor. 21&nbsp;: 16.
 
-[^16]: Cor. 89&nbsp;: 27-30.
+[^16]: Cor. 7&nbsp;: 172.
+
+[^17]: Cor. 28&nbsp;: 88.
+
+[^18]: Cor. 89&nbsp;: 27-30.
