@@ -93,7 +93,7 @@ Le croyant s’efforce de vivre *bismi-Llâh*, «&nbsp;au nom de Dieu&nbsp;», e
 
 [^6]: René Guénon, *Orient et Occident*, Guy Trédaniel — Éditions de La Maisnie, Paris.
 
-[^7]: La première partie de cette parole prophétique&nbsp;: «&nbsp;Dieu était, et rien n’était avec lui&nbsp;» est mentionnée dans le Çahîh de Bukhârî, la seconde partie&nbsp;: «&nbsp;et Il est maintenant tel qu’Il était&nbsp;», souvent ajoutée en commentaire par les maîtres du *taçawwuf*, ne se trouve pas dans les recueils canoniques. Le hadith finit comme suit&nbsp;: «&nbsp;Son Trône était sur l’Eau. Il écrivit toute chose dans le *dhikr* et détermina la création des Cieux et de la Terre.&nbsp;»
+[^7]: La première partie de cette parole prophétique&nbsp;: «&nbsp;Dieu était, et rien n’était avec lui&nbsp;» est mentionnée dans le *Çahîh* de Bukhârî, la seconde partie&nbsp;: «&nbsp;et Il est maintenant tel qu’Il était&nbsp;», souvent ajoutée en commentaire par les maîtres du *taçawwuf*, ne se trouve pas dans les recueils canoniques. Le hadith finit comme suit&nbsp;: «&nbsp;Son Trône était sur l’Eau. Il écrivit toute chose dans le *dhikr* et détermina la création des Cieux et de la Terre.&nbsp;»
 
 [^8]: Cor. 51&nbsp;: 56.
 
