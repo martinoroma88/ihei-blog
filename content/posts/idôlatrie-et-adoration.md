@@ -32,7 +32,7 @@ Grâce à la révélation, l’homme retrouve une place centrale, qui lui permet
 
 [^1]: Cor. 2&nbsp;: 185.
 
-[^2]: René Guénon, *Orient et Occident*, Guy Trédaniel — Éditions de La Maisnie.
+[^2]: René Guénon, *Orient et Occident*, Guy Trédaniel — Éditions de La Maisnie, Paris.
 
 [^3]: Cor. 45&nbsp;: 23.
 
@@ -40,7 +40,7 @@ Grâce à la révélation, l’homme retrouve une place centrale, qui lui permet
 
 [^5]: C’est aussi à partir de cette m&ecirc;me racine qu’est formé l’un des termes qui désignent les mondes infernaux&nbsp;: *h&acirc;wiyah* («&nbsp;ab&icirc;me très profond&nbsp;»), Cf Cor. 101&nbsp;: 6-8.
 
-[^6]:  
+[^6]: René Guénon, *Orient et Occident*, Guy Trédaniel — Éditions de La Maisnie, Paris.
 
 [^7]:  
 
