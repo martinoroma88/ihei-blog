@@ -61,7 +61,7 @@ Nous avons dit précédemment que l’isolement était un obstacle parce que, bi
 
 Ce voyage n’est jamais solitaire. La communauté (*al-ummah*) en est le cadre providentiel&nbsp;: elle soutient le croyant dans ses faiblesses, lui transmet les grâces accumulées par les générations qui l’ont précédé, et lui rappelle que la transformation intérieure n’est pas une conquête individuelle mais un don de Dieu, accordé à celui qui s’efface et accepte d’être transformé. C’est dans cet effacement progressif —&nbsp;de l’*ego* vers le Soi, du voile vers la Lumière&nbsp;— que le croyant découvre la vérité de la parole divine&nbsp;:
 
-Souviens-toi de Moi, Je Me souviendrais de toi.[^14]
+> Souviens-toi de Moi, Je Me souviendrais de toi.[^14]
 
 Alors, au terme de ce chemin —&nbsp;qui n’a pas de terme, car Dieu est infini&nbsp;— le croyant n’arrive pas à une idée de Dieu, ni à une émotion, ni même à une certitude intellectuelle&nbsp;: il arrive à une présence. Une présence si intime, si apaisante, que l’âme ne désire plus rien d’autre que de demeurer en elle. Enfin, la communauté véhicule des g&acirc;rces divines (*barakât)* pour le monde, et reflète fidèlement les réalités spirituelles ici-bas, participant de l’immanence divine. 
 
