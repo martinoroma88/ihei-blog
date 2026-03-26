@@ -20,6 +20,8 @@ Il est donc nécessaire d’avoir un certain discernement pour maintenir la bala
 ## Les nouvelles formes d’id&ocirc;latrie
 
 Pour comprendre la nature et la gravité des idolâtries contemporaines, il est nécessaire de les situer dans le cadre que la tradition prophétique elle-même leur assigne&nbsp;: celui des temps de trouble —&nbsp;la *fitna*&nbsp;— qui précèdent et annoncent la fin du cycle humain. L’islam n’est pas une religion qui ignore le temps&nbsp;: il le lit, il le déchiffre, il en reconnaît les signes. Et parmi ces signes, la prolifération de l’idolâtrie sous ses formes les plus insidieuses occupe une place centrale dans les avertissements prophétiques.
+
+
 La notion de «&nbsp;conditions cycliques&nbsp;» n’est pas une invention de la pensée traditionnaliste moderne&nbsp;: elle est ancrée dans le Coran et la Sunna. Le Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) a décrit avec une précision saisissante la dégradation progressive des temps&nbsp;: «&nbsp;L’islam a commencé comme quelque chose d’étrange, et il redeviendra étrange comme il a commencé.&nbsp;» Cette étrangeté croissante ne désigne pas la marginalisation sociologique de la religion, mais quelque chose de plus profond&nbsp;: l’obscurcissement progressif de la compréhension intérieure, la réduction de l’islam à ses formes extérieures, la perte du sens vivant des rites et des doctrines. Les savants traditionnels ont toujours interprété ces avertissements non comme une invitation au pessimisme ou au repli, mais comme un appel au discernement accru —&nbsp;au *furqân*&nbsp;— précisément parce que les contrefaçons spirituelles deviennent, avec le temps, de plus en plus difficiles à distinguer de l’original.
 
 
