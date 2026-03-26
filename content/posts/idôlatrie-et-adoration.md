@@ -73,7 +73,7 @@ Le jeûne du Ramadan (*aç-çawm*) opère quant à lui une transformation d’un
 
 Le pèlerinage (*al-hajj*) synthétise enfin l’ensemble de ces dimensions. Le pèlerin qui revêt l’*ihrâm* —&nbsp;ce vêtement blanc et sans couture&nbsp;— se dépouille symboliquement de toutes ses identités sociales et individuelles pour ne plus se présenter devant Dieu que dans sa nudité essentielle, celle de la créature face à son Créateur. La circumambulation autour de la Ka‘ba (*at-tawâf*) n’est pas une simple procession&nbsp;: elle figure le mouvement de l’être tout entier autour du Centre divin, comme les anges circumambulent autour du Trône céleste. Le cri du pèlerin —&nbsp;*Labbayka Allâhumma labbayk*, «&nbsp;Me voici, ô Dieu, me voici&nbsp;»&nbsp;— est la réponse vivante et incarnée à l’appel primordial que Dieu adressa aux âmes avant même leur entrée dans le monde&nbsp;:
 
-> Ne suis-Je pas votre Seigneur&nbsp;?.[^16]
+> Ne suis-Je pas votre Seigneur&nbsp;?[^16]
 
 Ainsi, chaque rite est une voie de retour vers l’origine, une remontée vers l’état primordial (*al-fitrah*) que l’homme a voilé en lui-même depuis sa chute. Accomplis avec présence et sincérité, ils ne transforment pas seulement le comportement extérieur du croyant&nbsp;: ils opèrent une véritable transmutation intérieure, purifiant progressivement le cœur de ses voiles, jusqu’à ce que la lumière divine puisse s’y refléter pleinement.
 
