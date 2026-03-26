@@ -70,8 +70,8 @@ De manière générale, de même que Dieu a redonné l’orientation verticale, 
 
 [^13]:  
 
-[^14]:  
+[^14]: Cor. 21&nbsp;: 16.
 
-[^15]:  
+[^15]: Cor. 28&nbsp;: 88.
 
-[^16]:
+[^16]: Cor. 89&nbsp;: 27-30.
