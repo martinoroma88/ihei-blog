@@ -38,7 +38,7 @@ Grâce à la révélation, l’homme retrouve une place centrale, qui lui permet
 
 [^4]: Cor. 22&nbsp;: 31.
 
-[^5]: C’est aussi à partir de cette m&ecirc;me racine qu’est formé l’un des termes qui désignent les mondes infernaux&nbsp;: *h&acirc;wiyah* («&nbsp;ab&icirc;me très profond&nbsp;», Cf Cor. 101&nbsp;: 6-8.
+[^5]: C’est aussi à partir de cette m&ecirc;me racine qu’est formé l’un des termes qui désignent les mondes infernaux&nbsp;: *h&acirc;wiyah* («&nbsp;ab&icirc;me très profond&nbsp;»), Cf Cor. 101&nbsp;: 6-8.
 
 [^6]:  
 
