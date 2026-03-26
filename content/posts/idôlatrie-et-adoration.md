@@ -2,7 +2,7 @@
 titre: Idôlatrie et adoration
 vedette: false
 date: 2001-05-01T09:51:05.572Z
-auteur: Abd al-Qouddous Jibril GOURAUD
+auteur: Abd al-Qouddous Jibril Gouraud
 category: Islam en pratique
 enableDropCap: true
 ---
