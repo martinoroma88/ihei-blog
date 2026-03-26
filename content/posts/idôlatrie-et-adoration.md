@@ -58,17 +58,17 @@ De manière générale, de même que Dieu a redonné l’orientation verticale, 
 
 [^7]:  
 
-[^8]:  
+[^8]: Cor. 51&nbsp;: 56.
 
-[^9]:  
+[^9]: Cor. 6&nbsp;: 98.
 
-[^10]:  
+[^10]: Cor. 8&nbsp;: 26.
 
-[^11]:  
+[^11]: René Guénon, *Le Roi du Monde*, Gallimard, Paris.
 
-[^12]:  
+[^12]: Ab&ucirc; D&acirc;wu&ucirc;d.
 
-[^13]:  
+[^13]: Cor. 28&nbsp;: 77.
 
 [^14]: Cor. 21&nbsp;: 16.
 
