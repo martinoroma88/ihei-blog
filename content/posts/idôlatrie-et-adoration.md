@@ -66,7 +66,7 @@ De manière générale, de même que Dieu a redonné l’orientation verticale, 
 
 [^11]: René Guénon, *Le Roi du Monde*, Gallimard, Paris.
 
-[^12]: Ab&ucirc; D&acirc;wu&ucirc;d.
+[^12]: Ab&ucirc; D&acirc;w&ucirc;d.
 
 [^13]: Cor. 28&nbsp;: 77.
 
