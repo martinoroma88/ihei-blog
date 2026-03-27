@@ -118,7 +118,7 @@ C’est dans cet effacement progressif —&nbsp;de l’*ego* vers le Soi, du voi
 
 > Souviens-toi de Moi, Je Me souviendrais de toi.[^14]
 
-Alors, au terme de ce chemin —&nbsp;qui n’a pas de terme, car Dieu est infini&nbsp;— le croyant n’arrive pas à une idée de Dieu, ni à une émotion, ni même à une certitude intellectuelle&nbsp;: il arrive à une présence. Une présence si intime, si apaisante, que l’âme ne désire plus rien d’autre que de demeurer en elle. Enfin, la communauté véhicule des g&acirc;rces divines (*barakât*) pour le monde, et reflète fidèlement les réalités spirituelles ici-bas, participant de l’immanence divine. 
+Alors, au terme de ce chemin —&nbsp;qui n’a pas de terme, car Dieu est infini&nbsp;— le croyant n’arrive pas à une idée de Dieu, ni à une émotion, ni même à une certitude intellectuelle&nbsp;: il arrive à une présence. Une présence si intime, si apaisante, que l’âme ne désire plus rien d’autre que de demeurer en elle. Enfin, la communauté véhicule des g&acirc;rces divines (*barakât&icirc;n*) pour le monde, et reflète fidèlement les réalités spirituelles ici-bas, participant de l’immanence divine. 
 
 De manière générale, de même que Dieu a redonné l’orientation verticale, pour chaque instant de la vie terrestre, à celui qu’il a créé, Il a établi les règles et les moyens qui balisent le chemin droit (*aç-çirât al-mustaq&icirc;m*), le plus court vers Dieu. Comme l’enseigne le Coran, aucune chose n’existe en vain&nbsp;: 
 
