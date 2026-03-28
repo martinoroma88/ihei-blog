@@ -145,7 +145,7 @@ Alors, au terme de ce chemin —&nbsp;qui n’a pas de terme, car Dieu est infin
 
 De manière générale, de même que Dieu a redonné l’orientation verticale, pour chaque instant de la vie terrestre, à celui qu’il a créé, Il a établi les règles et les moyens qui balisent le chemin droit (*aç-çirât al-mustaq&icirc;m*), le plus court vers Dieu. Comme l’enseigne le Coran, aucune chose n’existe en vain&nbsp;: 
 
-> Ce n’est pas par jeu que Nous avons créé le ciel et la terre et ce qui est entre eux.[^15]
+> Ce n’est pas par jeu que Nous avons créé le ciel et la terre et ce qui est entre eux.[^18]
 
 La religion offre ainsi à l’homme l’ensemble des moyens visant à le purifier. Les rites islamiques ne sont pas de simples obligations extérieures imposées à l’homme&nbsp;: ce sont des symboles agis, des actes métaphysiques qui reproduisent, dans l’ordre sensible, la tension entre le relatif et l’Absolu —&nbsp;de même que la *shahâdah*, expression de l’équilibre entre transcendance et immanence divines, est réalisée dans chaque souffle et dans chaque regard de l'être. Le rite est ainsi le lieu privilégié où se noue la rencontre mystérieuse entre le fini et l’Infini, le temps et l’Éternité, la forme et l’Essence.
 
@@ -157,7 +157,7 @@ Le jeûne du Ramadan (*aç-çawm*) opère quant à lui une transformation d’un
 
 Le pèlerinage (*al-hajj*) synthétise enfin l’ensemble de ces dimensions. Le pèlerin qui revêt l’*ihrâm* —&nbsp;ce vêtement blanc et sans couture&nbsp;— se dépouille symboliquement de toutes ses identités sociales et individuelles pour ne plus se présenter devant Dieu que dans sa nudité essentielle, celle de la créature face à son Créateur. La circumambulation autour de la Ka‘ba (*at-tawâf*) n’est pas une simple procession&nbsp;: elle figure le mouvement de l’être tout entier autour du Centre divin, comme les anges circumambulent autour du Trône céleste. Le cri du pèlerin —&nbsp;*Labbayka Allâhumma labbayk*, «&nbsp;Me voici, ô Dieu, me voici&nbsp;»&nbsp;— est la réponse vivante et incarnée à l’appel primordial que Dieu adressa aux âmes avant même leur entrée dans le monde&nbsp;:
 
-> Ne suis-Je pas votre Seigneur&nbsp;?[^16]
+> Ne suis-Je pas votre Seigneur&nbsp;?
 
 Ainsi, chaque rite est une voie de retour vers l’origine, une remontée vers l’état primordial (*al-fitrah*) que l’homme a voilé en lui-même depuis sa chute. Accomplis avec présence et sincérité, ils ne transforment pas seulement le comportement extérieur du croyant&nbsp;: ils opèrent une véritable *tazkiyat an-nafs* —&nbsp;purification et élévation de l'âme, dissipant progressivement les voiles du cœur, jusqu’à ce que la lumière divine puisse s’y refléter pleinement.
 
@@ -169,7 +169,7 @@ Les maîtres de la tradition ont souvent exprimé cette unité par l’image de 
 
 ### Le légalisme ou l’erreur de l’écorce sans fruit
 
-La première déviation est le légalisme&nbsp;: l’attachement exclusif à la forme extérieure du rite, au *fiqh* réduit à sa seule dimension formelle, au détriment de l’Esprit qui l’anime. Le légaliste accomplit scrupuleusement ses obligations rituelles, observe les interdits avec rigueur, connaît les règles dans leur moindre détail —&nbsp;mais son cœur reste fermé, son intention superficielle, son *ego* intact. Il a fait de la Loi une fin en soi, alors qu’elle n’est, selon l’image classique des maîtres soufis, que l’écorce qui protège et nourrit le fruit —&nbsp;non le fruit lui-même. Cette confusion est une forme d’idolâtrie particulièrement insidieuse, car elle se présente sous les apparences les plus irréprochables de la piété. Le Coran en avertit pourtant sans ambiguïté&nbsp;: «&nbsp;Ce n’est ni leur chair ni leur sang qui parvient à Dieu, c’est votre piété qui Lui parvient.&nbsp;» Cor. 22&nbsp;:37. Le rite accompli sans présence intérieure, sans intention orientée vers Dieu, sans effort de purification du cœur, risque de demeurer une enveloppe vide —&nbsp;honorable aux yeux des hommes, mais stérile devant Dieu. Pire&nbsp;: il peut devenir le support d’un orgueil spirituel raffiné, le moi passionnel se nourrissant de sa propre observance comme d’une preuve de supériorité.
+La première déviation est le légalisme&nbsp;: l’attachement exclusif à la forme extérieure du rite, au *fiqh* réduit à sa seule dimension formelle, au détriment de l’Esprit qui l’anime. Le légaliste accomplit scrupuleusement ses obligations rituelles, observe les interdits avec rigueur, connaît les règles dans leur moindre détail —&nbsp;mais son cœur reste fermé, son intention superficielle, son *ego* intact. Il a fait de la Loi une fin en soi, alors qu’elle n’est, selon l’image classique des maîtres soufis, que l’écorce qui protège et nourrit le fruit —&nbsp;non le fruit lui-même. Cette confusion est une forme d’idolâtrie particulièrement insidieuse, car elle se présente sous les apparences les plus irréprochables de la piété. Le Coran en avertit pourtant sans ambiguïté&nbsp;: «&nbsp;Ce n’est ni leur chair ni leur sang qui parvient à Dieu, c’est votre piété qui Lui parvient.&nbsp;»[^19] Le rite accompli sans présence intérieure, sans intention orientée vers Dieu, sans effort de purification du cœur, risque de demeurer une enveloppe vide —&nbsp;honorable aux yeux des hommes, mais stérile devant Dieu. Pire&nbsp;: il peut devenir le support d’un orgueil spirituel raffiné, le moi passionnel se nourrissant de sa propre observance comme d’une preuve de supériorité.
 
 ### L’*ibâha* ou l’erreur du fruit sans écorce
 
@@ -237,11 +237,11 @@ C'est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste e
 
 [^16]: Cor. 28&nbsp;: 77.
 
-[^14]: Cor. 2&nbsp;: 152.
+[^17]: Cor. 2&nbsp;: 152.
 
-[^15]: Cor. 21&nbsp;: 16.
+[^18]: Cor. 21&nbsp;: 16.
 
-[^16]: 
+[^19]: Cor. 22&nbsp;:37.
 
 [^17]: Cor. 28&nbsp;: 88.
 
