@@ -195,7 +195,7 @@ Les grands maîtres de la tradition islamique ont précisément illustré, dans 
 
 C’est pourquoi la voie islamique authentique ne connaît pas de tension entre *sharî’a* et *haqîqa*&nbsp;: elle les vit comme deux faces d’une même réalité, à l’image de la main qui comporte deux faces, un dos représentant la *sharî’a* et un ventre, la *haqîqa*. Le croyant qui accomplit le rite avec présence et sincérité ne choisit pas entre la lettre et l’Esprit —&nbsp;il découvre progressivement que la lettre, habitée de l’intérieur, devient Esprit, et que l’Esprit, pour se manifester dans le monde, a besoin de la lettre comme la lumière a besoin du cristal pour se diffracter en couleurs visibles. C’est dans cette unité vécue —&nbsp;et non dans leur séparation&nbsp;— que réside le secret de la voie islamique, et que le serviteur trouve les conditions de sa transformation la plus profonde.
 
-Le croyant s’efforce de vivre *bismi-Llâh*, «&nbsp;au nom de Dieu&nbsp;», en sacrifiant —&nbsp;au sens étymologique de «&nbsp;rendre sacré&nbsp;»&nbsp;— sa vie, jusqu’à redécouvrir, avec Son aide, le rattachement de l’action au but, et contempler, avec cette même certitude qui caractérisait l’Homme avant sa chute et lui permettait de voir avec l’œil du cœur, l’Objet de toute adoration et de toute louange. C’est ce même rattachement qui offre à l’homme la possibilité de connaître les archétypes, les réalités spirituelles, lorsqu’il parvient à traverser l’apparence des choses pour ne retrouver que l’essentiel qui reste immuable, car «&nbsp;toute chose est évanescente, à l’exception de Sa Face&nbsp;»[^17].
+Le croyant s’efforce de vivre *bismi-Llâh*, «&nbsp;au nom de Dieu&nbsp;», en sacrifiant —&nbsp;au sens étymologique de «&nbsp;rendre sacré&nbsp;»&nbsp;— sa vie, jusqu’à redécouvrir, avec Son aide, le rattachement de l’action au but, et contempler, avec cette même certitude qui caractérisait l’Homme avant sa chute et lui permettait de voir avec l’œil du cœur, l’Objet de toute adoration et de toute louange. C’est ce même rattachement qui offre à l’homme la possibilité de connaître les archétypes, les réalités spirituelles, lorsqu’il parvient à traverser l’apparence des choses pour ne retrouver que l’essentiel qui reste immuable, car «&nbsp;toute chose est évanescente, à l’exception de Sa Face&nbsp;»[^20].
 
 Le croyant qui a parcouru ce chemin —&nbsp;ou qui en a seulement entrevu la direction&nbsp;— découvre progressivement que toutes les questions qui l’agitaient au départ se simplifient. Non parce qu'elles sont résolues intellectuellement, mais parce qu’elles sont transcendées. La question de l’idolâtrie se révèle n’avoir qu’une seule réponse vivante&nbsp; non pas une doctrine supplémentaire, non pas une technique de plus, mais le retour au Centre —&nbsp;ce Centre que le cœur n’a jamais vraiment quitté, mais qu’il avait cessé d’habiter.
 
@@ -203,7 +203,7 @@ C’est là le paradoxe ultime de la voie islamique&nbsp;: l’homme qui cherche
 
 C'est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste et chaque souffle&nbsp;— que convie l'islam. Non comme une religion parmi d'autres, mais comme le rappel ultime d'une vérité que l'homme porte en lui depuis avant sa naissance, et qu'il est venu dans ce monde pour retrouver&nbsp;:
 
-> &Ocirc; âme apaisée&nbsp;! Retourne vers ton Seigneur, satisfaite et agréée.  Entre donc parmi Mes serviteurs. Entre dans Mon Paradis.[^18]
+> &Ocirc; âme apaisée&nbsp;! Retourne vers ton Seigneur, satisfaite et agréée.  Entre donc parmi Mes serviteurs. Entre dans Mon Paradis.[^21]
 
 [^1]: Cor. 2&nbsp;: 185.
 
@@ -243,6 +243,6 @@ C'est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste e
 
 [^19]: Cor. 22&nbsp;:37.
 
-[^17]: Cor. 28&nbsp;: 88.
+[^20]: Cor. 28&nbsp;: 88.
 
-[^18]: Cor. 89&nbsp;: 27-30.
+[^21]: Cor. 89&nbsp;: 27-30.
