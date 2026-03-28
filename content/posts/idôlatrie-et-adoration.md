@@ -157,7 +157,7 @@ Le pèlerinage (*al-hajj*) synthétise enfin l’ensemble de ces dimensions. Le 
 
 > Ne suis-Je pas votre Seigneur&nbsp;?[^16]
 
-Ainsi, chaque rite est une voie de retour vers l’origine, une remontée vers l’état primordial (*al-fitrah*) que l’homme a voilé en lui-même depuis sa chute. Accomplis avec présence et sincérité, ils ne transforment pas seulement le comportement extérieur du croyant&nbsp;: ils opèrent une véritable transmutation intérieure, purifiant progressivement le cœur de ses voiles, jusqu’à ce que la lumière divine puisse s’y refléter pleinement.
+Ainsi, chaque rite est une voie de retour vers l’origine, une remontée vers l’état primordial (*al-fitrah*) que l’homme a voilé en lui-même depuis sa chute. Accomplis avec présence et sincérité, ils ne transforment pas seulement le comportement extérieur du croyant&nbsp;: ils opèrent une véritable *tazkiyat an-nafs* —&nbsp;purification et élévation de l'âme, dissipant progressivement les voiles du cœur, jusqu’à ce que la lumière divine puisse s’y refléter pleinement.
 
 ### La s*harî'a* et la *haqîqa*&nbsp;: deux faces d’une même réalité
 
