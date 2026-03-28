@@ -143,7 +143,7 @@ C’est dans cet effacement progressif —&nbsp;de l’*ego* vers le Soi, du voi
 
 > Souviens-toi de Moi, Je Me souviendrais de toi.[^17]
 
-De même que Dieu a redonné l’orientation verticale, pour chaque instant de la vie terrestre, à celui qu’il a créé, Il a établi les règles et les moyens qui balisent le chemin droit (*aç-çirât al-mustaq&icirc;m*), le plus court vers Dieu. Comme l’enseigne le Coran, aucune chose n’existe en vain&nbsp;: 
+Dieu a redonné l’orientation verticale, pour chaque instant de la vie terrestre, à celui qu’il a créé, Il a établi les règles et les moyens qui balisent le chemin droit (*aç-çirât al-mustaq&icirc;m*), le plus court vers Dieu. Comme l’enseigne le Coran, aucune chose n’existe en vain&nbsp;: 
 
 > Ce n’est pas par jeu que Nous avons créé le ciel et la terre et ce qui est entre eux.[^18]
 
