@@ -161,7 +161,9 @@ Ainsi, chaque rite est une voie de retour vers l’origine, une remontée vers l
 
 ### La s*harî'a* et la *haqîqa*&nbsp;: deux faces d’une même réalité
 
-Or cette dissipation progressive des voiles du cœur ne s’accomplit qu’à une condition que la tradition islamique a toujours maintenue avec fermeté&nbsp;: l’unité indissoluble entre la *sharî’a* —&nbsp;la Loi révélée&nbsp;—&nbsp;et la *haqîqa* —&nbsp;la Réalité spirituelle qu’elle recèle et vers laquelle elle conduit. Séparer l’une de l’autre, en quelque sens que ce soit, c’est introduire une fracture au cœur même de l’islam, et ouvrir la voie à deux déviations symétriques, également ruineuses pour le cheminement intérieur.
+Or cette dissipation progressive des voiles du cœur ne s’accomplit qu’à une condition que la tradition islamique a toujours maintenue avec fermeté&nbsp;: l’unité indissoluble entre la *sharî'a* —&nbsp;la Loi révélée&nbsp;— et la *haqîqa* —&nbsp;la Réalité spirituelle qu’elle recèle et vers laquelle elle conduit. Cette unité n’est pas un compromis pragmatique entre deux exigences contradictoires&nbsp;: elle reflète la structure même de la Révélation, qui est à la fois forme et Esprit, lettre et Sens, acte extérieur et intention intérieure. La *sharî'a* est la *haqîqa* rendue accessible à l’homme dans sa condition terrestre —&nbsp;et la *haqîqa* est la *sharî'a* pleinement comprise dans sa profondeur principielle. L’une sans l’autre n’est pas une moitié d’islam&nbsp;: c’est un islam défiguré.
+
+Les maîtres de la tradition ont souvent exprimé cette unité par l’image de l’amande et de son écorce&nbsp;: l’écorce protège l’amande, lui permet de mûrir et de se conserver —&nbsp;mais l’amande est la raison d’être de l’écorce. Briser l’écorce prématurément, c’est exposer le fruit à la corruption&nbsp;; mais s’attacher à l’écorce en oubliant l’amande, c’est se condamner à ne jamais goûter ce pour quoi l’arbre a poussé. Séparer l’une de l’autre, en quelque sens que ce soit, c’est introduire une fracture au cœur même de l’islam, et ouvrir la voie à deux déviations symétriques, également ruineuses pour le cheminement intérieur.
 
 ### Le légalisme ou l’erreur de l’écorce sans fruit
 
