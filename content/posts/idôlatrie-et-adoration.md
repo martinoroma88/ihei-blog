@@ -25,9 +25,7 @@ Il est donc nécessaire d’avoir un certain discernement pour maintenir la bala
 
 Pour comprendre la nature et la gravité des idolâtries contemporaines, il est nécessaire de les situer dans le cadre que la tradition prophétique elle-même leur assigne&nbsp;: celui des temps de trouble —&nbsp;la *fitna*&nbsp;— qui précèdent et annoncent la fin du cycle humain. L’islam n’est pas une religion qui ignore le temps&nbsp;: il le lit, il le déchiffre, il en reconnaît les signes. Et parmi ces signes, la prolifération de l’idolâtrie sous ses formes les plus insidieuses occupe une place centrale dans les avertissements prophétiques.
 
-La notion de «&nbsp;conditions cycliques&nbsp;» n’est pas propre à l’islam, on la retrouve également dans les autres Traditions authentiques, mais parce que l’islam est la dernière Révélation du cycle de l’humanité, ces conditions font l’objet d’une lecture particulière, ancrée dans le Coran et la Sunna. Le Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) a décrit avec une précision saisissante la dégradation progressive des temps&nbsp;: «&nbsp;L’islam a commencé comme quelque chose d’étrange, et il redeviendra étrange comme il a commencé.&nbsp;»[^3]
-
- Cette étrangeté croissante ne désigne pas la marginalisation sociologique de la religion, mais quelque chose de plus profond&nbsp;: l’obscurcissement progressif de la compréhension intérieure, la réduction de l’islam à ses formes extérieures, la perte du sens vivant des rites et des doctrines. Les savants traditionnels ont toujours interprété ces avertissements non comme une invitation au pessimisme ou au repli, mais comme un appel au discernement accru —&nbsp;au *furqân*&nbsp;— précisément parce que les contrefaçons spirituelles deviennent, avec le temps, de plus en plus difficiles à distinguer de l’original.
+La notion de «&nbsp;conditions cycliques&nbsp;» n’est pas propre à l’islam, on la retrouve également dans les autres Traditions authentiques, mais parce que l’islam est la dernière Révélation du cycle de l’humanité, ces conditions font l’objet d’une lecture particulière, ancrée dans le Coran et la Sunna. Le Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) a décrit avec une précision saisissante la dégradation progressive des temps&nbsp;: «&nbsp;L’islam a commencé comme quelque chose d’étrange, et il redeviendra étrange comme il a commencé.&nbsp;»[^3] Cette étrangeté croissante ne désigne pas la marginalisation sociologique de la religion, mais quelque chose de plus profond&nbsp;: l’obscurcissement progressif de la compréhension intérieure, la réduction de l’islam à ses formes extérieures, la perte du sens vivant des rites et des doctrines. Les savants traditionnels ont toujours interprété ces avertissements non comme une invitation au pessimisme ou au repli, mais comme un appel au discernement accru —&nbsp;au *furqân*&nbsp;— précisément parce que les contrefaçons spirituelles deviennent, avec le temps, de plus en plus difficiles à distinguer de l’original.
 
 ### Les temps de la *fitna* et la figure du *Dajjâl*
 
@@ -41,7 +39,7 @@ Face à ces temps de *fitna*, la tradition prophétique ne prescrit pas la fuite
 
 Le croyant des temps de trouble n’est donc pas condamné à l’impuissance. Il est, au contraire, invité à une forme de sainteté propre à son époque&nbsp;: celle qui consiste à maintenir vivante, au cœur d’un monde qui a oublié Dieu, la flamme du souvenir divin —&nbsp;*dhikru-Llâh*&nbsp;— et à être, pour ceux qui l’entourent, un signe vivant de la réalité de ce qu’ils cherchent sans le savoir. «&nbsp;Bienheureux les étrangers&nbsp;», dit le Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) en réponse à ceux qui lui demandent qui sont ces étrangers —&nbsp;«&nbsp;ce sont ceux qui réforment ce que les gens ont corrompu.&nbsp;»
 
-De nos jours, l’homme sert ou tend à servir, inconsciemment ou non, des constructions mentales. L’idolâtrie n’est plus désormais dans des formes plus ou moins représentatives de Dieu, mais dans la croyance en des notions vagues telles que la «&nbsp;Vie&nbsp;», le «&nbsp;Progrès&nbsp;», la «&nbsp;Nature&nbsp;», la «&nbsp;Science&nbsp;», abstractions érigées en absolus. «&nbsp;Beaucoup de ceux qui prononcent ces mots avec le plus de conviction n’ont dans la pensée rien de bien net qui y corresponde&nbsp;; au fond, il n’y a là, dans la plupart des cas, que l’expression, on pourrait même dire la personnification, d’aspirations sentimentales plus ou moins vagues&nbsp;»[^2] —&nbsp;autant d’idoles modernes dont l’emprise n’en est que plus difficile à reconnaître... Ce qui est un polythéisme bien masqué. Ces constructions mentales sont également présentes dans la recherche de la performance sans la remise confiante en Dieu, le succès individuel au détriment du Bien commun, la richesse matérielle comme réussite sociale, la santé pour lutter contre l’angoisse de mort... autant de passions ou d’attachements qui enchaînent l’homme à sa nature inférieure (*nafs ammâra*)
+De nos jours, l’homme sert ou tend à servir, inconsciemment ou non, des constructions mentales. L’idolâtrie n’est plus désormais dans des formes plus ou moins représentatives de Dieu, mais dans la croyance en des notions vagues telles que la «&nbsp;Vie&nbsp;», le «&nbsp;Progrès&nbsp;», la «&nbsp;Nature&nbsp;», la «&nbsp;Science&nbsp;», abstractions érigées en absolus. «&nbsp;Beaucoup de ceux qui prononcent ces mots avec le plus de conviction n’ont dans la pensée rien de bien net qui y corresponde&nbsp;; au fond, il n’y a là, dans la plupart des cas, que l’expression, on pourrait même dire la personnification, d’aspirations sentimentales plus ou moins vagues&nbsp;»[^4] —&nbsp;autant d’idoles modernes dont l’emprise n’en est que plus difficile à reconnaître... Ce qui est un polythéisme bien masqué. Ces constructions mentales sont également présentes dans la recherche de la performance sans la remise confiante en Dieu, le succès individuel au détriment du Bien commun, la richesse matérielle comme réussite sociale, la santé pour lutter contre l’angoisse de mort... autant de passions ou d’attachements qui enchaînent l’homme à sa nature inférieure (*nafs ammâra*)
 
 ### Le bien-être psychologique comme idolâtrie du moi
 
@@ -213,7 +211,9 @@ C'est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste e
 
 [^3]: Musl&icirc;m.
 
-[^2]: René Guénon, *Orient et Occident*, Guy Trédaniel — Éditions de La Maisnie, Paris.
+[^4]: René Guénon, *Orient et Occident*, Guy Trédaniel — Éditions de La Maisnie, Paris.
+
+[^5]: Cor. 7&nbsp;: 172.
 
 [^3]: Cor. 45&nbsp;: 23.
 
@@ -241,7 +241,7 @@ C'est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste e
 
 [^15]: Cor. 21&nbsp;: 16.
 
-[^16]: Cor. 7&nbsp;: 172.
+[^16]: 
 
 [^17]: Cor. 28&nbsp;: 88.
 
