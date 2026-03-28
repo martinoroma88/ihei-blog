@@ -51,9 +51,13 @@ La vie spirituelle authentique opère en sens inverse&nbsp;: elle part de Dieu, 
 
 > Le bonheur, quelle que soit la variété de ses aspects, n’existe vraiment qu’en la présence de Dieu et Sa proximité. La souffrance, quelle que soit la variété de ses aspects, n’existe que par le voile qui Le cache.
 
- une invitation à l’abandon (*tawakkul*) et à l’approfondissement de la confiance en Dieu&nbsp;
+ une invitation à l’abandon (*tawakkul*)&nbsp;
 
 > Qu’il suffise à ta peine, dans les épreuves que tu endures, de savoir qu’Il est, Lui le Très-Haut, Celui qui t’éprouve. Celui dont les décrets s’accomplissent en toi est aussi Celui qui a coutume de choisir ce qu’il y a de mieux pour toi.
+
+et à l’approfondissement de la confiance en Dieu&nbsp;:
+
+> Chaque fois qu’Il te donne, Il te témoigne de Sa générosité. Chaque fois qu’Il te prive, Il te témoigne de Sa domination. En toute chose, Il Se fait connaître à toi et vient à toi par le biais de Sa bonté.
 
 Le cas de la pratique de la pleine conscience *(mindfulness*) est particulièrement révélateur. Issue des pratiques bouddhistes, elle a été progressivement extirpée de son cadre doctrinal et rituel pour devenir une technique de gestion du stress, prescrite par des médecins, enseignée dans les entreprises, et désormais intégrée dans des applications mobiles. Ce faisant, elle n’est plus qu’un outil au service de la productivité du *moi* —&nbsp;le paradoxe étant qu’une pratique originellement destinée à dissoudre l’illusion du *moi* est devenue un moyen de le renforcer et de le rendre plus performant.
 
