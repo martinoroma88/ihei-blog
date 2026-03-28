@@ -113,7 +113,7 @@ La voie islamique authentique préserve ainsi l’homme de deux écueils symétr
 
 La *silsilah* est ainsi bien plus qu’une institution&nbsp;: elle est le signe vivant que l’islam n’est pas une religion du livre seul, mais une religion de la présence&nbsp;— présence du Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) perpétuée à travers la chaîne des héritiers, présence de Dieu rendue accessible à travers la purification du cœur, présence de l’Éternité au cœur du temps. C’est cette présence que nulle bibliothèque, nulle application numérique, nul «&nbsp;guide spirituel&nbsp;» auto-proclamé ne peut remplacer —&nbsp;et dont l’absence explique, pour une large part, la désorientation spirituelle de notre époque.
 
-### La Création comme signe
+### La Création comme signe et lieu d’action
 
 Il ne s’agit pas, en définitive, de ne plus penser à rien. De même que ce n’est pas en dehors du monde, isolément, qu’il faut chercher à faire la Volonté divine. Le véritable croyant est celui qui sait accepter la situation providentielle dans laquelle Dieu l’a placé, et s’appuyer sur les formes, pour aller au-delà de celles-ci, à la rencontre de son Seigneur, qui rappelle, à travers les mots adressés à Coré par le peuple de Moïse&nbsp;: «&nbsp;Et recherche à travers ce que Dieu t’a donné, la Demeure dernière.&nbsp;»[^15] Il ne faut être passif que dans une certaine mesure, c’est-à-dire qu’il faut savoir reconnaître le Vouloir divin et s’y conformer, ce qui est, suivant un autre point de vue, une haute activité puisque celle du serviteur s’identifie avec celle du Seigneur. C’est alors que le serviteur adore Dieu en Esprit et en actes. 
 
