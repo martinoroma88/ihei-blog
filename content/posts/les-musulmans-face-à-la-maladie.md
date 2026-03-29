@@ -63,7 +63,7 @@ Le Coran exhorte les croyants à se purifier en gardant la constance dans la pri
 
 L’islam offre à ces fidèles la possibilité de vivre leur foi et leur pratique en tout lieu avec des facilités notamment au cours d’une maladie. Chaque musulman est son propre prêtre et peut donc exécuter, seul, tous les rites. Il n’a pas nécessairement besoin d’un lieu pour prier car dès lors qu’il exécute la prière rituelle le lieu devient pour lui une mosquée, c’est-à-dire un lieu de prosternation. Nous avons mentionné l’existence de facilités dans la pratique de la foi musulmane, nous prendrons comme exemple les ablutions qui sont intimement liées à la prière rituelle et qui la précèdent. Elles se font habituellement avec de l’eau, mais peuvent être faites avec une pierre. Les ablutions sont avant tout une purification de l’âme et une préparation à cet entretien avec Dieu que le musulman exécute cinq fois par jour. De même, selon l’état du patient, il n’est pas rare de voir le croyant faire ses prières dans un moment qui lui semble plus facile, raccourcir ces gestes ou ne faire plus qu’un signe de la tête ou même des yeux.
 
-En islam, comme dans d’autres traditions, le malade est soutenu par son entourage qu’il soit de sa famille ou pas, et cette solidarité n’est pas sans rappeler la cohésion qui existe dans la prière en commun où les rangs sont serrés et où chacun soutient l’autre par sa présence. Il n’est pas inhabituel que la famille rende plus fréquemment visite au malade, qu’elle se soucie de lui et que les amis, les voisins, les fidèles de la mosquée où prie habituellement le malade, l’accompagnent dans cette épreuve, prient pour lui et se rappellent mutuellement la fragilité de la vie d’ici-bas et le but m&ecir;me de la vie. Mais là encore, le fatalisme et la passivité n’ont pas leur place car l’accompagnement du malade est avant tout une remise confiante en Dieu et une espérance «&nbsp;active&nbsp;». Une espérance dans laquelle le croyant sollicite le Secours Divin et où Dieu enjoint le croyant à L’invoquer par Ses plus beaux Noms pour y répondre&nbsp;!
+En islam, comme dans d’autres traditions, le malade est soutenu par son entourage qu’il soit de sa famille ou pas. Il n’est pas inhabituel que la famille rende plus fréquemment visite au malade, qu’elle se soucie de lui et que les amis, les voisins, les fidèles de la mosquée où prie habituellement le malade, l’accompagnent dans cette épreuve, prient pour lui et se rappellent mutuellement la fragilité de la vie d’ici-bas et le but m&ecir;me de la vie. Mais là encore, le fatalisme et la passivité n’ont pas leur place car l’accompagnement du malade est avant tout une remise confiante en Dieu et une espérance «&nbsp;active&nbsp;». Une espérance dans laquelle le croyant sollicite le Secours Divin et où Dieu enjoint le croyant à L’invoquer par Ses plus beaux Noms pour y répondre&nbsp;!
 
 > Invoquez-moi, je vous répondrai.[^12]
 >
@@ -87,7 +87,7 @@ Mais le risque le plus profond pour le soignant —&nbsp;qu’il fasse partie du
 
 ### La douleur et son soulagement
 
-*Le bonheur, quelle que soit la variété de ses aspects, n'existe vraiment qu'en la présence de Dieu et Sa proximité. La souffrance, quelle que soit la variété de ses aspects, n'existe que par le voile qui Le cache.*[^14]
+> Le bonheur, quelle que soit la variété de ses aspects, n'existe vraiment qu'en la présence de Dieu et Sa proximité. La souffrance, quelle que soit la variété de ses aspects, n'existe que par le voile qui Le cache.[^14]
 
 Si la souffrance peut être vécue spirituellement comme une épreuve purificatrice, cela ne signifie nullement que le soignant doive la laisser sans soin. Bien au contraire, l’islam enjoint à soulager la douleur autant que possible, car la Miséricorde divine, *ar-Rahma*, est le fondement de tout acte de soin. Le Prophète lui-même recourait aux remèdes disponibles de son temps et encourageait ses compagnons à en faire autant. Soulager la souffrance du malade est donc un acte de miséricorde et, à ce titre, un acte d'adoration à part entière. La valeur spirituelle de l’épreuve ne réside pas dans le maintien de la douleur, mais dans la disposition intérieure avec laquelle le malade l’accueille et la traverse, dans la patience et la remise confiante en Dieu.
 
@@ -101,7 +101,7 @@ Face au refus de soin, le soignant musulman ne saurait ni imposer un traitement 
 
 ### Les soins en contexte interculturel
 
-Le soignant musulman exerce souvent dans un environnement pluriel, au contact de patients de traditions, de cultures et de croyances diverses. L’islam enseigne que toute créature humaine est digne de respect et de soin, indépendamment de sa foi ou de son absence de foi, car la Miséricorde divine embrasse toute chose. Le soignant est appelé à en être le reflet dans sa pratique quotidienne, en reconnaissant dans chaque visage humain une créature de Dieu. Cela suppose une attention particulière aux représentations culturelles de la maladie et du corps propres à chaque patient, et une humilité face à ce qui lui est étranger. Le soin interculturel n’est pas une concession faite à la différence, mais la reconnaissance de la dignité universelle inscrite en toute créature depuis sa création.
+Le soignant musulman exerce souvent dans un environnement pluriel, au contact de patients de traditions, de cultures et de croyances diverses. L’islam enseigne que toute créature humaine est digne de respect et de soin, indépendamment de sa foi ou de son absence de foi, car nul être humain n’échappe au regard de Dieu sur Sa création, Lui qui a honoré les fils d’Adam.[^15] Le soignant est appelé à en être le reflet dans sa pratique quotidienne, en reconnaissant dans chaque visage humain une créature de Dieu. Cela suppose une attention particulière aux représentations culturelles de la maladie et du corps propres à chaque patient, et une humilité face à ce qui lui est étranger. Le soin interculturel n’est pas une concession faite à la différence, mais la reconnaissance de la dignité universelle inscrite en toute créature depuis sa création.
 
 ### La relation avec la famille du patient
 
@@ -134,3 +134,5 @@ En islam, la maladie n’est jamais une affaire strictement individuelle. La fam
 [^13]: Bukh&acir;r&icir; et Muslim.
 
 [^14]: Ibn ‘Atâ’Llâh al-Iskandarî, in *Al-Hikam*.
+
+[^15]: Coran 17&nbsp;:70.
