@@ -7,7 +7,7 @@ couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/
 category: Islam en pratique
 enableDropCap: true
 ---
-Un had&icir;th rapporte que Dieu n’a jamais fait descendre un mal sans faire descendre un remède contre lui.[^1](Bukh&acir;r&icir;.)
+Un had&icir;th rapporte que Dieu n’a jamais fait descendre un mal sans faire descendre un remède contre lui.
 
 Cette tradition prophétique n’est pas sans rappeler le texte coranique qui dit&nbsp;:
 
