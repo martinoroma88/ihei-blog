@@ -87,7 +87,7 @@ Mais le risque le plus profond pour le soignant —&nbsp;qu’il fasse partie du
 
 ### La douleur et son soulagement
 
-> Le bonheur, quelle que soit la variété de ses aspects, n'existe vraiment qu'en la présence de Dieu et Sa proximité. La souffrance, quelle que soit la variété de ses aspects, n'existe que par le voile qui Le cache.[^14]
+> Le bonheur, quelle que soit la variété de ses aspects, n’existe vraiment qu’en la présence de Dieu et Sa proximité. La souffrance, quelle que soit la variété de ses aspects, n’existe que par le voile qui Le cache.[^14]
 
 Si la souffrance peut être vécue spirituellement comme une épreuve purificatrice, cela ne signifie nullement que le soignant doive la laisser sans soin. Bien au contraire, l’islam enjoint à soulager la douleur autant que possible, car la Miséricorde divine, *ar-Rahma*, est le fondement de tout acte de soin. Le Prophète lui-même recourait aux remèdes disponibles de son temps et encourageait ses compagnons à en faire autant. Soulager la souffrance du malade est donc un acte de miséricorde et, à ce titre, un acte d'adoration à part entière. La valeur spirituelle de l’épreuve ne réside pas dans le maintien de la douleur, mais dans la disposition intérieure avec laquelle le malade l’accueille et la traverse, dans la patience et la remise confiante en Dieu.
 
