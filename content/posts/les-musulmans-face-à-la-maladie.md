@@ -49,7 +49,7 @@ Nul ne sait où, quand et comment il mourra, ni même comment il vivra, et le cr
 
 ## À la recherche du remède
 
-Le remède évoqué dans la première tradition prophétique est avant tout spirituel car si le corps ou l’âme est malade et peut, dans certains cas, rester dans cet état indéfiniment, l’esprit quant à lui doit rester confiant dans le décret divin.
+Le remède évoqué dans la première tradition prophétique est est à la fois corporel et spirituel, les deux étant indissociables car si le corps ou l’âme est malade et peut, dans certains cas, rester dans cet état indéfiniment, l’esprit quant à lui doit rester confiant dans le décret divin.
 
 > Celui qui s’efforce de supporter patiemment (le malheur), Dieu le dotera de patience. Nul ne reçoit plus ample bonheur que la patience.[^12]
 
