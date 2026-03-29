@@ -7,7 +7,7 @@ couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/
 category: Islam en pratique
 enableDropCap: true
 ---
-Un had&icir;th rapporte que Dieu n’a jamais fait descendre un mal sans faire descendre un remède contre lui.[^1]
+Un had&icir;th rapporte que Dieu n’a jamais fait descendre un mal sans faire descendre un remède contre lui.[^1](Bukh&acir;r&icir;.)
 
 Cette tradition prophétique n’est pas sans rappeler le texte coranique qui dit&nbsp;:
 
@@ -73,8 +73,6 @@ En islam, comme dans d’autres traditions, le malade est soutenu par son entour
 
 Le soignant musulman agira avec le malade en ayant conscience que les soins prodigués sont avant tout adressés à la personne en tant que créature de Dieu, faite à Son image et à Sa ressemblance quelque soit l’état de dépendance physique ou psychique dans lequel Dieu a mis le patient. L’islam met l’accent sur le respect de la sacralité du corps qui a droit à l’égard dû à sa noblesse. En effet, l’enveloppe charnelle, qui est comme le vêtement de notre âme, participe aux différents rites, recevant ainsi des bénédictions divines. C’est pourquoi, le soignant musulman devra s’efforcer de prodiguer les soins les moins douloureux, les moins nocifs possibles pour garantir l’intégrité de la personne et lui permettre de ne pas avoir à supporter des souffrances induites par les soins tout au long de sa vie. Il devra faire preuve de patience, d’écoute, d’empathie et de bienveillance afin que le malade, qu’il soit croyant ou non, accepte le traitement ou l’aide apportée. Il n’est pas rare de voir le malade refuser un traitement soit parce qu’il n’est pas conscient de son bien fondé, soit parce le malade n’arrive pas à se défaire des habitudes qui l’ont rendu malade. Une alliance thérapeutique doit donc se faire entre le soignant et le soigné qui rappelle la confiance que doit porter l’homme à son Créateur. Mais le risque pour le soignant —&nbsp;qu’il fasse partie du corps médical ou paramédical&nbsp;— est d’associer sa connaissance de la maladie, du remède et de la guérison, à sa propre participation, à ses seules compétences, et d’oublier ainsi que l’on ne saurait conditionné la Réalité divine à notre entendement. Il doit donc se faire le moyen par lequel Dieu décide ou pas d’agir.
 
-[^1]: Bukh&acir;r&icir;.
-
 [^2]: Coran 94&nbsp;: 5.
 
 [^3]: Coran 51&nbsp;: 56.
@@ -89,9 +87,9 @@ Le soignant musulman agira avec le malade en ayant conscience que les soins prod
 
 [^8]: Coran 29&nbsp;: 2.
 
-[^9]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam.*
+[^9]: Coran 23&nbsp;: 115-116*.*
 
-[^10]: Coran 23&nbsp;: 115-116.
+[^10]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam.*
 
 [^11]: ‘Ibn At&acir;’ All&acir;h al-Iskandar&icir;, in *Al-Hikam*.
 
