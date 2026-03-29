@@ -117,13 +117,13 @@ En islam, la maladie n’est jamais une affaire strictement individuelle. La fam
 
 [^5]: Coran 2&nbsp;: 155.
 
-[^6]: Coran 2&nbsp;: 155.
+[^6]: Coran 29&nbsp;: 2.
 
-[^7]: Coran 29&nbsp;: 2.
+[^7]: Coran 23&nbsp;: 115-116.
 
-[^8]: Coran 23&nbsp;: 115-116.
+[^8]: Ibn ‘Atâ’Llâh al-Iskandarî, in *Al-Hikam.*
 
-[^9]: Ibn ‘Atâ’Llâh al-Iskandarî, in *Al-Hikam.*
+[^9]: *Ibidem*.
 
 [^10]: *Ibidem*.
 
