@@ -39,11 +39,11 @@ La maladie est alors considérée comme une possibilité particulière de connai
 
 Tout au long de la vie, Dieu éduque Son serviteur et le purifie au rythme des évènements diverses et variés, pour éprouver sa sincérité et faire entrer celui-ci dans un état de proximité qu’Il a décrété de toute éternité.
 
-> Rien n’est plus profitable au cœur que l’isolement&nbsp;; par lui, il entre dans l’arène de la méditation.[^9]
+> Rien n’est plus profitable au cœur que l’isolement&nbsp;; par lui, il entre dans l’arène de la méditation.[^9](*Ibidem*.)
 
 En effet, dans l’état de faiblesse, il s’opère un véritable dépouillement de l’égo que le croyant doit s’efforcer de maintenir par la suite dans sa vie de tous les jours —&nbsp;même s’il n’est plus malade&nbsp;— en revêtant l’habit par excellence, la crainte révérencielle de Dieu, *at-taqwâ*, comme il est rappelé dans le Coran. Il ne s’agit pas là d’un fatalisme ou d’une acceptation passive de son destin mais de reconnaître dans celui-ci le Vouloir divin, les bienfaits de Dieu, même si ceux-ci n’apparaissent pas immédiatement ou ne correspondent pas à l’attente que l’on s’en était faite.
 
-> Le meilleur de tes instants est celui où tu es conscient de ton besoin (de Dieu) et tu es ramené à la réalité de ton humble condition.[^10]
+> Le meilleur de tes instants est celui où tu es conscient de ton besoin (de Dieu) et tu es ramené à la réalité de ton humble condition.[^10](*Ibidem*.)
 
 Nul ne sait où, quand et comment il mourra, ni même comment il vivra, et le croyant doit être conscient, nous dirions même certain, serein que la réalité qui est en lui et qui l’entoure n’est pas conditionnée par sa capacité à comprendre les choses. Dans ce moment délicat et fragile qu’est la maladie, l’homme ou la femme apprend à connaître son âme et il est dit que celui qui connaît son âme connaît son Seigneur.
 
@@ -51,7 +51,7 @@ Nul ne sait où, quand et comment il mourra, ni même comment il vivra, et le cr
 
 Le remède évoqué dans la première tradition prophétique est à la fois corporel et spirituel, les deux étant indissociables car si le corps ou l’âme est malade et peut, dans certains cas, rester dans cet état indéfiniment, l’esprit quant à lui doit rester confiant dans le décret divin.
 
-> Celui qui s’efforce de supporter patiemment (le malheur), Dieu le dotera de patience. Nul ne reçoit plus ample bonheur que la patience.[^11]
+> Celui qui s’efforce de supporter patiemment (le malheur), Dieu le dotera de patience. Nul ne reçoit plus ample bonheur que la patience.[^11](*Ibidem*.)
 
 La religion est, elle-m&ecirc;me, souvent considérée comme un remède aux différents maux qui touchent le croyant, et notamment l’homme de cette fin des temps, dont le plus grand mal n’est autre que l’oubli de Dieu. En arabe, le terme pour désigner l’être humain est *insân* et ce nom est formé sur la même racine trilitère (*nun-sîn-ya*) que le verbe oublier (*nasiyâ*), indiquant par là le caractère oublieux (*nisîyân*) de tout être humain.
 
@@ -81,7 +81,7 @@ Il n’est pas rare de voir le malade refuser un traitement, soit parce qu’il 
 
 Le soignant est également exposé à sa propre fragilité. Face à la souffrance répétée, au deuil des patients, à l’épuisement, il risque de perdre cette présence intérieure qui donne sens à son acte. La tradition islamique lui rappelle alors que la patience (*sabr*) n’est pas une résignation passive mais une force spirituelle active, nourrie par le souvenir de Dieu. «&nbsp;Celui qui s’efforce de supporter patiemment, Dieu le dotera de patience&nbsp;», rappelle le Prophète. Le soignant doit donc prendre soin de lui-même, de son âme, pour demeurer un instrument juste et bienveillant.
 
-Mais le risque le plus profond pour le soignant —&nbsp;qu’il fasse partie du corps médical ou paramédical&nbsp;— est d’associer sa connaissance de la maladie, du remède et de la guérison à sa seule participation, à ses seules compétences, et d’oublier ainsi que l’on ne saurait conditionner la Réalité divine à notre entendement. «&nbsp;Et quand je suis malade, c’est Lui qui me guérit&nbsp;», dit le Coran en rapportant les paroles du Prophète Abraham. Le soignant doit donc se faire le moyen par lequel Dieu décide ou pas d'agir, dans une humilité qui n’amoindrit pas son engagement mais lui donne au contraire toute sa profondeur. Cette conscience, loin de le dispenser de ses responsabilités, l'engage au contraire à exercer son art avec la plus grande rigueur et la plus grande humanité, car c'est précisément dans cet art que se manifestent, pour lui, les Qualités divines. Elle soulève également des questions concrètes auxquelles tout soignant est confronté et auxquelles la tradition islamique apporte un éclairage particulier, sans prétendre résoudre mécaniquement chaque situation.
+Mais le risque le plus profond pour le soignant —&nbsp;qu’il fasse partie du corps médical ou paramédical&nbsp;— est d’associer sa connaissance de la maladie, du remède et de la guérison à sa seule participation, à ses seules compétences, et d’oublier ainsi que l’on ne saurait conditionner la Réalité divine à notre entendement. «&nbsp;Et quand je suis malade, c’est Lui qui me guérit&nbsp;», dit le Coran en rapportant les paroles du Prophète Abraham. Le soignant doit donc se faire le moyen par lequel Dieu décide ou pas d’agir, dans une humilité qui n’amoindrit pas son engagement mais lui donne au contraire toute sa profondeur. Cette conscience, loin de le dispenser de ses responsabilités, l’engage au contraire à exercer son art avec la plus grande rigueur et la plus grande humanité, car c’est précisément dans cet art que se manifestent, pour lui, les Qualités divines. Elle soulève également des questions concrètes auxquelles tout soignant est confronté et auxquelles la tradition islamique apporte un éclairage particulier, sans prétendre résoudre mécaniquement chaque situation.
 
 ## L’éthique du soin en islam
 
@@ -122,12 +122,6 @@ En islam, la maladie n’est jamais une affaire strictement individuelle. La fam
 [^7]: Coran 23&nbsp;: 115-116.
 
 [^8]: Ibn ‘Atâ’Llâh al-Iskandarî, in *Al-Hikam.*
-
-[^9]: *Ibidem*.
-
-[^10]: *Ibidem*.
-
-[^11]: *Ibidem*.
 
 [^12]: Coran 40&nbsp;: 60.
 
