@@ -107,8 +107,6 @@ Le soignant musulman exerce souvent dans un environnement pluriel, au contact de
 
 En islam, la maladie n’est jamais une affaire strictement individuelle. La famille joue un rôle central dans l’accompagnement du malade, à l’image de la cohésion qui existe dans la prière en commun où les rangs sont serrés et où chacun soutient l’autre par sa présence. Elle est souvent le premier lieu de soutien, de prière et de solidarité autour du malade. Le soignant devra donc tisser une relation de confiance avec l’entourage, sans perdre de vue que c’est la personne du patient qui demeure au centre du soin. Il veillera à respecter la confidentialité due au patient tout en reconnaissant la place légitime de la famille dans l’accompagnement, cherchant à faire de celle-ci une alliée dans le processus thérapeutique. Cette solidarité, lorsqu’elle est vécue dans la foi et la bienveillance mutuelle, devient elle-même un acte d’adoration, un moyen par lequel Dieu répand Sa miséricorde sur le malade et sur ceux qui l’entourent.
 
-
-
 [^1]: Coran 94&nbsp;: 5.
 
 [^2]: Coran 51&nbsp;: 56.
@@ -126,6 +124,10 @@ En islam, la maladie n’est jamais une affaire strictement individuelle. La fam
 [^8]: Coran 23&nbsp;: 115-116.
 
 [^9]: Ibn ‘Atâ’Llâh al-Iskandarî, in *Al-Hikam.*
+
+[^10]: *Ibidem*.
+
+[^11]: *Ibidem*.
 
 [^12]: Coran 40&nbsp;: 60.
 
