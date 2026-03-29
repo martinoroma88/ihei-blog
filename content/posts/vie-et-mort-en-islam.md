@@ -73,7 +73,7 @@ La mort d’un parent est également l’occasion pour la famille du défunt ou 
 
 > Souvenez-vous de Moi, Je Me souviendrai de vous. Remerciez-Moi et ne soyez pas ingrat envers Moi&nbsp;! Ô les croyants&nbsp;! Cherchez secours dans la patience et la prière. En vérité, Dieu est avec ceux qui sont patients. Et ne dites pas de ceux qui sont tués dans le chemin de Dieu qu’ils sont morts. Au contraire ils sont vivants, mais vous n’en avez pas conscience. Nous vous éprouverons très certainement par un peu de peur, de faim et des pertes de biens, d’âmes et de récoltes. Et fais la bonne annonce à ceux qui sont patients, qui disent, quand un malheur les atteint&nbsp;: ‘En vérité, nous appartenons à Dieu, et à Lui nous retournons’. Ceux-là reçoivent des prières de leur Seigneur. Ceux-là sont les bien guidés.[^12]
 
-[^1]: Coran 5&nbsp;:48. 
+[^1]: Coran 2&nbsp;:156. 
 [^2]: Coran 28&nbsp;:88.
 [^3]: Coran 55&nbsp;:27-28.
 [^4]: Coran 3&nbsp;:27.
