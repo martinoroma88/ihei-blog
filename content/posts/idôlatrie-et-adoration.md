@@ -249,7 +249,7 @@ C'est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste e
 
 [^16]: Ab&ucirc; D&acirc;w&ucirc;d.
 
-[^17]: René Guénon, *Le Métaphysique orientale*, éd. Éditions Traditionnelles.
+[^17]: Al-Ghazâlî, *Ihyâ’ ‘ulûm al-dîn*, Livre de la Science (*Kitâb al-‘ilm*), et *Mishkât al-Anwâr*.
 
 [^18]: Coran 2&nbsp;: 152.
 
