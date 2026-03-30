@@ -27,7 +27,7 @@ Il est donc nécessaire d’avoir un certain discernement pour maintenir la bala
 
 Pour comprendre la nature et la gravité des idolâtries contemporaines, il est nécessaire de les situer dans le cadre que la tradition prophétique elle-même leur assigne&nbsp;: celui des temps de trouble —&nbsp;la *fitna*&nbsp;— qui précèdent et annoncent la fin du cycle humain. L’islam n’est pas une religion qui ignore le temps&nbsp;: il le lit, il le déchiffre, il en reconnaît les signes. Et parmi ces signes, la prolifération de l’idolâtrie sous ses formes les plus insidieuses occupe une place centrale dans les avertissements prophétiques.
 
-La notion de «&nbsp;conditions cycliques&nbsp;» n’est pas propre à l’islam, on la retrouve également dans les autres Traditions authentiques, mais parce que l’islam est la dernière Révélation du cycle de l’humanité, ces conditions font l’objet d’une lecture particulière, ancrée dans le Coran et la Sunna. Le Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) a décrit avec une précision saisissante la dégradation progressive des temps&nbsp;: «&nbsp;L’islam a commencé comme quelque chose d’étranger, et il redeviendra étranger comme il a commencé.&nbsp;»[^3] Cette étrangeté croissante ne désigne pas la marginalisation sociologique de la religion, mais quelque chose de plus profond&nbsp;: l’obscurcissement progressif de la compréhension intérieure, la réduction de l’islam à ses formes extérieures, la perte du sens vivant des rites et des doctrines. Les savants traditionnels ont toujours interprété ces avertissements non comme une invitation au pessimisme ou au repli, mais comme un appel au discernement accru —&nbsp;au *furqân*&nbsp;— précisément parce que les contrefaçons spirituelles deviennent, avec le temps, de plus en plus difficiles à distinguer de l’original.
+La notion de «&nbsp;conditions cycliques&nbsp;» n’est pas propre à l’islam, on la retrouve également dans les autres Traditions authentiques, mais parce que l’islam est la dernière Révélation du cycle de l’humanité, ces conditions font l’objet d’une lecture particulière, ancrée dans le Coran et la Sunna. Le Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) a décrit avec une précision saisissante la dégradation progressive des temps&nbsp;: «&nbsp;L’islam a commencé comme quelque chose d’étranger, et il redeviendra étranger comme il a commencé.&nbsp;»[^3](Muslîm.) Cette étrangeté croissante ne désigne pas la marginalisation sociologique de la religion, mais quelque chose de plus profond&nbsp;: l’obscurcissement progressif de la compréhension intérieure, la réduction de l’islam à ses formes extérieures, la perte du sens vivant des rites et des doctrines. Les savants traditionnels ont toujours interprété ces avertissements non comme une invitation au pessimisme ou au repli, mais comme un appel au discernement accru —&nbsp;au *furqân*&nbsp;— précisément parce que les contrefaçons spirituelles deviennent, avec le temps, de plus en plus difficiles à distinguer de l’original.
 
 ### Les temps de la *fitna* et la figure du *Dajjâl*
 
@@ -217,15 +217,13 @@ Le croyant qui a parcouru ce chemin —&nbsp;ou qui en a seulement entrevu la di
 
 C’est là le paradoxe ultime de la voie islamique&nbsp;: l’homme qui cherche Dieu découvre que Dieu le cherchait avant lui. Que la *barakâ* précédait sa démarche. Que la *silsilah* le reliait à la Source avant même qu’il en connût l’existence. Que chaque rite accompli avec sincérité était déjà une réponse à un appel qu’il n’avait pas encore entendu consciemment —&nbsp;l’appel primordial auquel toute la création répond sans le savoir, et auquel l’homme seul peut répondre en pleine connaissance&nbsp;: «&nbsp;Ne suis-Je pas votre Seigneur&nbsp;?&nbsp;»
 
-C'est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste et chaque souffle&nbsp;— que convie l'islam. Non comme une religion parmi d'autres, mais comme le rappel ultime d'une vérité que l'homme porte en lui depuis avant sa naissance, et qu'il est venu dans ce monde pour retrouver&nbsp;:
+C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste et chaque souffle&nbsp;— que convie l’islam. Comme le rappel ultime d’une vérité que l’homme porte en lui depuis avant sa naissance, et qu’il est venu dans ce monde pour retrouver&nbsp;:
 
 > &Ocirc; âme apaisée&nbsp;! Retourne vers ton Seigneur, satisfaite et agréée.  Entre donc parmi Mes serviteurs. Entre dans Mon Paradis.[^22]
 
 [^1]: Coran 2&nbsp;: 185.
 
 [^2]: Coran 4&nbsp;: 120-121.
-
-[^3]: Musl&icirc;m.
 
 [^4]: René Guénon, *Orient et Occident*, Guy Trédaniel — Éditions de La Maisnie, Paris.
 
