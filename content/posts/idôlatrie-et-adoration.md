@@ -221,6 +221,8 @@ C'est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste e
 
 [^2]: Coran 4&nbsp;: 120-121.
 
+[^3]: Musl&icirc;m.
+
 [^4]: René Guénon, *Orient et Occident*, Guy Trédaniel — Éditions de La Maisnie, Paris.
 
 [^5]: Coran 7&nbsp;: 172.
