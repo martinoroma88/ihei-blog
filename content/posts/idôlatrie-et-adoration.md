@@ -1,7 +1,7 @@
 ---
 titre: Idôlatries et adoration
 vedette: false
-date: 2026-03-28T14:13:21.549Z
+date: 2026-03-30T13:21:11.792Z
 auteur: Abd al-Qouddous Jibril Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1774534230/PHOTO-2025-09-17-12-32-11_flew8d.jpg
 category: Islam en pratique
