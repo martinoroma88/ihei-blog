@@ -139,7 +139,7 @@ Ce voyage n’est jamais solitaire —&nbsp;et c’est précisément ce que rapp
 
 Cette vérité, énoncée dans l’abstrait, prend une résonance particulièrement aiguë dans le contexte de l’islam en Occident, où le croyant se trouve souvent placé dans une situation paradoxale&nbsp;: héritier d’une tradition profondément communautaire, il évolue dans un environnement social dont le principe organisateur est précisément l’inverse —&nbsp;l’individu souverain, affranchi de toute appartenance contraignante, maître de sa propre «&nbsp;spiritualité à la carte&nbsp;». La tentation est alors grande de vivre l’islam sur le mode d'une conviction intime et privée, d’une relation directe et solitaire à Dieu, affranchie des médiations communautaires. C’est là une des formes les plus subtiles de «&nbsp;l’individualisme spirituel&nbsp;», d’autant plus difficile à reconnaître qu’elle se drape dans les apparences de la sincérité et de l’authenticité.
 
-Or la Tradition est formelle&nbsp;: il n’est pas de cheminement intérieur viable sans cadre communautaire vivant. La *jamâ‘ah* —&nbsp;la communauté rassemblée&nbsp;— n’est pas un simple regroupement sociologique de croyants partageant les mêmes convictions. Elle est, dans son principe, une réalité spirituelle&nbsp;: le lieu où les grâces divines (*barakât&icirc;n*) circulent, où la *silsilah* —&nbsp;la chaîne de transmission&nbsp;— demeure vivante et opérante, en trouvant sa source en Dieu, en passant par le Prophète et les ma&icirc;tre de la voie du passé mais aussi du présent. Hors de ce cadre, la connaissance peut rester intacte dans sa formulation doctrinale, mais elle ne peut pas &ecirc;tre assimilée à la Connaissance divine, incommensurable et qui est une connaissance directe de la Vérité telle qu’Elle est.
+Or la Tradition est formelle&nbsp;: il n’est pas de cheminement intérieur viable sans cadre communautaire vivant. La *jamâ‘ah* —&nbsp;la communauté rassemblée&nbsp;— n’est pas un simple regroupement sociologique de croyants partageant les mêmes convictions. Elle est, dans son principe, une réalité spirituelle&nbsp;: le lieu où les grâces divines (*barakât&icirc;n*) circulent, où la *silsilah* —&nbsp;la chaîne de transmission&nbsp;— demeure vivante et opérante, en trouvant sa source en Dieu, en passant par le Prophète puis les ma&icirc;tre de la voie, qu’ils soient du passé mais aussi du présent. Hors de ce cadre, la connaissance peut rester intacte dans sa formulation doctrinale, mais elle ne peut pas &ecirc;tre assimilée à la Connaissance divine, incommensurable et qui est une connaissance directe de la Vérité telle qu’Elle est.[^17]
 
 La mosquée en est l’expression la plus immédiate et la plus accessible. Non pas simplement comme lieu de prière individuelle accomplie en groupe, mais comme espace où le croyant fait l’expérience concrète de la dissolution partielle de son *moi*&nbsp;: il prie aux côtés de l’inconnu, s’aligne sur le même rang, se prosterne au même instant, oriente son cœur vers la même *qiblah*. Cette expérience répétée, quotidienne, opère silencieusement une éducation de l’*ego* que nulle pratique solitaire ne peut remplacer. Les cercles de *dhikr*, quant à eux, approfondissent cette dimension&nbsp;: le souvenir de Dieu accompli en commun crée une résonance spirituelle qui dépasse la somme des présences individuelles, comme le rappelle la parole prophétique&nbsp;: «&nbsp;*Dieu dit*&nbsp;*: Je suis avec Mon serviteur lorsqu’il Me mentionne*&nbsp;*; si une assemblée Me mentionne, Je suis avec eux.*&nbsp;»
 
@@ -151,11 +151,11 @@ C’est dans cet équilibre —&nbsp;entre l’enracinement dans le concret et l
 
 C’est dans cet effacement progressif —&nbsp;de l’*ego* vers le Soi, du voile vers la Lumière&nbsp;— que le croyant découvre la vérité de la parole divine&nbsp;:
 
-> Souviens-toi de Moi, Je Me souviendrais de toi.[^17]
+> Souviens-toi de Moi, Je Me souviendrais de toi.[^18]
 
 Dieu a redonné l’orientation verticale, pour chaque instant de la vie terrestre, à celui qu’il a créé —&nbsp;Il a établi les règles et les moyens qui balisent le chemin droit (*aç-çirât al-mustaq&icirc;m*), le plus court vers Dieu. Comme l’enseigne le Coran, aucune chose n’existe en vain&nbsp;: 
 
-> Ce n’est pas par jeu que Nous avons créé le ciel et la terre et ce qui est entre eux.[^18]
+> Ce n’est pas par jeu que Nous avons créé le ciel et la terre et ce qui est entre eux.[^19]
 
 La religion offre ainsi à l’homme l’ensemble des moyens visant à le purifier. Les rites islamiques ne sont pas de simples obligations extérieures imposées à l’homme&nbsp;: ce sont des symboles agis, des actes métaphysiques qui reproduisent, dans l’ordre sensible, la tension entre le relatif et l’Absolu —&nbsp;de même que la *shahâdah*, expression de l’équilibre entre transcendance et immanence divines, est réalisée dans chaque souffle et dans chaque regard de l'être. Le rite est ainsi le lieu privilégié où se noue la rencontre mystérieuse entre le fini et l’Infini, le temps et l’Éternité, la forme et l’Essence.
 
@@ -179,7 +179,7 @@ Les maîtres de la tradition ont souvent exprimé cette unité par l’image de 
 
 ### Le légalisme ou l’erreur de l’écorce sans fruit
 
-La première déviation est le légalisme&nbsp;: l’attachement exclusif à la forme extérieure du rite, au *fiqh* réduit à sa seule dimension formelle, au détriment de l’Esprit qui l’anime. Le légaliste accomplit scrupuleusement ses obligations rituelles, observe les interdits avec rigueur, connaît les règles dans leur moindre détail —&nbsp;mais son cœur reste fermé, son intention superficielle, son *ego* intact. Il a fait de la Loi une fin en soi, alors qu’elle n’est, selon l’image classique des maîtres soufis, que l’écorce qui protège et nourrit le fruit —&nbsp;non le fruit lui-même. Cette confusion est une forme d’idolâtrie particulièrement insidieuse, car elle se présente sous les apparences les plus irréprochables de la piété. Le Coran en avertit pourtant sans ambiguïté&nbsp;: «&nbsp;Ce n’est ni leur chair ni leur sang qui parvient à Dieu, c’est votre piété qui Lui parvient.&nbsp;»[^19] Le rite accompli sans présence intérieure, sans intention orientée vers Dieu, sans effort de purification du cœur, risque de demeurer une enveloppe vide —&nbsp;honorable aux yeux des hommes, mais stérile devant Dieu. Pire&nbsp;: il peut devenir le support d’un orgueil spirituel raffiné, le moi passionnel se nourrissant de sa propre observance comme d’une preuve de supériorité.
+La première déviation est le légalisme&nbsp;: l’attachement exclusif à la forme extérieure du rite, au *fiqh* réduit à sa seule dimension formelle, au détriment de l’Esprit qui l’anime. Le légaliste accomplit scrupuleusement ses obligations rituelles, observe les interdits avec rigueur, connaît les règles dans leur moindre détail —&nbsp;mais son cœur reste fermé, son intention superficielle, son *ego* intact. Il a fait de la Loi une fin en soi, alors qu’elle n’est, selon l’image classique des maîtres soufis, que l’écorce qui protège et nourrit le fruit —&nbsp;non le fruit lui-même. Cette confusion est une forme d’idolâtrie particulièrement insidieuse, car elle se présente sous les apparences les plus irréprochables de la piété. Le Coran en avertit pourtant sans ambiguïté&nbsp;: «&nbsp;Ce n’est ni leur chair ni leur sang qui parvient à Dieu, c’est votre piété qui Lui parvient.&nbsp;»[^20] Le rite accompli sans présence intérieure, sans intention orientée vers Dieu, sans effort de purification du cœur, risque de demeurer une enveloppe vide —&nbsp;honorable aux yeux des hommes, mais stérile devant Dieu. Pire&nbsp;: il peut devenir le support d’un orgueil spirituel raffiné, le moi passionnel se nourrissant de sa propre observance comme d’une preuve de supériorité.
 
 ### L’*ibâha* ou l’erreur du fruit sans écorce
 
@@ -205,7 +205,7 @@ Les grands maîtres de la tradition islamique ont précisément illustré, dans 
 
 C’est pourquoi la voie islamique authentique ne connaît pas de tension entre *sharî’a* et *haqîqa*&nbsp;: elle les vit comme deux faces d’une même réalité, à l’image de la main qui comporte deux faces, un dos représentant la *sharî’a* et un ventre, la *haqîqa*. Le croyant qui accomplit le rite avec présence et sincérité ne choisit pas entre la lettre et l’Esprit —&nbsp;il découvre progressivement que la lettre, habitée de l’intérieur, devient Esprit, et que l’Esprit, pour se manifester dans le monde, a besoin de la lettre comme la lumière a besoin du cristal pour se diffracter en couleurs visibles. C’est dans cette unité vécue —&nbsp;et non dans leur séparation&nbsp;— que réside le secret de la voie islamique, et que le serviteur trouve les conditions de sa transformation la plus profonde.
 
-Le croyant s’efforce de vivre *bismi-Llâh*, «&nbsp;au nom de Dieu&nbsp;», en sacrifiant —&nbsp;au sens étymologique de «&nbsp;rendre sacré&nbsp;»&nbsp;— sa vie, jusqu’à redécouvrir, avec Son aide, le rattachement de l’action au but, et contempler, avec cette même certitude qui caractérisait l’Homme avant sa chute et lui permettait de voir avec l’œil du cœur, l’Objet de toute adoration et de toute louange. C’est ce même rattachement qui offre à l’homme la possibilité de connaître les archétypes, les réalités spirituelles, lorsqu’il parvient à traverser l’apparence des choses pour ne retrouver que l’essentiel qui reste immuable, car «&nbsp;toute chose est évanescente, à l’exception de Sa Face&nbsp;»[^20].
+Le croyant s’efforce de vivre *bismi-Llâh*, «&nbsp;au nom de Dieu&nbsp;», en sacrifiant —&nbsp;au sens étymologique de «&nbsp;rendre sacré&nbsp;»&nbsp;— sa vie, jusqu’à redécouvrir, avec Son aide, le rattachement de l’action au but, et contempler, avec cette même certitude qui caractérisait l’Homme avant sa chute et lui permettait de voir avec l’œil du cœur, l’Objet de toute adoration et de toute louange. C’est ce même rattachement qui offre à l’homme la possibilité de connaître les archétypes, les réalités spirituelles, lorsqu’il parvient à traverser l’apparence des choses pour ne retrouver que l’essentiel qui reste immuable, car «&nbsp;toute chose est évanescente, à l’exception de Sa Face&nbsp;»[^21].
 
 Le croyant qui a parcouru ce chemin —&nbsp;ou qui en a seulement entrevu la direction&nbsp;— découvre progressivement que toutes les questions qui l’agitaient au départ se simplifient. Non parce qu'elles sont résolues intellectuellement, mais parce qu’elles sont transcendées. La question de l’idolâtrie se révèle n’avoir qu’une seule réponse vivante&nbsp;: non pas une doctrine supplémentaire, non pas une technique de plus, mais le retour au Centre —&nbsp;ce Centre que le cœur n’a jamais vraiment quitté, mais qu’il avait cessé d’habiter.
 
@@ -213,7 +213,7 @@ C’est là le paradoxe ultime de la voie islamique&nbsp;: l’homme qui cherche
 
 C'est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste et chaque souffle&nbsp;— que convie l'islam. Non comme une religion parmi d'autres, mais comme le rappel ultime d'une vérité que l'homme porte en lui depuis avant sa naissance, et qu'il est venu dans ce monde pour retrouver&nbsp;:
 
-> &Ocirc; âme apaisée&nbsp;! Retourne vers ton Seigneur, satisfaite et agréée.  Entre donc parmi Mes serviteurs. Entre dans Mon Paradis.[^21]
+> &Ocirc; âme apaisée&nbsp;! Retourne vers ton Seigneur, satisfaite et agréée.  Entre donc parmi Mes serviteurs. Entre dans Mon Paradis.[^22]
 
 [^1]: Coran 2&nbsp;: 185.
 
@@ -239,18 +239,20 @@ C'est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste e
 
 [^13]: Coran 8&nbsp;: 26.
 
-[^14]: René Guénon, *Le Roi du Monde*, Gallimard, Paris.
+[^14]: René Guénon, *Le Roi du Monde*, Gallimard.
 
 [^15]: Coran 28&nbsp;: 77.
 
 [^16]: Ab&ucirc; D&acirc;w&ucirc;d.
 
-[^17]: Coran 2&nbsp;: 152.
+[^17]: René Guénon, *Le Métaphysique orientale*, éd. Éditions Traditionnelles.
 
-[^18]: Coran 21&nbsp;: 16.
+[^18]: Coran 2&nbsp;: 152.
 
-[^19]: Coran 22&nbsp;:37.
+[^19]: Coran 21&nbsp;: 16.
 
-[^20]: Coran 28&nbsp;: 88.
+[^20]: Coran 22&nbsp;:37.
 
-[^21]: Coran 89&nbsp;: 27-30.
+[^21]: Coran 28&nbsp;: 88.
+
+[^22]: Coran 89&nbsp;: 27-30.
