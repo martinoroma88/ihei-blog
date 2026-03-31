@@ -125,7 +125,7 @@ En islam, la maladie n’est jamais une affaire strictement individuelle. La fam
 
 [^12]: Coran 40&nbsp;: 60.
 
-[^13]: Bukh&acir;r&icir; et Muslim.
+[^13]: Bukh&acir;r&icir; et Musl&icirc;m.
 
 [^14]: Ibn ‘Atâ’Llâh al-Iskandarî, in *Al-Hikam*.
 
