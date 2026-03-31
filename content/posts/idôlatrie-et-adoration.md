@@ -1,5 +1,5 @@
 ---
-titre: Idôlatries et adoration
+titre: Idolâtries et adoration
 vedette: false
 date: 2026-03-30T13:21:11.792Z
 auteur: Abd al-Qouddous Jibril Gouraud
