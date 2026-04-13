@@ -77,7 +77,7 @@ Ces constructions mentales sont également présentes dans la recherche de la pe
 
 Ce verset est riche d’enseignements. On peut le comprendre, en premier lieu, comme une allusion à la position primordiale d’Adam et Ève dans le jardin paradisiaque, puis à la descente vers une terre qui devient le lieu providentiel de pèlerinage où Dieu Se manifeste par les Noms de Beauté *at-Tawwâb ar-Rahîm*. En second lieu, le verset nous enseigne comment le cœur de l’homme associateur est détourné du souvenir de Dieu par les influences ténébreuses de l’âme passionnelle, qui ne sont autres que les «&nbsp;oiseaux de proie&nbsp;» (*at-tayr*) mentionnés. Or, le terme «&nbsp;précipite&nbsp;» (*tahwî*), employé dans le verset, possède la même racine, *HWY*, que le mot signifiant «&nbsp;passion&nbsp;» (*hawâ*)\[12] —&nbsp;signifiant par là que ce sont les passions elles-mêmes qui précipitent l’homme dans l’éloignement de son Seigneur. Enfin, à propos du «&nbsp;lieu très éloigné&nbsp;» (*makân sahîq*) dans lequel l’homme associateur est précipité, il est remarquable que le terme *jahannam* —&nbsp;«&nbsp;géhenne&nbsp;»&nbsp;— exprime également, dans la langue sacrée, cette idée d’éloignement.
 
-Depuis sa chute du jardin paradisiaque, l’homme n’a eu de cesse de se limiter dans sa forme humaine contingente —&nbsp;limitation qui a provoqué son obscurcissement intellectuel et la perte de la conscience de l’Unité divine. En goûtant à l’arbre défendu, l’homme s’est voilé à la Réalité divine unificatrice, pour ne plus considérer les choses que distinctivement, détachées de leur raison suffisante. L’homme possédait une vision synthétique de la Réalité qui lui faisait connaître en Dieu les mondes visible et invisible. Cependant, en faisant le choix de connaître le bien et le mal comme des «&nbsp;concepts&nbsp;» distincts —&nbsp;pourtant indifférenciés en Dieu&nbsp;— l’homme s’est abaissé à une vision analytique, et donc partielle. L’islam vient néanmoins apporter une espérance&nbsp;: même l’homme obscurci dans sa vision reste un lieu d’accès pour la Miséricorde divine. C’est ce que rappelle le hadîth qudsî rapporté par Abû Hûrayrah&nbsp;: «&nbsp;Je suis selon l’opinion que Mon serviteur se fait de Moi et Je suis avec lui lorsqu’il M’invoque.&nbsp;»\[13]
+Depuis sa chute du jardin paradisiaque, l’homme n’a eu de cesse de se limiter dans sa forme humaine contingente —&nbsp;limitation qui a provoqué son obscurcissement intellectuel et la perte de la conscience de l’Unité divine. En goûtant à l’arbre défendu, l’homme s’est voilé à la Réalité divine unificatrice, pour ne plus considérer les choses que distinctivement, détachées de leur raison suffisante. L’homme possédait une vision synthétique de la Réalité qui lui faisait connaître en Dieu les mondes visible et invisible. Cependant, en faisant le choix de connaître le bien et le mal comme des «&nbsp;concepts&nbsp;» distincts —&nbsp;pourtant indifférenciés en Dieu&nbsp;— l’homme s’est abaissé à une vision analytique, et donc partielle. L’islam vient néanmoins apporter une espérance&nbsp;: même l’homme obscurci dans sa vision reste un lieu d’accès pour la Miséricorde divine. C’est ce que rappelle le *hadîth qudsî* rapporté par Abû Hûrayrah&nbsp;: «&nbsp;Je suis selon l’opinion que Mon serviteur se fait de Moi et Je suis avec lui lorsqu’il M’invoque.&nbsp;»
 
 ### Le bien-être psychologique comme idolâtrie du moi
 
@@ -239,7 +239,7 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^5]: René Guénon, *Orient et Occident*, Guy Trédaniel —&nbsp;Éditions de La Maisnie, Paris.
 
-[^6]: Coran 7&nbsp;: 172.
+[^6]: La première partie de cette parole prophétique&nbsp;: «&nbsp;Dieu était, et rien n’était avec lui&nbsp;» est mentionnée dans le *Çahîh* de Bukhârî, la seconde partie&nbsp;: «&nbsp;et Il est maintenant tel qu’Il était&nbsp;», souvent ajoutée en commentaire par les maîtres du *taçawwuf*, ne se trouve pas dans les recueils canoniques. Le had&icirc;th finit comme suit&nbsp;: «&nbsp;Son Trône était sur l’Eau. Il écrivit toute chose dans le *dhikr* et détermina la création des Cieux et de la Terre.&nbsp;»
 
 [^7]: Coran 25&nbsp;: 43.
 
@@ -253,9 +253,9 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^12]: C’est aussi à partir de cette m&ecirc;me racine qu’est formé l’un des termes qui désignent les mondes infernaux&nbsp;: *h&acirc;wiyah* («&nbsp;ab&icirc;me très profond&nbsp;»), Cf Coran 101&nbsp;: 6-8.
 
-[^13]: La première partie de cette parole prophétique&nbsp;: «&nbsp;Dieu était, et rien n’était avec lui&nbsp;» est mentionnée dans le *Çahîh* de Bukhârî, la seconde partie&nbsp;: «&nbsp;et Il est maintenant tel qu’Il était&nbsp;», souvent ajoutée en commentaire par les maîtres du *taçawwuf*, ne se trouve pas dans les recueils canoniques. Le had&icirc;th finit comme suit&nbsp;: «&nbsp;Son Trône était sur l’Eau. Il écrivit toute chose dans le *dhikr* et détermina la création des Cieux et de la Terre.&nbsp;»
+[^13]: 
 
-[^11]: Coran 51&nbsp;: 56.
+[^14]: Coran 7&nbsp;: 172.
 
 [^12]: Coran 6&nbsp;: 98.
 
