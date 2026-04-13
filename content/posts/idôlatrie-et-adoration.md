@@ -209,7 +209,7 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 > Ô âme apaisée ! Retourne vers ton Seigneur, satisfaite et agréée. Entre donc parmi Mes serviteurs. Entre dans Mon Paradis.\[25]
 
-² Coran 4&nbsp;: 120-121.
+
 ³ René Guénon, Orient et Occident, Guy Trédaniel —&nbsp;Éditions de La Maisnie, Paris.
 ⁴ La première partie de cette parole est mentionnée dans le *Çahîh* de Bukhârî&nbsp;; la seconde partie, souvent ajoutée en commentaire par les maîtres du *taçawwuf*, ne se trouve pas dans les recueils canoniques. Le hadîth finit ainsi&nbsp;: «&nbsp;Son Trône était sur l’Eau. Il écrivit toute chose dans le *dhikr* et détermina la création des Cieux et de la Terre.&nbsp;»
 ⁵ Coran 45&nbsp;: 23.
@@ -232,6 +232,8 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 [^1]: Coran 2&nbsp;: 185.
 
 [^2]: Coran 4&nbsp;: 120-121.
+
+[^3]: Coran 50&nbsp;: 16.
 
 [^4]: René Guénon, *Orient et Occident*, Guy Trédaniel — Éditions de La Maisnie, Paris.
 
