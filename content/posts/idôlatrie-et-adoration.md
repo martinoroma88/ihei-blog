@@ -211,9 +211,8 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 
 
-¹⁰ Coran 7&nbsp;: 172.
-¹¹ Coran 51&nbsp;: 56.
-¹² René Guénon, Le Roi du Monde, Gallimard.
+
+
 ¹³ Abû Dâwûd.
 ¹⁴ Coran 22&nbsp;: 37.
 ¹⁵ Al-Ghazâlî, *Ihyâ’ ‘ulûm al-dîn*, Livre de la Science (*Kitâb al-‘ilm*), et Mishkât al-Anwâr&nbsp;; Ibn ‘Arabî, *Futûhât al-Makkiyya* et *Fuçûç al-Hikam*.
@@ -253,7 +252,7 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^15]: Coran 51&nbsp;: 56.
 
-[^15]: René Guénon, *Le Roi du Monde*, Gallimard.
+[^16]: René Guénon, *Le Roi du Monde*, Gallimard.
 
 [^13]: Coran 8&nbsp;: 26.
 
