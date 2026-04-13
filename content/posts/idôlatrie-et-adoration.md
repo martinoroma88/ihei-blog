@@ -270,6 +270,4 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^22]: Coran 21&nbsp;:16.
 
-[^23]: 
-
-[^22]: Coran 89&nbsp;: 27-30.
+[^23]: Coran 89&nbsp;: 27-30.
