@@ -249,7 +249,7 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^10]: René Guénon, *Orient et Occident*, Guy Trédaniel —&nbsp;Éditions de La Maisnie, Paris.
 
-[^11]: Musl&icirc;m.
+[^11]: Coran 22&nbsp;: 31.
 
 [^12]: C’est aussi à partir de cette m&ecirc;me racine qu’est formé l’un des termes qui désignent les mondes infernaux&nbsp;: *h&acirc;wiyah* («&nbsp;ab&icirc;me très profond&nbsp;»), Cf Coran 101&nbsp;: 6-8.
 
