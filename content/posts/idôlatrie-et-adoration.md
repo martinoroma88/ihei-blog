@@ -249,7 +249,9 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^10]: René Guénon, *Orient et Occident*, Guy Trédaniel —&nbsp;Éditions de La Maisnie, Paris.
 
-[^11]: C’est aussi à partir de cette m&ecirc;me racine qu’est formé l’un des termes qui désignent les mondes infernaux&nbsp;: *h&acirc;wiyah* («&nbsp;ab&icirc;me très profond&nbsp;»), Cf Coran 101&nbsp;: 6-8.
+[^11]: Musl&icirc;m.
+
+[^12]: C’est aussi à partir de cette m&ecirc;me racine qu’est formé l’un des termes qui désignent les mondes infernaux&nbsp;: *h&acirc;wiyah* («&nbsp;ab&icirc;me très profond&nbsp;»), Cf Coran 101&nbsp;: 6-8.
 
 [^10]: La première partie de cette parole prophétique&nbsp;: «&nbsp;Dieu était, et rien n’était avec lui&nbsp;» est mentionnée dans le *Çahîh* de Bukhârî, la seconde partie&nbsp;: «&nbsp;et Il est maintenant tel qu’Il était&nbsp;», souvent ajoutée en commentaire par les maîtres du *taçawwuf*, ne se trouve pas dans les recueils canoniques. Le had&icirc;th finit comme suit&nbsp;: «&nbsp;Son Trône était sur l’Eau. Il écrivit toute chose dans le *dhikr* et détermina la création des Cieux et de la Terre.&nbsp;»
 
