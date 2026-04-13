@@ -101,7 +101,7 @@ Le développement personnel constitue peut-être la forme la plus élaborée de 
 
 ## La connaissance de Dieu&nbsp;: Intellect pur et purification du cœur
 
-Grâce à la Révélation, l’homme retrouve une place centrale, qui lui permet d’exercer son rôle dans la création et de parvenir à la véritable fonction pour laquelle il a été créé, celle de lieutenant de Dieu sur terre (*khalîfat Allâh fî-l-ard*) et d’adorateur du Très-Haut&nbsp;: «&nbsp;Je n’ai créé les jinns et les hommes que pour qu’ils M’adorent&nbsp;»\[16], révèle Dieu. Le point de vue sacré prend l’homme comme étant investi de la responsabilité du dépôt de la Science sacrée, la Connaissance de Dieu, déposée dans le cœur de l’Homme. Cette connaissance n’a rien à voir avec une simple accumulation de données et n’intéresse aucunement la pensée rationnelle, mais elle se rattache à l’Esprit (*ar-Rûh*), celui-là même qui fut insufflé par Dieu dans les narines d’Adam (*‘alayhi-s-salâm*).
+Grâce à la Révélation, l’homme retrouve une place centrale, qui lui permet d’exercer son rôle dans la création et de parvenir à la véritable fonction pour laquelle il a été créé, celle de lieutenant de Dieu sur terre (*khalîfat Allâh fî-l-ard*) et d’adorateur du Très-Haut&nbsp;: «&nbsp;Je n’ai créé les jinns et les hommes que pour qu’ils M’adorent&nbsp;»\[15], révèle Dieu. Le point de vue sacré prend l’homme comme étant investi de la responsabilité du dépôt de la Science sacrée, la Connaissance de Dieu, déposée dans le cœur de l’Homme. Cette connaissance n’a rien à voir avec une simple accumulation de données et n’intéresse aucunement la pensée rationnelle, mais elle se rattache à l’Esprit (*ar-Rûh*), celui-là même qui fut insufflé par Dieu dans les narines d’Adam (*‘alayhi-s-salâm*).
 
 La connaissance authentique est, au sens traditionnel, une intellection —&nbsp;non pas un raisonnement discursif, mais une participation directe à la Vérité par l’Intellect pur (*al-‘Aql*), faculté supérieure à la raison, capable de saisir les principes universels. La foi (*îmân*) s’inscrit dans cette perspective comme une connaissance par anticipation&nbsp;: elle n’est pas une adhésion aveugle à des propositions doctrinales, mais une orientation de tout l’être vers une Vérité que l’Intellect pressent avant de la saisir pleinement. En ce sens, la foi précède et prépare la connaissance —&nbsp;elle en est la condition d’accès, non le substitut. C’est elle qui maintient le croyant dans la juste disposition intérieure (*istiqâma*) sans laquelle aucune intellection véritable n’est possible.
 
@@ -251,7 +251,7 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^14]: Coran 2&nbsp;: 152.
 
-[^14]: Coran 6&nbsp;: 98.
+[^15]: Coran 51&nbsp;: 56.
 
 [^13]: Coran 8&nbsp;: 26.
 
