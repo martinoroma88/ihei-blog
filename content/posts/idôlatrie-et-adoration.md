@@ -233,6 +233,8 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^8]: Coran 45&nbsp;: 23.
 
+[^9]: Coran 45&nbsp;: 23.
+
 [^10]: René Guénon, *Orient et Occident*, Guy Trédaniel —&nbsp;Éditions de La Maisnie, Paris.
 
 [^11]: Coran 22&nbsp;: 31.
