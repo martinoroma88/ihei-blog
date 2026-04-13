@@ -264,7 +264,7 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^19]: Al-Ghazâlî, *Ihyâ’ ‘ulûm al-dîn*, Livre de la Science (*Kitâb al-‘ilm*), et *Mishkât al-Anwâr*. Mais aussi Ibn ‘Arabî, *Futûhât al-Makkiyya*, chap. sur la *Ma‘rifah*&nbsp;; voir aussi *Fuçûç al-Hikam*.
 
-[^20: Coran 2&nbsp;: 152.
+[^20]: Coran 2&nbsp;: 152.
 
 [^21]: Coran 21&nbsp;: 16.
 
