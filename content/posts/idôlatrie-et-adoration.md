@@ -253,9 +253,7 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^12]: C’est aussi à partir de cette m&ecirc;me racine qu’est formé l’un des termes qui désignent les mondes infernaux&nbsp;: *h&acirc;wiyah* («&nbsp;ab&icirc;me très profond&nbsp;»), Cf Coran 101&nbsp;: 6-8.
 
-[^13]: 
-
-[^14]: Coran 7&nbsp;: 172.
+[^13]: Coran 7&nbsp;: 172.
 
 [^12]: Coran 6&nbsp;: 98.
 
