@@ -9,10 +9,15 @@ enableDropCap: true
 ---
 ##L’islam comme voie de soumission et de discernement
 Par un effet de Sa miséricorde, Dieu S’est révélé aux hommes, en des temps bien déterminés et selon des modes différents. Il les a instruits sur la nature de la relation qui lie la créature à son Créateur, sur leur état de soumission envers Lui mais également sur la place de l’homme dans la Création et la fonction de ce dernier dans le Plan divin. Le mot *islâm*, qui désigne la dernière Révélation pour l’humanité de notre cycle, signifie justement «&nbsp;soumission&nbsp;», apaisante et apaisée, à la Volonté de Dieu. En réalité, toutes les religions orthodoxes peuvent être appelées *islâm*, car chacune d’elles invite le serviteur à une soumission authentique qui vise à faire rayonner la Gloire divine et à transformer l’existence de l’homme. Mais l’islam, comme chaque religion véritable, possède aussi des particularités qui le différencient des autres religions&nbsp;: en tant qu’ultime Révélation, il confirme les messages divins antérieurs et synthétise la profession de foi éternelle, en une formulation courte et explicite&nbsp;:
+
 > *Lâ ilâha illâ-Llâh, Muhammadun rasûlu-Llâh*—&nbsp;il n’y a pas de dieu si ce n’est Dieu, Muhammad est l’Envoyé de Dieu.
+
 Dans cette perspective de rappel ultime, Dieu ne veut pas imposer à l’homme plus que ce qu’il peut porter&nbsp;: «&nbsp;Dieu veut pour vous la facilité, Il ne veut pas la difficulté pour vous&nbsp;»[1], et, connaissant la nature faible de l’homme, Dieu a fait de l’islam une direction (*hudâ*) qui amène l’homme au salut, et une miséricorde (*rahmah*) qui sanctifie celui qui accepte de suivre cette direction. Cette même facilité n’est pas une complaisance envers les penchants de l’homme, mais une voie balisée qui le préserve de ses propres errements.
+
 L’islam offre, par surcroît, des moyens solides pour se prémunir contre toutes les formes possibles d’idolâtrie, qu’elles soient doctrinales, théologiques, psychologiques ou sentimentales&nbsp;; déviations toujours plus manifestes en ces temps eschatologiques où il est dit que l’imposteur (*ad-dajjâl*) offrira, au monde, une image paradisiaque de l’enfer et une image infernale du paradis&nbsp;:
-> Il leur fait des promesses et leur donne de faux espoirs. Et le Diable ne leur fait que des promesses trompeuses. Voilà ceux dont le refuge est l’Enfer. Et ils ne trouveront aucun moyen d’y échapper ![2]
+
+> Il leur fait des promesses et leur donne de faux espoirs. Et le Diable ne leur fait que des promesses trompeuses. Voilà ceux dont le refuge est l’Enfer. Et ils ne trouveront aucun moyen d’y échapper&nbsp;![2]
+
 Ainsi l’islam est une voie de discernement, une invitation constante à distinguer, de manière tranchante, le Réel de l’illusoire, la Vérité de l’erreur, le convenable du blâmable, le licite de l’illicite, l’adoration authentique de l’idolâtrie. 
 ## Transcendance et Immanence
 ### La juste tension entre tanzîh et tashbîh
