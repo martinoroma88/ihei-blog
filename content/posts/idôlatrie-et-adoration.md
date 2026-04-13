@@ -241,7 +241,7 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^6]: Coran 7&nbsp;: 172.
 
-[^7]: Coran 45&nbsp;: 23.
+[^7]: Coran 25&nbsp;: 43.
 
 [^7]: Coran 22&nbsp;: 31.
 
