@@ -87,7 +87,7 @@ La distinction fondamentale entre bien-être psychologique et vie spirituelle es
 
 > Le bonheur, quelle que soit la variété de ses aspects, n’existe vraiment qu’en la présence de Dieu et Sa proximité. La souffrance, quelle que soit la variété de ses aspects, n’existe que par le voile qui Le cache.
 
-et encore, invitation à l’abandon&nbsp;:
+et encore, une invitation à l’abandon&nbsp;:
 
 > Qu’il suffise à ta peine, dans les épreuves que tu endures, de savoir qu’Il est, Lui le Très-Haut, Celui qui t’éprouve. Celui dont les décrets s’accomplissent en toi est aussi Celui qui a coutume de choisir ce qu’il y a de mieux pour toi.
 
