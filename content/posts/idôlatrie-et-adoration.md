@@ -19,7 +19,7 @@ L’islam offre, par surcroît, des moyens solides pour se prémunir contre tout
 
 > Il leur fait des promesses et leur donne de faux espoirs. Et le Diable ne leur fait que des promesses trompeuses. Voilà ceux dont le refuge est l’Enfer. Et ils ne trouveront aucun moyen d’y échapper&nbsp;![^2]
 
-Ainsi l’islam est une voie de discernement, une invitation constante à distinguer, de manière tranchante, le Réel de l’illusoire, la Vérité de l’erreur, le convenable du blâmable, le licite de l’illicite, l’adoration authentique de l’idolâtrie.
+Ainsi, l’islam est une voie de discernement, une invitation constante à distinguer, de manière tranchante, le Réel de l’illusoire, la Vérité de l’erreur, le convenable du blâmable, le licite de l’illicite, l’adoration authentique de l’idolâtrie.
 
 ## Transcendance et Immanence
 
