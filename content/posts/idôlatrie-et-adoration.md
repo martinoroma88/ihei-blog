@@ -255,14 +255,6 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^16]: René Guénon, *Le Roi du Monde*, Gallimard.
 
-[^13]: Coran 8&nbsp;: 26.
-
-[^14]: René Guénon, *Le Roi du Monde*, Gallimard.
-
-[^15]: Coran 28&nbsp;: 77.
-
-[^16]: Ab&ucirc; D&acirc;w&ucirc;d.
-
 [^17]: Coran 2&nbsp;: 186.
 
 [^18]: Coran 22&nbsp;: 37.
