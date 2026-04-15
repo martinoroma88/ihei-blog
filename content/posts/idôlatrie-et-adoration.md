@@ -255,7 +255,7 @@ C’est à cette réponse —&nbsp;libre, consentie, incarnée dans chaque geste
 
 [^16]: René Guénon, *Le Roi du Monde*, Gallimard.
 
-[^17]: Coran 2&nbsp;: 186.
+[^17]: Bukhârî et Muslim.
 
 [^18]: Coran 22&nbsp;: 37.
 
