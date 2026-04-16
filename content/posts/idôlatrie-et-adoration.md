@@ -109,9 +109,9 @@ Cette connaissance, à laquelle l’homme est appelée, ne saurait &ecirc;tre ab
 
 L’erreur consiste à prendre l’un des savoirs humains pour une fin en soi, alors qu’ils n’ont toujours été qu’un moyen, non nécessaire en soi mais rendu accessible par la seule grâce de Dieu, pour se rapprocher de Lui. De multiples savants traditionnels de tous les horizons confessionnels ont développé de nombreuses sciences comme supports de méditation, sans qu’il y ait pour autant identification. Quant au monde moderne, il n’a développé, pour sa part, que la technique et l’énumération indéfinie des apparences, en construisant des systèmes scientifiques «&nbsp;indépendants&nbsp;», idéalisés, artificiels, approximatifs, et éloignés de la Réalité.
 
-## La silsilah, le maître et la communauté
+## La *silsilah*, le maître et la communauté
 
-### La silsilah&nbsp;: chaîne de présence et de grâce
+### La *silsilah*&nbsp;: chaîne de présence et de grâce
 
 La *silsilah* —&nbsp;littéralement «&nbsp;chaîne&nbsp;»&nbsp;— n’est pas une simple généalogie spirituelle, une liste de noms illustres que l’on récite pour s’en réclamer. Elle est la forme visible d’une réalité invisible&nbsp;: la circulation ininterrompue d’une *barakâ—*&nbsp;d’une grâce divine active&nbsp;— qui remonte, du disciple vers le maître, jusqu’au Prophète (*çallâ-Llâhu ‘alayhi wa sallam*), et à travers lui jusqu’à la Source elle-même. Ce qui se transmet dans cette chaîne n’est pas d’abord un savoir —&nbsp;des doctrines, des méthodes, des techniques&nbsp;— mais une influence spirituelle qui, sous l’autorisation divine et par l’intermédiaire du Prophète (*çallâ-Llâhu ‘alayhi wa sallam*), vient agir sur le cœur du disciple. Le maître n’en est pas la source —&nbsp;il en est le canal, l’instrument consenti d’une grâce vivante qui le dépasse et dont il n’est que le transmetteur fidèle. De même que l’on n’allume pas une lampe avec des mots mais avec une flamme vivante, cette *barakâ* ne se communique pas par la seule étude, si rigoureuse soit-elle, mais par le contact avec un être en qui elle agit réellement. C’est le sens profond de la parole coranique&nbsp;: «&nbsp;Ô vous qui croyez, craignez Dieu et soyez avec les véridiques.&nbsp;» La compagnie des véridiques —&nbsp;*as-sâdiqûn*&nbsp;— n’est pas un ornement facultatif du chemin&nbsp;: elle en est une condition structurelle.
 
