@@ -21,9 +21,9 @@ L’islam offre, par surcroît, des moyens solides pour se prémunir contre tout
 
 Ainsi, l’islam est une voie de discernement, une invitation constante à distinguer, de manière tranchante, le Réel de l’illusoire, la Vérité de l’erreur, le convenable du blâmable, le licite de l’illicite, l’adoration authentique de l’idolâtrie.
 
-Transcendance et Immanence
+## Transcendance et Immanence
 
-La juste tension entre *tanzîh* et *tashbîh*
+### La juste tension entre *tanzîh* et *tashbîh*
 
 La révélation coranique embrasse tous les domaines de la vie de l’homme, et lui redonne, par voie de conséquence, la vision harmonieuse de la création ainsi que la conscience de son unité, reflet de l’Unité divine (*at-Tawhîd*). L’islam s’adresse à l’homme depuis sa situation spatio-temporelle ontologique, et vient rétablir le rapport entre la Transcendance (*tanzîh*) —&nbsp;l’affirmation de l’incomparabilité divine&nbsp;— et l’Immanence (*tashbîh*) —&nbsp;l’affirmation de la proximité divine&nbsp;—, pour connaître Dieu et garder le lien avec Lui, le Réel (*al-Haqq*). On comprendra ainsi, sans peine, que l’affirmation unilatérale d’une perspective au détriment de l’autre plonge l’homme dans l’idolâtrie.
 
