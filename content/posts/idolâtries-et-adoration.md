@@ -5,7 +5,7 @@ date: 2026-03-30T20:45:06.415Z
 auteur: Abd al-Qouddous Jibril Gouraud
 couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1774534230/PHOTO-2025-09-17-12-32-11_flew8d.jpg
 category: Islam en pratique
-enableDropCap: false
+enableDropCap: true
 ---
 ## L’islam comme voie de soumission et de discernement
 
