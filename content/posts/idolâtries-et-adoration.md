@@ -1,5 +1,5 @@
 ---
-titre: Idolâtries et adoration — l’islam comme voie de discernement
+titre: Idolâtries et adoration
 vedette: false
 date: 2026-03-30T20:45:06.415Z
 auteur: Abd al-Qouddous Jibril Gouraud
