@@ -1,7 +1,7 @@
 ---
 titre: Le Prophète Muhammad et les jeunes
 vedette: false
-date: 2026-04-26T06:32:54.002Z
+date: 2026-02-11T07:32:54.002Z
 auteur: Yahya Abd al-Ahad Zanolo
 category: Islam en pratique
 enableDropCap: true
