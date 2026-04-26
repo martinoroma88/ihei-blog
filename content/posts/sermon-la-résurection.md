@@ -1,5 +1,5 @@
 ---
-titre: Le jour de la résurection
+titre: Le jour de la résurrection
 vedette: false
 date: 2026-04-26T15:59:54.619Z
 auteur: Abd al-Haqq Ismaïl Guiderdoni
