@@ -10,7 +10,7 @@ enableDropCap: false
 
 Allah —&nbsp;*‘azza wa jalla*&nbsp;— dit dans son Saint Coran&nbsp;:
 
-> Certes, Je jure par le jour de la résurrection, et certes, Je jure par l’âme qui ne cesse de se blâmer. L’homme estime-t-il que Nous ne réunirons pas ses os&nbsp;? Au contraire, Nous sommes capables de replacer les extrémités de ses doigts. Mais l’homme veut continuer à être pécheur. Il demande&nbsp;: quand aura lieu le jour de la résurrection&nbsp;? Coran, sourate  75, versets 1 à 6.
+> Certes, Je jure par le jour de la résurrection, et certes, Je jure par l’âme qui ne cesse de se blâmer. L’homme estime-t-il que Nous ne réunirons pas ses os&nbsp;? Au contraire, Nous sommes capables de replacer les extrémités de ses doigts. Mais l’homme veut continuer à être pécheur. Il demande&nbsp;: quand aura lieu le jour de la résurrection&nbsp;? Coran, sourate la résurrection LXXV, versets 1 à 6.
 
 Ô croyants,
 
@@ -43,7 +43,7 @@ Cet effort contre l’âme, le *jihâd an-nafs*, nous permet de rechercher la re
 
 Chers Frères, chères sœurs, notre bien aimé Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) a dit&nbsp;:
 
-> comment puis-je me réjouir alors que l’ange de la Trompette l’a déjà embouchée et a déjà entendu l’autorisation d’y sonner&nbsp;? Quand donc va-t-il recevoir l’ordre d’y souffler&nbsp;?[^4]
+> comment puis-je me réjouir alors que l’ange de la Trompette l’a déjà embouchée et a déjà entendu l’autorisation d’y sonner&nbsp;? Quand donc va-t-il recevoir l’ordre d’y souffler&nbsp;?[^4](Tirmidhî.)
 
 Le Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) nous demande la vigilance en ces temps de la fin, et nous avertit de nombreux troubles. Nous voyons hélas les signes de ces troubles se multiplier autour de nous. Nous ne savons pas si nous vivrons le temps de l’heure dernière, mais nous savons que, tous et toutes, nous vivrons la dernière heure de notre vie. Attendons la résurrection dans la gratitude envers Allah. Et profitons donc de ce temps qui nous reste pour continuer nos œuvres d’adoration, rechercher ensemble la rectitude, et multiplier les invocations, car, selon le *hadîth* rapporté d’après Anas,
 
@@ -54,5 +54,3 @@ Le Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) nous demande la vigilance en
 [^2]: Coran 7&nbsp;: 187.
 
 [^3]: Coran 22&nbsp;: 1.
-
-[^4]: Tirmidhî.
