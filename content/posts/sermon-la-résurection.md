@@ -38,10 +38,16 @@ Toute notre vie, à chaque instant, est un chemin pour l’adoration par la conn
 
 Cet effort contre l’âme, le *jihâd an-nafs*, nous permet de rechercher la rectitude, *al-istiqâma*, une rectitude qui nous prépare au redressement de la résurrection. Mais qu’est-ce que la rectitude&nbsp;? C’est vivre chaque instant dans la présence à Allah, comme si nous faisions déjà face à Lui au moment de la résurrection. Certes, Lui est toujours présent, mais nous ne sommes pas présents à Lui, car nous sommes obscurcis et ignorants, *zhalum jalul*. L’*istiqama*, c’est prendre la voie droite, le plus court chemin pour être présent à Allah, c’est mettre en œuvre l’*ihsan*, qui consiste à adorer Allah «&nbsp;comme si tu Le voyais, car si tu le ne Le vois pas, Lui te voit.&nbsp;»
 
-Chers Frères, chères sœurs, notre bien aimé Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) a dit&nbsp;: «&nbsp;comment puis-je me réjouir alors que l’ange de la Trompette l’a déjà embouchée et a déjà entendu l’autorisation d’y sonner&nbsp;? Quand donc va-t-il recevoir l’ordre d’y souffler&nbsp;?&nbsp;» (rapporté par Tirmidhî). Le Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) nous demande la vigilance en ces temps de la fin, et nous avertit de nombreux troubles. Nous voyons hélas les signes de ces troubles se multiplier autour de nous. Nous ne savons pas si nous vivrons le temps de l’heure dernière, mais nous savons que, tous et toutes, nous vivrons la dernière heure de notre vie. Attendons la résurrection dans la gratitude envers Allah. Et profitons donc de ce temps qui nous reste pour continuer nos œuvres d’adoration, rechercher ensemble la rectitude, et multiplier les invocations, car, selon le *hadîth* rapporté d’après Anas, «&nbsp;L’heure ne se dressera pas tant que quelqu’un dira sincèrement Allah Allah&nbsp;».
+Chers Frères, chères sœurs, notre bien aimé Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) a dit&nbsp;:
+
+> comment puis-je me réjouir alors que l’ange de la Trompette l’a déjà embouchée et a déjà entendu l’autorisation d’y sonner&nbsp;? Quand donc va-t-il recevoir l’ordre d’y souffler&nbsp;?
+
+Le Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) nous demande la vigilance en ces temps de la fin, et nous avertit de nombreux troubles. Nous voyons hélas les signes de ces troubles se multiplier autour de nous. Nous ne savons pas si nous vivrons le temps de l’heure dernière, mais nous savons que, tous et toutes, nous vivrons la dernière heure de notre vie. Attendons la résurrection dans la gratitude envers Allah. Et profitons donc de ce temps qui nous reste pour continuer nos œuvres d’adoration, rechercher ensemble la rectitude, et multiplier les invocations, car, selon le *hadîth* rapporté d’après Anas, «&nbsp;L’heure ne se dressera pas tant que quelqu’un dira sincèrement Allah Allah&nbsp;».
 
 [^1]: Coran 79&nbsp;: 6-7.
 
 [^2]: Coran 7&nbsp;: 187.
 
 [^3]: Coran 22&nbsp;: 1.
+
+[^4]: Tirmidhî.
