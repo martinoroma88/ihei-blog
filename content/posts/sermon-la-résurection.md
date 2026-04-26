@@ -45,7 +45,9 @@ Chers Frères, chères sœurs, notre bien aimé Prophète (*çallâ-Llâhu ‘al
 
 > comment puis-je me réjouir alors que l’ange de la Trompette l’a déjà embouchée et a déjà entendu l’autorisation d’y sonner&nbsp;? Quand donc va-t-il recevoir l’ordre d’y souffler&nbsp;?[^4]
 
-Le Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) nous demande la vigilance en ces temps de la fin, et nous avertit de nombreux troubles. Nous voyons hélas les signes de ces troubles se multiplier autour de nous. Nous ne savons pas si nous vivrons le temps de l’heure dernière, mais nous savons que, tous et toutes, nous vivrons la dernière heure de notre vie. Attendons la résurrection dans la gratitude envers Allah. Et profitons donc de ce temps qui nous reste pour continuer nos œuvres d’adoration, rechercher ensemble la rectitude, et multiplier les invocations, car, selon le *hadîth* rapporté d’après Anas, «&nbsp;L’heure ne se dressera pas tant que quelqu’un dira sincèrement Allah Allah&nbsp;».
+Le Prophète (*çallâ-Llâhu ‘alayhi wa sallam*) nous demande la vigilance en ces temps de la fin, et nous avertit de nombreux troubles. Nous voyons hélas les signes de ces troubles se multiplier autour de nous. Nous ne savons pas si nous vivrons le temps de l’heure dernière, mais nous savons que, tous et toutes, nous vivrons la dernière heure de notre vie. Attendons la résurrection dans la gratitude envers Allah. Et profitons donc de ce temps qui nous reste pour continuer nos œuvres d’adoration, rechercher ensemble la rectitude, et multiplier les invocations, car, selon le *hadîth* rapporté d’après Anas,
+
+> L’heure ne se dressera pas tant que quelqu’un dira sincèrement Allah, Allah.
 
 [^1]: Coran 79&nbsp;: 6-7.
 
