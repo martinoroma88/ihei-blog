@@ -75,11 +75,11 @@ Jundub ibn ‘Abd Allâh a dit&nbsp;:
 
 > Nous étions en compagnie du Prophète et nous étions jeunes et forts&nbsp;; nous avons découvert la foi avant d’apprendre le Coran. Puis nous avons appris le Coran et notre foi s’est accrue.
 
-Cet enseignement est d’une acuité particulière pour notre époque, où l’on tend à subordonner l’adhésion à la compréhension conceptuelle préalable. La jeunesse spirituelle est précisément cette capacité d’accueillir avant de comprendre —&nbsp;mode d’être qui n’est pas l’ignorance mais la plénitude de la *fitrah*&nbsp;: la nature surnaturelle inscrite par Dieu en l’homme avant toute acquisition.
+Cet enseignement est d’une acuité particulière pour notre époque, où l’on tend à subordonner l’adhésion à la compréhension conceptuelle préalable. La jeunesse spirituelle est précisément cette capacité d’accueillir avant de comprendre —&nbsp;mode d’être qui n’est pas l’ignorance mais la plénitude de la *fitrah*&nbsp;: la nature primordiale inscrite par Dieu en l’homme avant toute acquisition.
 
 ## Le Roi Vivant
 
-La tradition rapporte que le plus jeune être humain à voir le visage du Prophète Muhammad alors qu’il était encore en vie fut Qutham ibn ‘Abbâs, maintenant enseveli à Samarcande dans le sanctuaire de Shâh-i-Zind —&nbsp; «&nbsp;Le Roi Vivant&nbsp;».
+La tradition rapporte que le plus jeune être humain à voir le visage du Prophète Muhammad alors qu’il était encore en vie fut Qutham ibn ‘Abbâs, maintenant enseveli à Samarcande dans le sanctuaire de Shâh-i-Zind —&nbsp; «&nbsp;Le Roi Vivant&nbsp;».[^15]
 
 Il fut l’un de ceux qui diffusèrent les premiers l’Islam en Asie centrale, portant vers l’Orient la lumière prophétique dont il avait été l’un des derniers témoins directs. Sa tombe, élevée par Amîr Tîmur au XIV<sup>e</sup> siècle comme *barzakh* de bénédiction pour le naissant empire timouride, est aujourd’hui visitée chaque jour par des milliers de pèlerins et de touristes du monde entier, attirés par une beauté que les mots peinent à saisir —&nbsp;ces mauzolées suspendus entre ciel et terre, élevés dans la lumière d’azur et d’or de la céramique samarcandaise.
 
@@ -105,3 +105,5 @@ Que Dieu nous accorde de retrouver en nous-mêmes cette qualité primordiale de 
 [^12]: Abû Dawûd. Il est singulier que précisément avec ces deux catégories —&nbsp;jeunes et anciens&nbsp;— la modernité semble avoir perdu la clé d’un rapport sain, comme si la vraie gentillesse et l’authentique respect ne pouvaient plus être reconnus sans le prisme d’un rapport de forces ou d’une utilité sociale.
 [^13]: Cette formule de l’Imâm ‘Alî correspond, dans l’ordre éducatif, aux trois dimensions que le *hadîth* de Jibrîl déploie dans l’ordre spirituel&nbsp;: *islâm* (soumission et jeu primordial), *îmân* (formation et intériorisation), *ihsân* (compagnonnage dans la Présence divine) —&nnsp;après quoi le maître laisse faire, car la volonté du disciple est désormais alignée sur la Volonté divine.
 [^14]: Hadîth al-khams, transmis par al-Hâkim et al-Bayhaquî. Il exprime la structure temporelle de l’existence comme une succession d’états (*ahwâl*) qu’il convient d’habiter pleinement, sans anticipation ni regret.
+
+[^15]: Le sanctuaire de Shâh-i-Zind (« Le Roi Vivant ») à Samarcande renvoie au verset : « Ne dis pas de ceux qui sont tués dans le chemin de Dieu qu’ils sont morts ; ils sont vivants, mais vous ne le percevez pas » (2 : 154). La permanence de Qutham ibn ‘Abbâs dans la mémoire des siècles est un signe (âyah) de la pérennité de la lumière prophétique dans la création.
