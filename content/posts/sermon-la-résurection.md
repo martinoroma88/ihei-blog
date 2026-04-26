@@ -14,11 +14,7 @@ Allah —&nbsp;*‘azza wa jalla*&nbsp;— dit dans son Saint Coran&nbsp;:
 
 Ô croyants,
 
-*Al-hamdu li-Llah*. Louange à Allah qui nous a créés pour que nous L’adorions à chaque instant de notre vie, par le souvenir de Son Nom et par les invocations de Sa Miséricorde.
-
-*Al-hamdu li-Llah*. Louange à Allah qui nous a réunis aujourd’hui, jour de *jumu’a*, pour la prière en commun.
-
-*Al-hamdu-li-Llah*. Louange à Allah qui rassemblera bientôt Ses pèlerins, comme chaque année, pour le *hajj*, la visite au *bayt al-harâm*, à la Maison sacrée, et à ses alentours.
+*Al-hamdu li-Llah*. Louange à Allah qui nous a créés pour que nous L’adorions à chaque instant de notre vie, par le souvenir de Son Nom et par les invocations de Sa Miséricorde.<br/>*Al-hamdu li-Llah*. Louange à Allah qui nous a réunis aujourd’hui, jour de *jumu’a*, pour la prière en commun.<br/>*Al-hamdu-li-Llah*. Louange à Allah qui rassemblera bientôt Ses pèlerins, comme chaque année, pour le *hajj*, la visite au *bayt al-harâm*, à la Maison sacrée, et à ses alentours.
 
 Cette adoration de chaque instant dans le souvenir et l’invocation, cette adoration dans les moments rituels, ce voyage sur les lieux saints de l’islam, sont une préparation à la grande rencontre que nous aurons avec notre Seigneur. Car notre vie à tous, de notre berceau à notre tombe, prend son sens quand nous nous redresserons d’entre les morts, lors d’une nouvelle création, au jour de la résurrection, *yawm al-qiyâma*, et du grand rassemblement de toute l’humanité, *yawm al-hashr*, où nous ferons face à notre Seigneur.
 
