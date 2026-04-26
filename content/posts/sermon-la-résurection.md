@@ -6,7 +6,9 @@ auteur: Abd al-Haqq Ismïl Guiderdoni
 category: Islam en pratique
 enableDropCap: false
 ---
-Khutba Masjid Al-Wahid
+## Sermon donné à la Mosquée al-Wahid, Milan
+
+
 Allah —&nbsp;*‘azza wa jalla*&nbsp;— dit dans son Saint Coran&nbsp;:
 
 > Certes, Je jure par le jour de la résurrection, et certes, Je jure par l’âme qui ne cesse de se blâmer. L’homme estime-t-il que Nous ne réunirons pas ses os&nbsp;? Au contraire, Nous sommes capables de replacer les extrémités de ses doigts. Mais l’homme veut continuer à être pécheur. Il demande&nbsp;: quand aura lieu le jour de la résurrection&nbsp;?Sourate 75, versets 1 à 6
