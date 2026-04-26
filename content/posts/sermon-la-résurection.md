@@ -10,7 +10,7 @@ enableDropCap: false
 
 Allah —&nbsp;*‘azza wa jalla*&nbsp;— dit dans son Saint Coran&nbsp;:
 
-> Certes, Je jure par le jour de la résurrection, et certes, Je jure par l’âme qui ne cesse de se blâmer. L’homme estime-t-il que Nous ne réunirons pas ses os&nbsp;? Au contraire, Nous sommes capables de replacer les extrémités de ses doigts. Mais l’homme veut continuer à être pécheur. Il demande&nbsp;: quand aura lieu le jour de la résurrection&nbsp;?Coran, sourate  75, versets 1 à 6.
+> Certes, Je jure par le jour de la résurrection, et certes, Je jure par l’âme qui ne cesse de se blâmer. L’homme estime-t-il que Nous ne réunirons pas ses os&nbsp;? Au contraire, Nous sommes capables de replacer les extrémités de ses doigts. Mais l’homme veut continuer à être pécheur. Il demande&nbsp;: quand aura lieu le jour de la résurrection&nbsp;? Coran, sourate  75, versets 1 à 6.
 
 Ô croyants,
 
