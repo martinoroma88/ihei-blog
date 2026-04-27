@@ -10,7 +10,7 @@ enableDropCap: false
 
 ### L’origine de toute chose dans l’Amour divin
 
-Avant même que le monde existât, avant que la création ne fût appelée à l’être depuis le néant, il y avait l’Amour. Non pas un amour qui attendrait un objet pour s’éveiller —&nbsp;mais l’Amour absolu, éternel, antérieur à toute relation, constitutif de l’Essence divine elle-même. C’est ce que le *hadîth qudsî*, l’un des plus vertigineux de toute la tradition prophétique, laisse entrevoir dans sa sobriété même&nbsp;:
+Avant même que le monde existât, avant que la création ne fût appelée à l’être depuis le néant, il y avait l’Amour. Non pas un amour qui attendrait un objet pour s’éveiller —&nbsp;mais l’Amour absolu, éternel, antérieur à toute relation, constitutif de l’Essence divine elle-même. C’est ce que le *hadîth qudsî*, l’un des plus important de toute la tradition prophétique, laisse entrevoir dans sa sobriété même&nbsp;:
 
 > J’étais un Trésor caché. Je n’étais pas connu. J’aimai à être connu. Je créai donc les créatures. Je Me fis connaître à elles, et elles Me connurent.
 
