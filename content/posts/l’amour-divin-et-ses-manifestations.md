@@ -3,6 +3,7 @@ titre: L’Amour divin et Ses manifestations
 vedette: false
 date: 1995-01-07T19:58:53.516Z
 auteur: IHEI
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1777402541/IMG_2066_nxns8s.heic
 category: Soufisme et Spiritualités
 enableDropCap: false
 ---
@@ -10,11 +11,11 @@ enableDropCap: false
 
 ### L’origine de toute chose dans l’Amour divin
 
-Avant même que le monde existât, avant que la Création ne fût appelée à l’être depuis le néant, il y avait l’Amour. Non pas un amour qui attendrait un objet pour s’éveiller —&nbsp;mais l’Amour absolu, éternel, antérieur à toute relation, constitutif de l’Essence divine elle-même. C’est ce que le *hadîth qudsî*, l’un des plus important de toute la tradition prophétique, laisse entrevoir dans sa sobriété même&nbsp;:
+Avant même que le monde existât, avant que la Création ne fût appelée à l’être depuis le néant, il y avait l’Amour. Non pas un amour qui attendrait un objet pour s’éveiller —&nbsp;mais l’Amour absolu, éternel, antérieur à toute relation, constitutif de l’Essence divine elle-même. C’est ce que le *hadîth qudsî*, l’un des plus important de toute la tradition prophétique, laisse entrevoir&nbsp;:
 
 > J’étais un Trésor caché. Je n’étais pas connu. J’aimai à être connu. Je créai donc les créatures. Je Me fis connaître à elles, et elles Me connurent.
 
-Ce *hadîth* est, pour les maîtres du *taçawwuf*, la clé de voûte de toute cosmologie spirituelle&nbsp;: la Création n’est pas le fruit d’un besoin, ni d’une nécessité extérieure —&nbsp;elle est l’expression d’un amour qui cherchait à se répandre, d’une générosité qui ne pouvait rester enfermée en elle-même. Ibn ‘Arabî (*rady-Llâhu ‘anhu*) commente longuement ce *hadîth* dans les *Fuçûç al-Hikam*&nbsp;: la Création est un «&nbsp;soupir de Miséricordieux&nbsp;» (*nafas ar-Rahmân*) par lequel le Réel Se déploie dans les formes pour Se connaître à travers elles. L’univers tout entier est ainsi la manifestation de l’Amour divin qui Se cherche un miroir —&nbsp;et l’homme, *khalîfat Allâh fî-l-ard*, est ce miroir par excellence, celui qui rassemble en lui tous les Noms divins et peut donc refléter la totalité de ce que Dieu a voulu Se révéler de Lui-même.
+Ce *hadîth* est, pour les maîtres du *taçawwuf*, la clé de voûte de toute cosmologie spirituelle&nbsp;: la Création n’est pas le fruit d’un besoin, ni d’une nécessité extérieure —&nbsp;elle est l’expression d’un Amour qui cherchait à se répandre, d’une générosité qui ne pouvait rester enfermée en elle-même. Ibn ‘Arabî (*rady-Llâhu ‘anhu*) commente longuement ce *hadîth* dans les *Fuçûç al-Hikam*&nbsp;: la Création est un «&nbsp;soupir de Miséricordieux&nbsp;» (*nafas ar-Rahmân*) par lequel le Réel Se déploie dans les formes pour Se connaître à travers elles. L’univers tout entier est ainsi la manifestation de l’Amour divin qui Se cherche un miroir —&nbsp;et l’homme, *khalîfat Allâh fî-l-ard*, est ce miroir par excellence, celui qui rassemble en lui tous les Noms divins et peut donc refléter la totalité de ce que Dieu a voulu Se révéler de Lui-même.
 
 ### Les Noms de l’Amour&nbsp;: *ar-Rahmân*, *ar-Rahîm*, *al-Wadûd*
 
