@@ -3,7 +3,7 @@ titre: L’Amour divin et Ses manifestations
 vedette: false
 date: 1995-01-07T19:58:53.516Z
 auteur: IHEI
-couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1777402541/IMG_2066_nxns8s.heic
+couverture: https://res.cloudinary.com/genesi-communication-design/image/upload/v1777615649/IMG_2066_jkpsiq.jpg
 category: Soufisme et Spiritualités
 enableDropCap: false
 ---
