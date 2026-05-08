@@ -19,7 +19,7 @@ Ce moment historique de crise a suscité, comme l’écrit le pape François,
 
 > la conscience que nous constitutions une communauté mondiale qui navigue dans le même bateau, où le mal de l’un porte préjudice à tout le monde. Nous nous sommes rappelés que personne ne se sauve tout seul, qu’il n’est possible de se sauver qu’ensemble (Encyclique Fratelli Tutti, 32).
 
-Le Prophète Muhammad (grâce et paix de Dieu sur lui) a lui aussi évoqué cette dimension de la fraternité humaine qui nous réunit tous «&nbsp;dans le même bateau&nbsp;», ce bateau de l’humanité voguant sur le courant de l’existence sous la direction sage de Dieu l’Omniscient&nbsp;:
+Le Prophète Muhammad&nbsp;**ﷺ** (*çallâ-llâhu ‘alayhi wa sallam*, la Prière et la Bénédiction de Dieu soient sur lui) a lui aussi évoqué cette dimension de la fraternité humaine qui nous réunit tous «&nbsp;dans le même bateau&nbsp;», ce bateau de l’humanité voguant sur le courant de l’existence sous la direction sage de Dieu l’Omniscient&nbsp;:
 
 > Ceux qui respectent les commandements divins et ceux qui les transgressent sont semblables à un groupe de personnes montées sur un même bateau, les uns dans la cale et les autres sur le pont. Un jour, ceux qui sont dans la cale décident de ne plus passer par le pont pour aller prendre de l’eau, et de percer la coque du navire pour en recueillir directement. Lorsque les gens séjournant sur le pont les voient agir ainsi, ils ont deux possibilités&nbsp;: soit ils les laissent faire et alors tous périront noyés, soit ils les empêchent et alors tous seront sains et saufs.
 
