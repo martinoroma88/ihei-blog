@@ -10,7 +10,7 @@ Gap, le 29 octobre 2020,
 
 Les membres de l’Institut des Hautes Études Islamiques assurent de leurs prières et de leur soutien les victimes de l’attentat terroriste qui a frappé la basilique Notre-Dame de Nice, ainsi que leur famille et l’ensemble de la communauté chrétienne.
 
-Ce crime abominable commis à l’encontre d’hommes et de femmes venus se recueillir en un lieu de prière, à quelques jours de la fête de la Toussaint et le jour même de la célébration du Mawlid al-Nabi qui commémore la naissance du Prophète Muhammad pour les musulmans, est une profanation et une violation de ce qu’il y a de plus sacré aux yeux des croyants véritables.
+Ce crime abominable commis à l’encontre d’hommes et de femmes venus se recueillir en un lieu de prière, à quelques jours de la fête de la Toussaint et le jour même de la célébration du Mawlid al-Nabi qui commémore la naissance du Prophète Muhammad&nbsp;**ﷺ** (*çallâ-llâhu ‘alayhi wa sallam*, la Prière et la Bénédiction de Dieu soient sur lui) pour les musulmans, est une profanation et une violation de ce qu’il y a de plus sacré aux yeux des croyants véritables.
 
 Il s’agit là d’une tentative proprement diabolique de diviser la Nation, d’attiser la haine, et de monter les chrétiens et les musulmans les uns contre les autres.
 
