@@ -49,7 +49,7 @@ Pour autant, s’ils retrouvaient le courage et la volonté d’abandonner l’a
 
 Néanmoins, la lecture des œuvres de Ghazali pourrait s’avérer vaine pour celui qui voudrait retrouver le sens de son séjour sur terre et redresser le cours de son existence, si elle ne s’accompagne pas de la mise en pratique de l’exemple donné par l’imam Ghazali&nbsp;; celui d’une tension métaphysique dynamique vécue qui pousse à chercher continuellement la certitude dans la connaissance. En tant qu’imam «&nbsp;restaurateur&nbsp;» (*mujaddid*), Ghazali eut et aura toujours, à son époque comme aujourd’hui, la fonction de rénover, ou mieux de «&nbsp;revivifier&nbsp;», chez les étudiants sincères, la transmission du dépôt traditionnel (*al-amâna*) confié par Dieu à chaque créature. Aujourd’hui, comme il en a toujours été, il ne s’agit pas d’une question philosophique, rationnelle, et encore moins dogmatique. L’important est de préserver et de mettre en acte ce dépôt sacré existentiel, dont la foi et l’intelligence font partie, et qui fait de l’homme le représentant de Dieu sur terre, pourvu qu’il ne déroge pas au «&nbsp;*mîthâq&nbsp;»*, le «&nbsp;Pacte primordial&nbsp;» qui le lie indéfectiblement à son Seigneur.
 
-[^1]:  Selon un hadith, c’est-à-dire une tradition rapportant les paroles et les actes du Prophète, transmis par son Compagnon ‘Umar ibn al-Khattâb, et rapporté dans le recueil *Sahîh* de Muslim. 
+[^1]:  Selon un hadith, c’est-à-dire une tradition rapportant les paroles et les actes du Prophète&nbsp;**ﷺ** (*çallâ-llâhu ‘alayhi wa sallam*, la Prière et la Bénédiction de Dieu soient sur lui), transmis par son Compagnon ‘Umar ibn al-Khattâb, et rapporté dans le recueil *Sahîh* de Muslim. 
 [^2]:  Coran 3&nbsp;: 7.
 [^3]:  Coran 4&nbsp;: 162.
 [^4]:  Coran 58&nbsp;: 11.
