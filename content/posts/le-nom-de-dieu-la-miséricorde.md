@@ -11,7 +11,7 @@ Allah nous enseigne dans Sa révélation le lien entre le Ramadan et le Coran&nb
 
 > Le mois de Ramadan est celui durant lequel fut descendu le Coran comme guidance pour les hommes, et comme signes évidents de la guidance et du discernement.
 
-Le Prophète (), d’autre part, nous a dévoilé, à travers plusieurs hadiths, la qualité unique et particulière du mois de Ramadan. Parmi ses enseignements, il dit notamment&nbsp;:
+Le Prophète&nbsp;**ﷺ** (*çallâ-llâhu ‘alayhi wa sallam*, la Prière et la Bénédiction de Dieu soient sur lui), d’autre part, nous a dévoilé, à travers plusieurs hadiths, la qualité unique et particulière du mois de Ramadan. Parmi ses enseignements, il dit notamment&nbsp;:
 
 > Son début est miséricorde, son milieu pardon, et sa fin affranchissement du feu.
 
@@ -31,7 +31,7 @@ Les maîtres spirituels de l’islam enseignent que la nature profonde et réell
 
 Comment faire&nbsp;? Commencer par purifier son intention avant tout. «&nbsp;En vérité, les actes ne dépendent que des intentions, et chacun aura selon son intention.&nbsp;» (hadith) Cette intention s’exprime verbalement par la formule sacrée *bismillahi al-rahman al-rahim* que nous prononçons avant de jeûner, au début du mois, et que nous renouvelons chaque nuit de Ramadan. Cette formule indique la disposition intérieure que le musulman devrait adopter au moment de jeûner, de prier, d’agir, de vivre, et ce non pas en son nom propre, mais «&nbsp;au nom et par le nom d’Allah&nbsp;», dans le rappel de Son Nom et dans la recherche de Sa miséricorde en ce monde et dans l’Autre monde. *bismillah al-rahman al-rahim.*
 
-C’est également avec cette disposition intérieure qu’il faut lire le Coran, dont chaque sourate, excepté une, commence justement par *bismillah al-rahman al-rahim*. Le premier verset révélé n’est-il pas&nbsp;: «&nbsp;Lis au Nom de ton Seigneur qui a créé&nbsp;!&nbsp;» Telle est la méthode&nbsp;: lire au nom de notre Seigneur, mieux encore&nbsp;: lire au nom de notre Seigneur, avec le Prophète Muhammad, suivant la lecture miraculeuse du *nabiyy ummiyy*, le Prophète illettré qu’Allah a rendu capable de lire, de réciter, de transmettre avec transparence Sa parole au point qu’elle devienne sa propre nature. Pour pouvoir bénéficier du miracle de la révélation du Coran, pour recevoir la science d’Allah, nous devons suivre l’exemple du Prophète, en commençant donc par reconnaître que nous sommes ignorants, que nous ne savons pas lire. «&nbsp;Je ne suis pas de ceux qui lisent&nbsp;», dit le Prophète à l’ange de la révélation. Alors Allah dans Sa générosité infinie nous guidera et nous enseignera ce que nous ne savons pas.
+C’est également avec cette disposition intérieure qu’il faut lire le Coran, dont chaque sourate, excepté une, commence justement par *bismillah al-rahman al-rahim*. Le premier verset révélé n’est-il pas&nbsp;: «&nbsp;Lis au Nom de ton Seigneur qui a créé&nbsp;!&nbsp;» Telle est la méthode&nbsp;: lire au nom de notre Seigneur, mieux encore&nbsp;: lire au nom de notre Seigneur, avec le Prophète Muhammad&nbsp;**ﷺ**, suivant la lecture miraculeuse du *nabiyy ummiyy*, le Prophète illettré&nbsp;**ﷺ** qu’Allah a rendu capable de lire, de réciter, de transmettre avec transparence Sa parole au point qu’elle devienne sa propre nature. Pour pouvoir bénéficier du miracle de la révélation du Coran, pour recevoir la science d’Allah, nous devons suivre l’exemple du Prophète&nbsp;**ﷺ**, en commençant donc par reconnaître que nous sommes ignorants, que nous ne savons pas lire. «&nbsp;Je ne suis pas de ceux qui lisent&nbsp;», dit le Prophète&nbsp;**ﷺ** à l’ange de la révélation. Alors Allah dans Sa générosité infinie nous guidera et nous enseignera ce que nous ne savons pas.
 
 > Lis et ton Seigneur est le plus Généreux. Il a enseigné par le Calame. Il a appris à l’Homme ce que celui-ci ne savait pas.
 
@@ -41,11 +41,11 @@ Le mois du Ramadan nous rétablit dans la conscience et la reconnaissance de ce 
 
 «&nbsp;Le Tout-Miséricordieux, Il a enseigné le Coran, Il a créé l’être humain, Il lui a appris à s’exprimer clairement.&nbsp;» Le Coran est la manifestation de la Science et de la Miséricorde d’Allah. Il est le dévoilement de la Science du Tout-Miséricordieux. La création de l’être humain est aussi un effet direct de la Miséricorde du Tout-Miséricordieux. Le Coran, la connaissance, l’intelligence, la parole, toutes les dimensions de la nature humaine sont les reflets de la Miséricorde d’Allah.
 
-C’est Allah qui enseigne le Coran par Sa miséricorde, ce n’est pas l’homme qui l’apprend de ses propres forces. Comme disait le Prophète, c’est la Miséricorde d’Allah qui nous sauve, ce ne sont pas nos propres actions. Cependant, l’homme doit agir pour se mettre dans les conditions de recevoir cette miséricorde. L’effort qui lui revient est de s’y préparer activement.
+C’est Allah qui enseigne le Coran par Sa miséricorde, ce n’est pas l’homme qui l’apprend de ses propres forces. Comme disait le Prophète&nbsp;**ﷺ**, c’est la Miséricorde d’Allah qui nous sauve, ce ne sont pas nos propres actions. Cependant, l’homme doit agir pour se mettre dans les conditions de recevoir cette miséricorde. L’effort qui lui revient est de s’y préparer activement.
 
 > La miséricorde d’Allah est proche des bienfaisants.
 
-Ce verset comporte plusieurs implications fondamentales. Premièrement, la miséricorde évoquée ici est une miséricorde spéciale, réservée aux bienfaisants. Deuxièmement, la bienfaisance et la bonté pratiquées par les *muhsinun* les disposent à la miséricorde d’Allah&nbsp;: la miséricorde est proche d’eux parce que leurs vertus participent elles-mêmes de la qualité de la miséricorde. Troisièmement, les *muhsinun* sont ceux qui pratiquent *al-ihsan*, qui consiste, selon l’enseignement du Prophète, «&nbsp;à adorer Allah comme si tu Le voyais, car si tu ne Le vois pas, Lui te voit&nbsp;». La miséricorde est proche de ceux-là parce qu’ils la voient et la reconnaissent. En réalité, la miséricorde n’a jamais été loin ou absente, elle est sans cesse présente, seulement c’est nous qui ne réussissons pas à la voir parce que nos cœurs manquent de miséricorde.
+Ce verset comporte plusieurs implications fondamentales. Premièrement, la miséricorde évoquée ici est une miséricorde spéciale, réservée aux bienfaisants. Deuxièmement, la bienfaisance et la bonté pratiquées par les *muhsinun* les disposent à la miséricorde d’Allah&nbsp;: la miséricorde est proche d’eux parce que leurs vertus participent elles-mêmes de la qualité de la miséricorde. Troisièmement, les *muhsinun* sont ceux qui pratiquent *al-ihsan*, qui consiste, selon l’enseignement du Prophète&nbsp;**ﷺ**, «&nbsp;à adorer Allah comme si tu Le voyais, car si tu ne Le vois pas, Lui te voit&nbsp;». La miséricorde est proche de ceux-là parce qu’ils la voient et la reconnaissent. En réalité, la miséricorde n’a jamais été loin ou absente, elle est sans cesse présente, seulement c’est nous qui ne réussissons pas à la voir parce que nos cœurs manquent de miséricorde.
 
 > Ceux qui font preuve de miséricorde, le Tout-Miséricordieux leur fait miséricorde.(hadith)
 
@@ -57,7 +57,7 @@ La Miséricorde d’Allah n’est pas seulement dans le monde invisible mais ell
 
 Dans Sa Miséricorde, le Tout-Miséricordieux a établi, pour Sa création et entre Ses créatures, un ordre supérieur, un équilibre parfait, une justice infaillible, une sagesse insondable.
 
-Le Prophète enseigne&nbsp;:
+Le Prophète&nbsp;**ﷺ** enseigne&nbsp;:
 
 > Allah a partagé la miséricorde en cent parts. Il a gardé 99 parts auprès de Lui et en a fait descendre une sur terre. C’est en vertu de cette part de miséricorde que les créatures se témoignent entre elles compassion et affection, au point que la jument lève son sabot de peur d’écraser son poulain.
 
@@ -75,6 +75,6 @@ C’est ainsi que le musulman et la musulmane apprennent et progressent peu à p
 
 En ces temps de grande confusion et d’instrumentalisation de la religion et de l’islam, il est plus que jamais nécessaire que les croyants recommencent ensemble à méditer sur les Signes d’Allah, et à prier pour retrouver le lien avec la corde d’Allah et un encadrement vraiment miséricordieux qui les préserve de la colère d’Allah, et qui leur permette d’interpréter avec honnêteté, dignité et humilité, la fonction des héritiers des Prophètes et de nobles opérateurs de Paix.
 
-Et en cela comme en toute chose, notre premier modèle est et reste le Prophète Muhammad, *rahmah muhdâh*, «&nbsp;miséricorde offerte&nbsp;» aux hommes, et plus encore, «&nbsp;miséricorde pour les mondes&nbsp;»&nbsp;:
+Et en cela comme en toute chose, notre premier modèle est et reste le Prophète Muhammad&nbsp;**ﷺ**, *rahmah muhdâh*, «&nbsp;miséricorde offerte&nbsp;» aux hommes, et plus encore, «&nbsp;miséricorde pour les mondes&nbsp;»&nbsp;:
 
 > Nous ne t’avons envoyé que comme une miséricorde pour les mondes.
