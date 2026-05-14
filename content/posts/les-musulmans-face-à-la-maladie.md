@@ -39,11 +39,11 @@ La maladie est alors considérée comme une possibilité particulière de connai
 
 Tout au long de la vie, Dieu éduque Son serviteur et le purifie au rythme des évènements diverses et variés, pour éprouver sa sincérité et faire entrer celui-ci dans un état de proximité qu’Il a décrété de toute éternité.
 
-> Rien n’est plus profitable au cœur que l’isolement&nbsp;; par lui, il entre dans l’arène de la méditation.[^9](*Ibidem*.)
+> Rien n’est plus profitable au cœur que l’isolement&nbsp;; par lui, il entre dans l’arène de la méditation.[^9]
 
 En effet, dans l’état de faiblesse, il s’opère un véritable dépouillement de l’égo que le croyant doit s’efforcer de maintenir par la suite dans sa vie de tous les jours —&nbsp;même s’il n’est plus malade&nbsp;— en revêtant l’habit par excellence, la crainte révérencielle de Dieu, *at-taqwâ*, comme il est rappelé dans le Coran. Il ne s’agit pas là d’un fatalisme ou d’une acceptation passive de son destin mais de reconnaître dans celui-ci le Vouloir divin, les bienfaits de Dieu, même si ceux-ci n’apparaissent pas immédiatement ou ne correspondent pas à l’attente que l’on s’en était faite.
 
-> Le meilleur de tes instants est celui où tu es conscient de ton besoin (de Dieu) et tu es ramené à la réalité de ton humble condition.[^10](*Ibidem*.)
+> Le meilleur de tes instants est celui où tu es conscient de ton besoin (de Dieu) et tu es ramené à la réalité de ton humble condition.[^10]
 
 Nul ne sait où, quand et comment il mourra, ni même comment il vivra, et le croyant doit être conscient, nous dirions même certain, serein que la réalité qui est en lui et qui l’entoure n’est pas conditionnée par sa capacité à comprendre les choses. Dans ce moment délicat et fragile qu’est la maladie, l’homme ou la femme apprend à connaître son âme et il est dit que celui qui connaît son âme connaît son Seigneur.
 
@@ -51,13 +51,13 @@ Nul ne sait où, quand et comment il mourra, ni même comment il vivra, et le cr
 
 Le remède évoqué dans la première tradition prophétique est à la fois corporel et spirituel, les deux étant indissociables car si le corps ou l’âme est malade et peut, dans certains cas, rester dans cet état indéfiniment, l’esprit quant à lui doit rester confiant dans le décret divin.
 
-> Celui qui s’efforce de supporter patiemment (le malheur), Dieu le dotera de patience. Nul ne reçoit plus ample bonheur que la patience.[^11](*Ibidem*.)
+> Celui qui s’efforce de supporter patiemment (le malheur), Dieu le dotera de patience. Nul ne reçoit plus ample bonheur que la patience.[^11]
 
 La religion est, elle-m&ecirc;me, souvent considérée comme un remède aux différents maux qui touchent le croyant, et notamment l’homme de cette fin des temps, dont le plus grand mal n’est autre que l’oubli de Dieu. En arabe, le terme pour désigner l’être humain est *insân* et ce nom est formé sur la même racine trilitère (*nun-sîn-ya*) que le verbe oublier (*nasiyâ*), indiquant par là le caractère oublieux (*nisîyân*) de tout être humain.
 
 Selon la vision de l’islam, la santé repose sur un état d’équilibre dans lequel le cœur du croyant, véritable centre de l’être, joue un rôle fondamental. Il est, en effet, le théâtre d’un combat mené entre différentes tendances qui peuvent faire basculer l’être tout entier dans la félicité comme dans la folie, et ce combat, *jihad*, est à mener toute la vie. C’est pourquoi, les maîtres et les savants n’ont de cesse de rappeler aux croyants de s’appuyer sur la pratique des rites, la lecture du Coran, dans le souvenir de Dieu afin que l’homme se préserve contre les tendances ténébreuses de sa nature boueuse et les attaques de l’Adversaire.
 
-En soi, le modèle prophétique est à m&ecir;me d’éclairer les croyants sur la manière de polir son cœur, de pr&ecirc;ter attention à son &acirc;me ainsi qu’à son corps, lui \[le Prophète&nbsp;**ﷺ**] qui fut envoyé pour parfaire le bon comportement. Il ne s’agit pas là d’une simple morale mais d’une disposition intérieure où le croyant lave son cœur des turpitudes, de l’avarice, de la rancœur, des passions, de l’hypocrisie, de l’orgueil... gr&acirc;ce aux moyens offerts par la Tradition. Le Prophète&nbsp;**ﷺ** nous guide à le suivre dans cette purification continue du cœur, cette revivification intérieure, cette renaissance spirituelle au moyen de l’invocation de Dieu, à travers Ses plus beaux Noms. «&nbsp;N’est-ce pas au souvenir de Dieu que les cœurs s’apaisent&nbsp;?&nbsp;» rapporte le Coran et «&nbsp;Dieu est auprès de l’idée que l’homme se fait de Lui&nbsp;». 
+En soi, le modèle prophétique est à m&ecir;me d’éclairer les croyants sur la manière de polir son cœur, de pr&ecirc;ter attention à son &acirc;me ainsi qu’à son corps, lui [le Prophète&nbsp;**ﷺ**] qui fut envoyé pour parfaire le bon comportement. Il ne s’agit pas là d’une simple morale mais d’une disposition intérieure où le croyant lave son cœur des turpitudes, de l’avarice, de la rancœur, des passions, de l’hypocrisie, de l’orgueil... gr&acirc;ce aux moyens offerts par la Tradition. Le Prophète&nbsp;**ﷺ** nous guide à le suivre dans cette purification continue du cœur, cette revivification intérieure, cette renaissance spirituelle au moyen de l’invocation de Dieu, à travers Ses plus beaux Noms. «&nbsp;N’est-ce pas au souvenir de Dieu que les cœurs s’apaisent&nbsp;?&nbsp;» rapporte le Coran et «&nbsp;Dieu est auprès de l’idée que l’homme se fait de Lui&nbsp;». 
 
 Le Coran exhorte les croyants à se purifier en gardant la constance dans la prière rituelle. Il en va de même pour la demande de pardon à Dieu (*istighf&acirc;r*) aussi bien pour les fautes commises consciemment ou inconsciemment, que pour l’oubli de notre réelle nature, qui fait de l’homme avant tout un lieutenant de Dieu sur Terre voué à l’adoration et à la connaissance du Très-Haut. Aussi, même malade, le croyant doit garder une certaine sobriété, une force spirituelle, une tension métaphysique, afin de louer son Seigneur et ne pas se laisser submerger par les idées qu’il se fait de la maladie, de sa gravité ou de son issue. La Réalité ne s’arrête pas à la maladie, la difficulté, le remède ni même à la guérison&nbsp;!
 
@@ -93,7 +93,7 @@ Si la souffrance peut être vécue spirituellement comme une épreuve purificatr
 
 ### L’acharnement thérapeutique et ses limites
 
-L’islam enjoint à préserver la vie, don de Dieu par excellence, et à tout mettre en œuvre pour la sauvegarder. Mais cette obligation trouve ses limites lorsque le soin devient une atteinte à la dignité de la personne, prolongeant artificiellement une agonie sans offrir de perspective réelle de guérison ou de mieux-être. Dans ce cas, poursuivre les soins n’est plus un acte de miséricorde mais risque de devenir une forme de violence faite à la créature de Dieu. Le soignant devra donc discerner, au cas par cas et en conscience, ce qui relève du soin juste et de l’acharnement, en gardant toujours à l’esprit que la guérison appartient à Dieu Seul et que la mort, lorsqu’elle vient, n’est pas un échec mais un passage vers l’Au-delà. La Réalité ne s’arrête pas au diagnostic, au remède ni même à la guérison.
+L’islam enjoint à préserver la vie, don de Dieu par excellence, et à tout mettre en œuvre pour la sauvegarder. Mais cette obligation trouve ses limites lorsque le soin devient une atteinte à la dignité de la personne, prolongeant artificiellement une agonie sans offrir de perspective réelle de guérison ou de mieux-être. Dans ce cas, poursuivre les soins n’est plus un acte de miséricorde mais risque de devenir une forme de violence faite à la créature de Dieu. Le soignant devra donc discerner, au cas par cas et en conscience, ce qui relève du soin juste et de l’acharnement, en gardant toujours à l’esprit que la guérison appartient à Dieu Seul et que la mort, lorsqu’elle vient, n’est pas un échec mais un passage vers l’Au-delà.
 
 ### Le consentement et l’alliance thérapeutique
 
@@ -122,6 +122,10 @@ En islam, la maladie n’est jamais une affaire strictement individuelle. La fam
 [^7]: Coran 23&nbsp;: 115-116.
 
 [^8]: Ibn ‘Atâ’Llâh al-Iskandarî, in *Al-Hikam.*
+
+[^9]: *Ibidem*.
+[^10]: *Ibidem*.
+[^11]: *Ibidem*.
 
 [^12]: Coran 40&nbsp;: 60.
 
