@@ -8,7 +8,7 @@ enableDropCap: false
 ---
 ## Sermon donné à la Mosquée al-Wahid, Milan
 
-Allah —&nbsp;‘azza wa jalla&nbsp;— dit dans son Saint Coran&nbsp;:
+Allah —&nbsp;*‘azza wa jalla*&nbsp;— dit dans son Saint Coran&nbsp;:
 
 > Quand son fils eut atteint l’âge lui permettant de marcher avec lui, il dit&nbsp;: ô mon fils, en vérité je vois dans mon sommeil que je te sacrifie. Considère ce que tu vois. Son fils dit&nbsp;: ô mon père, fais ce qui t’est ordonné. Tu me trouveras, si Allah le veut, parmi les patients. Puis quand ils se furent soumis tous deux, et qu’il l’eut jeté le front contre terre, nous l’appelâmes&nbsp;: Ô Ibrahim&nbsp;! Tu as avéré la vision&nbsp;! C’est ainsi que nous récompensons ceux qui font le bien. Certes, c’était une épreuve manifeste&nbsp;!
 
