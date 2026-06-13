@@ -36,7 +36,7 @@ Dans son commentaire du Saint Coran, Abû Ja’far At-Tabarî nous explique que,
 
 Il y a donc une unité profonde de toute la famille de Sayyidunâ Ibrâhîm. Sarah donne Hâjar, sa servante, en épouse à Ibrahîm pour qu’il ait son premier fils Ismâ‘îl. Allah récompense la soumission et la patience d’Ibrâhîm et d’Ismâ‘îl en donnant à Sarah Ishâq, second fils, et père de la lignée d’où sont issus Sayyidunâ Mûsâ et Sayyiduna ‘Îsâ (*‘alayhimâ-s-salâm*). Notre prophète Muhammad&nbsp;**ﷺ** accomplit la promesse pour la filiation d’Ismâ‘îl. Il disait&nbsp;: «&nbsp;Je suis le descendant de deux personnes sacrifiées, Sayyidunâ Ismâ‘îl et son propre père AbdAllâh qui faillit être sacrifié pour que le puits tari de *Zamzam* puisse redonner son eau, et fut remplacé par cent chameaux. Sayyidunâ Muhammad&nbsp;**ﷺ** prépare, par sa servitude totale vis-à-vis d’Allah, servitude anticipée par Hâjar et Ismâ‘îl, la seconde venue de Sayyidunâ ‘Îsâ, «&nbsp;signe de l’heure&nbsp;» qui manifestera la Toute-Puissance divine. Muhammad, le Prophète serviteur,&nbsp;**ﷺ** sera élevé,&nbsp;au moment de la résurrection, à la station la plus élevée, où il sera l’intercesseur pour toute l’humanité.
 
-> *Allahumma*, aide-nous à être fidèles à ton plan sublime pour la descendance de Sayyidunâ Ibrâhîm, jusqu’au jour du Jugement. *Amîn*.
+> *Allhumma*, aide-nous à être fidèles à ton plan sublime pour la descendance de Sayyidunâ Ibrâhîm, jusqu’au jour du Jugement. *Amîn*.
 
 [^1]: Coran 9&nbsp;: 111.
 
