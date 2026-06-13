@@ -6,7 +6,7 @@ auteur: Abd al-Haqq Ismaïl Guiderdoni
 category: Islam en pratique
 enableDropCap: false
 ---
-**Khutba Masjid Al-Wahid**
+## Sermon donné à la Mosquée al-Wahid, Milan
 
 Allah —&nbsp;‘azza wa jalla&nbsp;— dit dans son Saint Coran&nbsp;:
 
