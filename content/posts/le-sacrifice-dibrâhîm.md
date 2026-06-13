@@ -1,8 +1,8 @@
 ---
-titre: Le sacrifice d'Ibrâhîm
+titre: Le sacrifice d’Ibrâhîm
 vedette: false
 date: 2026-06-12T09:07:21.626Z
-auteur: Abd a-Haqq Guiderdoni
+auteur: Abd al-Haqq Ismaïl Guiderdoni
 category: Islam en pratique
 enableDropCap: false
 ---
