@@ -14,7 +14,7 @@ Allah —&nbsp;*‘azza wa jalla*&nbsp;— dit dans son Saint Coran&nbsp;:
 
 Ô croyants,
 
-*Al-hamdu li-Llah*. Louange à Allah qui nous a créés pour que nous L’adorions à chaque instant de notre vie, par le souvenir de Son Nom et par les invocations de Sa Miséricorde.<br/> *Al-hamdu li-Llah*. Louange à Allah qui nous a réunis aujourd’hui, jour de *jumu’a*, pour la prière en commun.<br/> *Al-hamdu-li-Llah*. Louange à Allah qui rassemblera bientôt Ses pèlerins, comme chaque année, pour le *hajj*, la visite au *bayt al-harâm*, à la Maison sacrée, et à ses alentours.
+*Al-hamdu li-Llâh*. Louange à Allah qui nous a créés pour que nous L’adorions à chaque instant de notre vie, par le souvenir de Son Nom et par les invocations de Sa Miséricorde.<br/> *Al-hamdu li-Llâh*. Louange à Allah qui nous a réunis aujourd’hui, jour de *jumu’a*, pour la prière en commun.<br/> *Al-hamdu-li-Llâh*. Louange à Allah qui rassemblera bientôt Ses pèlerins, comme chaque année, pour le *hajj*, la visite au *bayt al-harâm*, à la Maison sacrée, et à ses alentours.
 
 Cette adoration de chaque instant dans le souvenir et l’invocation, cette adoration dans les moments rituels, ce voyage sur les lieux saints de l’islam, sont une préparation à la grande rencontre que nous aurons avec notre Seigneur. Car notre vie à tous, de notre berceau à notre tombe, prend son sens quand nous nous redresserons d’entre les morts, lors d’une nouvelle création, au jour de la résurrection, *yawm al-qiyâma*, et du grand rassemblement de toute l’humanité, *yawm al-hashr*, où nous ferons face à notre Seigneur.
 
@@ -22,7 +22,7 @@ Allah —&nbsp;*‘azza wa jalla*&nbsp;— nous le dit dès les premiers versets
 
 Toutes les humanités seront rassemblées et passeront en jugement. Allah pardonnera à qui Il veut et punira qui Il veut. Mais nous, les croyants, nous avons l’espérance que, conformément à Sa Promesse, Il fera miséricorde à ceux qui croient et accomplissent les bonnes actions.
 
-Ô Allah, pardonne-nous nos péchés et nos mauvaises actions, et fais-nous miséricorde, ô Toi le plus miséricordieux des Miséricordieux. *Allahumma ghfir lana dhunubana wa sayyi’atina wa-rhamna ya arham ar-rahimin. Amin.*
+Ô Allah, pardonne-nous nos péchés et nos mauvaises actions, et fais-nous miséricorde, ô Toi le plus miséricordieux des Miséricordieux. *Allâhumma ghfir lana dhunubana wa sayyi’atina wa-rhamna ya arham ar-rahimin. Amin.*
 
 Nous ne savons pas quand Allah décidera du jour de la résurrection, mais le temps est proche. 
 
@@ -36,7 +36,7 @@ Toute notre vie d’adoration est une préparation à cet événement unique. Ce
 
 Le prophète Muhammad&nbsp;**ﷺ** nous enseigne qu’il sera le premier homme ressuscité par le son de la *râdifa*, et qu’il accédera alors, selon la promesse faite par Allah, au *maqam mahmud*, la Station de louange, où Allah lui accordera le droit d’intercession pour sa communauté, puis pour toute l’humanité, lui qui a été envoyé «&nbsp;comme une miséricorde pour les mondes&nbsp;», *rahmatan lil ‘alamîn*. Et Allah ne manque pas à Sa promesse.
 
-> Allahumma âti muhammadani l-wasilata wa l-fadilata wa b’ath-hu-l-maqama-l-mahmuda-lladhi wa’adtahu. Innaka la tukhlifu-l-mi’âd. Amin.
+> All*â*humma âti muhammadani l-wasilata wa l-fadilata wa b’ath-hu-l-maqama-l-mahmuda-lladhi wa’adtahu. Innaka la tukhlifu-l-mi’âd. Amin.
 
 *Chers Frères et chères Sœurs,*
 
