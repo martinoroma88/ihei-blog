@@ -2,7 +2,7 @@
 titre: L’Amour de Dieu
 vedette: false
 date: 2014-03-06T07:19:06.830Z
-auteur: Yahya PALLAVICINI
+auteur: Imam Yahya Pallavicini
 category: Soufisme et Spiritualités
 enableDropCap: true
 ---
