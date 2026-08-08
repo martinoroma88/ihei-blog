@@ -30,7 +30,7 @@ L’attitude qui nous convient réunit alors la gratitude pour les bonnes action
 
 Mais pourquoi ne voit-on pas Dieu agir en chaque chose&nbsp;? En effet, le voile qui nous cache Dieu est illusoire&nbsp;: il n’a pas d’existence. Mais cette illusion est tenace.
 
-> Voici la preuve de sa toute-puissance&nbsp;: il se voile à toi par ce qui n’a pas d’être avec Lui.[^5]
+> Voici la preuve de sa Toute-Puissance&nbsp;: il se voile à toi par ce qui n’a pas d’être avec Lui.[^5]
 
 Ou plus exactement, Dieu est tellement présent que nous ne le voyons pas&nbsp;: 
 
