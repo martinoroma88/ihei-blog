@@ -46,11 +46,11 @@ Cet effort spirituel constant (*jahd*) doit nous conduire à voir Dieu en chaque
 
 Le chemin spirituel est ainsi marqué par une succession de périodes de «&nbsp;dilatation dans la grâce&nbsp;» (*bast*)  et de «&nbsp;contraction dans la grâce&nbsp;» (*qabd*), de consolation et de désolation, qu’il faut supporter avec la même gratitude et la même patience&nbsp;:
 
-> Parfois Il t’octroie, dans la nuit de la désolation, plus que tu ne peux acquérir dans l’illumination du jour de la consolation&nbsp;: «&nbsp;vous ne savez pas qui est plus près de vous être utile. *Cor. 4&nbsp;: 11*.[^9]
+> Parfois Il t’octroie, dans la nuit de la désolation, plus que tu ne peux acquérir dans l’illumination du jour de la consolation&nbsp;: «&nbsp;vous ne savez pas qui est plus près de vous être utile.&nbsp;» *Cor. 4&nbsp;: 11*.[^9]
 
-Il s’agit donc d’accepter avec reconnaissance le destin (*qadar*) qui est la manifestation de la providence. «&nbsp;Ce qui est vraiment étonnant, c’est que l’on veuille fuir ce à quoi on ne peut échapper, et rechercher ce qui échappera nécessairement.
+Il s’agit donc d’accepter avec reconnaissance le destin (*qadar*) qui est la manifestation de la providence.
 
-> Ce ne sont pas les yeux qui s’aveuglent, mais ce sont les cœurs dans les poitrines qui s’aveuglent.[^10]
+> Ce qui est vraiment étonnant, c’est que l’on veuille fuir ce à quoi on ne peut échapper, et rechercher ce qui échappera nécessairement. Ce ne sont pas les yeux qui s’aveuglent, mais ce sont les cœurs dans les poitrines qui s’aveuglent.&nbsp;» *Cor.* 22*&nbsp;: 46*[^10]
 
 Cette reconnaissance est à la fois gratitude, et connaissance métaphysique que rien ne peut échapper à Dieu Tout-Puissant, et que tout est déjà présent dans Sa science éternelle.
 
@@ -96,7 +96,7 @@ La vie spirituelle comprise et pratiquée par le soufisme est donc tout entière
 
 [^9]: hikma 142.
 
-[^10]: &nbsp;» (C. 22, 46) (hikma 38).
+[^10]: &nbsp;» (hikma 38).
 
 [^11]: hikma 157.
 
