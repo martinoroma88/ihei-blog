@@ -66,9 +66,7 @@ Le support de cette contemplation est la pratique d’un rite particulier au sou
 
 L’effort de l’invocateur est donc purification du cœur, lieu de la connaissance, dans l’attente active de la grâce, et il s’agit de persévérer avec patience&nbsp;:
 
-> N’abandonne pas l’invocation parce que tu n’y es pas présent à Dieu, car la négligence de l’invocation est pire qu’une négligence dans l’invocation. Il se peut que Dieu t’élève d’une invocation faite avec négligence à une autre faite avec vigilance, et de celle-ci à une invocation où tu deviens présent à Lui, et de celle-ci encore à une autre où tu deviens absent à tout ce qui n’est pas l’objet de ton invocation.
-
-Et cela pour Dieu n’est pas difficile.[^13]
+> N’abandonne pas l’invocation parce que tu n’y es pas présent à Dieu, car la négligence de l’invocation est pire qu’une négligence dans l’invocation. Il se peut que Dieu t’élève d’une invocation faite avec négligence à une autre faite avec vigilance, et de celle-ci à une invocation où tu deviens présent à Lui, et de celle-ci encore à une autre où tu deviens absent à tout ce qui n’est pas l’objet de ton invocation. «&nbsp;Et cela pour Dieu n’est pas difficile.&nbsp;»*Cor. 14&nbsp;: 20*[^13]
 
 Les grands maître du soufisme ont longuement parlé, de façon allusive, de ce moment de grâce où le voyageur sur le chemin de Dieu arrive au terme de la voie, quand le voile est levé. Le voyage tout entier est paradoxal puisque Dieu est déjà présent, et c’est nous qui ne sommes pas présents à Lui. Quant à l’arrivée, cette absence ou extinction en Dieu (*fana’*), elle est paradoxe sur paradoxe, car qui prend conscience de l’extinction si le voyageur s’éteint&nbsp;? C’est alors que Dieu supplée l’absence de Son serviteur par Sa propre remémoration de Son serviteur, selon la promesse coranique&nbsp;:
 
@@ -96,13 +94,13 @@ La vie spirituelle comprise et pratiquée par le soufisme est donc tout entière
 
 [^9]: hikma 142.
 
-[^10]: &nbsp;» (hikma 38).
+[^10]: hikma 38.
 
 [^11]: hikma 157.
 
 [^12]: Hikma 20.
 
-[^13]: (C. 14, 20) (hikma 44).
+[^13]: hikma 44.
 
 [^14]: Cor. 2&nbsp;: 152.
 
