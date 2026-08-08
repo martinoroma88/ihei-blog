@@ -50,7 +50,7 @@ Le chemin spirituel est ainsi marqué par une succession de périodes de «&nbsp
 
 Il s’agit donc d’accepter avec reconnaissance le destin (*qadar*) qui est la manifestation de la providence.
 
-> Ce qui est vraiment étonnant, c’est que l’on veuille fuir ce à quoi on ne peut échapper, et rechercher ce qui échappera nécessairement. «&nbsp;Ce ne sont pas les yeux qui s’aveuglent, mais ce sont les cœurs dans les poitrines qui s’aveuglent.&nbsp;» *Cor.* 22*&nbsp;: 46*[^10]
+> Ce qui est vraiment étonnant, c’est que l’on veuille fuir ce à quoi on ne peut échapper, et rechercher ce qui échappera nécessairement. «&nbsp;Ce ne sont pas les yeux qui s’aveuglent, mais ce sont les cœurs dans les poitrines qui s’aveuglent.&nbsp;» *Cor. 22&nbsp;: 46*[^10]
 
 Cette reconnaissance est à la fois gratitude, et connaissance métaphysique que rien ne peut échapper à Dieu Tout-Puissant, et que tout est déjà présent dans Sa science éternelle.
 
