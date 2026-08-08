@@ -70,7 +70,7 @@ L’effort de l’invocateur est donc purification du cœur, lieu de la connaiss
 
 Les grands maître du soufisme ont longuement parlé, de façon allusive, de ce moment de grâce où le voyageur sur le chemin de Dieu arrive au terme de la voie, quand le voile est levé. Le voyage tout entier est paradoxal puisque Dieu est déjà présent, et c’est nous qui ne sommes pas présents à Lui. Quant à l’arrivée, cette absence ou extinction en Dieu (*fana’*), elle est paradoxe sur paradoxe, car qui prend conscience de l’extinction si le voyageur s’éteint&nbsp;? C’est alors que Dieu supplée l’absence de Son serviteur par Sa propre remémoration de Son serviteur, selon la promesse coranique&nbsp;:
 
-souvenez-vous de Moi, je me souviendrai de vous.[^14]
+> souvenez-vous de Moi, je me souviendrai de vous.[^14]
 
 L’extinction est suivie d’une permanence (*baqa’*) dans laquelle Dieu recouvre le serviteur de Ses qualités et attributs divins, selon les termes du hadith qudsi : «&nbsp;Mon serviteur ne cesse de se rapprocher de Moi par des actes surérogatoires jusqu’à ce que Je l’aime, et quand Je l’aime, Je suis l’ouïe par laquelle il entend, la vue par laquelle il voit, la langue par laquelle il parle…&nbsp;»
 
