@@ -74,7 +74,7 @@ souvenez-vous de Moi, je me souviendrai de vous.[^14]
 
 L’extinction est suivie d’une permanence (*baqa’*) dans laquelle Dieu recouvre le serviteur de Ses qualités et attributs divins, selon les termes du hadith qudsi : «&nbsp;Mon serviteur ne cesse de se rapprocher de Moi par des actes surérogatoires jusqu’à ce que Je l’aime, et quand Je l’aime, Je suis l’ouïe par laquelle il entend, la vue par laquelle il voit, la langue par laquelle il parle…&nbsp;»
 
-La vie spirituelle comprise et pratiquée par le soufisme est donc tout entière perplexité (*hayra*). Le langage allusif (ou *ishara*) des aphorismes est une tentative pour faire comprendre ce qui peut en être transmis, en passant, en quelque sorte, de la «&nbsp;langue arabe claire&nbsp;» (l*isan arabi mubin*) du Coran au «&nbsp;koan&nbsp;» énigmatique. Mais l’allusion elle-même ne permet pas de définir la connaissance illuminatrice qu’obtient le voyageur. En effet,
+La vie spirituelle comprise et pratiquée par le soufisme est donc tout entière perplexité (*hayra*). Le langage allusif (ou *ishara*) des aphorismes est une tentative pour faire comprendre ce qui peut en être transmis, en passant, en quelque sorte, de la «&nbsp;langue arabe claire&nbsp;» (*lisan arabi mubin*) du Coran au «&nbsp;koan&nbsp;» énigmatique. Mais l’allusion elle-même ne permet pas de définir la connaissance illuminatrice qu’obtient le voyageur. En effet,
 
 > le gnostique n’est pas celui qui, par le langage allusif, trouve Dieu plus intime à soi que son allusion, mais celui qui n’a plus de langage allusif, étant annihilé dans l’être de Dieu et concentré dans sa contemplation.[^15]
 
