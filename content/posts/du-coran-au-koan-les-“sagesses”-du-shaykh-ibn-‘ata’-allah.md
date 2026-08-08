@@ -2,7 +2,7 @@
 titre: Du Coran au Koan, Les “Sagesses” du Shaykh Ibn ‘Ata’ Allah
 vedette: false
 date: 2026-08-08T10:04:08.042Z
-auteur: Abd-al-Haqq Guiderdoni
+auteur: Abd-al-Haqq Ismaïl Guiderdoni
 category: Soufisme et Spiritualités
 enableDropCap: true
 ---
