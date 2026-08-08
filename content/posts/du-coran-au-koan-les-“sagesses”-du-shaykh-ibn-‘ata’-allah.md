@@ -20,7 +20,7 @@ En effet&nbsp;:
 
 > Évidente et claire est la recherche de soi dans la désobéissance, mais elle est cachée et sournoise dans l’obéissance.[^2]
 
-Bien évidemment, il ne s’agit pas de désobéir à Dieu, soit en arrêtant la pratique rituelle, soit en se livrant sciemment aux pires péchés et turpitudes. Mais tout en maintenant l’effort vers Dieu, il faut être conscient du danger de l’hypocrisie que cet effort peut faire naître de façon subtile. Dès lors, «&nbsp;Désobéissance engendrant humilité et indigence vaut mieux qu’obéissance inspirant fierté et orgueil.[^3]&nbsp;» 
+Bien évidemment, il ne s’agit pas de désobéir à Dieu, soit en arrêtant la pratique rituelle, soit en se livrant sciemment aux pires péchés et turpitudes. Mais tout en maintenant l’effort vers Dieu, il faut être conscient du danger de l’hypocrisie que cet effort peut faire naître de façon subtile. Dès lors, «&nbsp;Désobéissance engendrant humilité et indigence vaut mieux qu’obéissance inspirant fierté et orgueil.&nbsp;»[^3]
 
 En fait, nous ne devons pas nous satisfaire orgueilleusement de notre pratique rituelle, mais, à l’issue d’une méditation sur le sens même de l’affirmation de l’unicité absolue de Dieu, le *tawhid*, nous devons réaliser que c’est Dieu même qui crée l’ensemble de nos actes, et que c’est à Lui que revient la gloire, alors que nous n’avons en propre que les défauts et les limites.
 
