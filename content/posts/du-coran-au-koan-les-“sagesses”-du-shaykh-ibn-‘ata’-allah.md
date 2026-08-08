@@ -78,30 +78,30 @@ La vie spirituelle comprise et pratiquée par le soufisme est donc tout entière
 
 > le gnostique n’est pas celui qui, par le langage allusif, trouve Dieu plus intime à soi que son allusion, mais celui qui n’a plus de langage allusif, étant annihilé dans l’être de Dieu et concentré dans sa contemplation.[^15]
 
-[^1]: hikma 124.
-[^2]: hikma 151.
-[^3]: hikma 89.
+[^1]: Hikma 124.
+[^2]: Hikma 151.
+[^3]: Hikma 89.
 
-[^4]: hikma 114.
+[^4]: Hikma 114.
 
-[^5]: hikma 15.
+[^5]: Hikma 15.
 
-[^6]: hikma 155.
+[^6]: Hikma 155.
 
-[^7]: hikam 27.
+[^7]: Hikma 27.
 
-[^8]: hikma 77.
+[^8]: Hikma 77.
 
-[^9]: hikma 142.
+[^9]: Hikma 142.
 
-[^10]: hikma 38.
+[^10]: Hikma 38.
 
-[^11]: hikma 157.
+[^11]: Hikma 157.
 
 [^12]: Hikma 20.
 
-[^13]: hikma 44.
+[^13]: Hikma 44.
 
 [^14]: Cor. 2&nbsp;: 152.
 
-[^15]: hikma 72.
+[^15]: Hikma 72.
