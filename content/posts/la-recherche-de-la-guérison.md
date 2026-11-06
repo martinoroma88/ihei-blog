@@ -24,6 +24,7 @@ Dans cette condition de souffrance et de malaise, il faut chercher le remède au
 Al-Qurtubi invite les croyants musulmans à suivre la cure et la guérison de la Révélation d’Allah, qui met en garde contre le mal, inspire sagesse, miséricorde et bénédiction pour la réalisation de la certitude de la foi. La prévention du mal est aidée par le combat pour cette foi. Ce combat sacré purifie l’orgueil et son insatisfaction chronique, qui se contamine de colère.
 
 > Que Dieu me bénisse, vous et moi, par le Coran sublime, et nous fasse profiter de ses versets et du Rappel sage. Je dis ces paroles et je demande pardon à Dieu pour moi et pour vous. Demandez-Lui pardon, car Il est le Pardonneur, le Miséricordieux. Louange à Dieu, et que la prière et la paix soient sur le Messager de Dieu.
+>
 > J’atteste qu’il n’y a de divinité que Dieu, Seul, sans associé, et j’atteste que Muhammad est Son serviteur et Son messager.
 >
 > Ô Dieu, prie sur Muhammad et sur la famille de Muhammad comme Tu as prié sur Abraham et sur la famille d’Abraham, dans les mondes. Tu es certes digne de louange et de gloire. Et bénis Muhammad et la famille de Muhammad comme Tu as béni Abraham et la famille d’Abraham, dans les mondes. Tu es certes digne de louange et de gloire.
