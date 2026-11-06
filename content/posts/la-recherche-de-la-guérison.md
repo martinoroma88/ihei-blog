@@ -33,8 +33,13 @@ Ibn ‘Abbas (que Dieu les agrée, lui et son père) rapporte que le prophète M
 
 Al-Rabi’ bin ‘AbdAllah raconte que, lorsqu’il accompagnait al-Hasan en visite chez Qatada, al-Hasan s’assit près de sa tête, lui demanda comment il allait, puis fit l’invocation suivante&nbsp;: «&nbsp;*Allahumma ‘shfi qalbahu wa ‘shfi suqmahu*, ô Allah, guéris son cœur et guéris sa maladie.&nbsp;»
 
-Abu Hurayra rapporte que le prophète Muhammad&nbsp;ﷺ a dit&nbsp;: «&nbsp;Les souffrances ne cesseront de frapper les croyants et les croyantes, dans leurs corps, leurs familles et leurs biens, jusqu’à ce qu’ils rencontrent leur Seigneur, Allah, et que leurs péchés aient été effacés.&nbsp;»
-‘AbdAllah bin ‘Amr rapporte que le prophète Muhammad&nbsp;ﷺ a dit&nbsp;: «&nbsp;Allah récompensera tout croyant malade en reconnaissant toutes ses actions comme s’il avait toujours été en bonne santé.&nbsp;»
+Abu Hurayra rapporte que le prophète Muhammad&nbsp;ﷺ a dit&nbsp;:
+
+> Les souffrances ne cesseront de frapper les croyants et les croyantes, dans leurs corps, leurs familles et leurs biens, jusqu’à ce qu’ils rencontrent leur Seigneur, Allah, et que leurs péchés aient été effacés.
+
+‘AbdAllah bin ‘Amr rapporte que le prophète Muhammad&nbsp;ﷺ a dit&nbsp;:
+
+> Allah récompensera tout croyant malade en reconnaissant toutes ses actions comme s’il avait toujours été en bonne santé.
 
 *Chers frères, chères sœurs,*
 
