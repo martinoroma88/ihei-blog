@@ -62,7 +62,7 @@ Nous avons sélectionné quelques suppliques recueillies par l’imam Bukhar&ici
 >
 > Ô Allah, pardonne-nous et fais-nous miséricorde. Donne-nous le bien dans ce monde et le bien dans l’Autre monde, et protège-nous du Feu de l’Enfer.[^6]
 >
-> *Allahumma Tahhirn&icirc; bi-th-thalji wa al-baradi wa al-mâ’i-l-bâridi kama yuTahharu al-thawbu al-danisu min al-wasakh. Allahumma rabbanâ laka al-Hamdu mil-al-samâwâti wa mil-al’arDi wa mil-a mâ shi-ta min shayyin ba’du.*
+> *Allahumma Tahhirn&icirc; bi-th-thalji wa al-baradi wa al-mâ’i-l-bâridi kama yuTahharu al-thawbu al-danisu min al-wasakh. Allahumma rabbanâ laka al-Hamdu mil-al-samâwâti wa mil-al’arDi wa mil’a mâ shi’ta min shay’in ba’du.*
 >
 > Ô Allah, purifie-moi avec la glace, la neige et l’eau froide, comme un vêtement sale est nettoyé de sa saleté. Ô Allah, notre Seigneur, que la louange soit à Toi dans une mesure incommensurable, celle des cieux et de la terre et de toute chose que Tu ordonnes au-delà d’eux.
 
