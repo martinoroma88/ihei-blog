@@ -36,7 +36,7 @@ Supplier Allah —*&nbsp;‘azza wa jalla*&nbsp;— correspond en quelque sorte 
 
 Le Prophète Muhammad&nbsp;**ﷺ** enseignait&nbsp;: «&nbsp;Supplier, c’est adorer&nbsp;», et il récitait le verset suivant, qui poursuit en disant que seuls l’orgueil et l’arrogance empêchent les individus d’adorer et de supplier. En effet, supplier est un signe rituel d’humilité et de pauvreté dans le service religieux&nbsp;:
 
-> *Wa qâla rabbukum ud’n&icirc; astajib lakum.*
+> *Wa qâla rabbukum ud‘n&icirc; ‘astajib lakum.*
 >
 > Votre Seigneur a dit&nbsp;: «&nbsp;Appelez-Moi et Je vous répondrai.&nbsp;».[^3]
 
