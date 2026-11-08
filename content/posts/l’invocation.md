@@ -39,7 +39,8 @@ Le Prophète Muhammad&nbsp;**ﷺ** enseignait&nbsp;: «&nbsp;Supplier, c’est a
 > *Wa qâla rabbukum ud’n&icirc; astajib lakum.*
 >
 > Votre Seigneur a dit&nbsp;: «&nbsp;Appelez-Moi et Je vous répondrai.&nbsp;».[^3]
->
+
+
 > *Wa idha sa-aluka ‘ibad&icirc; ‘ann&icirc; fa-inni qar&icirc;bun uHibbu da’wata al-dâ’i da’ân falyastaj&icirc;bu l&icirc; wa layu-min&ucirc; b&icirc; la’allakum yarshud&ucirc;n.*
 >
 > Quand Mes serviteurs t’interrogent sur Moi, dis-leur que Je suis proche. J’exaucerai la supplication de celui qui Me supplie lorsqu’il Me supplie, mais qu’ils Me répondent et croient en Moi afin d’être bien guidés.[^4]
@@ -57,11 +58,13 @@ Nous avons sélectionné quelques suppliques recueillies par l’imam Bukhar&ici
 > *Allahumma inni a‘udhu bika min al’ajzi wa al-kasali wa al-jubni wa al-harami wa a‘udhu bika min fitnati al-maHyâ wa al-mamâti wa a‘udhu bika min ‘adhâbi al-qabr.*
 >
 > Ô Allah, je me réfugie auprès de Toi contre l’incapacité, la paresse, la possibilité d’être lâche et les signes de la sénilité&nbsp;; je me réfugie auprès de Toi contre les épreuves de la vie et de la mort.[^5]
->
+
+
 > *Allahumma ghfir lanâ wa rhamnâ wa ‘âtina f&icirc; al-dunya Hasanatan wa f&icirc; al-âkhirati Hasanatan wa q&icirc;na ‘adhâba al-nar.*
 >
 > Ô Allah, pardonne-nous et fais-nous miséricorde. Donne-nous le bien dans ce monde et le bien dans l’Autre monde, et protège-nous du Feu de l’Enfer.[^6]
->
+
+
 > *Allahumma Tahhirn&icirc; bi-th-thalji wa al-baradi wa al-mâ’i-l-bâridi kama yuTahharu al-thawbu al-danisu min al-wasakh. Allahumma rabbanâ laka al-Hamdu mil-al-samâwâti wa mil-al’arDi wa mil-a mâ shi-ta min shayyin ba’du.*
 >
 > Ô Allah, purifie-moi avec la glace, la neige et l’eau froide, comme un vêtement sale est nettoyé de sa saleté. Ô Allah, notre Seigneur, que la louange soit à Toi dans une mesure incommensurable, celle des cieux et de la terre et de toute chose que Tu ordonnes au-delà d’eux.
@@ -83,7 +86,8 @@ Enfin, deux suppliques chères à notre bien-aimé Maître&nbsp;**ﷺ**  dans se
 > *Allahumma yâ muqalliba-l-qul&ucirc;bi thabbit qalb&icirc; ‘ala d&icirc;nika*
 >
 > Ô Allah, ô Toi qui administres les rotations des cœurs, rends mon cœur stable dans la religion.
->
+
+
 > *Allahumma a’inni ‘ala dhikrika wa shukrika wa Husni ‘ibadatika*
 >
 > Ô Allah, aide-moi à me souvenir de Toi, à Te être reconnaissant et à T’adorer de la meilleure manière.
@@ -96,9 +100,9 @@ Supplication au milieu de la nuit.
 
 > Allahumma laka al-Hamdu, anta n&ucirc;ru al-samâwâti wa-l-arDi wa man fīhimâ, wa laka al- Hamdu anta qayyâmu al-samâwâti wa-l-arDi, wa laka al-Hamdu anta rabbu al-samâwâti wa-larDi wa man fīhimâ, anta al-Haqqu wa wa’duka al-Haqqu wa liqâ-uka al-Haqq. Wa al-jannatu Haqqun wa al-nâru Haqqun wa al-sâ’atu Haqq.
 >
-> Allahumma laka aslamtu, wa bika amantu wa ‘alayka tawakkaltu, wa ilayka anabtu wa bika khâSamtu wa ilayka Hâkamtu, fa ghfir l&icirc; mâ qaddamtu wa mâ akhkhartu wa mâ asrartu wa mâ a’lantu. Anta ilâh&icirc;, lâ ilâha illa anta.
->
 > Ô Allah, à Toi appartient la louange. Tu es la lumière des cieux et de la terre et de quiconque s’y trouve. À Toi appartient la louange. Tu es le Soutien des cieux et de la terre. À Toi appartient la louange. Tu es le Seigneur des cieux et de la terre et de quiconque s’y trouve. Tu es la Vérité, Ta promesse est vraie, la rencontre avec Toi est vraie, le Jardin est vrai, le feu de l’enfer est vrai et l’Heure est vraie.
+
+> Allahumma laka aslamtu, wa bika amantu wa ‘alayka tawakkaltu, wa ilayka anabtu wa bika khâSamtu wa ilayka Hâkamtu, fa ghfir l&icirc; mâ qaddamtu wa mâ akhkhartu wa mâ asrartu wa mâ a’lantu. Anta ilâh&icirc;, lâ ilâha illa anta.
 >
 > Ô Allah, je me suis soumis volontiers à Toi et j’ai cru en Toi. Je me suis remis à Toi et je me repens envers Toi. Je réfléchis grâce à Toi et je viens vers Toi pour le Jugement. Pardonne mes actions erronées du passé et du futur, tant les actions que je cache que celles que je montre. Tu es ma Divinité, il n’y a de Divinité que Toi.
 
