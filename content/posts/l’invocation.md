@@ -42,7 +42,7 @@ Le Prophète Muhammad&nbsp;**ﷺ** enseignait&nbsp;: «&nbsp;Supplier, c’est a
 >
 > *Wa idha sa-aluka ‘ibad&icirc; ‘ann&icirc; fa-inni qar&icirc;bun uHibbu da’wata al-dâ’i da’ân falyastaj&icirc;bu l&icirc; wa layu-min&ucirc; b&icirc; la’allakum yarshud&ucirc;n.*
 >
-> Quand Mes serviteurs t’interrogent sur Moi, dis-leur que Je suis proche. J’exaucerai la supplication de celui qui Me supplie lorsqu’il Me supplie, mais qu’ils M’répondent et croient en Moi afin d’être bien guidés.[^4]
+> Quand Mes serviteurs t’interrogent sur Moi, dis-leur que Je suis proche. J’exaucerai la supplication de celui qui Me supplie lorsqu’il Me supplie, mais qu’ils Me répondent et croient en Moi afin d’être bien guidés.[^4]
 
 Abu Hurayra rapporte que le prophète Muhammad&nbsp;**ﷺ** a dit&nbsp;: «&nbsp;Rien n’est plus cher à Allah que l’adoration faite de supplications.&nbsp;»
 
