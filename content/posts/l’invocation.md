@@ -90,7 +90,7 @@ Enfin, deux suppliques chères à notre bien-aimé Maître&nbsp;**ﷺ**  dans se
 
 > *Allahumma a’inni ‘ala dhikrika wa shukrika wa Husni ‘ibadatika*
 >
-> Ô Allah, aide-moi à me souvenir de Toi, à Te être reconnaissant et à T’adorer de la meilleure manière.
+> Ô Allah, aide-moi à me souvenir de Toi, à T’être reconnaissant et à T’adorer de la meilleure manière.
 
 *Lâ ilâha illa Allahu al-‘aZ&icirc;m al-Hal&icirc;mu. Lâ ilâha illa Allahu rabibu al-samâwâti wa-l-arDi wa rabbu-l-‘arshi al-‘aZ&icirc;m*
 
