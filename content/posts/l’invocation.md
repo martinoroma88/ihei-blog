@@ -41,10 +41,10 @@ Les suppliques peuvent être telles qu’Allah —*&nbsp;‘azza wa jalla*&nbsp;
 
 Nous avons sélectionné quelques suppliques recueillies par l’imam Bukhar&icirc;, qui nous permettent d’accompagner le Prophète&nbsp;**ﷺ** dans son excellente disposition à communiquer avec Allah —*&nbsp;‘azza wa jalla*&nbsp;—. Les premières invocations conjurent des possibilités négatives. Bien qu’il soit un élu, il écarte le conditionnement des défauts.
 
-Allahumma inni a‘udhu bika min al’ajzi wa al-kasali wa al-jubni wa al-harami wa a‘udhu bika min fitnati al-maHyâ wa al-mamâti wa a‘udhu bika min ‘adhâbi al-qabr Ô Allah, je me réfugie auprès de Toi contre l’incapacité, la paresse, la possibilité d’être lâche et les signes de la sénilité&nbsp;; je me réfugie auprès de Toi contre les épreuves de la vie et de la mort. Transmis par Anas bin Malik.
+Allahumma inni a‘udhu bika min al’ajzi wa al-kasali wa al-jubni wa al-harami wa a‘udhu bika min fitnati al-maHyâ wa al-mamâti wa a‘udhu bika min ‘adhâbi al-qabr Ô Allah, je me réfugie auprès de Toi contre l’incapacité, la paresse, la possibilité d’être lâche et les signes de la sénilité&nbsp;; je me réfugie auprès de Toi contre les épreuves de la vie et de la mort.[^5]
 
 Allahumma ghfir lanâ wa rhamnâ wa ‘âtina f&icirc; al-dunya Hasanatan wa fī al-âkhirati Hasanatan wa q&icirc;na ‘adhâba al-nar
-Ô Allah, pardonne-nous et fais-nous miséricorde. Donne-nous le bien dans ce monde et le bien dans l’Autre monde, et protège-nous du Feu de l’Enfer. Transmis par Anas bin Malik.
+Ô Allah, pardonne-nous et fais-nous miséricorde. Donne-nous le bien dans ce monde et le bien dans l’Autre monde, et protège-nous du Feu de l’Enfer.[^6]
 
 Allahumma Tahhirn&icirc; bi-th-thalji wa al-baradi wa al-mâ’i-l-bâridi kama yuTahharu al-thawbu al-danisu min al-wasakh. Allahumma rabbanâ laka al-Hamdu mil-al-samâwâti wa mil-al’arDi wa mil-a mâ shi-ta min shayyin ba’du
 Ô Allah, purifie-moi avec la glace, la neige et l’eau froide, comme un vêtement sale est nettoyé de sa saleté. Ô Allah, notre Seigneur, que la louange soit à Toi dans une mesure incommensurable, celle des cieux et de la terre et de toute chose que Tu ordonnes au-delà d’eux.
@@ -74,3 +74,7 @@ Allahumma laka aslamtu, wa bika amantu wa ‘alayka tawakkaltu, wa ilayka anabtu
 [^3]: Coran 40&nbsp;: 60.
 
 [^4]: Coran 2&nbsp;: 186.
+
+[^5]: Transmis par Anas bin Malik.
+
+[^6]: Transmis par Anas bin Malik.
