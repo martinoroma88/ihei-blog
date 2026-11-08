@@ -98,7 +98,7 @@ Il n’y a de divinité qu’Allah, l’Immense, le Longanime. Il n’y a de div
 
 Supplication au milieu de la nuit.
 
-> Allahumma laka al-Hamdu, anta n&ucirc;ru al-samâwâti wa-l-arDi wa man fīhimâ, wa laka al- Hamdu anta qayyâmu al-samâwâti wa-l-arDi, wa laka al-Hamdu anta rabbu al-samâwâti wa-larDi wa man fīhimâ, anta al-Haqqu wa wa’duka al-Haqqu wa liqâ-uka al-Haqq. Wa al-jannatu Haqqun wa al-nâru Haqqun wa al-sâ’atu Haqq.
+> Allahumma laka al-Hamdu, anta n&ucirc;ru al-samâwâti wa-l-arDi wa man f&icirc;himâ, wa laka al- Hamdu anta qayyâmu al-samâwâti wa-l-arDi, wa laka al-Hamdu anta rabbu al-samâwâti wa-larDi wa man fīhimâ, anta al-Haqqu wa wa’duka al-Haqqu wa liqâ-uka al-Haqq. Wa al-jannatu Haqqun wa al-nâru Haqqun wa al-sâ’atu Haqq.
 >
 > Ô Allah, à Toi appartient la louange. Tu es la lumière des cieux et de la terre et de quiconque s’y trouve. À Toi appartient la louange. Tu es le Soutien des cieux et de la terre. À Toi appartient la louange. Tu es le Seigneur des cieux et de la terre et de quiconque s’y trouve. Tu es la Vérité, Ta promesse est vraie, la rencontre avec Toi est vraie, le Jardin est vrai, le feu de l’enfer est vrai et l’Heure est vraie.
 
