@@ -16,7 +16,7 @@ Allah —*&nbsp;‘azza wa jalla*&nbsp;— dit dans son Saint Coran&nbsp;:
 
 Bienvenue à cette dernière *salat al-jumu‘a* du mois islamique lunaire de *Jumada al-awwal*. Aujourd’hui, nous cherchons à apprendre, à reconnaître ce qu’est une supplication, une invocation, une expression et une demande d’aide adressée à Allah —*&nbsp;‘azza wa jalla*&nbsp;—.
 
-La Révélation islamique décrit de nombreux prophètes qui s’adressent à Allah —*&nbsp;‘azza wa jalla*&nbsp;— et cherchent secours et soutien dans une action et une circonstance particulières. D’autres fois, le saint Coran formule explicitement l’invitation à l’invocation en commençant par s’adresser au Seigneur&nbsp;: *Rabbana* ou, comme dans le cas de ce verset récité aujourd’hui, *Rabb&icirc;,* mon Seigneur.
+La Révélation islamique décrit de nombreux prophètes qui s’adressent à Allah —*&nbsp;‘azza wa jalla*&nbsp;— et cherchent secours et soutien dans une action et une circonstance particulières. D’autres fois, le saint Coran formule explicitement l’invitation à l’invocation en commençant par s’adresser au Seigneur&nbsp;: *Rabban&acirc;* ou, comme dans le cas de ce verset récité aujourd’hui, *Rabb&icirc;,* mon Seigneur.
 
 Dans ce verset de la sourate *al-Isra’,* c’est le prophète Muhammad&nbsp;**ﷺ** (*çallâ-Llâhu ‘alayhi wa sallam*, la Prière et la Bénédiction de Dieu soient sur lui) qui supplie Allah de pouvoir accomplir sa fonction de transmission du Message divin avec sincérité. Al-Tustari commente cette supplication en nous enseignant que le Messager&nbsp;**ﷺ** supplie Allah de ne se laisser distraire par personne et de respecter les limites et les conditions dans l’exercice de la fonction sacrée. Le Prophète&nbsp;**ﷺ** supplie Allah de lui accorder une issue hors des attachements du monde, en perfectionnant la vocation de rechercher la satisfaction d’Allah dans la pleine réalisation de Sa Volonté. Le prophète Muhammad &nbsp;**ﷺ** demande à être revêtu de la Souveraineté d’Allah, afin que l’autorité de la Vérité puisse prévaloir, et jamais la passion du désir. Cette autorité d’Allah s’exprime par l’instrument de la langue, qui parle au Nom exclusif d’Allah.
 
@@ -39,7 +39,7 @@ Le Prophète Muhammad&nbsp;**ﷺ** enseignait&nbsp;: «&nbsp;Supplier, c’est a
 > *Wa qâla rabbukum ud’n&icirc; astajib lakum.*
 >
 > Votre Seigneur a dit&nbsp;: «&nbsp;Appelez-Moi et Je vous répondrai.&nbsp;».[^3]
-
+>
 > *Wa idha sa-aluka ‘ibad&icirc; ‘ann&icirc; fa-inni qar&icirc;bun uHibbu da’wata al-dâ’i da’ân falyastaj&icirc;bu l&icirc; wa layu-min&ucirc; b&icirc; la’allakum yarshud&ucirc;n.*
 >
 > Quand Mes serviteurs t’interrogent sur Moi, dis-leur que Je suis proche. J’exaucerai la supplication de celui qui Me supplie lorsqu’il Me supplie, mais qu’ils M’répondent et croient en Moi afin d’être bien guidés.[^4]
@@ -57,11 +57,11 @@ Nous avons sélectionné quelques suppliques recueillies par l’imam Bukhar&ici
 > *Allahumma inni a‘udhu bika min al’ajzi wa al-kasali wa al-jubni wa al-harami wa a‘udhu bika min fitnati al-maHyâ wa al-mamâti wa a‘udhu bika min ‘adhâbi al-qabr.*
 >
 > Ô Allah, je me réfugie auprès de Toi contre l’incapacité, la paresse, la possibilité d’être lâche et les signes de la sénilité&nbsp;; je me réfugie auprès de Toi contre les épreuves de la vie et de la mort.[^5]
-
+>
 > *Allahumma ghfir lanâ wa rhamnâ wa ‘âtina f&icirc; al-dunya Hasanatan wa f&icirc; al-âkhirati Hasanatan wa q&icirc;na ‘adhâba al-nar.*
 >
 > Ô Allah, pardonne-nous et fais-nous miséricorde. Donne-nous le bien dans ce monde et le bien dans l’Autre monde, et protège-nous du Feu de l’Enfer.[^6]
-
+>
 > *Allahumma Tahhirn&icirc; bi-th-thalji wa al-baradi wa al-mâ’i-l-bâridi kama yuTahharu al-thawbu al-danisu min al-wasakh. Allahumma rabbanâ laka al-Hamdu mil-al-samâwâti wa mil-al’arDi wa mil-a mâ shi-ta min shayyin ba’du.*
 >
 > Ô Allah, purifie-moi avec la glace, la neige et l’eau froide, comme un vêtement sale est nettoyé de sa saleté. Ô Allah, notre Seigneur, que la louange soit à Toi dans une mesure incommensurable, celle des cieux et de la terre et de toute chose que Tu ordonnes au-delà d’eux.
@@ -93,7 +93,6 @@ Enfin, deux suppliques chères à notre bien-aimé Maître&nbsp;**ﷺ**  dans se
 Il n’y a de divinité qu’Allah, l’Immense, le Longanime. Il n’y a de divinité qu’Allah, le Seigneur des cieux et de la terre et le Seigneur du Trône Immense.
 
 Supplication au milieu de la nuit.
-
 
 > Allahumma laka al-Hamdu, anta n&ucirc;ru al-samâwâti wa-l-arDi wa man fīhimâ, wa laka al- Hamdu anta qayyâmu al-samâwâti wa-l-arDi, wa laka al-Hamdu anta rabbu al-samâwâti wa-larDi wa man fīhimâ, anta al-Haqqu wa wa’duka al-Haqqu wa liqâ-uka al-Haqq. Wa al-jannatu Haqqun wa al-nâru Haqqun wa al-sâ’atu Haqq.
 >
