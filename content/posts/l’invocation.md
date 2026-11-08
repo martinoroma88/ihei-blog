@@ -55,7 +55,7 @@ Allahumma inna nas-aluka mimma sa-alaka nabiyyuka Muhammadun. Allahumma anta alm
 Ensuite, on supplie de trouver refuge en Allah contre le mal du malin, qui ne cesse d’attaquer et qui peut déclencher des épreuves s’opposant à la réalisation du bien supérieur, et qui, en ces temps de la fin d’un cycle historique de l’humanité, peut se manifester sous la forme d’un faux souverain répandant le scandale dans le monde. Selon ‘AbdAllah bin ‘Amr bin al-‘s (), le Prophète Muhammad&nbsp;**ﷺ** a supplié&nbsp;: «&nbsp;Allahumma inni a’ūdhu bika min fitnati-l-masiHi al-dajjâi wa a’ūdhu bika min fitnati al-nâri.&nbsp;» Ô Allah, je me réfugie auprès de Toi contre le scandale du Dajjal et je me réfugie auprès de Toi contre les épreuves du Feu.
 
 Enfin, deux suppliques chères à notre bien-aimé Maître&nbsp;**ﷺ**  dans ses invocations&nbsp;:
-Allahumma yâ muqalliba-l-qulūbi thabbit qalbī ‘ala d&icirc;nika
+Allahumma yâ muqalliba-l-qulūbi thabbit qalb&icirc; ‘ala d&icirc;nika
 Ô Allah, ô Toi qui administres les rotations des cœurs, rends mon cœur stable dans la religion. Allahumma a’inni ‘ala dhikrika wa shukrika wa Husni ‘ibadatika
 Ô Allah, aide-moi à me souvenir de Toi, à Te être reconnaissant et à T’adorer de la meilleure manière.
 
