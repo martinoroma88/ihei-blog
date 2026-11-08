@@ -10,7 +10,7 @@ enableDropCap: false
 
 Allah —*&nbsp;‘azza wa jalla*&nbsp;— dit dans son Saint Coran&nbsp;:
 
-> Et dis&nbsp;: “Mon Seigneur, fais-moi entrer par la porte de la sincérité et fais-moi sortir par la porte de la sincérité, accorde-moi une autorité qui vienne de Toi et qui m’assiste.” Coran, sourate les Enfants d’Israël, XVII&nbsp;: 80.
+> Et dis&nbsp;: “Mon Seigneur, fais-moi entrer par la porte de la sincérité et fais-moi sortir par la porte de la sincérité, accorde-moi une autorité qui vienne de Toi et qui m’assiste.” Coran, sourate les Enfants d’Israël, XVII, 80.
 
 Ô croyants,
 
