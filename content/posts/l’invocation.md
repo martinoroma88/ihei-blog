@@ -10,7 +10,7 @@ enableDropCap: false
 
 Allah —*&nbsp;‘azza wa jalla*&nbsp;— dit dans son Saint Coran&nbsp;:
 
-> Et dis&nbsp;: “Mon Seigneur, fais-moi entrer par l’entrée de la sincérité et fais-moi sortir par la sortie de la sincérité, accorde-moi une autorité qui vienne de Toi et qui m’assiste.” Coran, sourate les Enfants d’Israël, XVII&nbsp;: 80.
+> Et dis&nbsp;: “Mon Seigneur, fais-moi entrer par la porte de la sincérité et fais-moi sortir par la porte de la sincérité, accorde-moi une autorité qui vienne de Toi et qui m’assiste.” Coran, sourate les Enfants d’Israël, XVII&nbsp;: 80.
 
 Ô croyants,
 bienvenue à cette dernière *salat al-jumu’a* du mois islamique lunaire de *Jumada al-awwal*. Aujourd’hui, nous cherchons à apprendre, à reconnaître ce qu’est une supplication, une invocation, une expression et une demande d’aide adressée à Allah —*&nbsp;‘azza wa jalla*&nbsp;—.
