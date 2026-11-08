@@ -28,7 +28,7 @@ De manière semblable, le prophète Musa (*‘alayhi-s-salâm*) supplie lui auss
 
 Et de manière semblable, le roi Sulayman (*‘alayhi-s-salâm*) supplie Allah de lui accorder une autorité adaptée à sa mission&nbsp;:
 
-> *Qâla Rabb&icirc; ighfir l&icirc; wa hab l&icirc; mulkan.*
+> *Qâla Rabb&icirc; ighfir l&icirc; wahab l&icirc; mulkan.*
 >
 > Et il dit&nbsp;: Mon Seigneur, pardonne-moi et donne-moi un royaume.[^2]
 
