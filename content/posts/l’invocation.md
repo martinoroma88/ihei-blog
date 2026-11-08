@@ -59,7 +59,7 @@ Allahumma yâ muqalliba-l-qulūbi thabbit qalb&icirc; ‘ala d&icirc;nika
 Ô Allah, ô Toi qui administres les rotations des cœurs, rends mon cœur stable dans la religion. Allahumma a’inni ‘ala dhikrika wa shukrika wa Husni ‘ibadatika
 Ô Allah, aide-moi à me souvenir de Toi, à Te être reconnaissant et à T’adorer de la meilleure manière.
 
-Lâ ilāha illa Allahu al-‘aZ&icirc;m al-Hal&icirc;mu. Lā ilāha illa Allahu rabibu al-samāwāti wa-l-arDi wa rabbu-l-‘arshi al-‘aZ&icirc;m
+Lâ ilâha illa Allahu al-‘aZ&icirc;m al-Hal&icirc;mu. Lâ ilâha illa Allahu rabibu al-samâwâti wa-l-arDi wa rabbu-l-‘arshi al-‘aZ&icirc;m
 Il n’y a de divinité qu’Allah, l’Immense, le Longanime. Il n’y a de divinité qu’Allah, le Seigneur des cieux et de la terre et le Seigneur du Trône Immense.
 
 Supplication au milieu de la nuit.
