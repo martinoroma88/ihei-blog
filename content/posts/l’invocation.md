@@ -57,7 +57,8 @@ Nous avons sélectionné quelques suppliques recueillies par l’imam Bukhar&ici
 > *Allahumma inni a‘udhu bika min al’ajzi wa al-kasali wa al-jubni wa al-harami wa a‘udhu bika min fitnati al-maHyâ wa al-mamâti wa a‘udhu bika min ‘adhâbi al-qabr.*
 >
 > Ô Allah, je me réfugie auprès de Toi contre l’incapacité, la paresse, la possibilité d’être lâche et les signes de la sénilité&nbsp;; je me réfugie auprès de Toi contre les épreuves de la vie et de la mort.[^5]
->
+
+
 > *Allahumma ghfir lanâ wa rhamnâ wa ‘âtina f&icirc; al-dunya Hasanatan wa f&icirc; al-âkhirati Hasanatan wa q&icirc;na ‘adhâba al-nar.*
 >
 > Ô Allah, pardonne-nous et fais-nous miséricorde. Donne-nous le bien dans ce monde et le bien dans l’Autre monde, et protège-nous du Feu de l’Enfer.[^6]
