@@ -14,7 +14,7 @@ Allah —*&nbsp;‘azza wa jalla*&nbsp;— dit dans son Saint Coran&nbsp;:
 
 Ô croyants,
 
-Bienvenue à cette dernière *salat al-jumu’a* du mois islamique lunaire de *Jumada al-awwal*. Aujourd’hui, nous cherchons à apprendre, à reconnaître ce qu’est une supplication, une invocation, une expression et une demande d’aide adressée à Allah —*&nbsp;‘azza wa jalla*&nbsp;—.
+Bienvenue à cette dernière *salat al-jumu‘a* du mois islamique lunaire de *Jumada al-awwal*. Aujourd’hui, nous cherchons à apprendre, à reconnaître ce qu’est une supplication, une invocation, une expression et une demande d’aide adressée à Allah —*&nbsp;‘azza wa jalla*&nbsp;—.
 
 La Révélation islamique décrit de nombreux prophètes qui s’adressent à Allah —*&nbsp;‘azza wa jalla*&nbsp;— et cherchent secours et soutien dans une action et une circonstance particulières. D’autres fois, le saint Coran formule explicitement l’invitation à l’invocation en commençant par s’adresser au Seigneur&nbsp;: *Rabbana* ou, comme dans le cas de ce verset récité aujourd’hui, *Rabb&icirc;,* mon Seigneur.
 
