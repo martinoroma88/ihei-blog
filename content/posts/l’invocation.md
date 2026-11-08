@@ -77,7 +77,7 @@ Cette tradition reprend la référence symbolique à la purification angélique 
 
 Ensuite, on supplie de trouver refuge en Allah contre le mal du malin, qui ne cesse d’attaquer et qui peut déclencher des épreuves s’opposant à la réalisation du bien supérieur, et qui, en ces temps de la fin d’un cycle historique de l’humanité, peut se manifester sous la forme d’un faux souverain répandant le scandale dans le monde. Selon ‘AbdAllah bin ‘Amr bin al-‘&Acirc;s, le Prophète Muhammad&nbsp;**ﷺ** a supplié&nbsp;:
 
-> *Allahumma inni a’&ucirc;dhu bika min fitnati-l-masiHi al-dajjâi wa a’&ucirc;dhu bika min fitnati al-nâri.*
+> *Allahumma inni a‘&ucirc;dhu bika min fitnati-l-masiHi al-dajjâi wa a‘&ucirc;dhu bika min fitnati al-nâri.*
 >
 > Ô Allah, je me réfugie auprès de Toi contre le scandale du Dajjal et je me réfugie auprès de Toi contre les épreuves du Feu.
 
