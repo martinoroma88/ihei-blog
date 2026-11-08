@@ -41,12 +41,12 @@ Les suppliques peuvent être telles qu’Allah —*&nbsp;‘azza wa jalla*&nbsp;
 
 Nous avons sélectionné quelques suppliques recueillies par l’imam Bukhar&icirc;, qui nous permettent d’accompagner le Prophète&nbsp;**ﷺ** dans son excellente disposition à communiquer avec Allah —*&nbsp;‘azza wa jalla*&nbsp;—. Les premières invocations conjurent des possibilités négatives. Bien qu’il soit un élu, il écarte le conditionnement des défauts.
 
-Allahumma inni a‘udhu bika min al’ajzi wa al-kasali wa al-jubni wa al-harami wa a’udhu bika min fitnati al-maHyâ wa al-mamâti wa a’udhu bika min ‘adhâbi al-qabr Ô Allah, je me réfugie auprès de Toi contre l’incapacité, la paresse, la possibilité d’être lâche et les signes de la sénilité ; je me réfugie auprès de Toi contre les épreuves de la vie et de la mort. Transmis par Anas bin Malik.
+Allahumma inni a‘udhu bika min al’ajzi wa al-kasali wa al-jubni wa al-harami wa a‘udhu bika min fitnati al-maHyâ wa al-mamâti wa a’udhu bika min ‘adhâbi al-qabr Ô Allah, je me réfugie auprès de Toi contre l’incapacité, la paresse, la possibilité d’être lâche et les signes de la sénilité&nbsp;; je me réfugie auprès de Toi contre les épreuves de la vie et de la mort. Transmis par Anas bin Malik.
 
-Allahumma ghfir lanâ wa rhamnâ wa ‘âtina fī al-dunya Hasanatan wa fī al-âkhirati Hasanatan wa q&icirc;na ‘adhâba al-nar
-Ô Allah, pardonne-nous et fais-nous miséricorde. Donne-nous le bien dans ce monde et le bien dans l’Autre monde, et protège-nous du Feu de l’Enfer. Transmis par Anas bin Malik ().
+Allahumma ghfir lanâ wa rhamnâ wa ‘âtina f&icirc; al-dunya Hasanatan wa fī al-âkhirati Hasanatan wa q&icirc;na ‘adhâba al-nar
+Ô Allah, pardonne-nous et fais-nous miséricorde. Donne-nous le bien dans ce monde et le bien dans l’Autre monde, et protège-nous du Feu de l’Enfer. Transmis par Anas bin Malik.
 
-Allahumma Tahhirnī bi-th-thalji wa al-baradi wa al-mâ’i-l-bāridi kama yuTahharu al-thawbu al-danisu min al-wasakh. Allahumma rabbanâ laka al-Hamdu mil-al-samâwâti wa mil-al’arDi wa mil-a mâ shi-ta min shayyin ba’du
+Allahumma Tahhirn&icirc; bi-th-thalji wa al-baradi wa al-mâ’i-l-bāridi kama yuTahharu al-thawbu al-danisu min al-wasakh. Allahumma rabbanâ laka al-Hamdu mil-al-samâwâti wa mil-al’arDi wa mil-a mâ shi-ta min shayyin ba’du
 Ô Allah, purifie-moi avec la glace, la neige et l’eau froide, comme un vêtement sale est nettoyé de sa saleté. Ô Allah, notre Seigneur, que la louange soit à Toi dans une mesure incommensurable, celle des cieux et de la terre et de toute chose que Tu ordonnes au-delà d’eux.
 
 Cette tradition reprend la référence symbolique à la purification angélique par la neige. Dans la suivante, le Prophète Muhammad&nbsp;**ﷺ** résume ce que la mémoire de ses compagnons n’arrive pas à retenir pour supplier. Abu Umama () rapporte qu’ils étaient en compagnie du prophète Muhammad&nbsp;**ﷺ**, qui faisait de nombreuses invocations dont nous ne nous souvenons pas. Nous lui avons dit&nbsp;: «&nbsp;Tu présentes tant de suppliques que nous ne nous en souvenons pas.&nbsp;» Le Prophète&nbsp;**ﷺ** nous répondit&nbsp;: «&nbsp;Je vous laisse une invocation qui les résume toutes pour vous&nbsp;»&nbsp;:
@@ -55,14 +55,14 @@ Allahumma inna nas-aluka mimma sa-alaka nabiyyuka Muhammadun. Allahumma anta alm
 Ensuite, on supplie de trouver refuge en Allah contre le mal du malin, qui ne cesse d’attaquer et qui peut déclencher des épreuves s’opposant à la réalisation du bien supérieur, et qui, en ces temps de la fin d’un cycle historique de l’humanité, peut se manifester sous la forme d’un faux souverain répandant le scandale dans le monde. Selon ‘AbdAllah bin ‘Amr bin al-‘s (), le Prophète Muhammad&nbsp;**ﷺ** a supplié&nbsp;: «&nbsp;Allahumma inni a’ūdhu bika min fitnati-l-masiHi al-dajjâi wa a’ūdhu bika min fitnati al-nâri.&nbsp;» Ô Allah, je me réfugie auprès de Toi contre le scandale du Dajjal et je me réfugie auprès de Toi contre les épreuves du Feu.
 
 Enfin, deux suppliques chères à notre bien-aimé Maître&nbsp;**ﷺ**  dans ses invocations&nbsp;:
-Allahumma yâ muqalliba-l-qulūbi thabbit qalbī ‘ala dīnika
+Allahumma yâ muqalliba-l-qulūbi thabbit qalbī ‘ala d&icirc;nika
 Ô Allah, ô Toi qui administres les rotations des cœurs, rends mon cœur stable dans la religion. Allahumma a’inni ‘ala dhikrika wa shukrika wa Husni ‘ibadatika
 Ô Allah, aide-moi à me souvenir de Toi, à Te être reconnaissant et à T’adorer de la meilleure manière.
 
-Lâ ilāha illa Allahu al-‘aZīm al-Halīmu. Lā ilāha illa Allahu rabibu al-samāwāti wa-l-arDi wa rabbu-l-‘arshi al-‘aZīm
+Lâ ilāha illa Allahu al-‘aZ&icirc;m al-Hal&icirc;mu. Lā ilāha illa Allahu rabibu al-samāwāti wa-l-arDi wa rabbu-l-‘arshi al-‘aZ&icirc;m
 Il n’y a de divinité qu’Allah, l’Immense, le Longanime. Il n’y a de divinité qu’Allah, le Seigneur des cieux et de la terre et le Seigneur du Trône Immense.
 
 Supplication au milieu de la nuit.
 Allahumma laka al-Hamdu, anta nūru al-samâwâti wa-l-arDi wa man fīhimâ, wa laka al- Hamdu anta qayyâmu al-samâwâti wa-l-arDi, wa laka al-Hamdu anta rabbu al-samâwâti wa-larDi wa man fīhimâ, anta al-Haqqu wa wa’duka al-Haqqu wa liqā-uka al-Haqq. Wa al-jannatu Haqqun wa al-nâru Haqqun wa al-sâ’atu Haqq.
-Allahumma laka aslamtu, wa bika amantu wa ‘alayka tawakkaltu, wa ilayka anabtu wa bika khâSamtu wa ilayka Hâkamtu, fa ghfir lī mâ qaddamtu wa mâ akhkhartu wa mâ asrartu wa mâ a’lantu. Anta ilâhī, lâ ilâha illa anta.
+Allahumma laka aslamtu, wa bika amantu wa ‘alayka tawakkaltu, wa ilayka anabtu wa bika khâSamtu wa ilayka Hâkamtu, fa ghfir lī mâ qaddamtu wa mâ akhkhartu wa mâ asrartu wa mâ a’lantu. Anta ilâh&icirc;, lâ ilâha illa anta.
 Ô Allah, à Toi appartient la louange. Tu es la lumière des cieux et de la terre et de quiconque s’y trouve. À Toi appartient la louange. Tu es le Soutien des cieux et de la terre. À Toi appartient la louange. Tu es le Seigneur des cieux et de la terre et de quiconque s’y trouve. Tu es la Vérité, Ta promesse est vraie, la rencontre avec Toi est vraie, le Jardin est vrai, le feu de l’enfer est vrai et l’Heure est vraie. Ô Allah, je me suis soumis volontiers à Toi et j’ai cru en Toi. Je me suis remis à Toi et je me repens envers Toi. Je réfléchis grâce à Toi et je viens vers Toi pour le Jugement. Pardonne mes actions erronées du passé et du futur, tant les actions que je cache que celles que je montre. Tu es ma Divinité, il n’y a de Divinité que Toi.
