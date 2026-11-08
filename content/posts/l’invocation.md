@@ -22,7 +22,7 @@ Dans ce verset de la sourate *al-Isra’,* c’est le prophète Muhammad&nbsp;**
 
 De manière semblable, le prophète Musa (*‘alayhi-s-salâm*) supplie lui aussi Allah —*&nbsp;‘azza wa jalla*&nbsp;— au sujet de l’usage de la langue&nbsp;:
 
-> *Qâla Rabb ishraH l&icirc; Sadr&icirc; –&nbsp;wa yassir l&icirc; amr&icirc; –&nbsp;wa khlul ‘uqdatan min lisân&icirc; –&nbsp;iafqah&ucirc; qawl&icirc;*. Il dit&nbsp;: Mon Seigneur, ouvre-moi la poitrine, –&nbsp;et facilite-moi ma tâche, –&nbsp;dénoue le nœud que j’ai sur la langue –&nbsp;afin qu’ils comprennent mes paroles.[^1]
+> *Qâla Rabb&icirc; ishraH l&icirc; Sadr&icirc; –&nbsp;wa yassir l&icirc; amr&icirc; –&nbsp;wa khlul ‘uqdatan min lisân&icirc; –&nbsp;iafqah&ucirc; qawl&icirc;*. Il dit&nbsp;: Mon Seigneur, ouvre-moi la poitrine, –&nbsp;et facilite-moi ma tâche, –&nbsp;dénoue le nœud que j’ai sur la langue –&nbsp;afin qu’ils comprennent mes paroles.[^1]
 
 Et de manière semblable, le roi Sulayman (*‘alayhi-s-salâm*) supplie Allah de lui accorder une autorité adaptée à sa mission&nbsp;:
 
