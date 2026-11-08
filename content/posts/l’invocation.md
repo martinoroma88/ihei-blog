@@ -88,7 +88,7 @@ Enfin, deux suppliques chères à notre bien-aimé Maître&nbsp;**ﷺ**  dans se
 > Ô Allah, ô Toi qui administres les rotations des cœurs, rends mon cœur stable dans la religion.
 
 
-> *Allahumma a‘inni ‘ala dhikrika wa shukrika wa Husni ‘ibadatika*
+> *Allahumma a‘inn&icirc; ‘ala dhikrika wa shukrika wa Husni ‘ibâdatika*
 >
 > Ô Allah, aide-moi à me souvenir de Toi, à T’être reconnaissant et à T’adorer de la meilleure manière.
 
