@@ -88,7 +88,7 @@ Enfin, deux suppliques chères à notre bien-aimé Maître&nbsp;**ﷺ**  dans se
 >
 > Ô Allah, aide-moi à me souvenir de Toi, à T’être reconnaissant et à T’adorer de la meilleure manière.
 
-*Lâ ilâha illa Allahu al-‘aZ&icirc;m al-Hal&icirc;mu. Lâ ilâha illa Allahu rabibu al-samâwâti wa-l-arDi wa rabbu-l-‘arshi al-‘aZ&icirc;m*
+*Lâ ilâha illa Allahu al-‘aZ&icirc;m al-Hal&icirc;mu. Lâ ilâha illa Allahu rabbu al-samâwâti wa-l-arDi wa rabbu-l-‘arshi al-‘aZ&icirc;m*
 
 Il n’y a de divinité qu’Allah, l’Immense, le Longanime. Il n’y a de divinité qu’Allah, le Seigneur des cieux et de la terre et le Seigneur du Trône Immense.
 
