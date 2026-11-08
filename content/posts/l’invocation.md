@@ -1,5 +1,5 @@
 ---
-titre: Appelez-Moi et Je vous répondrai.
+titre: Appelez-Moi et Je vous répondrai
 vedette: false
 date: 2026-11-06T13:33:28.429Z
 auteur: Imam Yahya Pallavicini
