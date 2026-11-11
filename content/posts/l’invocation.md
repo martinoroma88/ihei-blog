@@ -50,7 +50,7 @@ Abu Hurayra rapporte que le prophète Muhammad&nbsp;**ﷺ** a dit&nbsp;: «&nbsp
 
 *Chers frères, chères sœurs,*
 
-les compagnons ont discuté pour savoir si toutes les invocations, prières ou supplications sont entendues et acceptées par Allah —*&nbsp;‘azza wa jalla*&nbsp;—. Non&nbsp;: seules sont acceptées les supplications qui partent du cœur, sincères et pures, et non les ritualités théâtrales et ostentatoires, ni les supplications de ceux qui jouent par habitude ou qui pensent à autre chose sans respecter la Nature Sainte de l’Interlocuteur Tout-Puissant auquel on s’adresse. Et, de toute façon, les réponses d’Allah aux supplications arrivent de manières et en des temps conformes à Sa Volonté, et ne suivent pas l’impatience des créatures.
+les compagnons ont discuté pour savoir si toutes les invocations, prières ou supplications sont entendues et acceptées par Allah —*&nbsp;‘azza wa jalla*. Non&nbsp;: seules sont acceptées les supplications qui partent du cœur, sincères et pures, et non les ritualités théâtrales et ostentatoires, ni les supplications de ceux qui jouent par habitude ou qui pensent à autre chose sans respecter la Nature Sainte de l’Interlocuteur Tout-Puissant auquel on s’adresse. Et, de toute façon, les réponses d’Allah aux supplications arrivent de manières et en des temps conformes à Sa Volonté, et ne suivent pas l’impatience des créatures.
 
 Les suppliques peuvent être telles qu’Allah —*&nbsp;‘azza wa jalla*&nbsp;— les a inspirées et telles qu’Il en a béni Son messager, ou bien telles que le prophète Muhammad&nbsp;**ﷺ** a interprété certaines demandes, ou encore elles peuvent répéter ou résumer le contenu de certaines de ses invocations.
 
