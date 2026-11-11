@@ -12,7 +12,7 @@ C’est par cette formule, qui ouvre la quasi-totalité des sourates du Coran, q
 
 ## La Miséricorde divine dans Sa transcendance et Son Immanence
 
-Dieu, Allah en arabe, dans Son essence, est miséricordieux en Lui-même et envers Lui-même. «&nbsp;Dis&nbsp;: “À qui appartient ce qui est dans les cieux et sur la terre&nbsp;?” Réponds&nbsp;: “À Dieu&nbsp;! Il S’est prescrit la miséricorde”&nbsp;».
+Dieu, *Allah* en arabe, dans Son essence, est miséricordieux en Lui-même et envers Lui-même. «&nbsp;Dis&nbsp;: “À qui appartient ce qui est dans les cieux et sur la terre&nbsp;?” Réponds&nbsp;: “À Dieu&nbsp;! Il S’est prescrit la miséricorde”&nbsp;».
 
 L’attribut de Dieu *ar-Rahmân*, le Miséricordieux, est l’un des quatre-vingt-dix-neuf noms de Dieu&nbsp;; il trouve donc son origine avant la création elle-même, et indépendamment d’elle-même, pour se manifester ensuite comme une qualité consubstantielle au monde et à la vie, une qualité qui règle les relations des créatures avec leur Seigneur et les rapports entre les créatures elles-mêmes.
 
