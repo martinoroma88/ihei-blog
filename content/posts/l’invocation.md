@@ -26,7 +26,7 @@ De manière semblable, le prophète Musa (*‘alayhi-s-salâm*) supplie lui auss
 >
 > Il dit&nbsp;: Mon Seigneur, ouvre-moi la poitrine, –&nbsp;et facilite-moi ma tâche, –&nbsp;dénoue le nœud que j’ai sur la langue –&nbsp;afin qu’ils comprennent mes paroles.[^1]
 
-Et de manière semblable, le roi Sulayman (*‘alayhi-s-salâm*) supplie Allah de lui accorder une autorité adaptée à sa mission&nbsp;:
+Et de manière semblable, le roi Sulaymn (*‘alayhi-s-salâm*) supplie Allah de lui accorder une autorité adaptée à sa mission&nbsp;:
 
 > *Qâla Rabb&icirc; ighfir l&icirc; wa hab l&icirc; mulkan.*
 >
