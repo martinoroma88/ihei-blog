@@ -69,8 +69,8 @@ Nous avons sélectionné quelques suppliques recueillies par l’imam Bukhar&ici
 
 
 > *Allahumma Tahhirn&icirc; bi-th-thalji wa al-baradi wa al-mâ’i-l-bâridi kama yuTahharu al-thawbu al-danisu min al-wasakh. Allahumma rabbanâ laka al-Hamdu mil-al-samâwâti wa mil-al’arDi wa mil’a mâ shi’ta min shay’in ba’du.*
-
-Ô Allah, purifie-moi avec la glace, la neige et l’eau froide, comme un vêtement sale est nettoyé de sa saleté. Ô Allah, notre Seigneur, que la louange soit à Toi dans une mesure incommensurable, celle des cieux et de la terre et de toute chose que Tu ordonnes au-delà d’eux.
+>
+> Ô Allah, purifie-moi avec la glace, la neige et l’eau froide, comme un vêtement sale est nettoyé de sa saleté. Ô Allah, notre Seigneur, que la louange soit à Toi dans une mesure incommensurable, celle des cieux et de la terre et de toute chose que Tu ordonnes au-delà d’eux.
 
 Cette tradition reprend la référence symbolique à la purification angélique par la neige. Dans la suivante, le Prophète Muhammad&nbsp;**ﷺ** résume ce que la mémoire de ses compagnons n’arrive pas à retenir pour supplier. Abu Umama rapporte qu’ils étaient en compagnie du prophète Muhammad&nbsp;**ﷺ**, qui faisait de nombreuses invocations dont nous ne nous souvenons pas. Nous lui avons dit&nbsp;: «&nbsp;Tu présentes tant de suppliques que nous ne nous en souvenons pas.&nbsp;» Le Prophète&nbsp;**ﷺ** nous répondit&nbsp;: «&nbsp;Je vous laisse une invocation qui les résume toutes pour vous&nbsp;»&nbsp;:
 
