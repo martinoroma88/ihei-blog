@@ -20,7 +20,7 @@ La Révélation islamique décrit de nombreux prophètes qui s’adressent à Al
 
 Dans ce verset de la sourate *al-Isra’,* c’est le prophète Muhammad&nbsp;**ﷺ** (*çallâ-Llâhu ‘alayhi wa sallam*, la Prière et la Bénédiction de Dieu soient sur lui) qui supplie Allah de pouvoir accomplir sa fonction de transmission du Message divin avec sincérité. Al-Tustari commente cette supplication en nous enseignant que le Messager&nbsp;**ﷺ** supplie Allah de ne se laisser distraire par personne et de respecter les limites et les conditions dans l’exercice de la fonction sacrée. Le Prophète&nbsp;**ﷺ** supplie Allah de lui accorder une issue hors des attachements du monde, en perfectionnant la vocation de rechercher la satisfaction d’Allah dans la pleine réalisation de Sa Volonté. Le prophète Muhammad &nbsp;**ﷺ** demande à être revêtu de la Souveraineté d’Allah, afin que l’autorité de la Vérité puisse prévaloir, et jamais la passion du désir. Cette autorité d’Allah s’exprime par l’instrument de la langue, qui parle au Nom exclusif d’Allah.
 
-De manière semblable, le prophète Musa (*‘alayhi-s-salâm*) supplie lui aussi Allah —*&nbsp;‘azza wa jalla*&nbsp;— au sujet de l’usage de la langue&nbsp;:
+De manière semblable, le prophète M&ucirc;s&acirc; (*‘alayhi-s-salâm*) supplie lui aussi Allah —*&nbsp;‘azza wa jalla*&nbsp;— au sujet de l’usage de la langue&nbsp;:
 
 > *Qâla Rabb&icirc; ishraH l&icirc; Sadr&icirc; –&nbsp;wa yassir l&icirc; amr&icirc; –&nbsp;wa khlul ‘uqdatan min lisân&icirc; –&nbsp;iafqah&ucirc; qawl&icirc;*.
 >
