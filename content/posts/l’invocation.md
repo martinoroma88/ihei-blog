@@ -54,7 +54,7 @@ les compagnons ont discuté pour savoir si toutes les invocations, prières ou s
 
 Les suppliques peuvent être telles qu’Allah —*&nbsp;‘azza wa jalla*&nbsp;— les a inspirées et telles qu’Il en a béni Son messager, ou bien telles que le prophète Muhammad&nbsp;**ﷺ** a interprété certaines demandes, ou encore elles peuvent répéter ou résumer le contenu de certaines de ses invocations.
 
-Nous avons sélectionné quelques suppliques recueillies par l’imam Bukhar&icirc;, qui nous permettent d’accompagner le Prophète&nbsp;**ﷺ** dans son excellente disposition à communiquer avec Allah —*&nbsp;‘azza wa jalla*&nbsp;—. Les premières invocations conjurent des possibilités négatives. Bien qu’il soit un élu, il écarte le conditionnement des défauts.
+Nous avons sélectionné quelques suppliques recueillies par l’imam Bukhar&icirc;, qui nous permettent d’accompagner le Prophète&nbsp;**ﷺ** dans son excellente disposition à communiquer avec Allah —*&nbsp;‘azza wa jalla*. Les premières invocations conjurent des possibilités négatives. Bien qu’il soit un élu, il écarte le conditionnement des défauts.
 
 > *Allahumma inni a‘udhu bika min al‘ajzi wa al-kasali wa al-jubni wa al-harami wa a‘udhu bika min fitnati al-maHyâ wa al-mamâti wa a‘udhu bika min ‘adhâbi al-qabr.*
 >
