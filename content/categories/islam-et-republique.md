@@ -2,6 +2,4 @@
 titre: Islam et République
 ordre: 2
 ---
-
-
-Comment être musulman et républicain&nbsp;? Quelles lois sont à placer au-dessus des autres&nbsp;: les «&nbsp;lois de Dieu&nbsp;» ou les «&nbsp;lois de la République&nbsp;»&nbsp;? Même si les responsables religieux musulmans n’ont eu de cesse de dénoncer les attentats, et de mettre en garde contre les amalgames, il reste toujours, dans l’esprit de nombre de nos concitoyens, la suspicion selon laquelle l’islam violent serait finalement le «&nbsp;vrai islam&nbsp;», et les défenseurs d’un islam pacifique, des naïfs ou des hypocrites.
+Être musulman et citoyen français&nbsp;: deux appartenances que l’on oppose parfois, mais que beaucoup vivent ensemble au quotidien. La foi enseigne la droiture, la responsabilité, la fraternité et le respect de la parole donnée&nbsp;; la République garantit à chacun la liberté de croire et de pratiquer. Les textes réunis ici, signés de responsables et de chercheurs de l’IHEI, montrent comment un islam de connaissance, de spiritualité et de citoyenneté trouve sa place dans la société française, et comment les musulmans de France y prennent leur part, dans la dignité et la responsabilité.
